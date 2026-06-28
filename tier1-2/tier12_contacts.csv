@@ -1,0 +1,1754 @@
+domain,soa_rname,caa_iodef,dmarc_rua,dmarc_ruf,security_at_status,abuse_at_status,catch_all,mx_count
+1000ps.at,hostmaster@drei.host,,dmarc@1000ps.at,,rejected,accepted,False,5
+100hires.com,dns@cloudflare.com,,support@100hires.com; support@100hires.com,,rejected,accepted,False,6
+1up.ai,dns@jomax.net,,,,accepted,accepted,False,5
+2cloudnine.com,awsdns-hostmaster@amazon.com,,dmarc@2cloudnine.com,,rejected,accepted,False,5
+30x.com,cloud-dns-hostmaster@google.com,,dmarc_rua@onsecureserver.net,,accepted(catch-all),accepted(catch-all),True,5
+3doptix.com,awsdns-hostmaster@amazon.com,,nitay.ey@3doptix.com; support@3doptix.com; devops@3doptix.com,nitay.ey@3doptix.com; support@3doptix.com; devops@3doptix.com,rejected,accepted,False,5
+3i.ai,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+4degrees.ai,cloud-dns-hostmaster@google.com,,founders@4degrees.ai,founders@4degrees.ai,accepted(catch-all),accepted(catch-all),True,5
+58pic.com,enterprise2dnsadmin@dnspod.com,,,,accepted(catch-all),accepted(catch-all),True,2
+5centscdn.net,dns@cloudflare.com,,dm@5centscdn.com,dm@5centscdn.com,mx-unreachable,mx-unreachable,None,1
+8m.eu,admin@forpsi.com,,,,rejected,rejected,False,1
+99c.co.za,support@afrihost.com,,dmarc@99c.co.za,dmarc@99c.co.za,temp-fail,temp-fail,False,2
+aajil.sa,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,1
+abacum.ai,awsdns-hostmaster@amazon.com,,dmarc-report@abacum.ai,,accepted,accepted,False,1
+abatable.com,dns@cloudflare.com,,dmarc-reports@abatable.com,,accepted(catch-all),accepted(catch-all),True,5
+abclegal.com,awsdns-hostmaster@amazon.com,,150a814e81@rua.easydmarc.us,150a814e81@ruf.easydmarc.us,accepted(catch-all),accepted(catch-all),True,2
+abill.io,dns@cloudflare.com,,rua@dmarc.brevo.com,,rejected,accepted,False,6
+absoluteinvestimentos.com.br,awsdns-hostmaster@amazon.com,,dmarc@msotecnologia.com.br,dmarc@msotecnologia.com.br,rejected,rejected,False,1
+abundolive.se,awsdns-hostmaster@amazon.com,,xavi.gratal@abundolive.se,,rejected,accepted,False,5
+accelera.tech,dns@jomax.net,,dmarc@accelera.tech,dmarc@accelera.tech,rejected,rejected,False,1
+acclinate.com,namehost@WORLDNIC.com,,,support@acclinate.com,accepted(catch-all),accepted(catch-all),True,1
+aceworks.ai,support@wix.com,,,,rejected,accepted,False,5
+aclarian.com,dns@jomax.net,,roebuckadmin@aclarian.com,,rejected,rejected,False,1
+adalo.com,awsdns-hostmaster@amazon.com,,dmarc-reports@adalo.com,,accepted,accepted,False,5
+adaptic.no,hostmaster@no.brand.one.com,,,,rejected,rejected,False,1
+adlabs.app,dns@cloudflare.com,,b5f4a54f983a4417a3f4d43db10c873e@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+admanage.ai,dns@cloudflare.com,,dmarc@admanage.ai,dmarc@admanage.ai,rejected,accepted,False,5
+adologyai.com,awsdns-hostmaster@amazon.com,,dmarc@adologyai.com; re+yc0wq4mgbx5@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,1
+adomik.com,awsdns-hostmaster@amazon.com,,dmarc-reports@adomik.com,,accepted,accepted,False,7
+adopt.ai,dns@jomax.net,,,,accepted,accepted,False,2
+adp.com,hostmaster@adp.com,,dmarc_rua@emaildefense.proofpoint.com,dmarc_ruf@emaildefense.proofpoint.com,accepted(catch-all),accepted(catch-all),True,2
+adplenty.io,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+adplist.org,dns@cloudflare.com,,admin@adplist.org,,rejected,accepted,False,5
+adscale.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+adthena.com,ipadmin@stabletransit.com,,,,rejected,accepted,False,5
+advally.com,dns@cloudflare.com,,c6d264f8d87b4519866fab9ef4c6203a@dmarc-reports.cloudflare.net; doug@advally.com,,rejected,accepted,False,5
+adverteyes.ai,awsdns-hostmaster@amazon.com,,3052e5e6@mxtoolbox.dmarc-report.com; dmarc_rua@onsecureserver.net,3052e5e6@forensics.dmarc-report.com,rejected,rejected,False,1
+adzen.ai,azuredns-hostmaster@microsoft.com,,,,accepted(catch-all),accepted(catch-all),True,1
+aeroventures.com,dns@cloudflare.com,,dmarc-reports@aeroventures.com,,rejected,rejected,False,1
+affinity.co,awsdns-hostmaster@amazon.com,infra@affinity.co,bfdcfbfd3a70138@rep.dmarcanalyzer.com,bfdcfbfd3a70138@for.dmarcanalyzer.com,accepted(catch-all),accepted(catch-all),True,4
+agency.inc,awsdns-hostmaster@amazon.com,,services@agency.inc,services@agency.inc,rejected,accepted,False,1
+agent.ai,dns@cloudflare.com,,e1b40fc5@dmarc.mailgun.org; 7e1605e8@inbox.ondmarc.com; e250859df1be49c5919bffed11b9b09c@dmarc-reports.cloudflare.net,e1b40fc5@dmarc.mailgun.org; 7e1605e8@inbox.ondmarc.com,accepted(catch-all),accepted(catch-all),True,2
+agenticflow.ai,dns@cloudflare.com,,,,rejected,rejected,False,3
+agentmail.to,awsdns-hostmaster@amazon.com,,dmarc@agentmail.to,,accepted(catch-all),accepted(catch-all),True,1
+agrexai.com,dns@cloudflare.com,,admin@agrexai.com,,rejected,accepted,False,5
+agrisafe.agr.br,awsdns-hostmaster@amazon.com,,renatotak@gmail.com,,rejected,rejected,False,1
+ahaslides.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,6
+aheadcomputing.com,support@wix.com,,dmarc_agg@vali.email,,rejected,rejected,False,1
+aibox.ai,awsdns-hostmaster@amazon.com,,re+pvozaucf8s9@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,1
+aico.swiss,hostmaster@hostpoint.ch,,,,rejected,rejected,False,1
+aimfox.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+airbridge.io,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+airframe.ai,dns@cloudflare.com,,dmarc-reports@airframe.ai,,rejected,accepted,False,5
+airpay.co.in,dns@dnsmadeeasy.com,,dmarc.alert@airpay.co.in,,temp-fail,temp-fail,False,2
+airsaas.io,dns@cloudflare.com,,ipm4g29@ar.glockapps.com,ipm4g29@fr.glockapps.com,accepted,accepted,False,5
+aiseo.ai,dns@cloudflare.com,,,,rejected,accepted,False,1
+aivideo.com,dns@jomax.net,,dmarc@aivideo.com,,rejected,accepted,False,5
+akiflow.com,dns@cloudflare.com,,2638158f@mxtoolbox.dmarc-report.com; re+b5t9nomc4in@dmarc.postmarkapp.com,2638158f@forensics.dmarc-report.com; developers@akiflow.com,rejected,accepted,False,5
+alamah.om,admins@siteground.com,,,,rejected,accepted,False,5
+alchemy.com,dns@cloudflare.com,certmaster@alchemy.com,re+t2bmfwurvax@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+alegra.com,awsdns-hostmaster@amazon.com,,ipm33zs@ar.glockapps.com,ipm33zs@fr.glockapps.com,rejected,accepted,False,5
+aleluya.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+alex.com,dns@cloudflare.com,,dmarc_aggregate_analyser+cd4ebabc72e7330a9980713faf18c5fc@zerobounce.net,dmarc_forensics_analyser+cd4ebabc72e7330a9980713faf18c5fc@zerobounce.net,accepted(catch-all),accepted(catch-all),True,5
+algoed.co,dns@cloudflare.com,,my_dmarc_report@algoed.co,,accepted(catch-all),accepted(catch-all),True,5
+algolia.com,dns@cloudflare.com,,algolia-t@dmarc.report-uri.com,dmarc-ruf@algolia.com,accepted,accepted,False,5
+allbridge.io,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+allears.ai,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+allegrow.co,hostmaster@registrar-servers.com,,info@allegrow.co,,accepted(catch-all),accepted(catch-all),True,5
+allianceabroad.com,dns@jomax.net,,65f30d82d54ac@ag.dmarcly.com,65f30d82d54ac@fo.dmarcly.com,rejected,rejected,False,1
+allocate.co,awsdns-hostmaster@amazon.com,,yoax4mf8@ag.us.dmarcian.com,yoax4mf8@fr.us.dmarcian.com,accepted,accepted,False,5
+alloy.app,awsdns-hostmaster@amazon.com,,re+2022d0e9bd24@inbound.dmarcdigests.com,,accepted,accepted,False,1
+allunite.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+alma.food,dns@cloudflare.com,,dmarc@alma.food,,rejected,accepted,False,1
+alphavantage.co,dns@cloudflare.com,,,,rejected,accepted,False,5
+alpic.ai,awsdns-hostmaster@amazon.com,,dmarc@alpic.ai,,accepted(catch-all),accepted(catch-all),True,1
+alterdomus.com,hostmaster@eurodns.com,,64770389b0c3329@rep.dmarcanalyzer.com,64770389b0c3329@for.dmarcanalyzer.com,rejected,rejected,False,2
+altfndata.com,hostmaster@registrar-servers.com,,info@altfndata.com,,rejected,accepted,False,5
+altuspower.com,dns@cloudflare.com,,dmarc-feedback@altuspower.com,,accepted,accepted,False,1
+amalgamrx.com,awsdns-hostmaster@amazon.com,,re+61d8100e111f@inbound.dmarcdigests.com; dmarc+amalgamrx.com@inbound.axl.net,,accepted(catch-all),accepted(catch-all),True,5
+amass.tech,dns@cloudflare.com,,,,rejected,accepted,False,5
+ambarpartners.com,awsdns-hostmaster@amazon.com,,dmarc@ambarpartners.com,,accepted,rejected,False,1
+amityage.com,admin@websupport.sk,,dmarcreports@amityage.com,,accepted(catch-all),accepted(catch-all),True,1
+ammp.io,awsdns-hostmaster@amazon.com,,dmarcreports@lovable.dev,,accepted,rejected,False,1
+amove.io,awsdns-hostmaster@amazon.com,,dmarc_agg@vali.email,dmarc_forensic@vali.email,accepted(catch-all),accepted(catch-all),True,5
+amperity.com,awsdns-hostmaster@amazon.com,,60805310403ca@ag.dmarcly.com,60805310403ca@fo.dmarcly.com,accepted(catch-all),accepted(catch-all),True,5
+amplifier.com,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,7
+amt.ai,hostmaster@registrar-servers.com,,tom@amt.ai; tom@amt.ai,,rejected,accepted,False,1
+and.com,dns@cloudflare.com,,dmarc@and.com,,rejected,accepted,False,1
+andcapitalventures.com,dns@cloudflare.com,,chris@andcapitalventures.com,,rejected,rejected,False,3
+ando.so,dns@cloudflare.com,,hello@ando.so,,rejected,accepted,False,5
+aneon.at,dns@cloudflare.com,,ba38fdf2e04549a19e5f3167c2a8223c@dmarc-reports.cloudflare.net; dmarc-info@aneon.at,,accepted,rejected,False,1
+animaj.com,tech@ovh.net,,35cc7835@inbox.ondmarc.com,35cc7835@inbox.ondmarc.com,accepted,accepted,False,5
+anomalycapital.com,hostmaster@nsone.net,,webmaster@anomalycapital.com,webmaster@anomalycapital.com,mx-unreachable,mx-unreachable,None,2
+antbuddy.com,hostmaster@registrar-servers.com,,,,rejected,accepted,False,5
+antimetal.com,hostmaster@registrar-servers.com,,dmarc@antimetal.com,dmarc@antimetal.com,accepted,accepted,False,5
+antler.co,dns@jomax.net,,dmarc@antler.co,dmarc@antler.co,rejected,accepted,False,5
+apaleo.com,awsdns-hostmaster@amazon.com,,,,accepted,rejected,False,1
+aparti.ai,dns@cloudflare.com,,04e6e98171ac41d78ebf777c062818eb@dmarc-reports.cloudflare.net,,accepted,accepted,False,1
+aperture.london,dns@cloudflare.com,,,,rejected,accepted,False,5
+apono.io,awsdns-hostmaster@amazon.com,,dmarc@apono.io,,accepted,accepted,False,5
+appflow.ai,dns@cloudflare.com,,bryan@appflow.ai,,accepted(catch-all),accepted(catch-all),True,5
+applypass.com,dns@jomax.net,,,,rejected,accepted,False,6
+apter.com.br,hostmaster@dreamhost.com,,dmarc@apter.com.br,dmarc@apter.com.br,rejected,rejected,False,1
+aqmen.ai,dns@jomax.net,,miguel@aqmen.ai,miguel@aqmen.ai,accepted(catch-all),accepted(catch-all),True,5
+aquion.com.au,dns@cloudflare.com,,9fedd177736d46929c30dbc9fa3672ec@dmarc-reports.cloudflare.net,,rejected,rejected,False,1
+arcade.software,dns@cloudflare.com,,464fc710905642eeae5fcc7aadc94f2c@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+archera.ai,awsdns-hostmaster@amazon.com,,nikhil@archera.ai,nikhil@archera.ai,rejected,accepted,False,5
+archilogic.com,awsdns-hostmaster@amazon.com,,637b4ae1e7671@ag.dmarcly.com,637b4ae1e7671@fo.dmarcly.com,accepted,accepted,False,7
+arcwise.app,dns@cloudflare.com,,eade419fa035429d9b33444d754efaab@dmarc-reports.cloudflare.net; re+mo0deibq8vk@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+are.na,dns@cloudflare.com,,0ef335b928764523844f34039479bef3@dmarc-reports.cloudflare.net,cab@are.na,accepted,accepted,False,5
+arena.com.tr,administrator@arena.com.tr,,,,mx-unreachable,mx-unreachable,None,1
+aries.com,dns@cloudflare.com,,17dd670e90ab40068cc74a9d45724320@dmarc-reports.cloudflare.net,,accepted,accepted,False,5
+aris.in,dns@jomax.net,,postmaster@aris.in; dmarc@aris.in,,rejected,accepted,False,1
+armature.tech,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+aroya.io,awsdns-hostmaster@amazon.com,,it@addium.io,it@addium.io,accepted(catch-all),accepted(catch-all),True,7
+arta.ch,hostmaster@gandi.net,,,,rejected,rejected,False,1
+artblocks.io,dns@cloudflare.com,,eng_auto_reports@artblocks.io,,accepted,accepted,False,5
+artemis.ai,dns@cloudflare.com,,92451d8033544679a675fb6263f3a811@dmarc-reports.cloudflare.net,dmarc@artemisanalytics.com,accepted(catch-all),accepted(catch-all),True,1
+arternal.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+ascendancy.co,dns@cloudflare.com,,,,rejected,accepted,False,5
+ashbyhq.com,dns@cloudflare.com,,46a1e9172f3e4061be4c5063cd20fb49@dmarc-reports.cloudflare.net; ashbyhq-t@dmarc.report-uri.com,,accepted(catch-all),accepted(catch-all),True,5
+askable.com,awsdns-hostmaster@amazon.com,,dmarc-reports@askable.com,dmarc-forensics@askable.com,accepted(catch-all),accepted(catch-all),True,5
+askturing.ai,dns@cloudflare.com,,quarantine@askturing.ai,,rejected,accepted,False,5
+asmallstudio.com,dns@cloudflare.com,,12d4a6d572e3421a9e4e61df78b90622@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+assembly.com,awsdns-hostmaster@amazon.com,,re+wqrduojnzsg@dmarc.postmarkapp.com,,accepted,accepted,False,1
+asteroid.ai,dns@cloudflare.com,,dmarc_agg@vali.email,,rejected,accepted,False,5
+astrologyapi.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+athenium.com,awsdns-hostmaster@amazon.com,it@athenium.com,dmarc@athenium.com,,accepted(catch-all),accepted(catch-all),True,1
+atlaspeople.io,dns@cloudflare.com,,87de0e89ee14400dbd2584bdead30c7c@dmarc-reports.cloudflare.net; dmarc@atlaspeople.io,,rejected,accepted,False,5
+atlasx.co,dns@cloudflare.com,,dmarc@atlasx.co,,accepted,accepted,False,5
+atom.com,dns@cloudflare.com,,150616962a1e46e8bc93cbdfb38fdffc@dmarc-reports.cloudflare.net; ea1422efa133.a@dmarcinput.com,ea1422efa133.f@dmarcinput.com,accepted(catch-all),accepted(catch-all),True,5
+atomic.supply,cloud-dns-hostmaster@google.com,,171f03e3b4@rua.easydmarc.us,171f03e3b4@ruf.easydmarc.us,accepted(catch-all),accepted(catch-all),True,5
+atominvest.co,awsdns-hostmaster@amazon.com,,emails@atominvest.co,,accepted,accepted,False,5
+atriumdata.ai,dns@cloudflare.com,,dmarc@atriumdata.ai,dmarc@atriumdata.ai,rejected,accepted,False,1
+attio.com,dns@cloudflare.com,,6f641590a6b04669b38655c477e48eb9@dmarc-reports.cloudflare.net; re+h0pgamxyyui@dmarc.postmarkapp.com,,accepted,accepted,False,5
+attributionapp.com,admin@dnsimple.com,,dmarcreports@attributionapp.com,,rejected,accepted,False,5
+audioscape.ai,awsdns-hostmaster@amazon.com,,dmarc@audioscape.ai,,rejected,accepted,False,2
+aurelian.com,azuredns-hostmaster@microsoft.com,,,,rejected,accepted,False,1
+austintechnology.com.au,dns@cloudflare.com,,b199d019a9@rua.easydmarc.com,b199d019a9@ruf.easydmarc.com,rejected,rejected,False,1
+avertro.com,dns@jomax.net,,webmaster@avertro.com,,accepted(catch-all),accepted(catch-all),True,5
+avmap.it,dns@cloudflare.com,,dmarcin@wangate.com,dmarcin@wangate.com,rejected,rejected,False,2
+avo.app,cloud-dns-hostmaster@google.com,,postmaster@avo.sh; avoreport-d@dmarc.report-uri.com,abuse@avo.sh,accepted,accepted,False,5
+avoma.com,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,5
+axify.io,dns@cloudflare.com,,dmarc-reports@axify.io,,accepted(catch-all),accepted(catch-all),True,5
+axiocap.com,dns@cloudflare.com,,55366e23a73b48ab989c7f443e5ad585@dmarc-reports.cloudflare.net,,rejected,rejected,False,1
+axiom.co,dns@cloudflare.com,,dmarc@axiom.co,,accepted,accepted,False,5
+azion.com,admin@azion.com,noc@azion.com,dmark@azion.com,dmark@azion.com,accepted,accepted,False,7
+b.capital,awsdns-hostmaster@amazon.com,,e37a131d30f1.a@dmarcinput.com,e37a131d30f1.f@dmarcinput.com,rejected,rejected,False,1
+babbl-labs.com,dns@cloudflare.com,,,,accepted,accepted,False,1
+babyjourney.se,dns@cloudflare.com,,1zsqob8r@ag.eu.dmarcadvisor.com,,rejected,accepted,False,5
+backstory.ai,awsdns-hostmaster@amazon.com,,admin@backstory.ai,,accepted(catch-all),accepted(catch-all),True,1
+backyardbrains.com,dns-admin@google.com,,dmarc-reports@backyardbrains.com,,rejected,accepted,False,5
+badgermapping.com,dns@dnsmadeeasy.com,,re+73d635254007@inbound.dmarcdigests.com,,accepted(catch-all),accepted(catch-all),True,5
+badideas.fund,dns@cloudflare.com,,r@badideas.fund,,rejected,accepted,False,5
+bagel.ai,cloud-dns-hostmaster@google.com,,dmarc-reports@bagel.ai,,mx-unreachable,mx-unreachable,None,1
+bajajbroking.in,awsdns-hostmaster@amazon.com,,rua.bajajbroking@emailauth.in,ruf.bajajbroking@emailauth.in,rejected,rejected,False,1
+base.org,dns@cloudflare.com,,jpohmdhp@ag.dmarcian.com,jpohmdhp@fr.dmarcian.com,accepted(catch-all),accepted(catch-all),True,6
+base39.com.br,awsdns-hostmaster@amazon.com,,dmarc-reports@base39.com.br,dmarc-failures@base39.com.br,accepted(catch-all),accepted(catch-all),True,1
+basicops.com,dns@jomax.net,,dmarc@basicops.com; dmarc_agg@vali.email,dmarc@basicops.com,rejected,accepted,False,5
+baston.com.br,dns@cloudflare.com,,,,rejected,rejected,False,1
+battery.com,dns@digicertdns.com,,czcm3soe@ag.us.dmarcian.com,czcm3soe@fr.us.dmarcian.com,rejected,rejected,False,1
+baxtel.com,dns@cloudflare.com,,dmarc@baxtel.com,dmarc@baxtel.com,accepted(catch-all),accepted(catch-all),True,5
+bazze.io,awsdns-hostmaster@amazon.com,,dmarc@bazze.io,,accepted,accepted,False,5
+bdex.com,dns@jomax.net,,dmarc-aggregate@bdex.com,dmarc-afrf@bdex.com,rejected,rejected,False,1
+bdg.io,hostmaster@united-domains.de,,rua@dmarc.brevo.com; re+a202fb6cde88@inbound.dmarcdigests.com,,rejected,rejected,False,1
+bdtax.com.bd,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+beachbossinfluencers.com,dns@cloudflare.com,,re+sybaejo9jmq@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+beaufort12.com,dns@jomax.net,,fdc2c1edad@rua.easydmarc.eu; d198701a@inbox.ondmarc.com; d198701a@inbox.ondmarc.com,fdc2c1edad@ruf.easydmarc.eu; d198701a@inbox.ondmarc.com; d198701a@inbox.ondmarc.com,accepted(catch-all),accepted(catch-all),True,5
+beautech.aero,dnsadm@choopa.com,,beautechpowersystems@us.cp-dmarc.com; dmarc@beautech.aero; ee308df57b@rua.easydmarc.us,dmarc@beautech.aero; ee308df57b@ruf.easydmarc.us; beautechpowersystems@us.cp-dmarc.com,accepted,rejected,False,1
+bebakids.com,dns@cloudflare.com,,no-reply@bebakids.com,,rejected,rejected,False,1
+beemdata.com,awsdns-hostmaster@amazon.com,,dmarc@zwkysgw2.uriports.com,dmarc@zwkysgw2.uriports.com,accepted,accepted,False,5
+begolden.com.pl,tech@ovh.net,,dmarc@begolden.com.pl,dmarc@begolden.com.pl,mx-unreachable,mx-unreachable,None,5
+bei-us.com,grgrayban@bei-us.com,,networkengineering@beitechnologies.net,,rejected,rejected,False,1
+bellwetherit.com,dns@cloudflare.com,,e94ac4d4652b45179a0bfaf375927544@dmarc-reports.cloudflare.net; 61b93c1fb310e@ag.dmarcly.com,e94ac4d4652b45179a0bfaf375927544@dmarc-reports.cloudflare.net; 61b93c1fb310e@fo.dmarcly.com,rejected,accepted,False,1
+benchmarkminerals.com,dns@cloudflare.com,,re+8597a5dff3e8@inbound.dmarcdigests.com,,accepted(catch-all),accepted(catch-all),True,1
+besample.app,hostmaster@besample.app,,rua+891s5fnznzi5@dmarcwise.email; 4456e255@in.mailhardener.com,4456e255@in.mailhardener.com,accepted(catch-all),accepted(catch-all),True,5
+betterbugs.io,dns@cloudflare.com,,dmarc-reports@betterbugs.io; support@betterbugs.io,,accepted,accepted,False,5
+betterleap.com,dns@cloudflare.com,,re+dm86xfg0ocn@dmarc.postmarkapp.com; re+ss5vqjjixug@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,7
+betterstack.com,dns@cloudflare.com,,78ada66085894fde8807ebb4d1da1aec@dmarc-reports.cloudflare.net; rua@dmarc.brevo.com,,accepted(catch-all),accepted(catch-all),True,5
+beveldata.com,dns@cloudflare.com,,extsecalerts@bestow.com,extsecalerts@bestow.com,mx-unreachable,mx-unreachable,None,2
+bfl.ai,azuredns-hostmaster@microsoft.com,,,,mx-unreachable,mx-unreachable,None,1
+bidprime.com,awsdns-hostmaster@amazon.com,,bounce@bidprime.com,bounce@bidprime.com,accepted(catch-all),accepted(catch-all),True,5
+bigdata.com,awsdns-hostmaster@amazon.com,security@ravenpack.com,79f0f1c37a@rua.easydmarc.eu,79f0f1c37a@ruf.easydmarc.eu,accepted,accepted,False,5
+bigenius-x.com,root@domaintechnik.at,,,,rejected,rejected,False,1
+biggeo.com,dns@cloudflare.com,,6efccb26bde44b98802549744b33b226@dmarc-reports.cloudflare.net,,accepted,accepted,False,5
+bigvu.tv,awsdns-hostmaster@amazon.com,,no-reply@bigvu.tv,,rejected,accepted,False,5
+billygrace.com,awsdns-hostmaster@amazon.com,,mailsecurity@billygrace.com,,rejected,accepted,False,5
+binclusive.io,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+binderr.com,awsdns-hostmaster@amazon.com,,mail.reports@binderr.com,,accepted,accepted,False,5
+bitmovin.com,dns@cloudflare.com,,dmarc-report@bitmovin.com,dmarc-failures@bitmovin.com,accepted,accepted,False,5
+bitquery.io,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+bitrise.io,dns@cloudflare.com,,dmarc-report@bitrise.io,,accepted(catch-all),accepted(catch-all),True,7
+bizaway.com,awsdns-hostmaster@amazon.com,,dmarc@bizaway.com,,accepted(catch-all),accepted(catch-all),True,5
+bizstream.com,dns@cloudflare.com,,ops@bizstream.com,,accepted(catch-all),accepted(catch-all),True,5
+blazesql.com,cloud-dns-hostmaster@google.com,,,,accepted(catch-all),accepted(catch-all),True,5
+blend-ai.com,dns@cloudflare.com,,info@blend-ai.com,,rejected,accepted,False,5
+blockscholes.com,hostmaster@uk2.net,,bmiller@blockscholes.com,bmiller@blockscholes.com,rejected,accepted,False,5
+blocksize.info,domains+netlify@netlify.com,,,,mx-unreachable,mx-unreachable,None,1
+bluegamma.io,dns@cloudflare.com,,dmarc-reports@bluegamma.io,,accepted(catch-all),accepted(catch-all),True,5
+bluente.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+bluetriangle.com,dns@cloudflare.com,,7eb18607e87b4304be348bb08da5c7fc@dmarc-reports.cloudflare.net,,accepted,rejected,False,1
+bnicapital.com,hostmaster@infomaniak.ch,,,,rejected,rejected,False,1
+bold-agro.ai,support@banahosting.com,,,,accepted(catch-all),accepted(catch-all),True,6
+bonafide.ai,dns@jomax.net,,,,rejected,accepted,False,5
+bonnie.ai,dns@jomax.net,,dmarc_rua@onsecureserver.net,,accepted(catch-all),accepted(catch-all),True,5
+bonuz.market,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+boom.nl,hostmaster@transip.nl,,tufpkgym@ag.eu.dmarcian.com,,accepted,rejected,False,1
+boompop.com,awsdns-hostmaster@amazon.com,,no-reply@boompop.com,,accepted(catch-all),accepted(catch-all),True,5
+brainfab.com,dns@jomax.net,,dmarc-reports@brainfab.com,,rejected,accepted,False,5
+branch.co,dns@cloudflare.com,,postmaster@branch.co,postmaster@branch.co,accepted,accepted,False,5
+brandsmeetcreators.com,dns@cloudflare.com,,dmarc-alert@brandsmeetcreators.com,,accepted(catch-all),accepted(catch-all),True,5
+breakthroughsales.io,cloud-dns-hostmaster@google.com,,dmarcreports@breakthroughsales.io,,accepted,accepted,False,1
+breezy.hr,awsdns-hostmaster@amazon.com,,,,rejected,rejected,False,5
+brevo.com,dns@cloudflare.com,,rua@dmarc.brevo.com,,accepted,accepted,False,5
+bridgemarketplace.com,awsdns-hostmaster@amazon.com,,p7pq91lfo1@rua.powerdmarc.com; re+015d4ae4200e@inbound.dmarcdigests.com,p7pq91lfo1@ruf.powerdmarc.com,rejected,rejected,False,1
+briecomterobert.fr,hostmaster@gandi.net,,,,rejected,rejected,False,1
+brightedge.com,zone-admin@dyndns.com,,yjn89hfq@ag.us.dmarcian.com,yjn89hfq@fr.us.dmarcian.com,accepted(catch-all),accepted(catch-all),True,1
+brightidea.com,awsdns-hostmaster@amazon.com,,report@dmarc.brightidea.com,report@dmarc.brightidea.com,rejected,rejected,False,1
+brightmls.com,awsdns-hostmaster@amazon.com,,58654968@inbox.ondmarc.com,58654968@inbox.ondmarc.com,rejected,accepted,False,1
+browserless.io,hostmaster@registrar-servers.com,,admin@browserless.io,,accepted,accepted,False,5
+buffer.com,dns@cloudflare.com,,re+expge6woxi3@dmarc.postmarkapp.com,,accepted,accepted,False,5
+buhochile.com,awsdns-hostmaster@amazon.com,,rua@dmarc.brevo.com,,rejected,accepted,False,5
+builderhead.com,awsdns-hostmaster@amazon.com,,dmarc@builderhead.com,,accepted(catch-all),accepted(catch-all),True,1
+builders.studio,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+buildfire.com,dns@jomax.net,,ipma8z@ar.glockapps.com,ipma8z@fr.glockapps.com,accepted(catch-all),accepted(catch-all),True,5
+buildkite.com,awsdns-hostmaster@amazon.com,,buildkite-d@dmarc.report-uri.com; dmarc@buildkite.uriports.com,,accepted,accepted,False,5
+bullit.ai,hostmaster@1und1.com,,,,rejected,rejected,False,1
+bytehide.com,awsdns-hostmaster@amazon.com,,dmarc@bytehide.com,,rejected,accepted,False,5
+bzigo.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+c3biz.com,root@REGISTER.com,,abuse@c3biz.com,abuse@c3biz.com,rejected,accepted,False,1
+caisgroup.com,dns@cloudflare.com,,097b77fe228d45f493b64c680aef617a@dmarc-reports.cloudflare.net; sserron@caisgroup.com; skibble@caisgroup.com; ezahariev@caisgroup.com,sserron@caisgroup.com; skibble@caisgroup.com; ezahariev@caisgroup.com,accepted,rejected,False,1
+callpercy.com,hostmaster@callpercy.com,,dmarc-reports@callpercy.com,dmarc-forensics@callpercy.com,rejected,accepted,False,6
+campaignswell.com,dns@cloudflare.com,,753abd8646ad4b70bad70afc651ab1e2@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+campcation.com,awsdns-hostmaster@amazon.com,,karl@campcation.com,,rejected,accepted,False,5
+camsbiometrics.com,prp.corporates@gmail.com,,dmarc@camsbiometrics.com,dmarc@camsbiometrics.com,accepted(catch-all),accepted(catch-all),True,1
+candid.org,awsdns-hostmaster@amazon.com,,helpdesk@candid.org,,accepted,rejected,False,1
+capmission.ma,hostmaster@heberjahiz.com,,,,accepted(catch-all),accepted(catch-all),True,1
+capsule.video,hostmaster@nsone.net,,dmarc.rua@capsule.video,,accepted,accepted,False,5
+carbonarc.ai,awsdns-hostmaster@amazon.com,,,,rejected,rejected,False,1
+careflowiq.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,1
+carohq.com,dns@cloudflare.com,,7d9fc4de65644c21915795514b56641e@dmarc-reports.cloudflare.net; dmarc-reports@carohq.com,dmarc-reports@carohq.com,accepted,accepted,False,5
+carriyo.com,awsdns-hostmaster@amazon.com,,dmarc@carriyo.com,dmarc@carriyo.com,rejected,accepted,False,5
+cashcow.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,1
+cashflowfrog.com,awsdns-hostmaster@amazon.com,,contact@cashflowfrog.com,,rejected,accepted,False,5
+cashfree.com,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,5
+caspio.com,awsdns-hostmaster@amazon.com,sysmonitor@caspio.com,dmarc@caspio.com,dmarc-forensics@caspio.com,accepted(catch-all),accepted(catch-all),True,1
+catsy.com,dns@cloudflare.com,,f011712e@mxtoolbox.dmarc-report.com; 744119196b114fbea687b61c2a552643@dmarc-reports.cloudflare.net,f011712e@forensics.dmarc-report.com,rejected,rejected,False,1
+cbinsights.com,awsdns-hostmaster@amazon.com,,603d1dd59ff53@ag.dmarcly.com,603d1dd59ff53@fo.dmarcly.com,accepted(catch-all),accepted(catch-all),True,3
+ccare.org.au,dnsadmin@sgp58.siteground.asia,,,,accepted(catch-all),accepted(catch-all),True,5
+ceo-cf.com,dns@jomax.net,,,,accepted(catch-all),accepted(catch-all),True,5
+ceramic.ai,awsdns-hostmaster@amazon.com,,rua@dmarc.brevo.com,,rejected,accepted,False,1
+cevoid.com,hostmaster@cevoid.com,,re+9c242b87fc45@inbound.dmarcdigests.com,,accepted(catch-all),accepted(catch-all),True,6
+cevro.ai,dns@cloudflare.com,,dmarc@cevro.ai,,accepted(catch-all),accepted(catch-all),True,5
+changdobels.se,registry@loopia.se,,,,rejected,rejected,False,2
+channel99.com,awsdns-hostmaster@amazon.com,,mark@channel99.com,mark@channel99.com,accepted,accepted,False,5
+channelkey.com,dns@cloudflare.com,,ce191bc0531f450e80213ef03aeadd38@dmarc-reports.cloudflare.net,,rejected,rejected,False,1
+chargebee.com,awsdns-hostmaster@amazon.com,,87b0b2df23@rua.easydmarc.asia,87b0b2df23@ruf.easydmarc.asia,accepted,accepted,False,5
+chariow.com,dns@cloudflare.com,,6090a02be7ad400ab83adc589b7a301a@dmarc-reports.cloudflare.net; dmarc-reports@chariow.com,,rejected,rejected,False,3
+chartmetric.com,dns@cloudflare.com,,dmarc@chartmetric.com,,accepted,accepted,False,6
+checkr.com,dns@cloudflare.com,,dmarc_rua@emaildefense.proofpoint.com,dmarc.forensic@checkr.com; dmarc_ruf@emaildefense.proofpoint.com,accepted,accepted,False,2
+chetto.ai,dns@jomax.net,,dmarc_rua@onsecureserver.net,,rejected,accepted,False,5
+chift.eu,dns@jomax.net,,gauthier.henroz@chift.eu,,accepted,accepted,False,5
+chipax.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+chisellabs.com,awsdns-hostmaster@amazon.com,,niraj@chisellabs.com,,accepted,accepted,False,5
+chordian.ai,awsdns-hostmaster@amazon.com,,,,rejected,rejected,False,1
+chowdeck.com,dns@cloudflare.com,,hey+dmarc@chowdeck.com,,accepted,accepted,False,8
+ci-hub.com,hostmaster@1und1.com,,postmaster@ci-hub.com,,rejected,rejected,False,1
+cinode.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,7
+cirra.ai,dns@cloudflare.com,,2eeb7bfa612e4f3991417915fa2af464@dmarc-reports.cloudflare.net; dmarc@cirra.ai,,accepted(catch-all),accepted(catch-all),True,1
+cizgi.net,dns@cloudflare.com,,40f80f7aca@rua.easydmarc.asia,40f80f7aca@ruf.easydmarc.asia,rejected,rejected,False,2
+clappia.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,9
+clarify.io,cloud-dns-hostmaster@google.com,,,,accepted(catch-all),accepted(catch-all),True,5
+clarity.ai,awsdns-hostmaster@amazon.com,,re+55928006e8ec@inbound.dmarcdigests.com,re+1b79d632ae94@inbound.dmarcdigests.com,accepted(catch-all),accepted(catch-all),True,5
+classavo.com,awsdns-hostmaster@amazon.com,,jhljciamc0@rua.powerdmarc.com,jhljciamc0@ruf.powerdmarc.com,accepted(catch-all),accepted(catch-all),True,5
+clay.earth,dns@cloudflare.com,,371c62a20b1141debd26dafd506dd0a4@dmarc-reports.cloudflare.net; re+90e8af118a11@inbound.dmarcdigests.com,,accepted(catch-all),accepted(catch-all),True,5
+clazar.io,dns@cloudflare.com,,b843166e1d5d4f7d96d665b93b66667c@dmarc-reports.cloudflare.net; czar@clazar.io,czar@clazar.io,accepted,accepted,False,5
+cleanhealth.edu.au,dns@cloudflare.com,,wzq0blax@ag.au.dmarcian.com; d8ef5f847778438ea8084b6b6d5bfbc9@dmarc-reports.cloudflare.net; harry@cleanhealth.edu.au,harry@cleanhealth.edu.au,rejected,accepted,False,5
+clearer.io,dns@cloudflare.com,,dmarc_aggregate_analyser+34b0e502e2df360f90c8dd4fba886f1d@zerobounce.net,dmarc_forensics_analyser+34b0e502e2df360f90c8dd4fba886f1d@zerobounce.net,accepted(catch-all),accepted(catch-all),True,1
+cleartrip.com,cloud-dns-hostmaster@google.com,,2e945089eaf4697@rep.dmarcanalyzer.com,2e945089eaf4697@for.dmarcanalyzer.com,temp-fail,temp-fail,False,2
+clemta.com,dns@cloudflare.com,,e85986e864f447ceb081f2da0aa7a6a1@dmarc-reports.cloudflare.net; dmarc@clemta.com,,accepted,accepted,False,5
+cleo.com,dns@cloudflare.com,,dmarc-reports@cleo.com,dmarc-failures@cleo.com,accepted,accepted,False,1
+clerk.chat,awsdns-hostmaster@amazon.com,,dmarc@clerk.chat,,accepted,accepted,False,5
+cles.org,dnsadmin@c43720.sgvps.net,,,,rejected,rejected,False,1
+clickrain.com,awsdns-hostmaster@amazon.com,,re+fuxuxcss8en@dmarc.postmarkapp.com,,rejected,accepted,False,5
+clickup.com,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,5
+climateactiondata.org,dns@jomax.net,,,,rejected,rejected,False,1
+clinicadoleite.com.br,azuredns-hostmaster@microsoft.com,,,,rejected,accepted,False,1
+clint.digital,dns@cloudflare.com,,,,rejected,accepted,False,6
+clockworkrecruiting.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+clootrack.com,dns@cloudflare.com,,contactus@clootrack.com,,rejected,accepted,False,5
+close.com,awsdns-hostmaster@amazon.com,security@close.com,,,accepted(catch-all),accepted(catch-all),True,5
+closedloop.ai,cloud-dns-hostmaster@google.com,,gu0lqiho@ag.us.dmarcian.com,,accepted(catch-all),accepted(catch-all),True,5
+cloudchipr.com,dns@cloudflare.com,,dmarc@cloudchipr.com; 34629306d8@rua.easydmarc.us,34629306d8@ruf.easydmarc.us,accepted(catch-all),accepted(catch-all),True,6
+cloudeagle.ai,awsdns-hostmaster@amazon.com,,info@cloudeagle.ai,,rejected,accepted,False,5
+cloudgov.ai,awsdns-hostmaster@amazon.com,,rua@dmarc.brevo.com,,accepted(catch-all),accepted(catch-all),True,2
+cloverleaf.ai,dns@jomax.net,,,,accepted,accepted,False,5
+clozd.com,awsdns-hostmaster@amazon.com,security@clozd.com,developer@clozd.com,developer@clozd.com,accepted,accepted,False,5
+coastapp.com,awsdns-hostmaster@amazon.com,,dmarc@coastapp.com,,accepted,accepted,False,5
+codspeed.io,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,6
+cofi.ai,hostmaster@registrar-servers.com,,info@cofi.ai,,rejected,accepted,False,6
+coinmarketcap.com,awsdns-hostmaster@amazon.com,,derek.li@coinmarketcap.com,derek.li@coinmarketcap.com,rejected,accepted,False,4
+coinstats.app,dns@cloudflare.com,,96d120ba11@rua.easydmarc.asia,96d120ba11@ruf.easydmarc.asia,accepted,accepted,False,5
+coliving.com,dns@cloudflare.com,,e8d41008@dmarc.mailgun.org; 00c6d478@inbox.ondmarc.com; 15877006a1554f838becc512492ba9b7@dmarc-reports.cloudflare.net,e8d41008@dmarc.mailgun.org; 00c6d478@inbox.ondmarc.com,accepted(catch-all),accepted(catch-all),True,5
+collegepulse.com,dns@cloudflare.com,,219acd7f@mxtoolbox.dmarc-report.com; dmarc@collegepulse.com; re+ca9f8e29d29b@inbound.dmarcdigests.com,219acd7f@forensics.dmarc-report.com,rejected,accepted,False,5
+commented.io,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+commonscompany.com,dns@cloudflare.com,,,,rejected,accepted,False,7
+community.com,awsdns-hostmaster@amazon.com,security@community.com,dmarc-security@community.com,,accepted,accepted,False,5
+companion.energy,azuredns-hostmaster@microsoft.com,,thomas.vyncke@companion.energy,,accepted,rejected,False,1
+companyenrich.com,dns@cloudflare.com,,c95a4c8d180e4a69aa9587c7b357e6bf@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+compliancely.com,dns@cloudflare.com,,dmarc@compliancely.com,dmarc@compliancely.com,accepted(catch-all),accepted(catch-all),True,5
+comscore.com,awsdns-hostmaster@amazon.com,,dmarc-report@comscore.com,dmarc-report@comscore.com,accepted(catch-all),accepted(catch-all),True,2
+cones.com,dns@cloudflare.com,,,,rejected,rejected,False,1
+conjura.com,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,5
+connect-x.tech,dns@cloudflare.com,,m@connect-x.tech,,accepted,accepted,False,6
+consensus.app,dns@cloudflare.com,,dmarc_aggregate_analyser+8a01f8c3602237c7b9f51af843dc70cb@zerobounce.net; christian@consensus.app,dmarc_forensics_analyser+8a01f8c3602237c7b9f51af843dc70cb@zerobounce.net,accepted,accepted,False,5
+construflow.com.br,dns@cloudflare.com,,dmarc@construflow.com.br,dmarc@construflow.com.br,rejected,accepted,False,5
+contable.app,awsdns-hostmaster@amazon.com,,rua@dmarc.brevo.com,,rejected,accepted,False,5
+contaja.com.br,cloud-dns-hostmaster@google.com,,postmaster@contaja.com.br; e51281ab@mxtoolbox.dmarc-report.com,e51281ab@forensics.dmarc-report.com,rejected,accepted,False,1
+contentstudio.io,dns@cloudflare.com,,re+vkrqeurwuuu@dmarc.postmarkapp.com,,rejected,accepted,False,5
+contextqa.com,awsdns-hostmaster@amazon.com,,deep@contextqa.com,deep@contextqa.com,rejected,accepted,False,6
+controlle.com,dns@cloudflare.com,,dmarc@controlle.com; rua@dmarc.brevo.com,dmarc@controlle.com,accepted(catch-all),accepted(catch-all),True,5
+converge.it,awsdns-hostmaster@amazon.com,,dmarc-reports@converge.it,,accepted(catch-all),accepted(catch-all),True,1
+conversionmediagroup.com,dns@cloudflare.com,,311816320a8d4f9c9e1cd2dd5faf3854@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+convesio.com,awsdns-hostmaster@amazon.com,,kubrqrhd@ag.dmarcian.com,,accepted(catch-all),accepted(catch-all),True,5
+convex.dev,awsdns-hostmaster@amazon.com,,dmarc-reports@convex.dev,,accepted,accepted,False,5
+conviva.com,awsdns-hostmaster@amazon.com,,svc_dmarc@conviva.com,svc_dmarc@conviva.com,accepted,accepted,False,1
+coolset.com,dns@cloudflare.com,,fc3b66a2675b48f6835e451e0c337dab@dmarc-reports.cloudflare.net; security@coolset.com,security@coolset.com,accepted,accepted,False,5
+coolshop.com,dns@cloudflare.com,it@coolshop.com,653a4112939cf@dmarc.centerasecurity.com,,accepted,rejected,False,1
+cooroundtable.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,1
+copilotkit.ai,awsdns-hostmaster@amazon.com,,postmaster@copilotkit.ai; dmarc@copilotkit.ai; re+8ab16db9aa14@inbound.dmarcdigests.com,,accepted,accepted,False,1
+copperx.io,dns@cloudflare.com,,1b7e76f8c8f14d7d8c0676e58a38f091@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+cordova.com,dns@jomax.net,,admin@cordova.com,,accepted(catch-all),accepted(catch-all),True,5
+coris.ai,hostmaster@registrar-servers.com,,dmarc-reports@coris.ai,dmarc-failures@coris.ai,accepted,accepted,False,5
+corneliajames.com,cloud-dns-hostmaster@google.com,,,,rejected,accepted,False,5
+coros.com,hostmaster@hichina.com,,,,accepted,rejected,False,3
+cortea.ai,cloud-dns-hostmaster@google.com,,dmarc@cortea.ai,,rejected,accepted,False,1
+coupler.io,cloud-dns-hostmaster@google.com,,postmaster@coupler.io,postmaster@coupler.io,rejected,accepted,False,6
+cquencehealth.com,dns@cloudflare.com,,f31afa74612c4334b6b157393574402b@dmarc-reports.cloudflare.net,,temp-fail,temp-fail,False,2
+craft.io,dns@digicertdns.com,,dev@craft.io,dev@craft.io,accepted,accepted,False,5
+creatordb.app,dns@jomax.net,,rua@dmarc.brevo.com,,accepted,accepted,False,5
+credibledata.com,cloud-dns-hostmaster@google.com,,,,accepted,accepted,False,2
+credix.finance,dns@cloudflare.com,,spam-digest@credix.finance,,rejected,accepted,False,5
+credplatform.com,cloud-dns-hostmaster@google.com,,rua@dmarc.brevo.com,,accepted(catch-all),accepted(catch-all),True,5
+crewos.io,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,2
+crossbeam.com,awsdns-hostmaster@amazon.com,eyebeams@crossbeam.com,devops+dmarc@crossbeam.com,devops+dmarc@crossbeam.com,accepted,accepted,False,5
+crowdreply.io,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,1
+crstl.ai,hostmaster@registrar-servers.com,,,,rejected,rejected,False,5
+crustdata.com,awsdns-hostmaster@amazon.com,,abhilashcho91@gmail.com,abhilashcho91@gmail.com,accepted(catch-all),accepted(catch-all),True,3
+cruva.com,dns@jomax.net,,reports@cruva.com,reports@cruva.com,accepted(catch-all),accepted(catch-all),True,5
+cryptoquant.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+cryptorefills.com,awsdns-hostmaster@amazon.com,,dmarc-reports@cryptorefills.com,,rejected,accepted,False,5
+crystalknows.com,dns@cloudflare.com,,bkim@crystalknows.com,bkim@crystalknows.com,accepted,accepted,False,5
+csllcnow.com,support@wix.com,,,,rejected,accepted,False,2
+cst.co.uk,dns@jomax.net,,dmarc@cstltd.com,dmarc@cstltd.com,rejected,rejected,False,1
+cta.tech,dns@jomax.net,,dmarc_agg@vali.email; 196a8143d54e157@rep.dmarcanalyzer.com,196a8143d54e157@for.dmarcanalyzer.com,accepted,rejected,False,1
+cuballama.com,dns@cloudflare.com,,491d15694799439abb935e83ecb398b2@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+cubesoftware.com,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,5
+cuckooworkout.com,awsdns-hostmaster@amazon.com,,dmarc@cuckooworkout.com,dmarc@cuckooworkout.com,accepted,accepted,False,5
+cuelinks.com,dns@cloudflare.com,,,,rejected,accepted,False,7
+cuemath.com,awsdns-hostmaster@amazon.com,,2a53f21ce82c449ba971854896f3db02@dmarc-reports.cloudflare.net,,rejected,accepted,False,6
+cufinder.io,dns@cloudflare.com,,,,mx-unreachable,mx-unreachable,None,1
+curate.co,awsdns-hostmaster@amazon.com,,dmarc-reports@curate.co,,accepted(catch-all),accepted(catch-all),True,5
+curemedia.com,dns@cloudflare.com,,dmarc-reports@curemedia.com,dmarc-reports@curemedia.com,accepted,rejected,False,1
+curri.com,dns@cloudflare.com,,re+lsje5pa8vbr@dmarc.postmarkapp.com,,accepted,accepted,False,5
+cushingterrell.com,namehost@WORLDNIC.com,,59db44d39d8e389@rep.dmarcanalyzer.com,59db44d39d8e389@for.dmarcanalyzer.com,mx-unreachable,mx-unreachable,None,4
+customer.io,awsdns-hostmaster@amazon.com,,re+a0b40970b63a@inbound.dmarcdigests.com; dmarc@rp.laneful.net,,accepted(catch-all),accepted(catch-all),True,5
+customerscore.io,dns@jomax.net,,,,rejected,accepted,False,5
+customily.com,awsdns-hostmaster@amazon.com,,dmarc_agg@vali.email,,rejected,accepted,False,5
+cuure.com,dns@cloudflare.com,,dylan@cuure.com,,rejected,accepted,False,5
+cxplanner.com,awsdns-hostmaster@amazon.com,,re+ibwgiuyppp9@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,1
+cyberday.ai,dns@cloudflare.com,,dmarc-aaaac5hkvynyk4uvzc2c7kr7ei@agendium.slack.com,,accepted,accepted,False,5
+cymulate.com,dns@cloudflare.com,,rejected-emails@cymulate.com,,rejected,accepted,False,1
+cypress.io,dns@cloudflare.com,security@cypress.io,postmaster@cypress.io,,accepted(catch-all),accepted(catch-all),True,7
+daloopa.com,awsdns-hostmaster@amazon.com,,f2161011@dmarc.mailgun.org; 81f0cc2c@inbox.ondmarc.com,,accepted,rejected,False,1
+dana.id,awsdns-hostmaster@amazon.com,,administrator@dana.id,administrator@dana.id,rejected,accepted,False,1
+danelfin.com,dns@cloudflare.com,,dev@danelfin.com; 8ee76f285063439ba2e0d95567a944f5@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+daniel-ip.com,dns@cloudflare.com,,infra@daniel-ip.com,infra@daniel-ip.com,rejected,accepted,False,1
+darkmatter.is,dns@cloudflare.com,,dmarc@darkmatter.is,,rejected,accepted,False,5
+dartai.com,dns@cloudflare.com,,rua@dmarc.brevo.com,,accepted(catch-all),accepted(catch-all),True,5
+dash.fi,dns@cloudflare.com,,ipm3zd1@ar.glockapps.com; infosec@dash.fi; jlgwhpab+9d76db6d-22ce-468c-a52b-0194c6af17ff@dmarceguard.com,ipm3zd1@fr.glockapps.com,accepted,accepted,False,5
+dashbo.io,dns@cloudflare.com,,552d0a2a710144629368b771e88bbb52@dmarc-reports.cloudflare.net,,rejected,accepted,False,7
+data-axle.com,awsdns-hostmaster@amazon.com,,dmarc@data-axle.com,dmarc@data-axle.com,rejected,accepted,False,1
+databar.ai,hostmaster@registrar-servers.com,info@databar.ai,,,rejected,accepted,False,5
+databox.com,dns@cloudflare.com,,662fa307ec624@ag.dmarcly.com,662fa307ec624@fo.dmarcly.com,accepted(catch-all),accepted(catch-all),True,5
+datadome.co,awsdns-hostmaster@amazon.com,,re+c9d791dbbf6d@inbound.dmarcdigests.com,,accepted,accepted,False,3
+dataforseo.com,dns@cloudflare.com,,cac0003e89b34808bd4d8f87ca9443fd@dmarc-reports.cloudflare.net; re+1151efa1ab4a@inbound.dmarcdigests.com,,rejected,accepted,False,1
+datahub.com,dns@cloudflare.com,,dmarc@datahub.com; dmarc@datahub.com,,accepted,accepted,False,5
+datamaran.com,awsdns-hostmaster@amazon.com,,re+icmjcykalmk@dmarc.postmarkapp.com,,rejected,accepted,False,7
+datanomik.com,awsdns-hostmaster@amazon.com,,dmarc@datanomik.com; rua@dmarc.brevo.com,,rejected,accepted,False,5
+datapolicy.co,hostmaster@datapolicy.co,,ti@datapolicy.co,,rejected,accepted,False,1
+datarails.com,dns@cloudflare.com,,dmarc@datarails.com; rpy61q5g9y@rua.powerdmarc.com,,accepted,accepted,False,5
+dataspike.io,dns@cloudflare.com,,bda5904961fb4ff8909d0326141934ec@dmarc-reports.cloudflare.net,security@dataspike.io,accepted,accepted,False,5
+dcm-inc.com,dns@cloudflare.com,,dmarc-reports@dcm-inc.com,,rejected,rejected,False,1
+dcycle.io,awsdns-hostmaster@amazon.com,,re+lyh6b0ifqix@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+dealmachine.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+dealroom.co,dns@cloudflare.com,,7a18e8b2cdd14eefbf7b7bf46f873e32@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+deducta.ai,azuredns-hostmaster@microsoft.com,,support@deducta.ai,,rejected,rejected,False,1
+deepidv.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,1
+deeploy.ai,dns@cloudflare.com,,,,accepted,accepted,False,5
+deepsource.com,dns@cloudflare.com,,,,mx-unreachable,mx-unreachable,None,1
+demola.net,awsdns-hostmaster@amazon.com,,sqxmyeiv@ag.eu.dmarcian.com; 7ozibysz@ag.eu.dmarcian.com,,rejected,rejected,False,1
+descope.com,dns@cloudflare.com,,9a1fcdab66da4efa824f781af41cb5fd@dmarc-reports.cloudflare.net; devops+dmarc@descope.com; dmarc_agg@vali.email,devops+dmarc@descope.com; dmarc_agg@vali.email,accepted(catch-all),accepted(catch-all),True,5
+detrack.com,awsdns-hostmaster@amazon.com,,dmarc.reports@detrack.com; jethro.africa@detrack.com,,accepted,accepted,False,5
+detrics.io,dns@cloudflare.com,,,,rejected,accepted,False,5
+devally.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+devolens.com,dns@cloudflare.com,,,,rejected,rejected,False,1
+didlogic.com,dns@cloudflare.com,,mail.reports@didlogic.com,noc@didlogic.com,rejected,accepted,False,5
+diffly.co,dns@jomax.net,,dmarc@diffly.co,,accepted,accepted,False,5
+digital-masters.de,hostmaster@kasserver.com,,rua@dmarc.brevo.com,,rejected,rejected,False,1
+digitalsamba.com,awsdns-hostmaster@amazon.com,,support@digitalsamba.com,support@digitalsamba.com,accepted(catch-all),accepted(catch-all),True,5
+digitalsurge.com.au,dns@cloudflare.com,,39d6f17dbc9445f498cc3514c3e725c1@dmarc-reports.cloudflare.net,,rejected,accepted,False,1
+digoo-it.com,hostmaster@digoo-it.com,,,,rejected,rejected,False,1
+dispatchit.com,dns@cloudflare.com,,,,accepted,accepted,False,5
+dj.studio,dns@cloudflare.com,,dmarc@dj.studio,dmarc@dj.studio,accepted(catch-all),accepted(catch-all),True,5
+dma-group.co.uk,dns@jomax.net,,bio@dma-group.co.uk,,rejected,rejected,False,1
+dobbyads.com,awsdns-hostmaster@amazon.com,,developers@dobbyads.com; rua@dmarc.brevo.com,,rejected,accepted,False,5
+docsautomator.co,dns@cloudflare.com,,,,rejected,accepted,False,5
+doit.com,dns@cloudflare.com,dnscaa@doit.com,dec90fa5@dmarc.mailgun.org; be905953@inbox.ondmarc.com; fu0vce1730@rua.powerdmarc.com,dec90fa5@dmarc.mailgun.org; be905953@inbox.ondmarc.com; fu0vce1730@ruf.powerdmarc.com,rejected,accepted,False,5
+dokaa.app,tech@ovh.net,,,,mx-unreachable,mx-unreachable,None,5
+doktormartin.sk,admin@websupport.sk,,dmarc@doktormartin.sk; rua@dmarc.brevo.com,dmarc@doktormartin.sk,rejected,rejected,False,1
+doktorsitesi.com,dns@cloudflare.com,,,,rejected,accepted,False,6
+doola.com,awsdns-hostmaster@amazon.com,,dmarc@doola.com,,accepted,accepted,False,5
+dorsia.com,dns@cloudflare.com,,d60d45367cf545559fede25925ae044f@dmarc-reports.cloudflare.net,,accepted,accepted,False,5
+dotter.me,awsdns-hostmaster@amazon.com,,dylan.cowman@dotter.me,dylan.cowman@dotter.me,rejected,accepted,False,5
+drakerep.com,awsdns-hostmaster@amazon.com,,rua@dmarc.trustifi.com,,rejected,rejected,False,1
+drata.com,dns@cloudflare.com,,941ec73d06134013bc2f568f99c8ac58@dmarc-reports.cloudflare.net; ipm4eq9@ar.glockapps.com,ipm4eq9@fr.glockapps.com,accepted(catch-all),accepted(catch-all),True,5
+dreamlit.ai,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+drome.com.br,dns@cloudflare.com,,2391d14a11704d96af6dfe6a77549525@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+dronus.com,dns@cloudflare.com,,,,rejected,rejected,False,1
+drugbank.com,dns@cloudflare.com,,c84f935fec2d403b9c9c462c9bc618a6@dmarc-reports.cloudflare.net; 5f6b66f8d18e1@ag.dmarcly.com,5f6b66f8d18e1@fo.dmarcly.com,rejected,accepted,False,5
+duda.co,awsdns-hostmaster@amazon.com,,dmarc-report@duda.co,,accepted(catch-all),accepted(catch-all),True,5
+dutchvalleyfoods.com,dns@cloudflare.com,,c1f82823bbe0462391122bc1e59744d0@dmarc-reports.cloudflare.net,dmarc-ruf@dutchvalleyfoods.com,rejected,accepted,False,1
+e-cruce.com,dns@cloudflare.com,,,,rejected,accepted,False,7
+e-gineering.com,dns@dnsmadeeasy.com,,dmarc-reports@e-gineering.com,dmarc-failures@e-gineering.com,rejected,rejected,False,2
+e4k.co,rajabalirajabali@gmail.com,,rajabali@e4k.co,rajabali@e4k.co,accepted(catch-all),accepted(catch-all),True,1
+easesolutions.com,awsdns-hostmaster@amazon.com,,dmarc@easesolutions.com,,rejected,rejected,False,1
+easycomp.ai,dns@cloudflare.com,,jose@easycomp.ai,jose@easycomp.ai,rejected,accepted,False,5
+easyleadz.com,dns@jomax.net,,,,rejected,accepted,False,5
+easyship.com,dns@cloudflare.com,,76e7d59a56f14771ae5666744a5af449@dmarc-reports.cloudflare.net; dmarc-reports@easyship.com,,accepted,accepted,False,5
+ecair.eco,dns@cloudflare.com,,re+3345b9b641e7@inbound.dmarcdigests.com,,rejected,accepted,False,5
+ecdb.com,dns@cloudflare.com,,06c07c811e76487c84bba5b962c3f7f9@dmarc-reports.cloudflare.net; noreply@ecdb.com,,rejected,accepted,False,1
+eden.so,dns@cloudflare.com,,,,accepted,accepted,False,1
+edgetier.com,dns@jomax.net,,info@edgetier.com,info@edgetier.com,rejected,accepted,False,5
+edgewaterresearch.com,dns@cloudflare.com,,683bcfc6@in.mailhardener.com,,mx-unreachable,mx-unreachable,None,1
+edito-pdf.com,hostmaster@register.it,,,,rejected,accepted,False,1
+eka.care,awsdns-hostmaster@amazon.com,,devops@eka.care,devops@eka.care,accepted(catch-all),accepted(catch-all),True,5
+eliex.ai,dns@jomax.net,,dmarc@eliex.ai,dmarc@eliex.ai,accepted(catch-all),accepted(catch-all),True,5
+elkat.no,dns@cloudflare.com,,,,rejected,accepted,False,5
+ellipsend.com,awsdns-hostmaster@amazon.com,,dmarc-reports@ellipsend.com,,rejected,accepted,False,1
+ellty.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+embankment.com,admin@dnsimple.com,,dmarc@embankment.com,,accepted,rejected,False,1
+emerge-tech.io,dns@cloudflare.com,,re+d340b9931fd7@inbound.dmarcdigests.com,,rejected,accepted,False,1
+enapter.com,hostmaster@he.net,,dmarc@enapter.com,,accepted,accepted,False,1
+encoda.com,dns@jomax.net,support@encoda.com,msadmin@encoda.com,,rejected,rejected,False,1
+encompassonsite.com,dns@jomax.net,,3349fe1ed39e601@rep.dmarcanalyzer.com,3349fe1ed39e601@for.dmarcanalyzer.com,rejected,rejected,False,4
+enercity.de,domainmaster@htp.net,,dmarc-reply@enercity.de,,rejected,rejected,False,1
+energyaspects.com,awsdns-hostmaster@amazon.com,,wp4dqykt@ag.eu.dmarcian.com,wp4dqykt@fr.eu.dmarcian.com,rejected,rejected,False,2
+engrate.io,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,1
+enlyft.com,dns@cloudflare.com,,7a08b3a544d24460a3ef7e81341764f7@dmarc-reports.cloudflare.net,,accepted,rejected,False,1
+enrich.so,dns@cloudflare.com,,admin@enrich.so,,rejected,accepted,False,5
+enrola.com.au,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,1
+enshift.com,awsdns-hostmaster@amazon.com,,ers2onws@ag.eu.dmarcian.com; roey@enshift.com; balazs@enshift.com,,rejected,accepted,False,5
+envoy.com,dns@cloudflare.com,,dmarc-reports@envoy.com,,accepted,accepted,False,5
+eodhd.com,dns@jomax.net,,,,accepted(catch-all),accepted(catch-all),True,1
+eon.io,awsdns-hostmaster@amazon.com,privacy@eon.io,,,accepted,accepted,False,5
+epam.com,dns@cloudflare.com,,postmaster@epam.com,postmaster@epam.com,accepted,accepted,False,1
+epsilon3.io,dns@jomax.net,,13bdc01d@mxtoolbox.dmarc-report.com,13bdc01d@forensics.dmarc-report.com,accepted,accepted,False,5
+eramba.org,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+erlin.ai,dns@cloudflare.com,,data@erlin.ai,,rejected,accepted,False,5
+escape.tech,awsdns-hostmaster@amazon.com,,dmarc@escape.tech; rua@dmarc.brevo.com,dmarc@escape.tech,accepted(catch-all),accepted(catch-all),True,7
+esim.com.br,dns@cloudflare.com,,bpo@esim.com.br,bpo@esim.com.br,rejected,rejected,False,1
+espm.br,awsdns-hostmaster@amazon.com,,seg.info@espm.br,,rejected,accepted,False,1
+esputnik.com,awsdns-hostmaster@amazon.com,,fbl@esputnik.com,,accepted,accepted,False,5
+estarter.co,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+estoko.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,1
+esw.com,azuredns-hostmaster@microsoft.com,,dmarc_reports@esw.com,,rejected,rejected,False,1
+etermax.com,awsdns-hostmaster@amazon.com,,postmaster.test@etermax.com,postmaster.test@etermax.com,accepted,accepted,False,5
+eulerapp.com,dns@cloudflare.com,,dave@eulerapp.com; dmarc_agg@vali.email,,accepted(catch-all),accepted(catch-all),True,5
+eunice.ai,awsdns-hostmaster@amazon.com,,dmarc@eunice.ai,dmarc@eunice.ai,accepted,accepted,False,1
+evcomechanical.com,dns@cloudflare.com,,4e0cb064c78a4d1eb64426083591282f@dmarc-reports.cloudflare.net,,rejected,rejected,False,1
+everestlabs.ai,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+evernote.com,cloud-dns-hostmaster@google.com,,reports@dmarc.bendingspoons.com,,accepted,accepted,False,7
+evertrace.ai,awsdns-hostmaster@amazon.com,security@evertrace.ai,dmarc@evertrace.ai,,accepted,rejected,False,1
+everwall.com,dns@cloudflare.com,,admin@everwall.com; re+a7fraqgmub1@dmarc.postmarkapp.com,admin@everwall.com; re+a7fraqgmub1@dmarc.postmarkapp.com,accepted(catch-all),accepted(catch-all),True,5
+everymanjack.com,dns@dnsmadeeasy.com,,608608b0593b8@ag.dmarcly.com,608608b0593b8@fo.dmarcly.com,accepted,accepted,False,3
+evolve-partners.com,dns@cloudflare.com,,,,rejected,rejected,False,1
+exa.ai,dns@cloudflare.com,,dmarc@exa.ai,dmarc@exa.ai,accepted,accepted,False,5
+explorium.ai,awsdns-hostmaster@amazon.com,,dmarc-reports@explorium.ai,dmarc-reports@explorium.ai,rejected,accepted,False,5
+eyewa.com,dns@cloudflare.com,,1814-788-1025@asdmhw.com,1814-788-1025-f@asdmhw.com,accepted(catch-all),accepted(catch-all),True,5
+eztexting.com,dns-admin@google.com,,webmaster@eztexting.com,,accepted(catch-all),accepted(catch-all),True,5
+facilio.com,awsdns-hostmaster@amazon.com,,dmarc-reports@facilio.com,dmarc-reports@facilio.com,accepted,accepted,False,1
+factori.ai,cloud-dns-hostmaster@google.com,,devops@lifesight.io,devops@lifesight.io,accepted(catch-all),accepted(catch-all),True,5
+factset.com,dns@cloudflare.com,,dmarc_rua@emaildefense.proofpoint.com,dmarc_ruf@emaildefense.proofpoint.com,accepted(catch-all),accepted(catch-all),True,4
+facturadirecta.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,7
+fairly.com,awsdns-hostmaster@amazon.com,,dmarc_aggregate_analyser+878eccee04103cc8a0f906fc725b5dc2@zerobounce.net,dmarc_forensics_analyser+878eccee04103cc8a0f906fc725b5dc2@zerobounce.net,accepted,accepted,False,5
+fal.ai,dns@cloudflare.com,,49a15b797484421f8bd536fd11538d90@dmarc-reports.cloudflare.net,,accepted,accepted,False,5
+falconfeeds.io,dns@cloudflare.com,,1acd6cf6f18e4d3b91dceca5f21969c2@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+familux.com,postmaster@your-server.de,,dmarc_agg@vali.email,,rejected,rejected,False,4
+fanalists.com,hostmaster@transip.nl,,rua@dmarc.brevo.com,,accepted(catch-all),accepted(catch-all),True,1
+fastbridgefiber.com,dns@jomax.net,,,,rejected,accepted,False,1
+fastweigh.com,dns@cloudflare.com,,,,rejected,rejected,False,1
+feedspace.io,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,3
+fergus.com,awsdns-hostmaster@amazon.com,,dmarcreports@fergus.com,,accepted,accepted,False,1
+fianu.io,dns@cloudflare.com,,d567078f20c4417b9886997af2f97cd9@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+fiber.ai,hostmaster@registrar-servers.com,,,,accepted(catch-all),accepted(catch-all),True,6
+fifthrow.com,awsdns-hostmaster@amazon.com,,v9slvnuc@ag.eu.dmarcian.com,,accepted(catch-all),accepted(catch-all),True,5
+figr.design,awsdns-hostmaster@amazon.com,,dmarc-reports@figr.design,,accepted(catch-all),accepted(catch-all),True,5
+findable.ai,dns@cloudflare.com,,dmarc@findable.ai,,accepted,accepted,False,5
+findymail.com,dns@cloudflare.com,,67dd67569629496d9fb3e51bc1e23f52@dmarc-reports.cloudflare.net,,accepted,accepted,False,5
+finoptimal.com,dns@cloudflare.com,,developer@finoptimal.com,,accepted(catch-all),accepted(catch-all),True,5
+finout.io,awsdns-hostmaster@amazon.com,,dmarc-reports@finout.io,,accepted,accepted,False,5
+finthesis.io,hostmaster@gandi.net,,,,accepted(catch-all),accepted(catch-all),True,5
+fintoc.com,dns@cloudflare.com,,dmarc-reports@fintoc.com,,accepted,accepted,False,5
+firebird.ai,dns@cloudflare.com,,aab75eebc5@rua.easydmarc.asia,aab75eebc5@ruf.easydmarc.asia,accepted(catch-all),accepted(catch-all),True,1
+fireflies.ai,dns@cloudflare.com,,dmarc@sendgrid.com,dmarc@sendgrid.com,accepted(catch-all),accepted(catch-all),True,6
+firstlight.farm,dns@cloudflare.com,,85bd9bf13b@rua.easydmarc.com; dmarc@firstlight.farm,85bd9bf13b@ruf.easydmarc.com; dmarc@firstlight.farm,rejected,rejected,False,1
+firstlook.gg,dns@cloudflare.com,,re+b41ce275312d@inbound.dmarcdigests.com,,accepted(catch-all),accepted(catch-all),True,5
+fitsamerica.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+flalingo.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+flashbots.net,dns@cloudflare.com,,5699e3095d56.a@dmarcinput.com; infra-reports-dmarc@flashbots.net,5699e3095d56.f@dmarcinput.com; infra-reports-dmarc@flashbots.net,accepted(catch-all),accepted(catch-all),True,5
+flashvote.com,awsdns-hostmaster@amazon.com,,l7qvshfu@ag.us.dmarcian.com; reports@flashvote.com,5867fb80@forensics.dmarc-report.com; reports@flashvote.com,accepted(catch-all),accepted(catch-all),True,5
+fleetx.io,dns@cloudflare.com,,e44dbef7d9594d398e7d1a3b3be42ebf@dmarc-reports.cloudflare.net; rua@dmarc.brevo.com,,rejected,accepted,False,5
+flexmls.com,jfreed@fbsdata.com,,re+7dd5c5712731@inbound.dmarcdigests.com,dmarcreports@fbsdata.com,accepted,accepted,False,5
+flipsnack.com,awsdns-hostmaster@amazon.com,,ipmuf4@ar.glockapps.com; dmarc@flipsnack.com,ipmuf4@fr.glockapps.com,rejected,accepted,False,5
+flodesk.com,dns@cloudflare.com,,6d28a8ba@mxtoolbox.dmarc-report.com,6d28a8ba@forensics.dmarc-report.com,accepted,accepted,False,5
+floorfound.com,cloud-dns-hostmaster@google.com,,,,accepted(catch-all),accepted(catch-all),True,5
+floorspace.ca,cloud-dns-hostmaster@google.com,,postmaster@floorspace.ca,,rejected,rejected,False,1
+flora.ai,dns@cloudflare.com,,79243a9b491d4289a0c91ded52dabb32@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+flotiq.com,dns@cloudflare.com,,hello@flotiq.com,,accepted(catch-all),accepted(catch-all),True,1
+flowcode.com,dns@cloudflare.com,,80f63025@mxtoolbox.dmarc-report.com; secops@flowcode.com,80f63025@forensics.dmarc-report.com,accepted(catch-all),accepted(catch-all),True,5
+flowcredi.com.br,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+flowrms.com,hostmaster@flowrms.com,,dmarc@flowrms.com,dmarc@flowrms.com,rejected,rejected,False,1
+fluss.io,awsdns-hostmaster@amazon.com,,tom@fluss.io,tom@fluss.io,rejected,accepted,False,3
+flylance.com,dns@cloudflare.com,,mnexaouw@ag.us.dmarcian.com,mnexaouw@fr.us.dmarcian.com,accepted(catch-all),accepted(catch-all),True,5
+fomo.ai,admins@siteground.com,,hi@fomo.ai,,rejected,accepted,False,5
+fonzi.ai,dns@cloudflare.com,engineering@fonzi.ai,dmarc@fonzi.ai,,rejected,accepted,False,1
+foodello.com,dns@cloudflare.com,,8cac4dcbf2b44bf2b2076c319d8c9ad5@dmarc-reports.cloudflare.net,ruf@fiksuruoka.fi,rejected,rejected,False,1
+foresight.ai,awsdns-hostmaster@amazon.com,,b6bbeaae7f@rua.easydmarc.us,b6bbeaae7f@ruf.easydmarc.us,accepted,rejected,False,1
+forinvest.com,awsdns-hostmaster@amazon.com,,dmarc-report@forinvest.com,dmarc-report@forinvest.com,accepted(catch-all),accepted(catch-all),True,5
+formant.io,awsdns-hostmaster@amazon.com,,dmarc-reports@formant.io,,accepted,accepted,False,5
+formassembly.com,awsdns-hostmaster@amazon.com,,dmtw9qcp@ag.dmarcian.com,,accepted,accepted,False,5
+formly.ai,dns@cloudflare.com,,stodd@formly.ai,stodd@formly.ai,accepted(catch-all),accepted(catch-all),True,5
+forter.com,awsdns-hostmaster@amazon.com,,dmarcreports@forter.com,,accepted,accepted,False,5
+foundational.io,awsdns-hostmaster@amazon.com,,dmarc@foundational.io,,accepted(catch-all),accepted(catch-all),True,5
+founderplus.id,dns@cloudflare.com,,12d6a5bc33b14a4bb083ebb5b862a54f@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,1
+fourthwall.tv,dns@cloudflare.com,,61a7333a22d7490291fa79cdbfd43631@dmarc-reports.cloudflare.net; 2d3e9276@mxtoolbox.dmarc-report.com,fwmsupport@fwm.tv,rejected,accepted,False,1
+fpre.ch,azuredns-hostmaster@microsoft.com,,,,rejected,rejected,False,1
+frambemanning.se,hostmaster@one.com,,peder.vikstrom@frambemanning.se,peder.vikstrom@frambemanning.se,rejected,accepted,False,1
+frame.io,awsdns-hostmaster@amazon.com,,adobe@rua.agari.com; dmarc-notifications@frame.io,adobe@ruf.agari.com; dmarc-notifications@frame.io,accepted,rejected,False,2
+fraudlogix.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,2
+freedom.world,dns@cloudflare.com,,dmarcreports@freedom.world,,accepted(catch-all),accepted(catch-all),True,5
+freee.co.jp,awsdns-hostmaster@amazon.com,,psirt@freee.co.jp,psirt+fail@freee.co.jp,accepted(catch-all),accepted(catch-all),True,5
+fresha.com,awsdns-hostmaster@amazon.com,,e3bfdf21ad@rua.easydmarc.eu,e3bfdf21ad@ruf.easydmarc.eu,accepted(catch-all),accepted(catch-all),True,5
+freshbus.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+freshpoint.cz,admin@forpsi.com,,,,accepted(catch-all),accepted(catch-all),True,5
+frictionlessit.net,dns@jomax.net,,emailreports@frictionlessit.net,emailreports@frictionlessit.net,mx-unreachable,mx-unreachable,None,2
+friday.nl,hostmaster@webstores.nl,,dmarc-report@friday.nl,dmarc-report@friday.nl,rejected,accepted,False,4
+frontguys.fr,hostmaster@1and1.com,,marc@frontguys.fr,dmarc@frontguys.fr,accepted,rejected,False,1
+frsport.com,dns@cloudflare.com,,9ade52b26abd41e18726a7444f0a283f@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+fulfyld.com,dns@cloudflare.com,,4f7a4b4eeeab47438834735116cae8f3@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,1
+fullenrich.com,cloud-dns-hostmaster@google.com,,dmarc-reports@fullenrich.com,,accepted(catch-all),accepted(catch-all),True,5
+fundify.com,awsdns-hostmaster@amazon.com,,rua@fundify.com; 994d43e550@rua.easydmarc.us,994d43e550@ruf.easydmarc.us,accepted(catch-all),accepted(catch-all),True,5
+furious-squad.com,tech@ovh.net,,,,rejected,accepted,False,5
+fusionpact.com,cloud-dns-hostmaster@google.com,,support@fusionpact.com,,accepted(catch-all),accepted(catch-all),True,5
+futureprinciple.com,dns@cloudflare.com,,60660a3950da46d98d8df5ded5747104@dmarc-reports.cloudflare.net,secops@futureprinciple.com,accepted(catch-all),accepted(catch-all),True,5
+futuresearch.ai,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+futuresnoops.com,awsdns-hostmaster@amazon.com,,junk@futuresnoops.com,junk@futuresnoops.com,rejected,accepted,False,1
+fyma.ai,cloud-dns-hostmaster@google.com,,dmarc-reports@fyma.ai,,rejected,accepted,False,5
+fynite.ai,dns@cloudflare.com,,,,rejected,accepted,False,5
+fyxer.com,dns@jomax.net,,saurav.raj@fyxer.com,,accepted,accepted,False,5
+gabriel.sk,root@amis.sk,,,dmarc-reports@amis.sk,accepted(catch-all),accepted(catch-all),True,1
+gaiasuite.com,tech@rrpproxy.net,,rua@dmarc.brevo.com,,rejected,rejected,False,1
+gameball.co,awsdns-hostmaster@amazon.com,,mohamed.ashraf+dmarcreports@gameball.co,mohamed.ashraf+dmarcforensics@gameball.co,rejected,accepted,False,6
+gamma.app,dns@cloudflare.com,,dmarc@gamma.app,,rejected,accepted,False,5
+gatsby.events,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,6
+gcaa.gov.ae,domains@etisalat.ae,,02ec544f@inbox.ondmarc.com; bufbuccgzo@rua.threatcop.ae,02ec544f@inbox.ondmarc.com; bufbuccgzo@ruf.threatcop.ae,mx-unreachable,mx-unreachable,None,2
+gcit.com.au,dns@cloudflare.com,,c73390d6fdd1643@rep.dmarcanalyzer.com,c73390d6fdd1643@for.dmarcanalyzer.com,rejected,rejected,False,1
+gdicwins.com,dns@cloudflare.com,,ipm26oh@ar.glockapps.com; admin@gdicwins.com,ipm26oh@fr.glockapps.com; admin@gdicwins.com,rejected,rejected,False,1
+geekbot.com,dns@cloudflare.com,,re+b79e25cbc8a7@inbound.dmarcdigests.com,,accepted(catch-all),accepted(catch-all),True,3
+gem.com,awsdns-hostmaster@amazon.com,,dmarc-reports@gem.com,,accepted(catch-all),accepted(catch-all),True,5
+genei.es,tech@ovh.net,,dmarc.rua@genei.es,dmarc.ruf@genei.es,accepted(catch-all),accepted(catch-all),True,1
+general.legal,dns@cloudflare.com,,dmarc@general.legal,,rejected,accepted,False,5
+generect.com,dns@cloudflare.com,,info@generect.com,,accepted(catch-all),accepted(catch-all),True,5
+genialcare.com.br,dns@cloudflare.com,,52e9af8114ff44789bb4888410fe4fd9@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+genially.com,awsdns-hostmaster@amazon.com,,,support@genial.ly,accepted,accepted,False,5
+genloop.ai,dns@cloudflare.com,,,,rejected,accepted,False,1
+geopard.tech,awsdns-hostmaster@amazon.com,,rua@dmarc.brevo.com,,rejected,accepted,False,5
+geopoll.com,dns@cloudflare.com,,dmarc-reports@geopoll.com,dmarc-reports@geopoll.com,accepted(catch-all),accepted(catch-all),True,1
+geotab.com,cloud-dns-hostmaster@google.com,it@geotab.com,f295e444@mxtoolbox.dmarc-report.com; dmarc@geotab.com,f295e444@forensics.dmarc-report.com; dmarc@geotab.com,accepted(catch-all),accepted(catch-all),True,5
+getaleph.com,domains+netlify@netlify.com,,re+caace9835b35@inbound.dmarcdigests.com,,accepted,accepted,False,5
+getaptly.com,dns@cloudflare.com,,,,rejected,rejected,False,1
+getbalance.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+getboomerang.ai,awsdns-hostmaster@amazon.com,,dmarc-reports@getboomerang.ai,,rejected,accepted,False,5
+getcroissant.com,dns@cloudflare.com,,dmarc_agg@vali.email,,rejected,accepted,False,5
+getdalton.com,hostmaster@neostrada.nl,,,,accepted(catch-all),accepted(catch-all),True,1
+getdex.com,hostmaster@registrar-servers.com,,,,accepted,accepted,False,5
+getken.ai,dns@cloudflare.com,,rua@dmarc.brevo.com,,rejected,accepted,False,1
+getloper.com,dns@cloudflare.com,,developer@getloper.com,,rejected,accepted,False,5
+getmontecarlo.com,awsdns-hostmaster@amazon.com,domains@montecarlodata.com,649dc90f084f5@ag.dmarcly.com,649dc90f084f5@fo.dmarcly.com,rejected,accepted,False,1
+getpalm.com,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,5
+getrecast.com,awsdns-hostmaster@amazon.com,,5nby2faq@ag.us.dmarcian.com; michael.solimano@getrecast.com,,accepted(catch-all),accepted(catch-all),True,5
+getredo.com,awsdns-hostmaster@amazon.com,,dmarc-reports@getredo.com,,accepted(catch-all),accepted(catch-all),True,5
+getresponse.com,dns@dnsmadeeasy.com,security@getresponse.com,dmarc_agg@dmarc.everest.email,dmarc_fr@dmarc.everest.email,accepted,accepted,False,1
+getsales.io,dns@cloudflare.com,,,,rejected,accepted,False,5
+getsift.ai,dns@cloudflare.com,,dmarc@getsift.ai,dmarc@getsift.ai,accepted,accepted,False,5
+getspeedpoint.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+getsponsy.com,dns@cloudflare.com,,929f2360e2f148828308ec6144c322fa@dmarc-reports.cloudflare.net; re+nzdyjzvmsp3@dmarc.postmarkapp.com,miguel@getsponsy.com,accepted(catch-all),accepted(catch-all),True,5
+giatecscientific.com,dns@cloudflare.com,,dmarc@giatecscientific.com,dmarc@giatecscientific.com,rejected,rejected,False,1
+giftpoint.io,dns@cloudflare.com,,,,rejected,accepted,False,5
+gigantic.pt,root@c94231.sgvps.net,,joao.felix@gigantic.pt,joao.felix@gigantic.pt,rejected,accepted,False,5
+gighq.ai,dns@cloudflare.com,,d3969ed473914af3bde7dfcb5d36b7a1@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,1
+gigstack.io,dns@cloudflare.com,,lrpcm89i@ag.us.dmarcian.com,,rejected,accepted,False,5
+gigworx.com,dns@jomax.net,,,,rejected,rejected,False,1
+gleap.io,dns@cloudflare.com,,7d378fe3624e.a@dmarcinput.com,7d378fe3624e.f@dmarcinput.com,accepted,accepted,False,5
+glede.app,dns@jomax.net,,dmarc@glede.app,,rejected,accepted,False,5
+glichealth.com,dns@jomax.net,,dmarc-reports@glichealth.com,,accepted(catch-all),accepted(catch-all),True,5
+globaldatabase.com,dns@cloudflare.com,,90465074de234bc0afba6f5a1b1bf580@dmarc-reports.cloudflare.net; dmarc@globaldatabase.com,,rejected,rejected,False,1
+globalmacit.com,dns@cloudflare.com,,801e9679b0a8460b863a2d19fa4129c5@dmarc-reports.cloudflare.net; lqh62nhu@ag.dmarcian.com,,rejected,rejected,False,1
+glowtify.com,dns@cloudflare.com,,f988187d051f40e79acb2413356faaa8@dmarc-reports.cloudflare.net; re+jkfqqvqhegg@dmarc.postmarkapp.com,,rejected,accepted,False,5
+go1.com,dns@cloudflare.com,,dmarc@go1.com,dmarc@go1.com,accepted,rejected,False,1
+goalfy.com.br,dns@cloudflare.com,,,,rejected,accepted,False,5
+goconsensus.com,awsdns-hostmaster@amazon.com,,postmaster@goconsensus.com; dmarc@goconsensus.com,,accepted,accepted,False,5
+gocsm.com,dns@jomax.net,,,,accepted(catch-all),accepted(catch-all),True,5
+goextrovert.com,dns@jomax.net,,dmarc@goextrovert.com,support@goextrovert.com,rejected,accepted,False,1
+goideally.com,dns@cloudflare.com,,3da640cf9c2a4dbca48ee5f135715ca2@dmarc-reports.cloudflare.net; re+60f0818faf85@inbound.dmarcdigests.com,,accepted(catch-all),accepted(catch-all),True,5
+goldfishads.com,dns@jomax.net,,dmarc@goldfishads.com,,rejected,accepted,False,5
+goldwasserexchange.be,awsdns-hostmaster@amazon.com,,tgdcvuwm@rua.dmarceye.com,,accepted,rejected,False,1
+gomining.com,dns@cloudflare.com,,noreply@gomining.com,,rejected,accepted,False,1
+gong.io,awsdns-hostmaster@amazon.com,,ca8ec32e88694d7b8453bdf9ba62487c@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,2
+goodfin.com,cloud-dns-hostmaster@google.com,,dmarc-reports@goodfin.com,,accepted(catch-all),accepted(catch-all),True,5
+goodwatercap.com,dns@jomax.net,,4gp0utlv@ag.us.dmarcian.com,4gp0utlv@fr.us.dmarcian.com,accepted(catch-all),accepted(catch-all),True,5
+gopitcrew.com,awsdns-hostmaster@amazon.com,,dmarc_rua@onsecureserver.net,,accepted(catch-all),accepted(catch-all),True,5
+gothru.co,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+gowindmill.com,awsdns-hostmaster@amazon.com,,dmarcreports@gowindmill.com,,rejected,accepted,False,1
+gpbullhound.com,dns@nmugroup.com,,0ef120254b65805@rep.dmarcanalyzer.com,0ef120254b65805@for.dmarcanalyzer.com,accepted,accepted,False,2
+grafana.com,awsdns-hostmaster@amazon.com,,grc@grafana.com; dmarc_agg@vali.email,grc@grafana.com,accepted(catch-all),accepted(catch-all),True,5
+grapelaw.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,1
+grasp.gg,awsdns-hostmaster@amazon.com,,dmarc-reports@grasp.gg,dmarc-forensics@grasp.gg,accepted(catch-all),accepted(catch-all),True,5
+grasp.study,hostmaster@registrar-servers.com,,,,rejected,accepted,False,5
+gravl.io,dns@cloudflare.com,,dmarcreports@lovable.dev,,rejected,accepted,False,5
+green-api.com,noc@1gb.ru,,,,rejected,rejected,False,1
+greenhawk.co.nz,dns@cloudflare.com,,mailadmin@greenhawk.co.nz,,rejected,rejected,False,1
+greenstreet.com,awsdns-hostmaster@amazon.com,,dmarc@8340m30u.uriports.com,dmarc@8340m30u.uriports.com,accepted,rejected,False,1
+gridium.com,awsdns-hostmaster@amazon.com,,dmarcreports@gridium.com,,accepted(catch-all),accepted(catch-all),True,7
+grinfi.io,dns@cloudflare.com,,re+liogstpgc7i@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+groupesignalisation.ca,dns@jomax.net,,,,rejected,accepted,False,5
+grove.co,dns@cloudflare.com,,dmarc-reports@grove.co,,temp-fail,temp-fail,False,2
+growhouse.co,dns@cloudflare.com,,,,rejected,accepted,False,5
+growthfactor.ai,dns@cloudflare.com,,,,accepted,accepted,False,5
+growthkitchen.co,admins@siteground.com,,,,rejected,accepted,False,5
+grupoamericainterior.com.ar,dns@cloudflare.com,,92df8d7c86f64808995d009177e608e8@dmarc-reports.cloudflare.net; tassi.javier@grupoamerica.com.ar; martin.cristian@grupoamerica.com.ar,,rejected,accepted,False,1
+grupoeon.com.ar,dns@cloudflare.com,,soporte@grupoeon.com.ar; dmarc-reports@grupoeon.com.ar,,accepted(catch-all),accepted(catch-all),True,5
+grupovelas.com.br,dns@cloudflare.com,,ernandes@grupovelas.com.br,,rejected,accepted,False,5
+gtlaw.com.au,awsdns-hostmaster@amazon.com,,0dad12f05d9f637@rep.dmarcanalyzer.com,0dad12f05d9f637@for.dmarcanalyzer.com,rejected,rejected,False,2
+gudeco.de,dns@jomax.net,,re+lpk1rmrqbxc@dmarc.postmarkapp.com,,rejected,rejected,False,1
+gxl.ai,dns@cloudflare.com,,so_interlaced@gxl.ai,,rejected,accepted,False,1
+gyramais.com.br,hostmaster@gyramais.com.br,,postmaster@gyramais.com.br,postmaster@gyramais.com.br,rejected,accepted,False,6
+hackle.io,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,6
+haiku.fr,dns@cloudflare.com,,service@haiku.fr,,accepted,accepted,False,5
+halfmoonempanadas.com,dns@cloudflare.com,,dmarcreports@lovable.dev; dmarc_agg@vali.email,,rejected,rejected,False,1
+haloai.co.id,dns@cloudflare.com,,,,rejected,accepted,False,5
+handwrytten.com,awsdns-hostmaster@amazon.com,,rua@dmarc.brevo.com; dmarc@handwrytten.com,,accepted,rejected,False,1
+handy.la,awsdns-hostmaster@amazon.com,,d5270f8a@dmarc.mailgun.org; xhp2gfywq5e@inbox.ondmarc.com,d5270f8a@dmarc.mailgun.org; xhp2gfywq5e@inbox.ondmarc.com,accepted(catch-all),accepted(catch-all),True,5
+happycog.com,dns@cloudflare.com,,e5477a3e67db4edfb9c6e8cd84d75191@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+harness.io,cloud-dns-hostmaster@google.com,,ptdkmfln@ag.us.dmarcian.com,ptdkmfln@fr.us.dmarcian.com,accepted(catch-all),accepted(catch-all),True,2
+hbflavor.com,hostmaster@hichina.com,,dmarc@hbflavor.com,,accepted(catch-all),accepted(catch-all),True,2
+headlight.co,cloud-dns-hostmaster@google.com,,dmarc_reports@headlight.co,,accepted,accepted,False,5
+healthkey.health,dns@jomax.net,,dmarc@healthkey.health,,rejected,accepted,False,6
+heavybit.com,dns@cloudflare.com,,438ce9d20d3944c0bd26043643308b06@dmarc-reports.cloudflare.net; dmarc@4cy5x960.uriports.com,dmarc@4cy5x960.uriports.com,accepted(catch-all),accepted(catch-all),True,5
+hectorai.live,awsdns-hostmaster@amazon.com,,rua@dmarc.brevo.com,,rejected,accepted,False,5
+heex.io,dns@cloudflare.com,,9769246a19e34db9ba576a16c2611afc@dmarc-reports.cloudflare.net; re+f34abcc90912@inbound.dmarcdigests.com,,accepted(catch-all),accepted(catch-all),True,5
+hellobonsai.com,dns@cloudflare.com,,re+f6d3e3611466@inbound.dmarcdigests.com,re+f6d3e3611466@inbound.dmarcdigests.com,rejected,accepted,False,5
+hellodarwin.com,awsdns-hostmaster@amazon.com,,1nt8ifyfw9@reports.palisade.email; dev@hellodarwin.com,,accepted(catch-all),accepted(catch-all),True,5
+helmer.app,dns@cloudflare.com,,f12125715ba74891a49b74d7dfaf263f@dmarc-reports.cloudflare.net,,rejected,accepted,False,12
+heroku.com,hostmaster@nsone.net,,dmarc_agg@vali.email; 0e5a5c34@inbox.ondmarc.com,0e5a5c34@inbox.ondmarc.com,accepted,accepted,False,1
+heron-intelligence.com,dns@cloudflare.com,,dmarc_rua@onsecureserver.net,,rejected,rejected,False,1
+hex.inc,dns@jomax.net,,,,rejected,accepted,False,5
+heybloome.com,cloud-dns-hostmaster@google.com,,citas@heybloome.com,,rejected,accepted,False,5
+heyflow.com,dns@cloudflare.com,,0a9b4ff2330d407b89196a2c3421b1e6@dmarc-reports.cloudflare.net,mirko.nitschke+dmarcruf@heyflow.com,accepted,accepted,False,5
+heymantle.com,dns@cloudflare.com,,,,accepted,accepted,False,2
+heymarvin.com,dns@cloudflare.com,,adit@heymarvin.com,adit@heymarvin.com,accepted,accepted,False,5
+hfsresearch.com,dns@cloudflare.com,,sxqnk2iy@ag.eu.dmarcian.com,sxqnk2iy@fr.eu.dmarcian.com,rejected,rejected,False,1
+highspot.com,awsdns-hostmaster@amazon.com,security@highspot.com,dmarc_agg@dmarc.250ok.net; postmaster@highspot.com,,accepted,accepted,False,5
+himalayas.app,dns@cloudflare.com,,hi@himalayas.app,,rejected,accepted,False,5
+himodus.com,awsdns-hostmaster@amazon.com,,connor@himodus.com,connor@himodus.com,accepted,accepted,False,5
+hirenimbus.com,dns@cloudflare.com,,rua@dmarc.brevo.com,,rejected,accepted,False,1
+hivecpq.com,awsdns-hostmaster@amazon.com,,dmarc@hivecpq.com,,rejected,accepted,False,5
+hoicko.ai,hostmaster@registrar-servers.com,,,,rejected,rejected,False,1
+holland1916.com,dns@cloudflare.com,,7cmu4bk6@ag.us.dmarcian.com,7cmu4bk6@fr.us.dmarcian.com,accepted(catch-all),accepted(catch-all),True,1
+homeric.ai,dns@cloudflare.com,,dmarc@homeric.ai; 0bc9cebf61@rua.easydmarc.us,0bc9cebf61@ruf.easydmarc.us,accepted(catch-all),accepted(catch-all),True,5
+honor.education,awsdns-hostmaster@amazon.com,,dmarc-reports@honor.education,,accepted(catch-all),accepted(catch-all),True,5
+hortitec.es,dns@cloudflare.com,,rua@dmarc.brevo.com,,rejected,accepted,False,7
+hospitable.com,dns@cloudflare.com,,dmarc_agg@vali.email,,accepted,accepted,False,5
+hostingb2b.com,dns@cloudflare.com,,admin@hostingb2b.com,,rejected,accepted,False,1
+houseamp.com,awsdns-hostmaster@amazon.com,,dmarcreports@houseamp.com,,rejected,rejected,False,1
+howz.com,dns@jomax.net,,info+dmarc@howz.com,,rejected,accepted,False,5
+hri-research.org,hostmaster@registrar-servers.com,,info@hri-research.org,,accepted(catch-all),accepted(catch-all),True,5
+hrsubsidies.nl,dns@cloudflare.com,,5775abb659f5423cbb74653865171b84@dmarc-reports.cloudflare.net,,rejected,rejected,False,1
+hsa.org.ua,hostmaster@adm.tools,,,,rejected,rejected,False,4
+hubbl.com,awsdns-hostmaster@amazon.com,,dmarc-agg@hubbl.com,dmarc-afrf@hubbl.com,accepted(catch-all),accepted(catch-all),True,5
+hubpay.io,dns@cloudflare.com,,,,rejected,rejected,False,1
+humaans.io,hostmaster@gandi.net,,re+34763fd3c980@inbound.dmarcdigests.com,,accepted,accepted,False,5
+humanic.ai,awsdns-hostmaster@amazon.com,,,,mx-unreachable,mx-unreachable,None,1
+hunt.io,dns@cloudflare.com,,,,rejected,accepted,False,5
+hushh.ai,hostmaster@registrar-servers.com,,rua@dmarc.brevo.com,,accepted(catch-all),accepted(catch-all),True,5
+hvakr.com,dns@cloudflare.com,,dmarc-reports@hvakr.com,,rejected,accepted,False,1
+hypercore.ai,hostmaster@registrar-servers.com,,dmarc@hypercore.ai,dmarc@hypercore.ai,rejected,accepted,False,5
+hyperline.co,dns@cloudflare.com,,,,accepted,accepted,False,5
+i-glocal.com,hostmaster@i-glocal.com,,admin@i-glocal.com,admin@i-glocal.com,rejected,rejected,False,1
+iamota.com,postmaster@webnames.ca,,,,rejected,accepted,False,7
+iansresearch.com,awsdns-hostmaster@amazon.com,,1953028b9bc3119@rep.dmarcanalyzer.com,1953028b9bc3119@for.dmarcanalyzer.com,rejected,rejected,False,1
+iasaglobal.org,dns@jomax.net,,,,mx-unreachable,mx-unreachable,None,3
+icebreaker.xyz,dns@cloudflare.com,,4890e113c1e348249a4ed888882a9511@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,1
+icepanel.io,cloud-dns-hostmaster@google.com,,,,accepted(catch-all),accepted(catch-all),True,5
+icmarkets.com,awsdns-hostmaster@amazon.com,,dmarcreports@icmarkets.com,,mx-unreachable,mx-unreachable,None,2
+icustomer.ai,hostmaster@registrar-servers.com,,jiten@icustomer.ai; dmarc@icustomer.ai,,rejected,accepted,False,1
+idadns.com,hostmaster@no-ip.com,,,,mx-unreachable,mx-unreachable,None,1
+idc.com,awsdns-hostmaster@amazon.com,,5dcd66004a901@ag.dmarcly.com; dmarc@idginc.uriports.com,5dcd66004a901@fo.dmarcly.com; dmarc@idginc.uriports.com,accepted,accepted,False,1
+idealo.com,awsdns-hostmaster@amazon.com,domains@idealo.de,dmarc-aggregation@idealo.com; idealo@rua.netcraft.com,dmarc-forensic@idealo.com; idealo@ruf.netcraft.com,rejected,accepted,False,1
+ideogram.ai,dns@cloudflare.com,,,,accepted,accepted,False,5
+ifcroofing.com,support@wix.com,,dmarc_agg@vali.email,,accepted(catch-all),accepted(catch-all),True,5
+iggnita.com,csf@ofis.net,,,,rejected,rejected,False,3
+ignisplanning.com,awsdns-hostmaster@amazon.com,,,,rejected,rejected,False,1
+ihrdc.com,dns@cloudflare.com,,21723bb03d78406db18e674eac2849b3@dmarc-reports.cloudflare.net; dxo98fbz@ag.us.dmarcian.com,dxo98fbz@fr.us.dmarcian.com,rejected,rejected,False,1
+illumex.ai,hostmaster@idp365.net,yuval@ilumex.ai,,,rejected,accepted,False,5
+ilogs.systems,infrastructure@ilogs.systems,,rua@dmarc.brevo.com,,accepted(catch-all),accepted(catch-all),True,1
+imagine.art,dns@cloudflare.com,,dmarc-reports@imagine.art,,rejected,accepted,False,5
+imax.com,awsdns-hostmaster@amazon.com,,emaildmarc@imax.com; dmarc_agg@vali.email,emaildmarc@imax.com,accepted(catch-all),accepted(catch-all),True,2
+imperium.uk,dns@jomax.net,,,,rejected,rejected,False,2
+inboxally.com,dns@cloudflare.com,,alerts1560000078@dmarcedge.com,,rejected,accepted,False,5
+inboxkit.com,dns@cloudflare.com,,admin@inboxkit.com,admin@inboxkit.com,rejected,accepted,False,6
+incomaker.com,hostmaster@bunny.net,,postmaster@incosrv.com,,rejected,rejected,False,1
+incorpro.ie,support@reg365.net,,dmarc-reports@incorpro.ie,,rejected,accepted,False,5
+incube8.sg,dns@cloudflare.com,,,,rejected,accepted,False,7
+indelible.co.nz,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+inderes.com,dns@cloudflare.com,,65e5705637933@ag.eu.dmarcly.com,65e5705637933@fo.eu.dmarcly.com,accepted,rejected,False,1
+indicaonline.com,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,5
+indmoney.com,dns@cloudflare.com,,dmarc.ind@indmoney.com,,accepted,accepted,False,5
+infillion.com,awsdns-hostmaster@amazon.com,,dmarc-reports@infillion.com,dmarc-reports@infillion.com,accepted,accepted,False,5
+inflection.io,awsdns-hostmaster@amazon.com,,report@inflection.io,,accepted,accepted,False,6
+infloso.ai,dns@cloudflare.com,,,,rejected,rejected,False,3
+influee.co,dns@cloudflare.com,,,,rejected,accepted,False,5
+influx.com,dns@cloudflare.com,,re+ec99d5d35991@inbound.dmarcdigests.com,dmarc@influx.com,accepted,accepted,False,5
+infrasure.ai,dns@cloudflare.com,,4b8a3922454e49c0be4d4d60be2ad1c6@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+ingenious.build,cloud-dns-hostmaster@google.com,,devops@ingenious.build,devops@ingenious.build,accepted,accepted,False,5
+ingest.ai,ADMIN@ingest.ai,,,,rejected,accepted,False,5
+inistate.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,1
+inki.tech,dns@cloudflare.com,,service@inki.tech,,accepted,rejected,False,1
+insided.com,awsdns-hostmaster@amazon.com,security@insided.com,dmarc_agg@dmarc.everest.email,dmarc_fr@dmarc.everest.email,accepted,accepted,False,5
+insiderone.com,dns@cloudflare.com,,dmarc@insiderone.com,,accepted(catch-all),accepted(catch-all),True,4
+insites.com,awsdns-hostmaster@amazon.com,,dmarc_agg@vali.email,,accepted,accepted,False,5
+insource.co.jp,dns@cloudflare.com,,dmarc-report@insource.co.jp,dmarc-report@insource.co.jp,rejected,rejected,False,1
+inspectionsupport.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,7
+instabridge.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,7
+instantdb.com,dns@cloudflare.com,,stepan.p@gmail.com,,accepted(catch-all),accepted(catch-all),True,5
+instantly.ai,dns@cloudflare.com,,re+vgn1qeqjgew@dmarc.postmarkapp.com,,rejected,accepted,False,5
+insurely.com,awsdns-hostmaster@amazon.com,,dmarc@insurely.com,,accepted,accepted,False,5
+intelimetrica.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+intellizence.com,dns@jomax.net,,dmarc@intellizence.com,,rejected,accepted,False,5
+intentwise.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+interlockgtm.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,1
+intuswindows.com,hostmaster@intuswindows.com,,,,rejected,rejected,False,1
+investdefy.com,dns@jomax.net,,dmarc_rua@onsecureserver.net,,rejected,accepted,False,5
+investnext.com,admin@dnsimple.com,,re+q4ldpmopvhy@dmarc.postmarkapp.com,,accepted,accepted,False,5
+ipolish.fashion,dns@jomax.net,,dmarcreports@ipolish.fashion,dmarcreports@ipolish.fashion,rejected,rejected,False,1
+iproxy.online,dns@cloudflare.com,,dmarc-reports@iproxy.online,,accepted(catch-all),accepted(catch-all),True,1
+item.app,dns@jomax.net,,dmarc_rua@onsecureserver.net; your@email.com,,accepted(catch-all),accepted(catch-all),True,5
+itgenius.com,dns@cloudflare.com,,dmarc@itgenius.com,,rejected,accepted,False,5
+itstoday.org,dns@cloudflare.com,,dmarc@itstoday.org,,rejected,accepted,False,5
+iyengarnyc.org,hostmaster@1und1.com,,,,rejected,accepted,False,5
+jahypotheques.ca,hostmaster@registrar-servers.com,,dmarc_agg@vali.email; re+utzjbx92pr9@dmarc.postmarkapp.com,,rejected,rejected,False,1
+jam.dev,dns@cloudflare.com,,rua-dmarc@jam.dev,ruf-dmarc@jam.dev,accepted,accepted,False,5
+jam7.com,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,1
+jambase.com,dns@cloudflare.com,,dmarc_agg@vali.email,,rejected,accepted,False,7
+janet.ai,dns@cloudflare.com,,adhit@janet.ai,,accepted(catch-all),accepted(catch-all),True,5
+jarvi.tech,cloud-dns-hostmaster@google.com,,,,accepted(catch-all),accepted(catch-all),True,5
+jasper.ai,dns@cloudflare.com,,dmarcreports@jasper.ai,,accepted,accepted,False,5
+jepto.com,awsdns-hostmaster@amazon.com,,postmaster@jepto.com,postmaster@jepto.com,rejected,accepted,False,5
+jibble.io,awsdns-hostmaster@amazon.com,owner@jibble.io,7e87d49537a126d56b614d92b8228163-t@dmarc.report-uri.com,,accepted(catch-all),accepted(catch-all),True,5
+jobphoning.com,tech@ovh.net,,dmarc-administrateur@jobphoning.com,,rejected,accepted,False,5
+jobspikr.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+joinotto.com,dns@cloudflare.com,,e5cc0ffa@dmarc.mailgun.org; c63e6669@inbox.ondmarc.com,e5cc0ffa@dmarc.mailgun.org; c63e6669@inbox.ondmarc.com,accepted(catch-all),accepted(catch-all),True,5
+joinswsh.com,awsdns-hostmaster@amazon.com,,dmarc-report@joinswsh.com,dmarc-report@joinswsh.com,accepted,accepted,False,5
+jointimecloud.com,dns@cloudflare.com,,dmarc@jointimecloud.com,,rejected,accepted,False,5
+jollycommerce.io,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+joyn.one,support@wix.com,,,,rejected,accepted,False,5
+jplug.io,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,1
+judgmentlabs.ai,dns@cloudflare.com,,dmarc@judgmentlabs.ai,,rejected,accepted,False,2
+july.com,awsdns-hostmaster@amazon.com,,dmarc@july.com,dmarc@july.com,rejected,accepted,False,5
+jumpseller.com,awsdns-hostmaster@amazon.com,,re+ruijhsobghe@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+junipergenomics.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+jurny.com,dns@jomax.net,,jurny@jurny.com,,rejected,accepted,False,6
+kadoa.com,hostmaster@registrar-servers.com,,,hello@kadoa.com,accepted(catch-all),accepted(catch-all),True,1
+kameobikes.com,tech@ovh.net,,,,accepted(catch-all),accepted(catch-all),True,1
+kapoq.com,dns@cloudflare.com,,itadmin@kapoq.com,,rejected,accepted,False,5
+kapptivate.com,tech@ovh.net,,,,rejected,accepted,False,5
+karmelcapital.com,cloud-dns-hostmaster@google.com,,,,accepted(catch-all),accepted(catch-all),True,2
+kashable.com,awsdns-hostmaster@amazon.com,security@kashable.com,5f7cfc2bd4@rua.easydmarc.us; postmaster@kashable.com,5f7cfc2bd4@ruf.easydmarc.us; postmaster@kashable.com,accepted(catch-all),accepted(catch-all),True,5
+katanamrp.com,dns@cloudflare.com,,0bdd9ad0f391563@rep.dmarcanalyzer.com,,accepted,rejected,False,1
+katara.ai,cloud-dns-hostmaster@google.com,,,,accepted,accepted,False,5
+kayzen.io,awsdns-hostmaster@amazon.com,,my_dmarc_report@kayzen.io,,rejected,accepted,False,5
+keeping.com,dns@cloudflare.com,,vincent@keeping.com,vincent@keeping.com,rejected,accepted,False,5
+kernel.ai,dns@cloudflare.com,,5230068e68014b5e90a8bbe8d90c656d@dmarc-reports.cloudflare.net; ymnfved4+9d785b86-60ce-4831-ad2e-2ee32daf2970@dmarceguard.com,,rejected,accepted,False,5
+kertos.io,awsdns-hostmaster@amazon.com,,d33a544ad9@rua.easydmarc.eu,d33a544ad9@ruf.easydmarc.eu,rejected,rejected,False,1
+kevel.com,awsdns-hostmaster@amazon.com,,ipma8z@ar.glockapps.com; 2471c57c@mxtoolbox.dmarc-report.com; ipma8z@fr.glockapps.com; 2471c57c@forensics.dmarc-report.com,,accepted,accepted,False,5
+keywordsai.co,cloud-dns-hostmaster@google.com,,,,accepted(catch-all),accepted(catch-all),True,2
+keywordtool.io,dns@cloudflare.com,,tech+dmarc@keywordtool.io,tech+dmarc@keywordtool.io,rejected,accepted,False,5
+kiingo.com,azuredns-hostmaster@microsoft.com,,dmarc@kiingo.com; re+ywjrrohc9zk@dmarc.postmarkapp.com,,rejected,rejected,False,1
+kime.ai,dns@cloudflare.com,,24eb64203e7e41f89cf41b686b7f28d8@dmarc-reports.cloudflare.net; team@kime.ai,,accepted(catch-all),accepted(catch-all),True,5
+kinesis.org,awsdns-hostmaster@amazon.com,,re+p4h6fbaibqv@dmarc.postmarkapp.com,,accepted,accepted,False,7
+kiosked.com,awsdns-hostmaster@amazon.com,,engineering@kiosked.com; c19abe33@mxtoolbox.dmarc-report.com,engineering@kiosked.com; c19abe33@forensics.dmarc-report.com,rejected,accepted,False,5
+kissterra.com,dns@cloudflare.com,,,,accepted,accepted,False,5
+kitabh.com,dns@cloudflare.com,,hello@kitabh.com,,accepted(catch-all),accepted(catch-all),True,3
+kive.ai,dns@cloudflare.com,,,,accepted,accepted,False,5
+kixie.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+klarytee.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,1
+klaviyo.com,awsdns-hostmaster@amazon.com,,dmarc+rua@klaviyo.com,dmarc+ruf@klaviyo.com,accepted(catch-all),accepted(catch-all),True,7
+kleer.se,hostmaster@mainloop.net,,dmarc@845ccr7h.uriports.com,dmarc@845ccr7h.uriports.com,rejected,rejected,False,1
+klubi.com.br,awsdns-hostmaster@amazon.com,,seguranca@klubi.com.br,seguranca@klubi.com.br,accepted,accepted,False,5
+knapsack.cloud,awsdns-hostmaster@amazon.com,,dmarc@knapsack.cloud; 8dzmg8yz88@reports.palisade.email,dmarc@knapsack.cloud,accepted,accepted,False,5
+knight-solutions.com,dns@cloudflare.com,,75f14d3852ca4963bc1ea2a8a0ea43eb@dmarc-reports.cloudflare.net; internalsecurity@knight-solutions.com,securityalerts@knight-solutions.com,rejected,rejected,False,1
+knock.app,dns@cloudflare.com,,dmarc-reports@knock.app; 32c73ad8ac1542e8b57c2b9188aa6515@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+knocommerce.com,hostmaster@knocommerce.com,,hello@knocommecrce.com,,accepted,accepted,False,5
+knotch.com,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,5
+knowledgegategroup.com,awsdns-hostmaster@amazon.com,,re+v3h7utw3suf@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+kogenta.com,azuredns-hostmaster@microsoft.com,,,,rejected,accepted,False,5
+konta.com,dns@cloudflare.com,,95aaccb0a26e43dc8604b3c592960d92@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+korefocus.ai,dns@cloudflare.com,,,,rejected,rejected,False,1
+kotzilla.io,hostmaster@gandi.net,,dmarc@kotzilla.io,,rejected,accepted,False,5
+kourawealth.co.nz,dns@cloudflare.com,,eyfae69z@ag.au.dmarcian.com,eyfae69z@fr.au.dmarcian.com,rejected,rejected,False,1
+kpicreatives.com,dns@cloudflare.com,,dmarc_rua@onsecureserver.net,,accepted(catch-all),accepted(catch-all),True,5
+kredfeed.com,dns@cloudflare.com,,soporte@kredfeed.com,,rejected,accepted,False,5
+kruncher.ai,azuredns-hostmaster@microsoft.com,,dmarc@kruncher.ai,dmarc@kruncher.ai,accepted(catch-all),accepted(catch-all),True,1
+kscope.io,hostmaster@registrar-servers.com,,dmarcreports@kscope.io,,rejected,rejected,False,1
+kubit.ai,awsdns-hostmaster@amazon.com,,aggr-dmarc@kubit.ai,forensic-dmarc@kubit.ai,accepted,accepted,False,5
+kuradashi.jp,awsdns-hostmaster@amazon.com,,dmarc-reports@kuradashi.jp,,rejected,accepted,False,5
+kynship.co,hostmaster@registrar-servers.com,,,,rejected,accepted,False,5
+lade.de,dns@hetzner.com,,,,rejected,rejected,False,1
+laferla.com.mt,dns@cloudflare.com,,admin@laferla.com.mt,,rejected,accepted,False,1
+lambdatest.com,dns@cloudflare.com,,quarantine@lambdatest.com,quarantine1@lambdatest.com,accepted,accepted,False,5
+landapp.com.br,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,1
+landstack.co.uk,awsdns-hostmaster@amazon.com,,dmarc_reports@landstack.co.uk,,accepted,accepted,False,5
+lansweeper.com,dns@cloudflare.com,,asbw3jmp@ag.eu.dmarcian.com,asbw3jmp@fr.eu.dmarcian.com,accepted,rejected,False,1
+lanterne.ai,hostmaster@registrar-servers.com,,dmarc@lanterne.ai,,rejected,accepted,False,5
+lasso.ai,awsdns-hostmaster@amazon.com,,re+zvmsm7189nv@dmarc.postmarkapp.com,,rejected,accepted,False,5
+lasso.security,awsdns-hostmaster@amazon.com,devops@lasso.security,dmarc@lasso.security,,accepted(catch-all),accepted(catch-all),True,5
+launchgood.com,awsdns-hostmaster@amazon.com,,my_dmarc_report@launchgood.com,,accepted(catch-all),accepted(catch-all),True,7
+lawtrades.com,dns@jomax.net,,,,accepted(catch-all),accepted(catch-all),True,5
+layer.team,cloud-dns-hostmaster@google.com,,,,accepted(catch-all),accepted(catch-all),True,5
+leadfeeder.com,awsdns-hostmaster@amazon.com,,07659b1c@mxtoolbox.dmarc-report.com; dmarc@lfeeder.uriports.com,07659b1c@forensics.dmarc-report.com; dmarc@lfeeder.uriports.com,accepted(catch-all),accepted(catch-all),True,5
+leanlabs.com,dns@cloudflare.com,,,,mx-unreachable,mx-unreachable,None,1
+leanmote.com,awsdns-hostmaster@amazon.com,,alex@leanmote.com,,rejected,accepted,False,5
+leanrs.com,hostmaster@registrar-servers.com,,,,rejected,rejected,False,1
+legalmike.ai,hostmaster@transip.nl,,spam@legalmike.ai,spam@legalmike.ai,accepted,accepted,False,5
+legroupenova.com,hostmaster@gandi.net,,dmarc@legroupenova.com,,rejected,code:-1,False,4
+leonardo.ai,awsdns-hostmaster@amazon.com,,dmarc@leonardo.ai,dmarc@leonardo.ai,accepted,accepted,False,5
+letterdrop.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+lev.com,awsdns-hostmaster@amazon.com,,review@lev.com,review@lev.com,accepted(catch-all),accepted(catch-all),True,1
+levels.fyi,dns@cloudflare.com,,zaheer+dmarc@levels.fyi,,rejected,accepted,False,5
+levelupgroup.nl,azuredns-hostmaster@microsoft.com,,dmarc46321@levelupgroup.nl; dmarc@smtpeter.com,dmarc46321@levelupgroup.nl,rejected,accepted,False,1
+leverest.net,awsdns-hostmaster@amazon.com,,obroszat@leverest.net,,accepted,accepted,False,5
+levno.com,awsdns-hostmaster@amazon.com,sysadmin@levno.com,dmarcreports@levno.com,,rejected,rejected,False,1
+levo.ai,cloud-dns-hostmaster@google.com,,dns-admins@levo.ai,,rejected,accepted,False,5
+lhdottie.com,dns@cloudflare.com,,dmarc_reports@lhdottie.com,,accepted,accepted,False,2
+lickd.co,awsdns-hostmaster@amazon.com,,dmarc@lickd.co,,rejected,accepted,False,5
+lightbase.co,dns@cloudflare.com,,92691d268d1441529647cd0505f89636@dmarc-reports.cloudflare.net,,rejected,accepted,False,1
+lightmetrics.co,awsdns-hostmaster@amazon.com,,dmarc@lightmetrics.co,,rejected,accepted,False,5
+lilt.com,cloud-dns-hostmaster@google.com,,69b07517@mxtoolbox.dmarc-report.com; dmarc@lilt.com,69b07517@forensics.dmarc-report.com; dmarc@lilt.com,accepted,accepted,False,5
+limacharlie.io,cloud-dns-hostmaster@google.com,,re+fe6e8ifdb2k@dmarc.postmarkapp.com,,accepted,accepted,False,5
+limbomusic.com,dns@cloudflare.com,,d7a593d440294f2c8e3db80fc78f7c95@dmarc-reports.cloudflare.net; fer@limbomusic.com,,rejected,accepted,False,5
+limelife.com,dns@cloudflare.com,,,,rejected,rejected,False,1
+liminal.co,dns@cloudflare.com,,,,rejected,accepted,False,5
+lindo.ai,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+link37.org,dns@cloudflare.com,,info@link37.org; rua@dmarc.brevo.com,info@link37.org,rejected,accepted,False,5
+linktr.ee,awsdns-hostmaster@amazon.com,,dmarc_agg@dmarc.everest.email; dmarc@linktr.ee,,accepted(catch-all),accepted(catch-all),True,5
+lions.co,awsdns-hostmaster@amazon.com,,937ab994@inbox.ondmarc.com; dmarc-reports@lions.co,937ab994@inbox.ondmarc.com; dmarc-reports@lions.co,temp-fail,temp-fail,False,2
+listalpha.com,dns@cloudflare.com,,dmarc-reports@listalpha.com,,accepted,rejected,False,1
+listenlabs.ai,hostmaster@registrar-servers.com,,postmaster@listenlabs.ai,postmaster@listenlabs.ai,accepted,accepted,False,5
+littlebird.ai,dns@cloudflare.com,,dmarc@littlebird.ai,,accepted,accepted,False,5
+liveplan.com,awsdns-hostmaster@amazon.com,,dmarc.4vtdymfxieogj93jkpjj@mail.suped.com,,rejected,accepted,False,5
+liverem.com,dns@jomax.net,,hello@liverem.com,,rejected,accepted,False,5
+liveseo.com.br,dns@cloudflare.com,,dmarc@liveseo.com.br,dmarc@liveseo.com.br,rejected,accepted,False,5
+llamaindex.ai,hostmaster@registrar-servers.com,,dmarc@llamaindex.ai,,accepted,accepted,False,1
+llexeter.co.uk,hostmaster@rackspace.com,,d3df0f77@dmarc.mailgun.org; d2645519@inbox.ondmarc.com; webmaster@llexeter.co.uk,d3df0f77@dmarc.mailgun.org; d2645519@inbox.ondmarc.com,accepted(catch-all),accepted(catch-all),True,1
+lnk.bio,dns@cloudflare.com,,dmarc@lnk.bio,,rejected,accepted,False,5
+loadshare.net,awsdns-hostmaster@amazon.com,,lsn-dmarc@loadshare.net,,rejected,accepted,False,6
+loadsmart.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+localfalcon.com,dns@cloudflare.com,,fce6cbed5cf6.a@dmarcinput.com,fce6cbed5cf6.f@dmarcinput.com,accepted(catch-all),accepted(catch-all),True,5
+locates.com.br,root@mi3-ss118.a2hosting.com,,dmarc@locates.com.br,dmarc@locates.com.br,rejected,rejected,False,2
+loft47.com,awsdns-hostmaster@amazon.com,,az4x3wjb@ag.ca.dmarcian.com; postmaster@loft47.com,,rejected,accepted,False,5
+logcomex.ai,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,1
+logic.inc,awsdns-hostmaster@amazon.com,,dmarc-report@logic.app,dmarc-report@logic.app,accepted(catch-all),accepted(catch-all),True,5
+logrocket.com,dns@cloudflare.com,,59da60b48057444582ce233bb90e3303@dmarc-reports.cloudflare.net; c9p3l8l1n3t5m3f1@apphub-team.slack.com,,accepted(catch-all),accepted(catch-all),True,5
+logto.io,dns@cloudflare.com,,18e7014184f44df4ae961762ff124b30@dmarc-reports.cloudflare.net,,accepted,accepted,False,5
+lokalise.com,awsdns-hostmaster@amazon.com,,re+d2xoo6uf3z9@dmarc.postmarkapp.com,,accepted,accepted,False,5
+lookback.io,awsdns-hostmaster@amazon.com,,dmarc_agg@vali.email,,accepted(catch-all),accepted(catch-all),True,5
+loopai.com,dns@cloudflare.com,,dmarc-reports@loopai.com,,accepted(catch-all),accepted(catch-all),True,5
+loopboard.io,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,3
+lorikeetcx.ai,dns@jomax.net,,postmaster@lorikeetcx.ai,,accepted,accepted,False,1
+lovepopcards.com,awsdns-hostmaster@amazon.com,,rua@dmarc.brevo.com,,rejected,accepted,False,5
+lulifama.com,dns@cloudflare.com,,dmarc@lulifama.com,dmarc-forense@lulifama.com,rejected,rejected,False,1
+lumar.io,awsdns-hostmaster@amazon.com,,security@lumar.io; dmarc@uc5jgb63.uriports.com,security@lumar.io; dmarc@uc5jgb63.uriports.com,accepted,accepted,False,5
+luminovo.com,dns@cloudflare.com,,ae028c2a5f754c539b5abb8817bc0927@dmarc-reports.cloudflare.net; 51183d5d10624158a72c538483b41c61@dmarc-reports.cloudflare.net; 2d69614e24@rua.easydmarc.eu; dmarc_agg@vali.email,2d69614e24@ruf.easydmarc.eu,accepted(catch-all),accepted(catch-all),True,5
+luminpdf.com,dns@cloudflare.com,,dmarc@luminpdf.com,,accepted,accepted,False,5
+lumonic.com,awsdns-hostmaster@amazon.com,,kevin@lumonic.com,kevin@lumonic.com,accepted(catch-all),accepted(catch-all),True,5
+lusha.com,awsdns-hostmaster@amazon.com,,e5f11c2159@rua.easydmarc.asia,e5f11c2159@ruf.easydmarc.asia,accepted(catch-all),accepted(catch-all),True,5
+mabl.com,cloud-dns-hostmaster@google.com,,1owkxmay@ag.us.dmarcian.com,dmarc-reports@mabl.com,accepted(catch-all),accepted(catch-all),True,5
+madelevator.com,namehost@WORLDNIC.com,,dmarc_agg@vali.email,,rejected,rejected,False,1
+maestrobrasil.ai,dns@cloudflare.com,,accounts@maestrowealth.ai,accounts@maestrowealth.ai,accepted(catch-all),accepted(catch-all),True,1
+maestrolabs.com,awsdns-hostmaster@amazon.com,,security@maestrolabs.com,,accepted,rejected,False,1
+magicpatterns.com,hostmaster@nsone.net,,,,accepted(catch-all),accepted(catch-all),True,5
+magicpost.in,dns@cloudflare.com,,rua@dmarc.brevo.com; naile.titah@magicpost.in,,accepted(catch-all),accepted(catch-all),True,5
+magnific.com,hostmaster@magnific.com,,security@magnific.com,,accepted(catch-all),accepted(catch-all),True,5
+mailersend.com,dns@cloudflare.com,,dmarc_agg@dmarc.250ok.net; rua-dev@tests.mailertest.com; rua@mailertest.com; rua@dmarc.mailertest.com,dmarc_fr@dmarc.250ok.net,accepted(catch-all),accepted(catch-all),True,6
+mailkit.com,hostmaster@mailkit.com,,pi1rqn5o@ag.dmarcian-eu.com; dmarc-rua@mailkit.com,,rejected,accepted,False,1
+mailmonitor.com,dns@cloudflare.com,,882df5@dmarcmntr.com,,accepted(catch-all),accepted(catch-all),True,5
+majans.com,dns@cloudflare.com,,marketing@majans.com,,rejected,rejected,False,1
+make.com,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,5
+manatal.com,dns@cloudflare.com,,e0610fbe@dmarc.mailgun.org; 680ead78@inbox.ondmarc.com; dmarc_agg@vali.email,e0610fbe@dmarc.mailgun.org; 680ead78@inbox.ondmarc.com,accepted,accepted,False,5
+maniv.com,dns@jomax.net,,,,rejected,accepted,False,5
+manossoftware.com,dns@cloudflare.com,,dmarc@manossoftware.com,dmarc@manossoftware.com,accepted(catch-all),accepted(catch-all),True,4
+manufact.com,dns@cloudflare.com,,dmarc@manufact.com,,accepted,accepted,False,5
+manus.im,awsdns-hostmaster@amazon.com,,postmaster@manus.im,,rejected,rejected,False,1
+mapbox.com,awsdns-hostmaster@amazon.com,,zhrzoh57@ag.dmarcian.com,zhrzoh57@fr.dmarcian.com,accepted,accepted,False,7
+marcura.com,dns@cloudflare.com,,7e90772cadc64591b2e42b6ab62f6f57@dmarc-reports.cloudflare.net; 5tk2dt9j@ag.dmarcian.com,5tk2dt9j@fr.dmarcian.com,rejected,rejected,False,2
+marketproof.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+marketxls.com,awsdns-hostmaster@amazon.com,,dmarc@marketxls.com,,rejected,accepted,False,5
+marq.com,awsdns-hostmaster@amazon.com,,re+zfwssad71xs@dmarc.postmarkapp.com; dmarc_agg@vali.email,,accepted,accepted,False,5
+marqii.com,awsdns-hostmaster@amazon.com,,postmaster@marqii.com,postmaster@marqii.com,accepted(catch-all),accepted(catch-all),True,5
+martecko.com,dns@hostinger.com,,,,rejected,accepted,False,1
+marvinrecruiter.com,cloud-dns-hostmaster@google.com,,,,rejected,accepted,False,5
+masters.vc,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+matador.ai,awsdns-hostmaster@amazon.com,,ab7c0c449f@rua.easydmarc.us,ab7c0c449f@ruf.easydmarc.us,accepted,accepted,False,5
+materialsmarket.com,dns@cloudflare.com,,15277b3b68fb45178dc18d69c55dd247@dmarc-reports.cloudflare.net; dmarc@materialsmarket.com,,accepted(catch-all),accepted(catch-all),True,5
+matik.io,awsdns-hostmaster@amazon.com,,dmarc@matik.io,,accepted,accepted,False,6
+maxhealth.tech,dns@cloudflare.com,,1933f2da742e460688a9bd700f277a2a@dmarc-reports.cloudflare.net,,rejected,rejected,False,1
+maya-pci.com,hostmaster@infomaniak.ch,,dmarc@okam.ch,dmarc@okam.ch,rejected,rejected,False,1
+mdcdatacenters.com,dns@jomax.net,,it@mdcdatacenters.com,it@mdcdatacenters.com,rejected,accepted,False,5
+mdgsolutions.com,dns@cloudflare.com,,dmarc@mdgadvertising.com; dmarc@mail.brandamplifi.com,,rejected,accepted,False,5
+me-qr.com,dns@cloudflare.com,,postmaster@me-qr.com; dmarc@me-qr.com,,rejected,rejected,False,1
+me.sh,dns@cloudflare.com,,452725f301244869a0d36289e94801c5@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+meandu.com,dns@jomax.net,,dmarc@meandu.com,,accepted(catch-all),accepted(catch-all),True,5
+measured.com,dns@jomax.net,,jeyo.sargunam@measured.com,jeyo.sargunam@measured.com,accepted,accepted,False,5
+mebot.ai,hostmaster@registrar-servers.com,,,,rejected,accepted,False,5
+mechanism.com,admin@dnsimple.com,,dmarc@mechanismventures.uriports.com,dmarc@mechanismventures.uriports.com,accepted(catch-all),accepted(catch-all),True,5
+medasystems.com,awsdns-hostmaster@amazon.com,,dmarc@medasystems.com,,accepted(catch-all),accepted(catch-all),True,5
+mediafly.com,awsdns-hostmaster@amazon.com,,7f2fed35-675b-4b29-9d0b-4eea4cf5a97d@rep.usb.mimecastdmarcanalyzer.com,,accepted(catch-all),accepted(catch-all),True,5
+mediamath.com,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,1
+mee6.xyz,dns@cloudflare.com,,noreply@mee6.xyz,,accepted,accepted,False,5
+meetgeek.ai,dns@cloudflare.com,,app@meetgeek.ai,app@meetgeek.ai,accepted,accepted,False,6
+meetjamie.ai,dns@cloudflare.com,,e41e5d00f0f048dc9b16c15fecbcadd4@dmarc-reports.cloudflare.net; dmarc@meetjamie.ai,,accepted,accepted,False,5
+meetmable.com,awsdns-hostmaster@amazon.com,,re+wxbu8wcco5q@dmarc.postmarkapp.com,,rejected,accepted,False,5
+meetminutes.in,dns@cloudflare.com,,dmarc@meetminutes.in,dmarc@meetminutes.in,accepted(catch-all),accepted(catch-all),True,7
+meetsquad.ai,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,2
+meetup.com,awsdns-hostmaster@amazon.com,,reports@dmarc.bendingspoons.com,,accepted,accepted,False,1
+meikai.ai,root@REGISTER.COM,,postmaster@meikai.ai,postmaster@meikai.ai,rejected,accepted,False,1
+mellow.io,dns@cloudflare.com,,c8890f40@dmarc.mailgun.org; 9edb9e29@inbox.ondmarc.com,c8890f40@dmarc.mailgun.org; 9edb9e29@inbox.ondmarc.com,accepted(catch-all),accepted(catch-all),True,6
+mem.ai,ADMIN@mem.ai,,dmarc-reports@mem.ai,,rejected,accepted,False,6
+memberspot.de,cloud-dns-hostmaster@google.com,,,,rejected,accepted,False,5
+memberstack.com,dns@cloudflare.com,,re+709b9601d434@inbound.dmarcdigests.com,,rejected,accepted,False,5
+mendo.cloud,dns@cloudflare.com,,,,rejected,rejected,False,1
+mentatech.io,hostmaster@registrar-servers.com,,,,rejected,accepted,False,5
+mentionlab.io,dns@cloudflare.com,,b628e7b0681b45bb9a81e867c3ce4ac5@dmarc-reports.cloudflare.net; rua@dmarc.brevo.com,,accepted(catch-all),accepted(catch-all),True,1
+mentionlytics.com,dns@jomax.net,,ipm433d@ar.glockapps.com,ipm433d@fr.glockapps.com; administrator@mentionlytics.com,rejected,accepted,False,5
+meow.com,awsdns-hostmaster@amazon.com,,2d4c5ba4@in.mailhardener.com,2d4c5ba4@in.mailhardener.com,accepted,accepted,False,5
+merchtable.com,hostmaster@merchtable.com,,,,rejected,accepted,False,5
+mercury.com,dns@cloudflare.com,,dmarc@mercury.com; re+ac48b2a73018@inbound.dmarcdigests.com,,accepted(catch-all),accepted(catch-all),True,5
+mesmer.co,awsdns-hostmaster@amazon.com,,postmaster@mesmer.co; dmarc@mesmer.co,,accepted,accepted,False,1
+messari.io,dns@cloudflare.com,,dmarc@messari.io,dmarc@messari.io,rejected,accepted,False,5
+meteomatics.com,support@uvensys.de,,dmarc@meteomatics.com; dmarc@109hy5jj.uriports.com,dmarc@109hy5jj.uriports.com,accepted,accepted,False,5
+micador.com.au,hostmaster@partnerconsole.net,,,,accepted,rejected,False,1
+middesk.com,cloud-dns-hostmaster@google.com,,dmarc-reports@middesk.com,,accepted,accepted,False,5
+milemaker.com,awsdns-hostmaster@amazon.com,,,,accepted,rejected,False,1
+millistream.com,tech@millistream.com,,,,accepted(catch-all),accepted(catch-all),True,5
+millow.co,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+minicoursegenerator.com,dns@cloudflare.com,,cd9773cd748945a8a7ba64f479399f91@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+minicrm.hu,awsdns-hostmaster@amazon.com,,dmarc@minicrm.email,,accepted(catch-all),accepted(catch-all),True,1
+minicrm.ro,awsdns-hostmaster@amazon.com,,dmarc@minicrm.email,,accepted(catch-all),accepted(catch-all),True,1
+mintlify.com,dns@cloudflare.com,,dmarc-reports@mintlify.com,,accepted(catch-all),accepted(catch-all),True,5
+minubo.com,awsdns-hostmaster@amazon.com,,postmaster@minubo.com,,rejected,accepted,False,5
+miramis.co,awsdns-hostmaster@amazon.com,,reports@miramis.co,,rejected,accepted,False,1
+miro.com,awsdns-hostmaster@amazon.com,admin@miro.com; security@miro.com,dmarcreports@miro.com,dmarcreports@miro.com,accepted,accepted,False,5
+mitsiomotu.com,tech@ovh.net,,,,mx-unreachable,mx-unreachable,None,3
+mixmax.com,awsdns-hostmaster@amazon.com,,dmarc-reports@mixmax.com,dmarc-reports@mixmax.com,accepted,accepted,False,5
+mkt1.co,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+mobile-text-alerts.com,awsdns-hostmaster@amazon.com,,dmarc_agg@vali.email,dmarc_agg@vali.email,accepted(catch-all),accepted(catch-all),True,4
+modoenergy.com,awsdns-hostmaster@amazon.com,,dmytro@modoenergy.com; tim@modoenergy.com; re+ojoo8orvela@dmarc.postmarkapp.com,,accepted,accepted,False,5
+mogul.club,awsdns-hostmaster@amazon.com,,dmarc@mogul.club,,accepted(catch-all),accepted(catch-all),True,5
+momentumamp.com,dns@cloudflare.com,,,,rejected,accepted,False,1
+monest.com.br,awsdns-hostmaster@amazon.com,cyber@monest.com.br,paulo.assis@monest.com.br,paulo.assis@monest.com.br,accepted,accepted,False,5
+montai.com,awsdns-hostmaster@amazon.com,,postmaster@montai.com; dmarc@montai.com,,temp-fail,temp-fail,False,2
+moodys.com,wwwadmin@misqm.com,,moodys@rua.agari.com,moodys@ruf.agari.com,accepted,rejected,False,2
+moonlit.ai,dns@cloudflare.com,,,,rejected,accepted,False,5
+moovel.com,awsdns-hostmaster@amazon.com,,7b476b183ee8186@rep.dmarcanalyzer.com,7b476b183ee8186@for.dmarcanalyzer.com,accepted,accepted,False,5
+morganastudios.com,hostmaster@ns10.servicio-online.net,,,,rejected,rejected,False,1
+morgans.com.au,dns@cloudflare.com,,867e83d885c14f7393652c76c9ffb8aa@dmarc-reports.cloudflare.net,,accepted,accepted,False,1
+morningscore.io,dns@cloudflare.com,,4f5e4e3bbf924d6089b518d0f0668ca4@dmarc-reports.cloudflare.net; rua@dmarc.brevo.com,,rejected,accepted,False,6
+morningstar.com,domainadmin@morningstar.com,,dmarc_rua@emaildefense.proofpoint.com,dmarc_ruf@emaildefense.proofpoint.com,accepted,accepted,False,1
+motra.com,cloud-dns-hostmaster@google.com,,dmarc_agg@vali.email,,rejected,accepted,False,1
+msci.com,premiumdns@support.neustar,internetadmin@msci.com,capture.dmarc@msci.com; dmarc_agg@vali.email,,accepted,accepted,False,2
+mscience.com,dns@cloudflare.com,,dmarc_rua@emaildefense.proofpoint.com,dmarc_ruf@emaildefense.proofpoint.com,accepted(catch-all),accepted(catch-all),True,2
+mudstack.com,awsdns-hostmaster@amazon.com,,dmarc@mudstack.com,,rejected,accepted,False,5
+musicinfra.com,awsdns-hostmaster@amazon.com,,dmarc-reports@musicinfra.com,,rejected,accepted,False,1
+musixmatch.com,awsdns-hostmaster@amazon.com,,dmarc@musixmatch.com,,accepted,accepted,False,5
+mutinyhq.com,awsdns-hostmaster@amazon.com,,re+f5f58d4734c0@inbound.dmarcdigests.com; dmarc-reports@mutinyhq.com,,accepted,accepted,False,5
+mutual.app,dns@cloudflare.com,,tyler@mutual.app,,accepted(catch-all),accepted(catch-all),True,5
+mydevices.com,awsdns-hostmaster@amazon.com,,re+anj3ivj1uja@dmarc.postmarkapp.com,,accepted,accepted,False,5
+mymeet.ai,dns@jomax.net,,hello@mymeet.ai,,rejected,accepted,False,6
+myn.co.uk,awsdns-hostmaster@amazon.com,,a.w3y7vhv9@sdmarc.net,,rejected,rejected,False,1
+myop.dev,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,1
+mypureinsights.com,dns@jomax.net,,dmarc-reports@mypureinsights.com,,mx-unreachable,mx-unreachable,None,2
+myswimpro.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+n3xt.io,dns@cloudflare.com,infosec@n3xt.io,02f994933bc24458a549893ae5c551f8@dmarc-reports.cloudflare.net; f0101015@dmarc.mailgun.org; dmarc-reports@n3xt.io,f0101015@dmarc.mailgun.org,accepted,accepted,False,1
+namauu.com,dns@jomax.net,,,,accepted,rejected,False,1
+nanonets.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+napta.io,awsdns-hostmaster@amazon.com,,rua@dmarc.brevo.com,,accepted,accepted,False,5
+narrative.io,awsdns-hostmaster@amazon.com,,re+ybdb30dqofd@dmarc.postmarkapp.com,,accepted,accepted,False,5
+native.security,awsdns-hostmaster@amazon.com,,dmarc@native.security; dmarc-reports@native.security,dmarc@native.security,rejected,accepted,False,1
+nativo.com,awsdns-hostmaster@amazon.com,,rua+nativo.com@dmarc.barracudanetworks.com,ruf+nativo.com@dmarc.barracudanetworks.com,accepted,accepted,False,1
+natura.io,dns@cloudflare.com,,f2e4283266424843b1bf728f8c2c9d4c@dmarc-reports.cloudflare.net,,accepted,accepted,False,5
+navan.com,dns@cloudflare.com,sre+cert@navan.com,8dba3e9ad02a.a@dmarcinput.com,8dba3e9ad02a.f@dmarcinput.com,accepted(catch-all),accepted(catch-all),True,5
+nclarity.com,azuredns-hostmaster@microsoft.com,,,,accepted,accepted,False,5
+nebuly.com,azuredns-hostmaster@microsoft.com,,rua@nebuly.ai,ruf@nebuly.ai,mx-unreachable,mx-unreachable,None,1
+needl.ai,dns@cloudflare.com,,,,rejected,accepted,False,5
+nekt.com,awsdns-hostmaster@amazon.com,,dmarc@nekt.com,dmarc@nekt.com,rejected,accepted,False,1
+netradyne.com,awsdns-hostmaster@amazon.com,,soc@netradyne.com; dmarc_agg@dmarc.everest.email,dmarc_fr@dmarc.everest.email,accepted(catch-all),accepted(catch-all),True,2
+netrefer.com,infraeng@netrefer.com,,rua+netrefer.com@dmarc.barracudanetworks.com,,rejected,rejected,False,1
+neurosity.co,hostmaster@nsone.net,,,,accepted(catch-all),accepted(catch-all),True,5
+neutroon.com,awsdns-hostmaster@amazon.com,,info@neutroon.com,,rejected,accepted,False,5
+nevados.solar,dns@cloudflare.com,,8bfda4e4299f493e9a7dd03434f99b21@dmarc-reports.cloudflare.net,,rejected,rejected,False,1
+nevent.ai,awsdns-hostmaster@amazon.com,,,,rejected,rejected,False,2
+newbrandmedia.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+newsleopard.com,awsdns-hostmaster@amazon.com,,rd@newsleopard.com,,rejected,accepted,False,7
+newstex.com,awsdns-hostmaster@amazon.com,,dmarc-reports@reports.newstex.us,,accepted(catch-all),accepted(catch-all),True,5
+nex.ai,awsdns-hostmaster@amazon.com,security@nex.ai,dmarc@nex.ai,dmarc@nex.ai,accepted,accepted,False,5
+nexcpg.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+nextdocs.io,cloud-dns-hostmaster@google.com,,,,rejected,accepted,False,5
+nexyo.io,hostmaster@1und1.com,,rua@dmarc.brevo.com,,rejected,rejected,False,1
+nirvanahq.com,awsdns-hostmaster@amazon.com,,re+zjgbogmmizz@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+nocfo.io,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+noma.security,awsdns-hostmaster@amazon.com,,security.email@nomasec.com; 9f32038cc8@rua.easydmarc.asia,security.email@nomasec.com; 9f32038cc8@ruf.easydmarc.asia,accepted,accepted,False,1
+nostra.ai,dns@cloudflare.com,,dmarc@nostra.ai,,accepted,accepted,False,6
+notebook.agency,dns@cloudflare.com,,rua@dmarc.brevo.com,,accepted(catch-all),accepted(catch-all),True,5
+novatalent.com,awsdns-hostmaster@amazon.com,,tech@novatalent.com,,accepted,accepted,False,5
+novatech.com.ar,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,1
+noviams.com,dns@jomax.net,,dmarc_agg@vali.email,demarc_reports@noviams.com,accepted,rejected,False,1
+novoplan.com.au,dns@cloudflare.com,,070e516d799c426882c940de5b7c5e65@dmarc-reports.cloudflare.net,,accepted,rejected,False,1
+novopsych.com,dns@cloudflare.com,,org_bc9a1326419522@reports.verifydmarc.com,,accepted(catch-all),accepted(catch-all),True,5
+nue.io,dns@cloudflare.com,,nue.admin@nue.io,,accepted,accepted,False,5
+nueveonce.com,dns@cloudflare.com,,dmarc_report@nueveonce.com,,rejected,accepted,False,5
+nuwapen.com,hostmaster@registrar-servers.com,,,,accepted(catch-all),accepted(catch-all),True,5
+nvoip.com.br,dns@cloudflare.com,,8fc4b1fb@mxtoolbox.dmarc-report.com,8fc4b1fb@forensics.dmarc-report.com,accepted(catch-all),accepted(catch-all),True,5
+nyquistai.com,dns@jomax.net,,service@nyquistai.com,,accepted(catch-all),accepted(catch-all),True,5
+obat.fr,hostmaster@nsone.net,,,,accepted,accepted,False,5
+octavehq.com,awsdns-hostmaster@amazon.com,,dmarc-reports@octavehq.com,,accepted(catch-all),accepted(catch-all),True,5
+octolane.com,dns@cloudflare.com,,137a9c35b4ac4d43802fa80dcce919e7@dmarc-reports.cloudflare.net,security@octolane.com,accepted,accepted,False,5
+octoparse.com,hostmaster@hichina.com,,lijiaxuan@octoparse.com,lijiaxuan@octoparse.com,accepted(catch-all),accepted(catch-all),True,2
+octorate.com,f.scuppa@octorate.com,,dmarc@wkey.it,dmarc@wkey.it,mx-unreachable,mx-unreachable,None,1
+oktopost.com,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,3
+oliverslabels.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+omnea.co,awsdns-hostmaster@amazon.com,,dmarc.rua@omnea.co,,accepted,accepted,False,7
+omnicasa.com,dns@cloudflare.com,,re+ap93oirwjfi@dmarc.postmarkapp.com,,rejected,rejected,False,1
+omnivio.io,awsdns-hostmaster@amazon.com,,controltower@omnivio.io,controltower@omnivio.io,rejected,accepted,False,5
+oncrawl.com,cloud-dns-hostmaster@google.com,,dmarc-reports@oncrawl.com,,accepted,accepted,False,5
+oneassessment.com,dns@cloudflare.com,,e9490ff1@dmarc.mailgun.org; a5112efd@inbox.ondmarc.com; dmarc@oneassessment.com,e9490ff1@dmarc.mailgun.org; a5112efd@inbox.ondmarc.com,accepted(catch-all),accepted(catch-all),True,5
+onepage.io,dns@cloudflare.com,,security@onepage.io,,accepted,accepted,False,5
+onepay.com,dns@cloudflare.com,,dmarc-reports@one.app; 1944661afd@rua.easydmarc.us,dmarc-reports@one.app; 1944661afd@ruf.easydmarc.us,accepted(catch-all),accepted(catch-all),True,3
+onfrontiers.com,awsdns-hostmaster@amazon.com,,platform.tpi@onfrontiers.com,,rejected,accepted,False,1
+onlc.com,dns@cloudflare.com,,re+xqypzfclrzl@inbound.dmarcdigests.com,,rejected,temp-fail,False,6
+onlook.com,dns@cloudflare.com,,,,rejected,accepted,False,1
+onlycat.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+ontra.ai,dns@cloudflare.com,,13ceb290350648ae82850bc186be769a@dmarc-reports.cloudflare.net; dmarc_agg@dmarc.everest.email,dmarc_fr@dmarc.everest.email,accepted,accepted,False,5
+ontraport.com,awsdns-hostmaster@amazon.com,,o1xgqpdw@ag.dmarcian.com; abusedesk@ontraport.com,abusedesk@ontraport.com,accepted,accepted,False,4
+onyxplatform.com,awsdns-hostmaster@amazon.com,,,nhoward@onyxplatform.com,accepted,rejected,False,1
+oort.io,awsdns-hostmaster@amazon.com,,accounts+dmarc-agg@oort.io,accounts+dmarc-forensic@oort.io,rejected,accepted(catch-all),True,5
+openbridge.com,awsdns-hostmaster@amazon.com,,support@openbridge.com,support@openbridge.com,rejected,accepted,False,5
+openfunnel.dev,dns@cloudflare.com,,,,rejected,accepted,False,2
+operating.app,hostmaster@registrar-servers.com,,v53uorn2@ag.eu.dmarcadvisor.com,,accepted,accepted,False,1
+opquast.com,hostmaster@gandi.net,,dmarc-reports@opquast.com,dmarc-reports@opquast.com,rejected,accepted,False,7
+optimizedpayments.com,dns@cloudflare.com,,2c7bf9b3250941f4b6624472f1e0a0c3@dmarc-reports.cloudflare.net; 95ff1ea6@mxtoolbox.dmarc-report.com,95ff1ea6@forensics.dmarc-report.com,accepted,rejected,False,1
+optimizely.com,dns@cloudflare.com,,dmarc@optimizely.com; dmarc_agg@vali.email,,rejected,rejected,False,2
+optionsamurai.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,7
+orbb.com,dns@cloudflare.com,security@orbb.com,e0115fd119714cffb5fdd9d01a8d4a96@dmarc-reports.cloudflare.net; dmarc@orbb.com,,accepted,accepted,False,5
+orbitfin.ai,dns@cloudflare.com,,6fda2776961743d4bcff0bd199206506@dmarc-reports.cloudflare.net; no-reply@orbitintel.com,no-reply@orbitintel.com,accepted(catch-all),accepted(catch-all),True,1
+orilearning.com,dns@cloudflare.com,,144f68b8fa214164a41c3a38bb06ce66@dmarc-reports.cloudflare.net; ddbc410410@rua.easydmarc.us,ddbc410410@ruf.easydmarc.us,accepted(catch-all),accepted(catch-all),True,5
+orus-energy.com,hostmaster@registrar-servers.com,,,,rejected,accepted,False,5
+osome.com,awsdns-hostmaster@amazon.com,,re+bwoibyn8udg@dmarc.postmarkapp.com,,accepted,accepted,False,5
+otelai.com,awsdns-hostmaster@amazon.com,,dmarc-reports@otelai.com,,accepted(catch-all),accepted(catch-all),True,1
+otocrm.com.br,dns@cloudflare.com,,leonardo@otocrm.com.br,,rejected,accepted,False,5
+otter.ai,awsdns-hostmaster@amazon.com,,dmarc-reports@otter.ai,,accepted,accepted,False,5
+ottimate.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+ottit.com,dns@cloudflare.com,,saman@ottit.com,,rejected,accepted,False,5
+overfuel.com,awsdns-hostmaster@amazon.com,,dmarc_agg@vali.email,,accepted,accepted,False,5
+overmatch.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,1
+ovintiv.com,hostmaster@ovintiv.com,,dmarc_rua@emaildefense.proofpoint.com,dmarc_ruf@emaildefense.proofpoint.com,accepted(catch-all),accepted(catch-all),True,2
+ovrsea.com,awsdns-hostmaster@amazon.com,,re+8a532a7aaa83@inbound.dmarcdigests.com,,rejected,accepted,False,5
+owlvc.com,dns@cloudflare.com,,e2890027@inbox.ondmarc.com; re+omykutnxpon@dmarc.postmarkapp.com,e2890027@inbox.ondmarc.com; forensicreports@owlvc.com,accepted(catch-all),accepted(catch-all),True,2
+ownright.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+oxit.com,dns@cloudflare.com,,dmarc@oxit.com,,accepted(catch-all),accepted(catch-all),True,1
+pacelabs.com,dns@cloudflare.com,,mqhsrgun@ag.dmarcian.com,mqhsrgun@fr.dmarcian.com,accepted,rejected,False,1
+packman.ai,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+pagerduty.com,hostmaster@pagerduty.com,ssl-tls-certificates-caa-iodef-report.r4785y6f@pdt-circular.pagerduty.com,dmarc_agg@vali.email,,accepted(catch-all),accepted(catch-all),True,5
+pagos.ai,awsdns-hostmaster@amazon.com,,dmarc-report@pagos.ai,,accepted,accepted,False,5
+pai.com,dns@cloudflare.com,,17f103c4893549f3a395bb998fce0706@dmarc-reports.cloudflare.net,,rejected,rejected,False,1
+pandadoc.com,awsdns-hostmaster@amazon.com,,ae373a42@inbox.ondmarc.com,ae373a42@inbox.ondmarc.com,accepted,accepted,False,5
+papermill.io,hostmaster@registrar-servers.com,,dmarc-reports@papermill.io,,accepted(catch-all),accepted(catch-all),True,5
+pappers.fr,dns@cloudflare.com,,dmarc@pappers.fr,,rejected,accepted,False,5
+parcllabs.com,awsdns-hostmaster@amazon.com,,dmarc@parcllabs.com,,accepted(catch-all),accepted(catch-all),True,5
+parkable.com,dnsmaster@hover.com,,dmarc@parkable.com,,accepted,accepted,False,5
+parqet.com,dns@cloudflare.com,,re+432647bd2f9f@inbound.dmarcdigests.com,,rejected,accepted,False,5
+particl.com,dns@cloudflare.com,,dmarc@particl.com,,accepted(catch-all),accepted(catch-all),True,6
+passcreator.com,support@mittwald.de,,webmaster@passcreator.com,,rejected,rejected,False,1
+patch.io,awsdns-hostmaster@amazon.com,,6b31c78d44@rua.easydmarc.us; dmarc@patch.io,dmarc@patch.io,accepted,accepted,False,5
+patentfield.com,dns@cloudflare.com,,dmarc@patentfield.com,,accepted(catch-all),accepted(catch-all),True,6
+patentmaker.eu,postmaster@your-server.de,,,,accepted,rejected,False,1
+pateo.com.cn,hostmaster@hichina.com,,dmarc_report@263.net,dmarc@263.net,rejected,rejected,False,2
+patiobatel.com.br,dns@cloudflare.com,,dmarc@patiobatel.com.br,dmarc@patiobatel.com.br,rejected,rejected,False,1
+patitasco.com,dns@cloudflare.com,,hola@patitasco.com,,rejected,accepted,False,5
+paubox.com,awsdns-hostmaster@amazon.com,security@paubox.com,re+b0f4573a657b@inbound.dmarcdigests.com,,rejected,rejected,False,1
+pavefi.com,dns@jomax.net,,dmarc@8y4anbst.uriports.com,dmarc@8y4anbst.uriports.com,accepted,accepted,False,1
+paymob.com,awsdns-hostmaster@amazon.com,,dmarc@paymob.com,,accepted(catch-all),accepted(catch-all),True,3
+payouts.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+paytrail.com,dns@cloudflare.com,,,,rejected,rejected,False,1
+paywall.one,dns@cloudflare.com,,,,rejected,accepted,False,5
+paywithlocus.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+pdf.net,dns@cloudflare.com,,ipm7ht9@ar.glockapps.com; gzi4cuqq@ag.us.dmarcian.com,ipm7ht9@fr.glockapps.com,accepted(catch-all),accepted(catch-all),True,5
+peakmetrics.com,dns@cloudflare.com,,,,accepted,accepted,False,5
+pearl.com,dns@cloudflare.com,,,,rejected,rejected,False,1
+pearldiver.io,awsdns-hostmaster@amazon.com,,a.ftkus35w@sdmarc.net; 5a7dabcd@mxtoolbox.dmarc-report.com,5a7dabcd@forensics.dmarc-report.com,rejected,rejected,False,1
+pelcro.com,dns@cloudflare.com,,dmarc@pelcro.com,,accepted,accepted,False,5
+people.ai,awsdns-hostmaster@amazon.com,,admin@people.ai,,accepted(catch-all),accepted(catch-all),True,5
+peq.ai,hostmaster@registrar-servers.com,,,,rejected,accepted,False,5
+perdoo.com,awsdns-hostmaster@amazon.com,,re+fv7gbsow95f@inbound.dmarcdigests.com,,accepted,accepted,False,5
+perfai.ai,dns@jomax.net,,intesar@perfai.ai,,mx-unreachable,mx-unreachable,None,3
+pga.com,awsdns-hostmaster@amazon.com,,pgadmarcemail@pga.com,,accepted(catch-all),accepted(catch-all),True,5
+photoncommerce.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+photoroom.com,dns@cloudflare.com,,re+ada416d0ca8d@inbound.dmarcdigests.com,,accepted,accepted,False,5
+pickfu.com,dns@cloudflare.com,,re+h0wzhi33vgu@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,7
+pin.com,dns@cloudflare.com,,c2a851396ba449cda35ecbfd82ce9eea@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+pinegap.ai,dns@hostinger.com,,deepakiitorai@gmail.com,deepakiitorai@gmail.com,accepted(catch-all),accepted(catch-all),True,1
+piperai.com,cloud-dns-hostmaster@google.com,,dmarc-reports@piperai.com,,accepted,accepted,False,5
+pixa.com,dns@cloudflare.com,,d1399c44c78e4b28bb8bae12a801405e@dmarc-reports.cloudflare.net; re+e0f4137a09bf@inbound.dmarcdigests.com,,accepted(catch-all),accepted(catch-all),True,5
+placester.com,awsdns-hostmaster@amazon.com,,re+adxozqjhjmz@dmarc.postmarkapp.com; dmarc_agg@vali.email,,accepted(catch-all),accepted(catch-all),True,5
+planable.io,dns@cloudflare.com,,cbff57cf5f6541a8bdc2e91ffffcf57a@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+planprophet.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+plotline.so,dns@cloudflare.com,,erik@plotline.so; adarsh@plotline.so; erik@plotline.so,erik@plotline.so; adarsh@plotline.so; erik@plotline.so,accepted,accepted,False,5
+plusai.com,awsdns-hostmaster@amazon.com,,dmarc_agg@vali.email,dmarc_agg@vali.email,accepted(catch-all),accepted(catch-all),True,1
+pocketsmith.com,dns@cloudflare.com,,postmaster@pocketsmith.com,,accepted(catch-all),accepted(catch-all),True,7
+podio.com,awsdns-hostmaster@amazon.com,,c503e53751ee581@rep.dmarcanalyzer.com,c503e53751ee581@for.dmarcanalyzer.com,accepted,accepted,False,7
+podpage.com,dns@cloudflare.com,,1e4ac5cf5a7447c4810c4e5548a4d2cc@dmarc-reports.cloudflare.net; re+011278f9ddb9@inbound.dmarcdigests.com,,accepted(catch-all),accepted(catch-all),True,5
+point-topic.com,namehost@WORLDNIC.com,,,,rejected,rejected,False,3
+pointfive.co,dns@cloudflare.com,security@pointfive.co,c33efd190fdb44d090de8cc8c8047d4f@dmarc-reports.cloudflare.net; security@pointfive.co,,accepted(catch-all),accepted(catch-all),True,2
+polytomic.com,awsdns-hostmaster@amazon.com,,contact@polytomic.com,,rejected,accepted,False,5
+pop.in,dns@cloudflare.com,,,,rejected,accepted,False,5
+portao3.com.br,dns@cloudflare.com,,4759218889774ee1884cdc87c3f4d0ae@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+portkey.ai,dns@cloudflare.com,,15b62c74b7214692924c35bf0f4a78ca@dmarc-reports.cloudflare.net; mailmaster@portkey.ai,,rejected,accepted,False,5
+postmypost.io,dns@cloudflare.com,,,,rejected,rejected,False,1
+powernaut.io,cloud-dns-hostmaster@google.com,,dmarc@inbound.flowmailer.net; dmarc_agg@vali.email,,rejected,accepted,False,5
+powersupportpartners.com,dns@cloudflare.com,,dmarc-reports@powersupportpartners.com,,rejected,rejected,False,1
+powtoon.com,awsdns-hostmaster@amazon.com,,1qyixkmi@ag.eu.dmarcian.com,1qyixkmi@fr.eu.dmarcian.com,accepted(catch-all),accepted(catch-all),True,5
+pragma.com.co,awsdns-hostmaster@amazon.com,,administrador@pragma.com.co,,accepted,accepted,False,5
+praiz.io,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+pramata.com,awsdns-hostmaster@amazon.com,,dmarc-reports@pramata.com,demarc-failure-reports@pramata.com,rejected,accepted,False,7
+praxi.io,dns@cloudflare.com,,jameskinda@praxi.io,,rejected,accepted,False,5
+predactiv.com,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,5
+predicthq.com,awsdns-hostmaster@amazon.com,,mailauth-reports@predicthq.com,,accepted,accepted,False,5
+prepared.app,hostmaster@registrar-servers.com,,,,rejected,rejected,False,1
+preppr.ai,dns@jomax.net,,,,rejected,accepted,False,5
+prescriberpoint.com,azuredns-hostmaster@microsoft.com,,dmarc_reports@prescriberpoint.com,,accepted(catch-all),accepted(catch-all),True,5
+presien.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+pricehubble.com,cloud-dns-hostmaster@google.com,,security@pricehubble.com,,accepted,accepted,False,5
+pricelabs.co,dns@cloudflare.com,,ipm6oj6@ar.glockapps.com,ipm6oj6@fr.glockapps.com,rejected,accepted,False,5
+pricetime.co,support@wix.com,,,,rejected,rejected,False,1
+prima.ai,awsdns-hostmaster@amazon.com,,c7d60f42@dmarc.mailgun.org; 4e0d04b2@inbox.ondmarc.com,c7d60f42@dmarc.mailgun.org; 4e0d04b2@inbox.ondmarc.com,rejected,accepted,False,5
+primum.co,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,5
+print.com,awsdns-hostmaster@amazon.com,,re+fae695093467@inbound.dmarcdigests.com,,rejected,rejected,False,1
+printmailsolutions.com,dns@jomax.net,,f0dmbckn@ag.us.dmarcian.com; rua+printmailsolutions.com@dmarc.barracudanetworks.com,ruf+printmailsolutions.com@dmarc.barracudanetworks.com,accepted(catch-all),accepted(catch-all),True,2
+prismic.io,awsdns-hostmaster@amazon.com,,dmarc-reports@prismic.io,,accepted,accepted,False,5
+prixuserp.com,dns@digicertdns.com,,dmarc@prixuserp.com,,mx-unreachable,mx-unreachable,None,1
+prizm-energy.com,dns@jomax.net,,,,rejected,rejected,False,1
+product.ai,dns@cloudflare.com,,postmaster@product.ai,,accepted(catch-all),accepted(catch-all),True,5
+producteca.com,dns@cloudflare.com,,dmarc-reports@parsimotion.com,,accepted(catch-all),accepted(catch-all),True,5
+productive.io,awsdns-hostmaster@amazon.com,,re+wawcn5hwtdn@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+prohotel-edv.de,do-not-reply@prohotel-edv.de,,rua@dmarc.brevo.com,,rejected,rejected,False,4
+projectcor.com,awsdns-hostmaster@amazon.com,,ipm4kdg@ar.glockapps.com,ipm4kdg@fr.glockapps.com,rejected,accepted,False,5
+projectleannation.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+prokeep.com,awsdns-hostmaster@amazon.com,,dmarc@prokeep.com; dmarc_agg@vali.email,,accepted,accepted,False,5
+proluno.com.br,dns@cloudflare.com,,rua@dmarc.brevo.com,,rejected,accepted,False,3
+prompt.security,dns@cloudflare.com,,dmarc@prompt.security,,rejected,accepted,False,5
+prontohq.com,hostmaster@registrar-servers.com,,hey@prontohq.com; dmarc_agg@vali.email,,rejected,accepted,False,5
+prontopago.com.ar,cloud-dns-hostmaster@google.com,,prontopagoar@rua.agari.com; rclausen@prontopago.com.ar,prontopagoar@ruf.agari.com; rclausen@prontopago.com.ar,rejected,accepted,False,5
+propbar.co.uk,dns@cloudflare.com,,e1712e1d744a40f1844bd8b8d98ddcd0@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+propeller.co.uk,awsdns-hostmaster@amazon.com,,sysadmin@propeller.co.uk,sysadmin@propeller.co.uk,accepted,accepted,False,5
+proposify.com,awsdns-hostmaster@amazon.com,,re+spijzez8otj@dmarc.postmarkapp.com,,rejected,accepted,False,7
+propup.at,do-not-reply@propup.at,,office@propop.at,office@propop.att,rejected,accepted,False,1
+propush.me,awsdns-hostmaster@amazon.com,,refrigerator@propellerads.com,,rejected,accepted,False,5
+proresources.com,dns@cloudflare.com,,,,accepted,rejected,False,1
+prosaic.works,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+prospeo.io,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,1
+protegrity.com,dns@cloudflare.com,,,,rejected,rejected,False,2
+prscnt.com,dns@jomax.net,,postmaster@prscnt.com,postmaster@prscnt.com,rejected,accepted,False,5
+prxyco.com,cloud-dns-hostmaster@google.com,,,,accepted(catch-all),accepted(catch-all),True,1
+pubnub.com,hostmaster@nsone.net,,itemldb@pubnub.com,itemldb@pubnub.com,accepted(catch-all),accepted(catch-all),True,5
+pucara.io,dns@cloudflare.com,,3c10c613af5f4cfb9390141735d95a04@dmarc-reports.cloudflare.net,,accepted,rejected,False,1
+pulsegen.io,dns@jomax.net,,,,rejected,accepted,False,6
+pulseintelligence.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,2
+pursuit.amsterdam,dns@cloudflare.com,,,info@pursuit.amsterdam,rejected,accepted,False,6
+pxdata.ai,dns@cloudflare.com,,5620c1478f744292805aa5e1e74df356@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+qlerify.com,awsdns-hostmaster@amazon.com,security@qlerify.com,support@qlerify.com,support@qlerify.com,accepted,accepted,False,1
+qminder.com,awsdns-hostmaster@amazon.com,,dmarc@qminder.com,dmarc@qminder.com,accepted(catch-all),accepted(catch-all),True,5
+qoets.nl,hostmaster@qoets.nl,,dmarc@inno.dev,,accepted(catch-all),accepted(catch-all),True,5
+qonversion.io,dns@cloudflare.com,,,,rejected,accepted,False,5
+qti.co.id,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,1
+quanthome.com,hostmaster@infomaniak.ch,,re+xvx5np1jteb@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,1
+quartile.com,dns@jomax.net,,admin@quartile.com,admin@quartile.com,rejected,rejected,False,1
+quartr.com,awsdns-hostmaster@amazon.com,,postmaster+dmarc@quartr.com,,accepted,accepted,False,5
+query.ai,ADMIN@query.ai,,security@query.ai; security@query.ai,,accepted,accepted,False,5
+quicknode.com,dns@cloudflare.com,,b4d620b182@rua.easydmarc.us,b4d620b182@ruf.easydmarc.us,accepted,accepted,False,5
+quid.com,admin@dnsimple.com,,90005677@mxtoolbox.dmarc-report.com; jetv526q@ag.us.dmarcian.com,90005677@forensics.dmarc-report.com; jetv526q@fr.us.dmarcian.com,accepted,rejected,False,1
+quinn-ai.com,dns@jomax.net,,dmarc-reports@quinn-ai.com,dmarc-reports@quinn-ai.com,rejected,accepted,False,5
+quiverquant.com,dns@cloudflare.com,,0b9c7d10e84249d1ba927fe0e0ed6a9a@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+quivly.ai,dns@cloudflare.com,,0b98a7f014fa4332999e1535993b307a@dmarc-reports.cloudflare.net; dmarc-aggregate@quivly.ai; dmarc-aggregate@quivly.ai,dmarc-failure@quivly.ai; dmarc-failure@quivly.ai,accepted,accepted,False,2
+quotech.io,dns@cloudflare.com,,dmarc-reports@quotech.io,,accepted(catch-all),accepted(catch-all),True,5
+quradata.com,hostmaster@simply.com,,kevin@quradata.com,,rejected,accepted,False,1
+rach.io,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+raindrop.ai,hostmaster@registrar-servers.com,,re+erukaqoitgd@dmarc.postmarkapp.com,,accepted,accepted,False,1
+raisely.com,dns@cloudflare.com,,a8a29a9e43@rua.easydmarc.eu; 105ae34810fa4be2a9572a9ad2382348@dmarc-reports.cloudflare.net,a8a29a9e43@ruf.easydmarc.eu,accepted(catch-all),accepted(catch-all),True,5
+rallyuxr.com,dns@cloudflare.com,security@rallyuxr.com,re+84db8e14d3fb@inbound.dmarcdigests.com,,accepted,accepted,False,5
+rapidflare.ai,dns@jomax.net,,re+f0eec5570012@inbound.dmarcdigests.com,,rejected,accepted,False,5
+rapido.co.nz,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+raylu.ai,dns@cloudflare.com,,c51c2b9f31@rua.easydmarc.us; dmarc@raylu.ai,c51c2b9f31@ruf.easydmarc.us; dmarc@raylu.ai,rejected,accepted,False,5
+raynatours.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,2
+rayyan.ai,awsdns-hostmaster@amazon.com,,,,mx-unreachable,mx-unreachable,None,3
+reachtwr.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,3
+realfinity.io,dns@jomax.net,,dmarc@realfinity.uriports.com,dmarc@realfinity.uriports.com,rejected,rejected,False,1
+realtimelca.com,azuredns-hostmaster@microsoft.com,,,,rejected,rejected,False,1
+reap.global,dns@cloudflare.com,,67b0957bb4e94d938269de1b8e3e2ca0@dmarc-reports.cloudflare.net; tech@reap.global,,accepted(catch-all),accepted(catch-all),True,5
+rebike.com,awsdns-hostmaster@amazon.com,,webmaster@rebike.com,,rejected,rejected,False,4
+receiptor.ai,awsdns-hostmaster@amazon.com,,dmarc@receiptor.ai,dmarc@receiptor.ai,rejected,accepted,False,5
+reclaim.ai,dns@cloudflare.com,,postmaster@reclaim.ai,,accepted(catch-all),accepted(catch-all),True,2
+recruitu.com,dns@cloudflare.com,,rua@dmarc.brevo.com,,rejected,accepted,False,1
+recurly.com,cloud-dns-hostmaster@google.com,,5mazsrw6@ag.dmarcian.com,5mazsrw6@fr.dmarcian.com,accepted(catch-all),accepted(catch-all),True,7
+reeporter.ai,dns@cloudflare.com,,dmarc-reports@reeporter.ai,,accepted(catch-all),accepted(catch-all),True,3
+reevo.ai,awsdns-hostmaster@amazon.com,,admin@reevo.ai,,accepted,accepted,False,1
+referralcandy.com,awsdns-hostmaster@amazon.com,,dmarc@referralcandy.com,,accepted(catch-all),accepted(catch-all),True,7
+reg-genome.com,dns@cloudflare.com,,security@reg-genome.com,security@reg-genome.com,accepted,rejected,False,1
+relay.app,awsdns-hostmaster@amazon.com,,dmarc@relay.app,,accepted(catch-all),accepted(catch-all),True,5
+relevanceai.com,dns@cloudflare.com,,dad60fa3@dmarc.mailgun.org; 5a6bffda@inbox.ondmarc.com; re+lzsz9cdvxva@dmarc.postmarkapp.com; re+san08uc93cf@dmarc.postmarkapp.com,dad60fa3@dmarc.mailgun.org; 5a6bffda@inbox.ondmarc.com,accepted,accepted,False,5
+relpro.com,awsdns-hostmaster@amazon.com,,rrajmangal@relpro.com,,accepted(catch-all),accepted(catch-all),True,5
+relynk.io,dns@cloudflare.com,,d73fbf7e003b48dc807e548d70df12d3@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+remote.com,awsdns-hostmaster@amazon.com,sre-team@remote.com,f09f101f@dmarc.mailgun.org; b5564746@inbox.ondmarc.com; re+b869b9da0e8f@inbound.dmarcdigests.com,f09f101f@dmarc.mailgun.org; b5564746@inbox.ondmarc.com,accepted(catch-all),accepted(catch-all),True,5
+reo.dev,cloud-dns-hostmaster@google.com,,support@reo.dev,support@reo.dev,accepted(catch-all),accepted(catch-all),True,5
+replicate.com,dns@cloudflare.com,,re+ter3rqwzo5i@dmarc.postmarkapp.com,,accepted,accepted,False,5
+reshapex.com,dns@cloudflare.com,,dmarc-reports@reshapeautomation.com,dmarc-forensics@reshapeautomation.com,accepted,accepted,False,5
+respan.ai,dns@jomax.net,,dmarc_rua@onsecureserver.net,,accepted,accepted,False,5
+rest.com,dns@cloudflare.com,,7b88e4a7a2fd48eb92f435d5cb7fc44c@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+restream.io,awsdns-hostmaster@amazon.com,,32d204ce11@rua.easydmarc.eu,32d204ce11@ruf.easydmarc.eu,accepted,accepted,False,5
+retab.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+reteno.com,dns@cloudflare.com,devops@esputnik.com,fbl@esputnik.com,,accepted(catch-all),accepted(catch-all),True,3
+reversinglabs.com,awsdns-hostmaster@amazon.com,,6cace4ec@in.mailhardener.com,,accepted,accepted,False,6
+revisiondojo.com,dns@cloudflare.com,,,,accepted,accepted,False,1
+revsend.com,dns@cloudflare.com,,admin@revsend.com; re+70176adf77c5@inbound.dmarcdigests.com,,rejected,accepted,False,5
+revspire.io,azuredns-hostmaster@microsoft.com,,dmarc@revspire.io,,accepted(catch-all),accepted(catch-all),True,1
+rezoomex.com,awsdns-hostmaster@amazon.com,,team@rezoomex.com,team@rezoomex.com,rejected,rejected,False,2
+rhinofcp.com,awsdns-hostmaster@amazon.com,,dmarc-reports@rhinofcp.com,,accepted,accepted,False,5
+rhinohealth.com,awsdns-hostmaster@amazon.com,,dmarc-reports@rhinohealth.com,,accepted,accepted,False,5
+richpanel.com,awsdns-hostmaster@amazon.com,,devops@richpanel.com,,accepted,accepted,False,5
+ringotel.com,awsdns-hostmaster@amazon.com,,team+dmarcreports@ringotel.com,,accepted(catch-all),accepted(catch-all),True,1
+risepeople.com,awsdns-hostmaster@amazon.com,,c6h25gez@ag.ca.dmarcian.com,,accepted,accepted,False,5
+rivio.com.br,cloud-dns-hostmaster@google.com,,dmarc@rivio.com.br,dmarc@rivio.com.br,rejected,accepted,False,1
+roboflow.com,admin@dnsimple.com,,dmarc@roboflow.com,,accepted(catch-all),accepted(catch-all),True,5
+rocketlane.com,awsdns-hostmaster@amazon.com,,bimi@rocketlane.com,,accepted,accepted,False,7
+rockhopper.co,awsdns-hostmaster@amazon.com,,dmarc@rockhopper.co,,rejected,accepted,False,5
+roihunter.com,awsdns-hostmaster@amazon.com,,dmarc_diag@roihunter.com,dmarc_diag@roihunter.com,accepted(catch-all),accepted(catch-all),True,5
+rolli.ai,dns@cloudflare.com,,postmaster@rolli.ai,,accepted(catch-all),accepted(catch-all),True,5
+roomme.id,dns@cloudflare.com,,dmarc@roomme.id,dmarc@roomme.id,mx-unreachable,mx-unreachable,None,1
+roundhr.com,awsdns-hostmaster@amazon.com,,dev-security@whattime.co.kr,,rejected,accepted,False,5
+roundtreasury.com,awsdns-hostmaster@amazon.com,,dmarc-reports@roundtreasury.com,,accepted(catch-all),accepted(catch-all),True,5
+rowads.studio,dns@cloudflare.com,,,,rejected,accepted,False,1
+rowzero.com,awsdns-hostmaster@amazon.com,,dmarc@rowzero.com,,accepted,accepted,False,1
+rubix.nz,dns@cloudflare.com,,27926d042a1242028960e6102653bba5@dmarc-reports.cloudflare.net; 8e558bc6c12643ad8d1e5fbd7471177c@dmarc-reports.cloudflare.net; teamcomputing@rubix.nz,,rejected,rejected,False,1
+rudderstack.com,awsdns-hostmaster@amazon.com,,infra@rudderstack.com,infra@rudderstack.com,accepted,accepted,False,5
+runrehearsals.com,dns@jomax.net,,,,accepted,accepted,False,5
+runway.team,awsdns-hostmaster@amazon.com,,re+wohwms5tuqd@inbound.dmarcdigests.com,re+wohwms5tuqd@dmarc.postmarkapp.com,accepted(catch-all),accepted(catch-all),True,5
+runwayml.com,awsdns-hostmaster@amazon.com,,re+cc2961ebe757@inbound.dmarcdigests.com,,accepted,accepted,False,5
+rupeezy.in,awsdns-hostmaster@amazon.com,,dmarc@rupeezy.uriports.com,,accepted(catch-all),accepted(catch-all),True,5
+rushdb.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,1
+ryestrategy.com,hostmaster@nsone.net,,ops@ryestrategy.com,,rejected,accepted,False,5
+sabre.com,hostmaster@sabre.com,administrative.contact@sabre.com,dmarc_rua@emaildefense.proofpoint.com,dmarc_ruf@emaildefense.proofpoint.com,accepted,rejected,False,2
+sacavalcante.com.br,dns@cloudflare.com,,2107c30f7f0549caa631a4bd9fbe6fba@dmarc-reports.cloudflare.net; dmarc@sacavalcante.com.br; dmarc_agg@vali.email,,rejected,rejected,False,1
+sadagaat-usa.org,dns@cloudflare.com,,,,rejected,accepted,False,5
+saidot.ai,awsdns-hostmaster@amazon.com,,dmarc.reports@saidot.ai,dmarc.reports@saidot.ai,accepted,rejected,False,1
+sales-mind.ai,dns@cloudflare.com,,,,rejected,rejected,False,1
+salesfinity.ai,dns@cloudflare.com,,,,mx-unreachable,mx-unreachable,None,1
+saleshandy.com,dns@cloudflare.com,,dmarc@saleshandy.com,,accepted,accepted,False,5
+saleslayer.com,dns@jomax.net,,b790c213154d48e5881794e5cce486bb@dmarc-reports.cloudflare.net; securityalerts@saleslayer.com,,accepted,accepted,False,5
+salesloft.com,awsdns-hostmaster@amazon.com,,compliance+dmarc@salesloft.com,,accepted(catch-all),accepted(catch-all),True,5
+samaya.ai,dns@cloudflare.com,,3f843d9ea46e4f61b41dbb7420385cad@dmarc-reports.cloudflare.net; re+6ec8904bfa95@inbound.dmarcdigests.com,,rejected,accepted,False,5
+sanalsantral.com.tr,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+sanka.com,cloud-dns-hostmaster@google.com,,,,accepted(catch-all),accepted(catch-all),True,5
+satellitesonfire.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,1
+savecall.de,dns@cloudflare.com,,d6de5921aaad4c0090eab3ad6b44e49a@dmarc-reports.cloudflare.net; postmaster@savecall.de,postmaster@savecall.de,rejected,rejected,False,1
+sawmills.ai,awsdns-hostmaster@amazon.com,,dmarc-reports@sawmills.ai; dmarc_agg@vali.email,,accepted,accepted,False,5
+saxum.com,dns@cloudflare.com,,115ef4d9e11d490a815804e459c58885@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+sayhellocollege.com,dns@cloudflare.com,,c30bf15200@rua.easydmarc.asia; 1e4334d1746b42219a13a9e48488bcaf@dmarc-reports.cloudflare.net,c30bf15200@ruf.easydmarc.asia,rejected,accepted,False,6
+scaleflex.com,awsdns-hostmaster@amazon.com,,it@scaleflex.com,it@scaleflex.com,accepted,accepted,False,5
+scalestack.ai,dns@cloudflare.com,,dmarc-reports@scalestack.ai,dmarc-reports@scalestack.ai,accepted,accepted,False,5
+scanpower.com,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,5
+scenario.com,awsdns-hostmaster@amazon.com,,hmeokctc@ag.eu.dmarcian.com; dmarcreports@scenario.com,hmeokctc@fr.eu.dmarcian.com,accepted(catch-all),accepted(catch-all),True,5
+schemaapp.com,awsdns-hostmaster@amazon.com,,dmarc@schemaapp.com,,accepted(catch-all),accepted(catch-all),True,1
+schemantic.io,dns@cloudflare.com,,,,rejected,accepted,False,1
+scienceexchange.com,dns@cloudflare.com,,vfokax7s@ag.us.dmarcian.com; 8f0a981b370e4de0a7308b4273954a52@dmarc-reports.cloudflare.net,vfokax7s@fr.us.dmarcian.com,accepted,accepted,False,5
+scienceofpeople.com,dns@cloudflare.com,,96258f7504614aada1d604e71d094608@dmarc-reports.cloudflare.net; support@scienceofpeople.com; re+t57g9bzsfx1@dmarc.postmarkapp.com,,rejected,accepted,False,5
+scientist.com,awsdns-hostmaster@amazon.com,,dmarc_rua@scientist.com; dmarc_agg@vali.email,dmarc@scientist.com,accepted(catch-all),accepted(catch-all),True,5
+scispot.io,awsdns-hostmaster@amazon.com,,rua@dmarc.brevo.com,,accepted,accepted,False,5
+scorecard.io,awsdns-hostmaster@amazon.com,,security@scorecard.io; dmarc_agg@vali.email,,accepted,accepted,False,5
+scripe.io,dns@cloudflare.com,,,,rejected,accepted,False,5
+scriptsave.com,dns@cloudflare.com,,d0b83bc74d844567bd168122d6e8edb9@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,1
+scvsoft.com,hostmaster@scvsoft.com,,,,rejected,accepted,False,5
+seam.co,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+seamless.ai,awsdns-hostmaster@amazon.com,,dmarc@seamlessai.com,,accepted(catch-all),accepted(catch-all),True,1
+searchinfluence.com,dns@cloudflare.com,,9d68045a15dd42238a13271d975b0c7a@dmarc-reports.cloudflare.net,dmarc@searchinfluence.com,accepted(catch-all),accepted(catch-all),True,5
+searchunify.com,dns@cloudflare.com,,admin@searchunify.com,admin@searchunify.com,accepted(catch-all),accepted(catch-all),True,5
+sectionai.com,awsdns-hostmaster@amazon.com,,1fae3dff@mxtoolbox.dmarc-report.com,1fae3dff@forensics.dmarc-report.com,accepted,accepted,False,5
+securin.io,awsdns-hostmaster@amazon.com,itadmin@securin.io,itadmin@securin.io,itadmin@securin.io,rejected,accepted,False,5
+seerinteractive.com,dns@cloudflare.com,,,dmarc@seerinteractive.com,accepted(catch-all),accepted(catch-all),True,5
+segmentstream.com,dns@cloudflare.com,,dmarc@segmentstream.com,,accepted,accepted,False,6
+seismic.com,awsdns-hostmaster@amazon.com,security@seismic.com,507faee3@mxtoolbox.dmarc-report.com; postmaster@seismic.com,507faee3@forensics.dmarc-report.com; postmaster@seismic.com,accepted,rejected,False,1
+selffundhealth.com,dns@cloudflare.com,,3cec329ebff14a3bb32f61b4cfbe011c@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+sellergeni.com,cloud-dns-hostmaster@google.com,,,,accepted(catch-all),accepted(catch-all),True,5
+sellerise.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,1
+sellerx.com,awsdns-hostmaster@amazon.com,,dmarc@sellerx.com,,accepted,rejected,False,1
+sellthru.me,hostmaster@registrar-servers.com,,info@sellthru.me; dmarc@sellthru.me,,rejected,accepted,False,1
+seltz.ai,dns@cloudflare.com,,b44b9579643d431b9ee0eabddbd95f3f@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+semactic.com,dns@cloudflare.com,,9304316ca09648a9b0eeefee937d0ee8@dmarc-reports.cloudflare.net,,rejected,rejected,False,1
+senja.io,dns@cloudflare.com,,,,rejected,accepted,False,5
+sensia.ai,hostmaster@gandi.net,,,,rejected,accepted,False,5
+sensolus.com,hostmaster@sensolus.com,,re+wo3onodxkcj@dmarc.postmarkapp.com,,accepted,rejected,False,1
+sentinelrisk.ie,dns@cloudflare.com,,dmarc@sentinelrisk.ie,dmarc@sentinelrisk.ie,accepted,rejected,False,1
+seoenmexico.com,hostmaster@seoenmexico.com,,miguel@seoenmexico.com,miguel@seoenmexico.com,mx-unreachable,mx-unreachable,None,1
+seon.io,awsdns-hostmaster@amazon.com,,dmarc-reports@seon.io; f432a4398f@rua.easydmarc.eu,dmarc-reports@seon.io; f432a4398f@ruf.easydmarc.eu,accepted,accepted,False,5
+serpstat.com,dns@cloudflare.com,,k.hordiienko@serpstat.com,,accepted(catch-all),accepted(catch-all),True,5
+sesametime.com,dns@cloudflare.com,,,,mx-unreachable,mx-unreachable,None,4
+sessionboard.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+seven.io,postmaster@your-server.de,webmaster@seven.io,re+qkaplezuafr@dmarc.postmarkapp.com,,rejected,rejected,False,2
+sevengables.com,dns@jomax.net,,f0ccd91025@rua.easydmarc.us,f0ccd91025@ruf.easydmarc.us,accepted(catch-all),accepted(catch-all),True,4
+seyna.eu,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,5
+shade.inc,dns@cloudflare.com,,dmarc@shade.inc,,accepted,accepted,False,5
+shakebugs.com,awsdns-hostmaster@amazon.com,,filip.belakon@shakebugs.com,filip.belakon@shakebugs.com,accepted(catch-all),accepted(catch-all),True,5
+shaped.ai,awsdns-hostmaster@amazon.com,,tullie@solarmora.com,,rejected,accepted,False,5
+shapes.co,dns@cloudflare.com,,dmarc-reports@shapes.co,dmarc-reports@shapes.co,accepted,accepted,False,5
+sharethis.com,awsdns-hostmaster@amazon.com,,easy180089@easydmarc.com,ruf@rep.easydmarc.com,accepted(catch-all),accepted(catch-all),True,7
+shiftcare.com,dns@cloudflare.com,,11de3e107f174ff1820762eb177a8cd2@dmarc-reports.cloudflare.net; dmarc@shiftcare.com,,accepted,accepted,False,5
+shinhansec.com.vn,hostmaster@shinhansec.com.vn,,dmarc_agg@ibesecurity.com,,mx-unreachable,mx-unreachable,None,1
+shinkansen.finance,dns@cloudflare.com,,2fed6341054f4e90a6ec6ef4167f7fe3@dmarc-reports.cloudflare.net,,accepted,accepted,False,5
+shipsaving.com,awsdns-hostmaster@amazon.com,,dmarcreports@shipsaving.com,,rejected,accepted,False,6
+shirtee.cloud,hostmaster@united-domains.de,,rua@dmarc.brevo.com,,rejected,rejected,False,1
+shoott.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+shoptrade.co,dns@cloudflare.com,,dmarc-reports@shoptrade.co,dmarc-reports@shoptrade.co,rejected,accepted,False,4
+shorta.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+shortcut.com,awsdns-hostmaster@amazon.com,ops@shortcut.com,mail-reports@shortcut.com,,accepted,accepted,False,5
+shotstack.io,awsdns-hostmaster@amazon.com,,dmarc-reports@shotstack.io,,accepted(catch-all),accepted(catch-all),True,5
+siena.cx,dns@cloudflare.com,,96e15121f4354122a374955be1ab17d9@dmarc-reports.cloudflare.net; lisa@siena.cx,,accepted,accepted,False,5
+sierra-dc.com,awsdns-hostmaster@amazon.com,,re+v1qsyr4sk1a@dmarc.postmarkapp.com,,rejected,rejected,False,1
+sigma.software,hostmaster@eclipse-sp.com,,dmarc.reports@sigma.software,,accepted(catch-all),accepted(catch-all),True,1
+signal-ai.com,dns@cloudflare.com,,6239bb20763e2@ag.dmarcly.com,6239bb20763e2@fo.dmarcly.com,accepted,accepted,False,5
+silabs.com,dns@digicertdns.com,noc@silabs.com,dmarc_rua@emaildefense.proofpoint.com,dmarc_ruf@emaildefense.proofpoint.com,accepted(catch-all),accepted(catch-all),True,2
+silpo.ua,dns@cloudflare.com,,,,mx-unreachable,mx-unreachable,None,2
+silveiro.com.br,dns@cloudflare.com,,dmarc@estudiomx.com.br,dmarc@estudiomx.com.br,rejected,rejected,False,1
+similar.ai,ADMIN@similar.ai,,,,rejected,accepted,False,5
+similarweb.com,awsdns-hostmaster@amazon.com,,20b97a47de@rua.easydmarc.asia,20b97a47de@ruf.easydmarc.asia,accepted(catch-all),accepted(catch-all),True,5
+simplero.com,awsdns-hostmaster@amazon.com,,re+ssaf82gh8od@dmarc.postmarkapp.com,,temp-fail,accepted,False,2
+simplycodes.com,dns@cloudflare.com,,re+ddssa8jkrgt@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+singular.net,awsdns-hostmaster@amazon.com,,dmarc@singular.net,,accepted,accepted,False,5
+sitebrunch.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,1
+siteline.ai,dns@cloudflare.com,,dmarc@siteline.ai,dmarc@siteline.ai,rejected,accepted,False,1
+sitewise.com,awsdns-hostmaster@amazon.com,,dmarc-reports@sitewise.com,,accepted,rejected,False,1
+sixtyfour.ai,awsdns-hostmaster@amazon.com,,chrisprice@sixtyfour.ai,,rejected,accepted,False,1
+skillberg.app,cloud-dns-hostmaster@google.com,,,,rejected,accepted,False,1
+skillground.com,dns@cloudflare.com,,dmarc@skillground.com,,rejected,accepted,False,5
+skilljar.com,awsdns-hostmaster@amazon.com,,dmarc_agg@vali.email; postmaster@skilljar.com,postmaster@skilljar.com,accepted,accepted,False,5
+skiltecentret.dk,hostmaster@curanet.dk,,dmarc_agg@vali.email,,rejected,rejected,False,1
+skinnovation.com,1900503@partner.skcc.com,,,,accepted(catch-all),accepted(catch-all),True,1
+slashid.com,dns@cloudflare.com,,7b5e9efdd2d2480392344e18ba4df301@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+slashpage.com,awsdns-hostmaster@amazon.com,,dmarc-report@slashpage.com,dmarc-report@slashpage.com,rejected,accepted,False,5
+slateteams.com,awsdns-hostmaster@amazon.com,,dmarcreports@slateteams.com,,rejected,accepted,False,5
+sleekplan.com,awsdns-hostmaster@amazon.com,,dmarcreports@sleekplan.com,,accepted(catch-all),accepted(catch-all),True,5
+slidespeak.co,dns@cloudflare.com,,dmarc-reports@slidespeak.co,,rejected,accepted,False,1
+slipstreammusic.com,awsdns-hostmaster@amazon.com,,re+nnurnibbbsp@dmarc.postmarkapp.com,,rejected,accepted,False,5
+sloan.org,dns@cloudflare.com,,dmarc_agg@vali.email; dmarcreports@sloan.org,dmarcreports@sloan.org,temp-fail,temp-fail,False,2
+smarte.pro,dns@jomax.net,,ithelpdesk@smarte.pro,,rejected,rejected,False,3
+smarttalks.ai,dns@cloudflare.com,,34246275ade846adb2bbb7777b9cb2a2@dmarc-reports.cloudflare.net; dmarc-reports@smarttalks.ai,dmarc-reports@smarttalks.ai,rejected,accepted,False,1
+smarttask.io,hostmaster@registrar-servers.com,,,support@smarttask.io,rejected,accepted,False,5
+smartthings.com,awsdns-hostmaster@amazon.com,,dmarc_rua@smartthings.com,dmarc_ruf@smartthings.com,accepted,accepted,False,5
+snapshot.box,dns@cloudflare.com,,,,mx-unreachable,mx-unreachable,None,1
+snapsight.com,awsdns-hostmaster@amazon.com,,dmarc@gevme.com; rua@dmarc.gevme.com; rua@dmarc.brevo.com,dmarc@gevme.com; ruf@dmarc.gevme.com,accepted(catch-all),accepted(catch-all),True,5
+snowfox.ai,cloud-dns-hostmaster@google.com,,postmaster@snowfox.ai,,accepted,accepted,False,5
+sns.id,dns@cloudflare.com,,,,rejected,rejected,False,2
+socialinsider.io,dns@cloudflare.com,,re+bpjar0qdleu@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+socialpilot.co,awsdns-hostmaster@amazon.com,,re+utdmkkxi745@dmarc.postmarkapp.com,,accepted,rejected,False,1
+socialpruf.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+socialtip.io,cloud-dns-hostmaster@google.com,,rua@dmarc.brevo.com,,rejected,accepted,False,5
+soclecollections.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+sonr.global,dns@cloudflare.com,,de25fd88e0604957ae1c8cdf502e008e@dmarc-reports.cloudflare.net; postmaster@sonr.global; re+oim63qzydjf@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+sonraisecurity.com,awsdns-hostmaster@amazon.com,,ipm7a20@ar.glockapps.com; dmarc@sonraisecurity.com,ipm7a20@fr.glockapps.com,rejected,accepted,False,5
+sopro.io,dns@cloudflare.com,,re+tx8ps6vt8qs@dmarc.postmarkapp.com,,rejected,accepted,False,5
+sosovalue.com,dns@cloudflare.com,,7ea0d55acdbc695@rep.dmarcanalyzer.com,7ea0d55acdbc695@for.dmarcanalyzer.com,accepted,rejected,False,3
+soundcharts.com,hostmaster@soundcharts.com,,dmarc-reports@soundcharts.com,,rejected,accepted,False,5
+source.ag,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,5
+sourcecodecap.com,hostmaster@hichina.com,,,,accepted(catch-all),accepted(catch-all),True,1
+southparkcommons.com,dns@cloudflare.com,,re+mpvqem0cotp@dmarc.postmarkapp.com,,rejected,accepted,False,5
+soyio.id,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+spacegoats.io,dns@cloudflare.com,,postmaster@spacegoats.io,,accepted(catch-all),accepted(catch-all),True,7
+spaik.io,mail@hoasted.com,,thijs@spaik.io,,rejected,accepted,False,5
+sparkloop.app,dns@cloudflare.com,,postmaster@sparkloop.app,,rejected,accepted,False,5
+sparktoro.com,dns@cloudflare.com,security@sparktoro.com,,,accepted,accepted,False,6
+speakeasymarketinginc.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+spectral.hu,dns@cloudflare.com,,,,rejected,accepted,False,5
+speeding-rocket.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+speero.com,dns@cloudflare.com,,re+merdzjbpo3r@dmarc.postmarkapp.com,,rejected,accepted,False,5
+spekit.co,dns@cloudflare.com,infra+security@spekit.co; security@spekit.co,ff7699f28e@rua.easydmarc.us,ff7699f28e@ruf.easydmarc.us,accepted,accepted,False,5
+sphereinsight.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+spike.digital,dns@jomax.net,,rob@spike.digital,rob@spike.digital,rejected,accepted,False,5
+spinach.ai,dns@cloudflare.com,,,security@spinach.ai,accepted(catch-all),accepted(catch-all),True,5
+spinify.com,awsdns-hostmaster@amazon.com,,dmarcreports@spinify.com; dmarc_agg@vali.email,,accepted,accepted,False,5
+spoonity.com,awsdns-hostmaster@amazon.com,,postmaster@spoonity.com,,accepted(catch-all),accepted(catch-all),True,5
+spot.ai,dns@cloudflare.com,,re+1df6b4ce8b47@inbound.dmarcdigests.com,,rejected,accepted,False,5
+spott.io,dns@cloudflare.com,,afa39a9a1bd546b59224201e1f855efb@dmarc-reports.cloudflare.net; dmarc_agg@vali.email,,rejected,rejected,False,1
+spredo.io,dns@cloudflare.com,,grigoriimordkovich@gmail.com,,accepted(catch-all),accepted(catch-all),True,1
+sprig.com,awsdns-hostmaster@amazon.com,,dmarc@sprig.com,,accepted(catch-all),accepted(catch-all),True,5
+springbokproperties.co.uk,dns@cloudflare.com,,rua@dmarc.brevo.com,,rejected,accepted,False,5
+springthrough.com,awsdns-hostmaster@amazon.com,,dmarc_agg@vali.email,,accepted,rejected,False,3
+springverify.com,dns@cloudflare.com,,avinash.ramesha@springworks.in; abhinav.saxena@springworks.in,avinash.ramesha@springworks.in; abhinav.saxena@springworks.in,accepted(catch-all),accepted(catch-all),True,5
+sprinto.com,awsdns-hostmaster@amazon.com,,webadmin@sprinto.com,webadmin@sprinto.com,accepted(catch-all),accepted(catch-all),True,5
+sproutsocial.com,awsdns-hostmaster@amazon.com,security-alerts@sproutsocial.com,6bd0bfcf@mxtoolbox.dmarc-report.com,6bd0bfcf@forensics.dmarc-report.com,accepted,accepted,False,5
+sprypt.com,dns@cloudflare.com,,1654a242803046bdab165d06cf58a6d9@dmarc-reports.cloudflare.net; techsupport@spryhealth.care,,mx-unreachable,mx-unreachable,None,1
+spycraft.co,dns@jomax.net,,dmarc_rua@onsecureserver.net,,rejected,accepted,False,5
+spyne.app,cloud-dns-hostmaster@google.com,,,,accepted(catch-all),accepted(catch-all),True,5
+squareup.com,ops+dns@squareup.com,,dmarc_agg@vali.email; postmasters@squareup.com; square-dmarc@datafeeds.phishlabs.com,dmarc-ruf@squareup.com; square-dmarc@datafeeds.phishlabs.com,accepted(catch-all),accepted(catch-all),True,7
+squidler.io,cloud-dns-hostmaster@google.com,,dmarc@squidler.io,dmarc@squidler.io,accepted(catch-all),accepted(catch-all),True,5
+stablewood.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+stack.ai,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+stackadapt.com,awsdns-hostmaster@amazon.com,ssl@stackadapt.com,77842ae6b1@rua.easydmarc.us; data@stackadapt.com,77842ae6b1@ruf.easydmarc.us,accepted,accepted,False,2
+stackby.com,awsdns-hostmaster@amazon.com,support@stackby.com,admin@stackby.com,,accepted,accepted,False,6
+staer.ai,hostmaster@staer.ai,,,,rejected,accepted,False,5
+stafftastic.com,cloud-dns-hostmaster@google.com,hostmaster@matters.dev,re+23b5807fd44e@inbound.dmarcdigests.com,,accepted(catch-all),accepted(catch-all),True,5
+stan.store,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+standardmetrics.io,dns@cloudflare.com,,63ab51472f5b4@ag.dmarcly.com,63ab51472f5b4@fo.dmarcly.com,accepted,accepted,False,5
+startaiming.com,root@webglobe.cz,,dmarc@startaiming.com,,accepted(catch-all),accepted(catch-all),True,1
+startdeliver.com,awsdns-hostmaster@amazon.com,,dmarc-reports@startdeliver.com,,accepted(catch-all),accepted(catch-all),True,2
+starwell.space,dns@cloudflare.com,,,,no-mx,no-mx,None,0
+starzero.ai,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+stealthmole.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+steep.app,dns@cloudflare.com,,b3a2649127e94ff9aa7611e47f1d0ccc@dmarc-reports.cloudflare.net,,accepted,accepted,False,5
+stena.com,dns@cloudflare.com,,246ef1d35a4b046@rep.dmarcanalyzer.com,246ef1d35a4b046@for.dmarcanalyzer.com,rejected,accepted,False,2
+stitchflow.io,cloud-dns-hostmaster@google.com,,,,accepted(catch-all),accepted(catch-all),True,5
+storeganise.com,admin@dnsimple.com,,621621073e85a@ag.dmarcly.com; storeganise-com@app.wemonitoremail.com,621621073e85a@fo.dmarcly.com,accepted,accepted,False,5
+storehero.ai,dns@cloudflare.com,,,,rejected,accepted,False,5
+storydoc.com,dns@cloudflare.com,,danielm@storydoc.com,,accepted,accepted,False,7
+strandae.com,dns@cloudflare.com,,re+tr98szo5bs1@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,1
+streamkap.com,dns@cloudflare.com,,226ffd6b73684bebb6a1f2aa6870684f@dmarc-reports.cloudflare.net; ricky@streamkap.com,,accepted(catch-all),accepted(catch-all),True,5
+strobes.co,dns@cloudflare.com,,no-reply@strobes.co,,accepted(catch-all),accepted(catch-all),True,5
+structured.app,dnsmaster@hover.com,,re+noiv02d2yg8@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+studystash.com,dns@cloudflare.com,,78411ceef82b445a9e639e5d816170d5@dmarc-reports.cloudflare.net; theflametrooper@gmail.com,,accepted,accepted,False,6
+subframe.com,dns@cloudflare.com,,1c6584600a814c549ac731f385998c76@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+subtotal.com,dns@cloudflare.com,,dmarc@subtotal.com,,accepted(catch-all),accepted(catch-all),True,1
+sumble.com,cloud-dns-hostmaster@google.com,,,,accepted,accepted,False,5
+summ.com,dns@cloudflare.com,,9d293d3332284fd0a1ed9e1e2f37fbf7@dmarc-reports.cloudflare.net; postmaster-reporting@summ.com,postmaster-reporting@summ.com,accepted,accepted,False,1
+sumologic.com,dns@cloudflare.com,security@sumologic.com,sumo-soc@reportsdmarc.com; reports@dmarc.cyber.dhs.gov; 07dae10a1b1d955@rep.dmarcanalyzer.com,07dae10a1b1d955@for.dmarcanalyzer.com,accepted,accepted,False,5
+sunairio.com,awsdns-hostmaster@amazon.com,,dmarc@sunairio.com,,rejected,accepted,False,5
+sunlandasphalt.com,dns@jomax.net,,,,accepted(catch-all),accepted(catch-all),True,2
+supademo.com,dns@cloudflare.com,,re+b2gbzpkf2gu@dmarc.postmarkapp.com,,accepted,accepted,False,5
+supercycle.com,dns@cloudflare.com,,b513067e9c1d486ba67d7707bb5b0fd2@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+superglue.ai,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,1
+supergood.ai,dns@cloudflare.com,,9944aeaafca744239910075eed93943b@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+superme.ai,dns@cloudflare.com,,anton@superme.ai,,accepted,accepted,False,5
+supernewsroom.ai,domains+netlify@netlify.com,,,,rejected,accepted,False,1
+supernova.ai,dns@cloudflare.com,,,,accepted,accepted,False,5
+superoffice.com,hostmaster@cscdns.net,,6a32161d@mxtoolbox.dmarc-report.com,6a32161d@forensics.dmarc-report.com,temp-fail,temp-fail,False,1
+superscale.com,dns@cloudflare.com,,security@superscale.com,,accepted(catch-all),accepted(catch-all),True,5
+supersend.io,dns@cloudflare.com,,security@supersend.io,,rejected,accepted,False,5
+supertruth.ai,dns@cloudflare.com,,jisla@supertruth.ai,jisla@supertruth.ai,accepted,accepted,False,5
+superwall.com,dns@cloudflare.com,,dmarc-reports@superwall.com,,accepted(catch-all),accepted(catch-all),True,5
+supplybrain.ai,dns@cloudflare.com,,fd49080bb26940548d700a9d8cd0047e@dmarc-reports.cloudflare.net; dmarc@supplybrain.ai,,rejected,rejected,False,1
+supportlogic.io,cloud-dns-hostmaster@google.com,,c467df756b@rua.easydmarc.com,c467df756b@ruf.easydmarc.com,accepted,accepted,False,5
+surveyloop.io,cloud-dns-hostmaster@google.com,,,,accepted(catch-all),accepted(catch-all),True,5
+surveymonkey.com,awsdns-hostmaster@amazon.com,,dmarc_agg@vali.email; dmarc_agg@auth.returnpath.net; mailadmin@surveymonkey.com,dmarc_afrf@auth.returnpath.net; mailadmin@surveymonkey.com,rejected,accepted,False,2
+swaarm.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,6
+sweetanalytics.com,hostmaster@sweetanalytics.com,,team@sweetanalytics.com,,rejected,accepted,False,5
+swiggy.com,awsdns-hostmaster@amazon.com,,dmarc_rua@emaildefense.proofpoint.com,dmarc_ruf@emaildefense.proofpoint.com,accepted(catch-all),accepted(catch-all),True,6
+swoogo.com,awsdns-hostmaster@amazon.com,ops-notifications@swoogo.com,d9e397e6@inbox.ondmarc.com; postmaster@swoogo.com,d9e397e6@inbox.ondmarc.com,accepted,accepted,False,5
+sybill.ai,dns@cloudflare.com,,postmaster@sybill.ai,postmaster@sybill.ai,rejected,accepted,False,5
+symmetre.com,dns@cloudflare.com,,re+aweyz8mutg0@dmarc.postmarkapp.com; security@symmetre.com,,accepted,rejected,False,1
+symmetrical.ai,awsdns-hostmaster@amazon.com,,dmarc-reports@symmetrical.ai,dmarc-reports@symmetrical.ai,accepted,accepted,False,3
+sync.so,dns@cloudflare.com,,reports@sync.so,forensic@sync.so,accepted,accepted,False,1
+syncari.com,dns@jomax.net,,f7631056@dmarc.mailgun.org; 19ee31bf@inbox.ondmarc.com; abuse@syncari.com,f7631056@dmarc.mailgun.org; 19ee31bf@inbox.ondmarc.com,accepted,accepted,False,5
+synply.io,awsdns-hostmaster@amazon.com,,dmarc-reports@synply.io,,accepted(catch-all),accepted(catch-all),True,1
+synq.io,hostmaster@registrar-servers.com,,,,accepted,accepted,False,5
+syrto.ai,dns@jomax.net,,,,rejected,rejected,False,1
+t54.ai,dns@cloudflare.com,,,,rejected,accepted,False,5
+tactiq.io,dns@cloudflare.com,,rua@dmarc.brevo.com; c5d5c5d84af74a9596c183700b6553cf@dmarc-reports.cloudflare.net; alex@tactiq.io,,accepted,accepted,False,5
+taggify.net,dns@cloudflare.com,,jchamizo@taggify.net,,rejected,accepted,False,5
+taghub.net,dns@cloudflare.com,,,,rejected,accepted,False,5
+taikai.network,dns@cloudflare.com,,a3bd13f3b42c42448b49a2f9bb296d78@dmarc-reports.cloudflare.net; dmarc@taikai.network,,rejected,accepted,False,5
+takeprofit.com,awsdns-hostmaster@amazon.com,,dmarcreports@takeprofit.com,,accepted(catch-all),accepted(catch-all),True,5
+tako.com,dns@cloudflare.com,,dmarc@tako.com,,accepted,accepted,False,5
+talonic.com,dns@cloudflare.com,,dmarc@talonic.com,,mx-unreachable,mx-unreachable,None,1
+tamarind.bio,hostmaster@registrar-servers.com,,sherry@tamarind.bio; sherry@tamarind.bio,,accepted(catch-all),accepted(catch-all),True,1
+tandom.ai,dns@jomax.net,,dmarc-reports@tandom.ai; dmarc-reports@tandom.ai,,accepted(catch-all),accepted(catch-all),True,1
+targetboard.ai,dns@cloudflare.com,,e7973d73db7445c79244bbf2f329fd12@dmarc-reports.cloudflare.net; dmarc-report@targetboard.ai,,accepted,accepted,False,5
+tasman.ai,hostmaster@registrar-servers.com,,,,accepted(catch-all),accepted(catch-all),True,5
+tavanbogd.com,dns@cloudflare.com,,,,rejected,rejected,False,2
+tavily.com,awsdns-hostmaster@amazon.com,,46bdba25@inbox.ondmarc.com; support@tavily.com,46bdba25@inbox.ondmarc.com; support@tavily.com,accepted,rejected,False,1
+tax1099.com,dns@cloudflare.com,,dmarc@tax1099.com; dmarc_agg@vali.email,dmarc@tax1099.com,accepted(catch-all),accepted(catch-all),True,5
+taxdone.ch,dns@jomax.net,,report@taxdone.ch; report@taxdone.fr,dmarc@taxdone.ch,accepted(catch-all),accepted(catch-all),True,6
+taxrise.com,dns@cloudflare.com,,dmarc@taxrise.com,,accepted(catch-all),accepted(catch-all),True,5
+tcgfactory.com,dns@cloudflare.com,,rua@dmarc.brevo.com,,rejected,rejected,False,1
+teachfloor.com,dns@cloudflare.com,,dmarc@teachfloor.com,dmarc@teachfloor.com,accepted(catch-all),accepted(catch-all),True,5
+tealhq.com,dns@cloudflare.com,,,,accepted,accepted,False,5
+teamcentral.ai,dns@cloudflare.com,,dmarc_agg@vali.email,,rejected,rejected,False,1
+teamgram.com,awsdns-hostmaster@amazon.com,operations@teamgram.com,dmarcreports@teamgram.com,dmarcreports@teamgram.com,rejected,accepted,False,5
+teamos.is,dns@cloudflare.com,,,,mx-unreachable,mx-unreachable,None,1
+teapot.sk,admin@websupport.sk,,3bd474c3@mxtoolbox.dmarc-report.com,3bd474c3@forensics.dmarc-report.com,rejected,accepted,False,5
+techmakers.it,hostmaster@1und1.com,,,,mx-unreachable,mx-unreachable,None,2
+techpromarketing.com,dns@cloudflare.com,,dmarc_agg@vali.email; gfdzk7gn@rua.dmarceye.com,dmarc_agg@vali.email,accepted(catch-all),accepted(catch-all),True,5
+techstars.com,awsdns-hostmaster@amazon.com,,a+95828844@fdmarc.net,f+95828844@fdmarc.net,accepted(catch-all),accepted(catch-all),True,5
+techtree.dev,dns@cloudflare.com,,laurence@techtree.dev,laurence@techtree.dev,accepted(catch-all),accepted(catch-all),True,5
+tecro.dev,dns@cloudflare.com,,,,rejected,accepted,False,5
+tekkare.com,cloud-dns-hostmaster@google.com,,,,rejected,rejected,False,1
+tekst.com,awsdns-hostmaster@amazon.com,,dmarc@tekst.com,,accepted,accepted,False,1
+tektonic.ai,dns@jomax.net,,dmarc010524@tektonic.ai,,rejected,accepted,False,5
+tenderly.co,cloud-dns-hostmaster@google.com,,dmarc@tenderly.co,,accepted,accepted,False,5
+termgrid.com,awsdns-hostmaster@amazon.com,,nagarjuna.reddy@termgrid.com,nagarjuna.reddy@termgrid.com,accepted(catch-all),accepted(catch-all),True,5
+terminal49.com,dns@cloudflare.com,,re+da1e2d9f3c5f@inbound.dmarcdigests.com,,rejected,accepted,False,5
+ternary.app,cloud-dns-hostmaster@google.com,,zo7l3ms1@ag.us.dmarcian.com,,accepted(catch-all),accepted(catch-all),True,5
+tesote.com,dns@cloudflare.com,,info@tesote.com; re+a26821cdd8be@inbound.dmarcdigests.com,info@tesote.com,accepted,accepted,False,5
+testdino.com,dns@cloudflare.com,,,,rejected,accepted,False,3
+testery.io,awsdns-hostmaster@amazon.com,,dmarc-reports@testery.io,,accepted,accepted,False,5
+texau.com,dns@cloudflare.com,,postmaster@texau.com; dmarc@texau.com,,rejected,accepted,False,5
+text.com,dns@cloudflare.com,,re+xhosp11w8uc@dmarc.postmarkapp.com,dmarc-reports@text.com,accepted(catch-all),accepted(catch-all),True,5
+textexpander.com,awsdns-hostmaster@amazon.com,support@textexpander-recovery.com,cetrguz6@ag.us.dmarcian.com,cetrguz6@fr.us.dmarcian.com,accepted(catch-all),accepted(catch-all),True,5
+thanks.co,dns@cloudflare.com,,1da5a4d28f29457c9aea362a66c15ab1@dmarc-reports.cloudflare.net; nicholas@thanks.co,,rejected,accepted,False,5
+thebridgecorp.com,awsdns-hostmaster@amazon.com,,dmarc@thebridgecorp.com,dmarc@thebridgecorp.com,rejected,accepted,False,5
+thecontext.company,dns@cloudflare.com,,rohil@thecontextcompany.com,,accepted,accepted,False,5
+thecrmphd.com,support@wix.com,,dmarc@thecrmphd.com,,rejected,accepted,False,1
+thelayer.com,awsdns-hostmaster@amazon.com,,,,rejected,rejected,False,1
+thetappingsolution.com,admin@sourcedns.com,,ipm6n9y@ar.glockapps.com,ipm6n9y@fr.glockapps.com,accepted(catch-all),accepted(catch-all),True,5
+thetoweldepot.com,dns@cloudflare.com,,9215de793e004eec88e6fd82c8606636@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+thewhitebox.io,dns@jomax.net,,dmarc_rua@onsecureserver.net,,rejected,accepted,False,5
+thimble.com,awsdns-hostmaster@amazon.com,,29f8b4b6ef22334@rep.dmarcanalyzer.com,29f8b4b6ef22334@for.dmarcanalyzer.com,temp-fail,temp-fail,False,2
+thinksurance.de,awsdns-hostmaster@amazon.com,,re+rshxcpgfzpt@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,1
+thisandthat.chat,awsdns-hostmaster@amazon.com,,dmarc@thisandthat.chat,,accepted,accepted,False,5
+thoughtly.com,dns@cloudflare.com,,postmaster@thoughtly.com,,rejected,accepted,False,5
+thrad.ai,dns@cloudflare.com,,,,rejected,accepted,False,5
+thredcloud.com,cloud-dns-hostmaster@google.com,,,,accepted(catch-all),accepted(catch-all),True,1
+thrive.xyz,dns@cloudflare.com,,,,rejected,accepted,False,5
+thrustflight.com,dns@jomax.net,,,,accepted,accepted,False,5
+tickadoo.com,dns@cloudflare.com,,rua@dmarc.brevo.com,,rejected,accepted,False,1
+ticktick.com,awsdns-hostmaster@amazon.com,,jack@appest.com,,rejected,accepted,False,5
+tigerofsweden.com,registry@ports.net,,d724c2eae6ce069@rep.dmarcanalyzer.com; jebu@icgroup.net,d724c2eae6ce069@for.dmarcanalyzer.com; jebu@icgroup.net,rejected,rejected,False,1
+tiled.co,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,5
+timecamp.com,dns@cloudflare.com,,dmarc@timecamp.com,dmarc@timecamp.com,rejected,accepted,False,7
+timechimp.com,azuredns-hostmaster@microsoft.com,,dmarc.reports@timechimp.com,dmarc.reports@timechimp.com,accepted(catch-all),accepted(catch-all),True,1
+timetackle.com,cloud-dns-hostmaster@google.com,,dmarc-reports@timetackle.com,dmarc-forensic@timetackle.com,accepted(catch-all),accepted(catch-all),True,5
+timoneilassociates.com,dns@jomax.net,,bb@timoneilassociates.com,,mx-unreachable,mx-unreachable,None,2
+tipranks.com,dns@jomax.net,,re+pelbizs2oqt@dmarc.postmarkapp.com,,rejected,rejected,False,1
+tldv.io,dns@cloudflare.com,,dev+dmarc@tldv.io,,accepted,accepted,False,5
+tnpgroup.co,awsdns-hostmaster@amazon.com,,dmarc-reports@tnpgroup.co,,rejected,accepted,False,3
+togal.ai,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,6
+together.agency,dns@cloudflare.com,,dd913a3ab8824319b12711925313c6f4@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+tokenterminal.com,dns@dnsmadeeasy.com,,mailadmin@tokenterminal.xyz,mailadmin@tokenterminal.xyz,rejected,accepted,False,5
+tolt.com,dns@cloudflare.com,,aa0a88b499ee43199f8ce1842122f082@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+topchretien.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+topshelfdistillers.com,dns@cloudflare.com,,it@topshelfdistillers.com,,rejected,accepted,False,5
+totemvc.com,awsdns-hostmaster@amazon.com,,re+akgzb3l8pak@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+trackingplan.com,awsdns-hostmaster@amazon.com,,oleg+dmarc@trackingplan.com,,rejected,accepted,False,6
+trackit.so,hosting@gabia.com,,,,accepted(catch-all),accepted(catch-all),True,2
+tracklution.com,dns@jomax.net,,,,accepted(catch-all),accepted(catch-all),True,5
+tradeshift.com,awsdns-hostmaster@amazon.com,,661e07907a21b@ag.dmarcly.com; corpdmarc@tradeshift.com,661e07907a21b@fo.dmarcly.com,accepted,accepted,False,7
+tradestation.com,admin@tradestation.com,,,,accepted(catch-all),accepted(catch-all),True,2
+tradingeconomics.com,awsdns-hostmaster@amazon.com,,dmarc@tradingeconomics.com,,rejected,accepted,False,7
+transkriptor.com,awsdns-hostmaster@amazon.com,,dmarc_agg@vali.email,,rejected,rejected,False,1
+transmark.ee,hostmaster@zone.eu,,,,rejected,accepted,False,1
+transparently.ai,dns@jomax.net,,dmarc_rua@onsecureserver.net,,rejected,accepted,False,5
+travanto.de,hostmaster@travanto.de,,postmaster@travanto.de,,rejected,rejected,False,1
+travel-code.com,dns@cloudflare.com,,alina@travel-code.com,alina@travel-code.com,rejected,accepted,False,5
+travelnest.com,awsdns-hostmaster@amazon.com,,,,accepted,accepted,False,5
+treasury4.com,azuredns-hostmaster@microsoft.com,,dmarc_agg@vali.email,,rejected,rejected,False,1
+treety.co,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+trenchsecurity.ai,dns@jomax.net,,tsft@trenchsecurity.ai,,accepted,accepted,False,5
+trendata.io,dns@cloudflare.com,,d426e32d2b58483f84a43edae00c0e74@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+trent.ai,hostmaster@registrar-servers.com,,dmarc@trent.ai,,accepted,rejected,False,1
+trepp.com,namehost@WORLDNIC.com,,1e621d0a@mxtoolbox.dmarc-report.com,1e621d0a@forensics.dmarc-report.com,rejected,rejected,False,1
+tribe.ai,hostmaster@registrar-servers.com,,it@tribe.ai,it@tribe.ai,accepted,accepted,False,5
+tribecrm.nl,edwin.Somhorst@perfectview.nl,,dmarc_tribecrm@efficy.com,dmarc_tribecrm@efficy.com,accepted,rejected,False,1
+tricera.energy,support@mittwald.de,,,,rejected,rejected,False,4
+trint.com,awsdns-hostmaster@amazon.com,,gxx381y6@ag.eu.dmarcian.com,security+dmarc-ruf@trint.com,accepted,accepted,False,5
+triplewhale.com,dns@cloudflare.com,,dmarc-reports@triplewhale.com,,rejected,accepted,False,5
+truckstop.com,appserv@truckstop.com,,emailsecgroup@truckstop.com,,accepted,accepted,False,1
+trunk.io,awsdns-hostmaster@amazon.com,,5zall7m5fw@rua.powerdmarc.com,5zall7m5fw@ruf.powerdmarc.com,accepted(catch-all),accepted(catch-all),True,5
+trustgrid.io,awsdns-hostmaster@amazon.com,,ops@trustgrid.io,,accepted,accepted,False,4
+trycook.ai,dns@cloudflare.com,,,,mx-unreachable,mx-unreachable,None,1
+tryfuse.ai,awsdns-hostmaster@amazon.com,,dmarc-reports@tryfuse.ai,,rejected,accepted,False,1
+tryhungry.com,dns@cloudflare.com,,re+xknugm3v55w@dmarc.postmarkapp.com,,rejected,accepted,False,6
+tryspecter.com,cpanel@tech.namecheap.com,,dmarc@tryspecter.com,,accepted(catch-all),accepted(catch-all),True,5
+tuggerapp.com,dns@cloudflare.com,,dmarc@tuggerapp.com,,rejected,rejected,False,2
+tuyo.com,dns@cloudflare.com,,bb4ca75d4f3a42249c0a4df841d36e31@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+twominutereports.com,dns@cloudflare.com,,vinoth@twominutereports.com,,accepted(catch-all),accepted(catch-all),True,5
+twonas.com,dns@cloudflare.com,,,,rejected,accepted,False,5
+twoshot.app,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+unblock.global,dns@cloudflare.com,,dmarc-reports@unblock.global,,accepted(catch-all),accepted(catch-all),True,5
+uncover.co,cloud-dns-hostmaster@google.com,,dmarc@uncover.co,,accepted(catch-all),accepted(catch-all),True,5
+unei.com,root@dns1.nominalia.com,,soporteit.ml@unei.com,soporteit.ml@unei.com,rejected,rejected,False,1
+unest.co,awsdns-hostmaster@amazon.com,,dmarc@unestco.uriports.com,dmarc@unestco.uriports.com,rejected,accepted,False,5
+unifiqueinvest.com.br,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,1
+unify-technologies.com,awsdns-hostmaster@amazon.com,,,,accepted,rejected,False,1
+unipiazza.it,dns@cloudflare.com,,,,rejected,rejected,False,2
+uniqode.com,awsdns-hostmaster@amazon.com,,ca3ca2e9@mxtoolbox.dmarc-report.com,ca3ca2e9@forensics.dmarc-report.com,rejected,accepted,False,5
+unitic.co,dns@cloudflare.com,,,,rejected,accepted,False,5
+unknowncyber.com,dns@cloudflare.com,,support@unknowncyber.com,support@unknowncyber.com,accepted(catch-all),accepted(catch-all),True,5
+unleash.so,awsdns-hostmaster@amazon.com,,dmarc@unleash.so,,accepted,accepted,False,5
+unosecur.com,awsdns-hostmaster@amazon.com,,security@unosecur.com,,accepted,accepted,False,6
+untappd.com,dns@cloudflare.com,,re+5cfc1e8a3ff9@inbound.dmarcdigests.com,,accepted,accepted,False,5
+unusualwhales.com,dns@cloudflare.com,,b9615640734e414a810681ec98dd0dda@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,6
+upgraide.ai,dns@cloudflare.com,,,,rejected,accepted,False,1
+upsales.com,hostmaster@eurodns.com,,dmarc@upsales.com; re+nwelkyumkia@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+upsolve.ai,dns@cloudflare.com,,dmarcreports@upsolve.ai; dmarc+c261858c-3b6c-4cc6-8b88-4515ac74f889@dmarc.bastion.tech,,accepted(catch-all),accepted(catch-all),True,1
+upstox.com,awsdns-hostmaster@amazon.com,,dmarc_emails@upstox.com,dmarc_emails@upstox.com,accepted(catch-all),accepted(catch-all),True,5
+uptimerobot.com,dns@cloudflare.com,,286ba4a9ebbb464db5e05f8972652e84@dmarc-reports.cloudflare.net,,rejected,accepted,False,1
+upwind.io,awsdns-hostmaster@amazon.com,,dmarc_agg@vali.email; dmarc_agg@dmarc.everest.email; security+dmarc-rua@upwind.io,security+dmarc-ruf@upwind.io,accepted(catch-all),accepted(catch-all),True,5
+urbancompany.com,dns@cloudflare.com,,shubhamyadav@urbancompany.com,shubhamyadav@urbancompany.com,accepted(catch-all),accepted(catch-all),True,5
+usaequipmentdirect.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,1
+usbooths.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+useanvil.com,cloud-dns-hostmaster@google.com,,re+xfphskozorn@dmarc.postmarkapp.com,,rejected,accepted,False,5
+usebear.ai,dns@cloudflare.com,,,,rejected,accepted,False,5
+userback.io,awsdns-hostmaster@amazon.com,,lee@userback.io,,rejected,accepted,False,5
+userbrain.com,hostmaster@userbrain.com,,t8gt0liv5r@rua.powerdmarc.com,t8gt0liv5r@ruf.powerdmarc.com,rejected,rejected,False,1
+userguiding.com,dns@cloudflare.com,,postmaster@userguiding.com; ipm2p3k@ar.glockapps.com,abuse@userguiding.com; ipm2p3k@fr.glockapps.com,accepted,accepted,False,5
+usesynth.ai,dns@cloudflare.com,,,,rejected,accepted,False,2
+ustwo.com,,,f01d1424@inbox.ondmarc.com; dmarc.reports@ustwo.com,f01d1424@inbox.ondmarc.com; dmarc.report@ustwo.com,accepted,accepted,False,5
+valid.co,hostmaster@registrar-servers.com,,diegoiturralde@valid.co,,accepted(catch-all),accepted(catch-all),True,1
+vallor.ai,awsdns-hostmaster@amazon.com,,admin@vallor.ai,admin@vallor.ai,rejected,accepted,False,1
+valuein.biz,dns@cloudflare.com,,dmarc@valuein.biz,,accepted(catch-all),accepted(catch-all),True,5
+vanna.ai,dns@jomax.net,,rua@dmarc.brevo.com,,rejected,accepted,False,5
+vantage.sh,awsdns-hostmaster@amazon.com,,dmarc@vantage.sh,,accepted,accepted,False,6
+varden.se,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,7
+variance.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+varolio.io,dns@jomax.net,,contact@virgo.global,contact@virgo.global,rejected,rejected,False,1
+vector.co,awsdns-hostmaster@amazon.com,,nick@vector.co,nick@vector.co,accepted,accepted,False,5
+vela.partners,cloud-dns-hostmaster@google.com,,re+hck800w3nrq@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+velocity-x.co,awsdns-hostmaster@amazon.com,,dmarc@velocity-x.co,,accepted(catch-all),accepted(catch-all),True,5
+vendon.net,r@roze.lv,,ids@vendon.net,,rejected,accepted,False,2
+versi.com.br,dns@cloudflare.com,,dmarc@versi.com.br,dmarc@versi.com.br,rejected,accepted,False,1
+verzel.com.br,awsdns-hostmaster@amazon.com,,,ti@verzel.com.br,rejected,rejected,False,1
+vessel.co,awsdns-hostmaster@amazon.com,security@vessel.co,re+d859c9a18671@inbound.dmarcdigests.com,,accepted,accepted,False,5
+veyda.com,dns@cloudflare.com,,733948556b9040a0b0571a4045dc942b@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+veylan.com,awsdns-hostmaster@amazon.com,,snurin2h8t@rua.powerdmarc.com,snurin2h8t@ruf.powerdmarc.com,accepted,accepted,False,1
+vico.io,dns@jomax.net,,dmarc_rua@onsecureserver.net,,rejected,accepted,False,1
+vidapp.com,dns@jomax.net,,,,accepted(catch-all),accepted(catch-all),True,5
+vidiq.com,awsdns-hostmaster@amazon.com,,672d1590d4298@ag.dmarcly.com,672d1590d4298@fo.dmarcly.com,accepted,accepted,False,5
+vidmob.com,awsdns-hostmaster@amazon.com,admin@vidmob.com,dmarc@vidmob.com,,accepted,accepted,False,4
+vigilatevision.com,hostmaster@register.it,,rua@dmarc.brevo.com,,rejected,accepted,False,5
+vimigo.io,awsdns-hostmaster@amazon.com,,postmaster@vimigo.io,postmaster@vimigo.io,mx-unreachable,mx-unreachable,None,1
+violetlabs.com,awsdns-hostmaster@amazon.com,,dmarc@violetlabs.com,,rejected,accepted,False,6
+viomba.com,info@viomba.com,,dmarc-report@viomba.com,,accepted,accepted,False,5
+virio.ai,dns@cloudflare.com,,,,rejected,accepted,False,5
+visarun.ai,dns@cloudflare.com,,,,accepted,accepted,False,2
+viscosoft.com,dns@cloudflare.com,,abuse@viscosoft.com,abuse@viscosoft.com,rejected,accepted,False,1
+visiblie.com,awsdns-hostmaster@amazon.com,,gilles@visiblie.com; raju@visiblie.com; domien@visiblie.com,gilles@visiblie.com,accepted(catch-all),accepted(catch-all),True,5
+visitingmedia.com,awsdns-hostmaster@amazon.com,,d2a9e60a@inbox.ondmarc.com; it-team@visitingmedia.com,d2a9e60a@inbox.ondmarc.com,accepted,accepted,False,5
+visitiq.io,awsdns-hostmaster@amazon.com,,,,rejected,rejected,False,1
+visitly.io,awsdns-hostmaster@amazon.com,,security@visitly.io,,accepted,accepted,False,5
+voiceflow.com,awsdns-hostmaster@amazon.com,,serviceaccount@voiceflow.com,,accepted(catch-all),accepted(catch-all),True,5
+voiser.ai,dns@cloudflare.com,,dmarc-reports@voiser.ai,dmarc-failures@voiser.ai,rejected,rejected,False,1
+volta.ai,ADMIN@volta.ai,,,,rejected,accepted,False,5
+vondera.app,dns@cloudflare.com,,,,rejected,accepted,False,3
+vori.com,dns@cloudflare.com,,19d570554fc54c94b93d597a428980c5@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+wafflepos.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,6
+waldo.fyi,awsdns-hostmaster@amazon.com,security@waldo.fyi,re+k0fxk6e7fzr@dmarc.postmarkapp.com,,accepted,accepted,False,5
+walead.ai,dns@hostinger.com,,,,rejected,accepted,False,1
+wallector.com,dns@cloudflare.com,,,,rejected,rejected,False,1
+warmlyyours.com,dns@cloudflare.com,,,,accepted(catch-all),accepted(catch-all),True,5
+wasabil.com,dns@cloudflare.com,,rua@dmarc.brevo.com,,accepted(catch-all),accepted(catch-all),True,5
+watchr.ai,systemshl@o2switch.fr,,rua@dmarc.brevo.com,,mx-unreachable,mx-unreachable,None,1
+waterplan.com,awsdns-hostmaster@amazon.com,,dmarc-reports@waterplan.com,,accepted,accepted,False,5
+we-wealth.com,dns@cloudflare.com,,dmarc_report@we-wealth.com,,accepted(catch-all),accepted(catch-all),True,5
+webflow.com,awsdns-hostmaster@amazon.com,,dmarc-reports@webflow.com; re+9a4f4489f1fa@inbound.dmarcdigests.com; 1901099@dmarc.mailgun.org; eaa0e9d1@inbox.ondmarc.com,1901099@dmarc.mailgun.org; eaa0e9d1@inbox.ondmarc.com,accepted,accepted,False,5
+weblisters.com,awsdns-hostmaster@amazon.com,,re+kqumxeyakri@dmarc.postmarkapp.com,,rejected,rejected,False,1
+webucator.com,awsdns-hostmaster@amazon.com,,isunkes@webucator.com,,rejected,rejected,False,1
+wecover.co,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+weni.ai,dns@cloudflare.com,seguranca@weni.ai,ea2ea8c052e84ebfb2bd2a7301f75688@dmarc-reports.cloudflare.net; dmarc-reports@weni.ai,dmarc-reports@weni.ai,rejected,accepted,False,5
+wewood.eu,tech@flesk.com,,registos.wewood@wewood.eu,,rejected,rejected,False,1
+whaller.com,tech@ovh.net,security@whaller.fr,webmaster+dmarc@whaller.com,,accepted,accepted,False,5
+wheelocity.com,dns@jomax.net,,,,rejected,accepted,False,5
+wheeltheworld.com,dns@jomax.net,,,,rejected,accepted,False,5
+whimsical.com,dns@cloudflare.com,security@whimsical.com,zo1wttad@ag.us.dmarcian.com,zo1wttad@fr.dmarcian.com,accepted,accepted,False,1
+whistic.com,awsdns-hostmaster@amazon.com,,dmarc-email-report@whistic.com,,accepted,accepted,False,5
+whitebridge.ai,dns@cloudflare.com,,ipm71zn@ar.glockapps.com; d252c5a9eb0d4870b25096e9929f8ba8@dmarc-reports.cloudflare.net; 71dc6762cd1e47fcb68da715ac5a810a@dmarc-reports.cloudflare.net; dmarc_aggregate_analyser+d62919e1af4c3527a483b02d2a8d708e@zerobounce.net,ipm71zn@fr.glockapps.com; dmarc_forensics_analyser+d62919e1af4c3527a483b02d2a8d708e@zerobounce.net,rejected,accepted,False,5
+whitehole.es,tech@ovh.net,,,,mx-unreachable,mx-unreachable,None,1
+whodunit.fr,tech@ovh.net,,,,mx-unreachable,mx-unreachable,None,3
+wholesome.co,admin@dnsimple.com,,re+e33791a7d94e@inbound.dmarcdigests.com,,accepted(catch-all),accepted(catch-all),True,5
+whop.com,dns@cloudflare.com,,7f621d106d@rua.easydmarc.us; 5c91091@dmarc.mailgun.org; 3d471258@inbox.ondmarc.com; dmarc_agg@vali.email,7f621d106d@ruf.easydmarc.us; 5c91091@dmarc.mailgun.org; 3d471258@inbox.ondmarc.com,accepted(catch-all),accepted(catch-all),True,5
+wikifarmer.com,dns@cloudflare.com,,2c3f5c775998472fb1680aed44816133@dmarc-reports.cloudflare.net,,rejected,accepted,False,6
+windsor.ai,dns@cloudflare.com,,jakub@windsor.ai,jakub@windsor.ai,accepted(catch-all),accepted(catch-all),True,5
+wisepops.com,dns@cloudflare.com,,re+y3ft0gxk8ok@dmarc.postmarkapp.com; rua@dmarc.brevo.com,,accepted,accepted,False,7
+withlanai.com,dns@cloudflare.com,,dmarc@withlanai.com,,accepted,accepted,False,7
+wiv.ai,awsdns-hostmaster@amazon.com,,yauchnf8@ag.eu.dmarcian.com,,accepted,accepted,False,1
+wiza.co,dns@cloudflare.com,,dmarc-reports@wiza.com,,accepted,accepted,False,5
+wodify.com,awsdns-hostmaster@amazon.com,,a9284caf@mxtoolbox.dmarc-report.com; infrastructure@wodify.com,a9284caf@forensics.dmarc-report.com; infrastructure@wodify.com,accepted,accepted,False,5
+wokelo.ai,dns@cloudflare.com,,no-reply@wokelo.ai,no-reply@wokelo.ai,rejected,rejected,False,6
+wonderway.io,awsdns-hostmaster@amazon.com,,t8xws5nu@ag.eu.dmarcian.com,t8xws5nu@fr.eu.dmarcian.com,accepted,accepted,False,5
+woowup.com,awsdns-hostmaster@amazon.com,,dmarc-rua@woowup.com,dmarc-rua@woowup.com,accepted,accepted,False,2
+wordlift.io,dns@cloudflare.com,,dmarc-alerts@wordlift.io,dmarc-alerts@wordlift.io,accepted(catch-all),accepted(catch-all),True,5
+workflowmax.com,awsdns-hostmaster@amazon.com,,dmarc@workflowmax.uriports.com,dmarc@workflowmax.uriports.com,accepted,rejected,False,1
+workiro.com,awsdns-hostmaster@amazon.com,,dmarc@getbusy.com,dmarc@getbusy.com,rejected,rejected,False,1
+workmagic.io,dns@cloudflare.com,,4a8d45d480d34ab8a11bde2a76306369@dmarc-reports.cloudflare.net,,rejected,rejected,False,3
+workpath.com,awsdns-hostmaster@amazon.com,,re+cycv76fkp7m@dmarc.postmarkapp.com,,accepted(catch-all),accepted(catch-all),True,5
+workshops.de,hostmaster@inwx.de,,dmarc@workshops.de; dmarc@10y7h18b.uriports.com,dmarc@10y7h18b.uriports.com,rejected,accepted,False,5
+worldbox.net,awsdns-hostmaster@amazon.com,,worldbox.net@rua.dmarcdkim.io; dmarc@worldbox.com,worldbox.net@ruf.dmarcdkim.io; dmarc@worldbox.net,accepted,accepted,False,5
+xp.tickets,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+xp.xyz,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+xpoz.ai,dns@cloudflare.com,,dmarc@xpoz.ai; rua@dmarc.brevo.com,,accepted(catch-all),accepted(catch-all),True,5
+xyt.one,dns@cloudflare.com,,,,accepted,accepted,False,1
+ycharts.com,awsdns-hostmaster@amazon.com,,re+z464dst4rae@dmarc.postmarkapp.com,,accepted,accepted,False,7
+yespo.io,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+yinzcam.com,nathan@yinzcam.com,,rgandhi@yinzcam.com,,accepted(catch-all),accepted(catch-all),True,5
+yonderhq.com,awsdns-hostmaster@amazon.com,,developers@yonderhq.com,,rejected,accepted,False,6
+yourcounterpart.com,dns@cloudflare.com,,re+u0netejolfx@inbound.dmarcdigests.com,,accepted,accepted,False,5
+ypulse.com,awsdns-hostmaster@amazon.com,,dmarc@ypulse.com,dmarc@ypulse.com,rejected,accepted,False,1
+yuzedata.com,azuredns-hostmaster@microsoft.com,,,,accepted,rejected,False,1
+zapal.tech,dns@cloudflare.com,,1ba8484bbfa14a60bec63c5d3fdeea9b@dmarc-reports.cloudflare.net,,rejected,accepted,False,5
+zapper.xyz,dns@cloudflare.com,,,,rejected,accepted,False,5
+zaprinta.com,hostmaster@dreamhost.com,,rua@dmarc.brevo.com,,rejected,accepted,False,5
+zapsign.co,dns@cloudflare.com,,ola@zapsign.co,ola@zapsign.co,rejected,accepted,False,3
+zapsign.com.br,dns@cloudflare.com,,dmarcreports@lovable.dev,,accepted,accepted,False,5
+zautre.com,info@name-services.com,,dimitar@zautre.com,,rejected,accepted,False,5
+zed.co,dns@cloudflare.com,,,,accepted,accepted,False,5
+zefram.com,awsdns-hostmaster@amazon.com,,,,rejected,accepted,False,5
+zeliq.com,awsdns-hostmaster@amazon.com,,dmarc@zeliq.com,,rejected,accepted,False,5
+zenrows.com,dns@cloudflare.com,,9ff56b7de27048798df77c4a8ffb1f6c@dmarc-reports.cloudflare.net,,accepted,accepted,False,5
+zentronlabs.com,dns@jomax.net,,itadmin@zentronlabs.com,ze-notification@zentronlabs.com,rejected,accepted,False,4
+zeroe.io,dns@cloudflare.com,,9810a52ed24a4395852fce16d32dc79e@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,1
+zerohiring.com,dns@cloudflare.com,,luwyq1agqb@rua.powerdmarc.com,luwyq1agqb@ruf.powerdmarc.com,rejected,accepted,False,5
+zesty.ai,cloud-dns-hostmaster@google.com,security@zesty.ai,dmarc_agg@vali.email; hnhit2do@ag.dmarcian.com,hnhit2do@fr.dmarcian.com,accepted,accepted,False,5
+zestyfinance.com,awsdns-hostmaster@amazon.com,,,,accepted(catch-all),accepted(catch-all),True,5
+zigpoll.com,dns@cloudflare.com,,b9bec636f3de4998a2d00ea6c95f8528@dmarc-reports.cloudflare.net,,accepted(catch-all),accepted(catch-all),True,5
+zillow.com,domains@zillow.com,,8rbmv-1@rua.dmarc.emailanalyst.com,8rbmv-1@ruf.dmarc.emailanalyst.com,accepted,accepted,False,1
+zite.com,dns@cloudflare.com,,dmarc_agg@vali.email,,accepted,accepted,False,5
+zocks.io,awsdns-hostmaster@amazon.com,,rua@zocks.io,rua@zocks.io,rejected,accepted,False,1
+zoominfo.com,dns@cloudflare.com,security@zoominfo.com,e8352ad7@inbox.ondmarc.com,e8352ad7@inbox.ondmarc.com,accepted(catch-all),accepted(catch-all),True,4
+zoviz.com,dns@cloudflare.com,,f3e0141a07d645f7a950a6e4c7d688bd@dmarc-reports.cloudflare.net; e7ec0ffa@dmarc.mailgun.org; af7ea74a@inbox.ondmarc.com,e7ec0ffa@dmarc.mailgun.org; af7ea74a@inbox.ondmarc.com,accepted,accepted,False,5
+ztex.co,dns@cloudflare.com,,security@ztex.co,,accepted(catch-all),accepted(catch-all),True,5
+zuma.ca,dns@cloudflare.com,,,,accepted,accepted,False,5
