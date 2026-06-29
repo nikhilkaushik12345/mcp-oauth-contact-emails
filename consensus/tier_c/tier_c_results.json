@@ -1,0 +1,4773 @@
+{
+  "total_scanned": 859,
+  "domains_with_email": 99,
+  "unique_emails": 195,
+  "counts_by_tier": {
+    "C-sec": 10,
+    "C-gen": 109,
+    "C-other": 76
+  },
+  "results": {
+    "1000ps.at": {
+      "emails": {},
+      "status": "ok"
+    },
+    "1up.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "2cloudnine.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "30x.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "3doptix.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "5centscdn.net": {
+      "emails": {},
+      "status": "ok"
+    },
+    "aajil.sa": {
+      "emails": {},
+      "status": "ok"
+    },
+    "abacum.ai": {
+      "emails": {
+        "sales@abacum.ai": {
+          "tier": "C-gen",
+          "sources": [
+            "https://abacum.ai/contact-us"
+          ]
+        },
+        "support@abacum.ai": {
+          "tier": "C-gen",
+          "sources": [
+            "https://abacum.ai/contact-us"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "abatable.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "abill.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "accessowl.com": {
+      "emails": {
+        "support@accessowl.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://accessowl.com/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "adlabs.app": {
+      "emails": {},
+      "status": "ok"
+    },
+    "adomik.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "adp.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "adscale.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "advally.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "adzen.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "aeroventures.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "affise.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "agent.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "agentmail.to": {
+      "emails": {},
+      "status": "ok"
+    },
+    "aheadcomputing.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "aibox.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "aico.swiss": {
+      "emails": {},
+      "status": "ok"
+    },
+    "aimfox.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "airbridge.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "airsaas.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "aivideo.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "akamai.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "alex.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "algoed.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "allbridge.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "allears.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "allegrow.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "allocate.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "alma.food": {
+      "emails": {},
+      "status": "ok"
+    },
+    "alphavantage.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "alpic.ai": {
+      "emails": {
+        "pierre-lous@alpic.ai": {
+          "tier": "C-other",
+          "sources": [
+            "https://alpic.ai/about"
+          ]
+        },
+        "fred@alpic.ai": {
+          "tier": "C-other",
+          "sources": [
+            "https://alpic.ai/about"
+          ]
+        },
+        "nikolay@alpic.ai": {
+          "tier": "C-other",
+          "sources": [
+            "https://alpic.ai/about"
+          ]
+        },
+        "erica@alpic.ai": {
+          "tier": "C-other",
+          "sources": [
+            "https://alpic.ai/about"
+          ]
+        },
+        "charles@alpic.ai": {
+          "tier": "C-other",
+          "sources": [
+            "https://alpic.ai/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "alterdomus.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "amalgamrx.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "ambarpartners.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "amove.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "amperity.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "andcapitalventures.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "ando.so": {
+      "emails": {},
+      "status": "ok"
+    },
+    "aneon.at": {
+      "emails": {
+        "info@aneon.at": {
+          "tier": "C-gen",
+          "sources": [
+            "https://aneon.at/contact",
+            "https://aneon.at/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "animaj.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "antler.co": {
+      "emails": {
+        "rike@antler.co": {
+          "tier": "C-other",
+          "sources": [
+            "https://antler.co/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "apaleo.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "aperture.london": {
+      "emails": {},
+      "status": "ok"
+    },
+    "apicbase.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "apono.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "aqmen.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "aquion.com.au": {
+      "emails": {},
+      "status": "ok"
+    },
+    "arcwise.app": {
+      "emails": {},
+      "status": "ok"
+    },
+    "are.na": {
+      "emails": {
+        "help@are.na": {
+          "tier": "C-gen",
+          "sources": [
+            "https://are.na/about"
+          ]
+        },
+        "everyone@are.na": {
+          "tier": "C-other",
+          "sources": [
+            "https://are.na/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "aries.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "aris.in": {
+      "emails": {},
+      "status": "ok"
+    },
+    "artblocks.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "artemis.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "arternal.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "ascendancy.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "askturing.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "asmallstudio.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "astrologyapi.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "atom.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "atomic.supply": {
+      "emails": {},
+      "status": "ok"
+    },
+    "atriumdata.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "attio.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "audioscape.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "aurelian.com": {
+      "emails": {
+        "contact@aurelian.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://aurelian.com/contact",
+            "https://aurelian.com/contact-us",
+            "https://aurelian.com/security",
+            "https://aurelian.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "avmap.it": {
+      "emails": {},
+      "status": "ok"
+    },
+    "axiocap.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "azion.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "babbl-labs.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "badideas.fund": {
+      "emails": {},
+      "status": "ok"
+    },
+    "base.org": {
+      "emails": {},
+      "status": "ok"
+    },
+    "base39.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "baxtel.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "bazze.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "bdex.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "bdg.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "beachbossinfluencers.com": {
+      "emails": {
+        "support@beachbossinfluencers.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://beachbossinfluencers.com/contact-us"
+          ]
+        },
+        "tech@beachbossinfluencers.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://beachbossinfluencers.com/contact-us"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "beaufort12.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "bei-us.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "bellwetherit.com": {
+      "emails": {
+        "sales@bellwetherit.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://bellwetherit.com/contact",
+            "https://bellwetherit.com/contact-us",
+            "https://bellwetherit.com/security",
+            "https://bellwetherit.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "besample.app": {
+      "emails": {},
+      "status": "ok"
+    },
+    "betterbugs.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "beveldata.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "bfl.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "bidprime.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "bigdata.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "biggeo.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "billygrace.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "binclusive.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "bitmovin.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "bizaway.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "bizstream.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "blend-ai.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "blocksize.info": {
+      "emails": {},
+      "status": "ok"
+    },
+    "bloomberg.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "bluegamma.io": {
+      "emails": {
+        "support@bluegamma.io": {
+          "tier": "C-gen",
+          "sources": [
+            "https://bluegamma.io/contact"
+          ]
+        },
+        "johndoe@bluegamma.io": {
+          "tier": "C-other",
+          "sources": [
+            "https://bluegamma.io/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "bold-agro.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "bonnie.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "boom.nl": {
+      "emails": {},
+      "status": "ok"
+    },
+    "boompop.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "brainfab.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "branch.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "brandsmeetcreators.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "breezy.hr": {
+      "emails": {},
+      "status": "ok"
+    },
+    "brevo.com": {
+      "emails": {
+        "zendesk-box@brevo.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://brevo.com/contact"
+          ]
+        },
+        "abuse@brevo.com": {
+          "tier": "C-sec",
+          "sources": [
+            "https://brevo.com/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "briecomterobert.fr": {
+      "emails": {},
+      "status": "ok"
+    },
+    "buhochile.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "bullit.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "bytehide.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "callpercy.com": {
+      "emails": {
+        "info@callpercy.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://callpercy.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "campcation.com": {
+      "emails": {
+        "info@campcation.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://campcation.com/contact"
+          ]
+        },
+        "partners@campcation.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://campcation.com/contact"
+          ]
+        },
+        "u003epartners@campcation.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://campcation.com/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "canva.cn": {
+      "emails": {},
+      "status": "ok"
+    },
+    "canva.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "capmission.ma": {
+      "emails": {},
+      "status": "ok"
+    },
+    "carbonarc.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "careflowiq.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "carohq.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "cashcow.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "cashflowfrog.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "caspio.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "ccare.org.au": {
+      "emails": {},
+      "status": "ok"
+    },
+    "ceo-cf.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "cevoid.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "cevro.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "channel99.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "chartmetric.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "chift.eu": {
+      "emails": {},
+      "status": "ok"
+    },
+    "chipax.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "chisellabs.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "cinode.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "clay.earth": {
+      "emails": {},
+      "status": "ok"
+    },
+    "cleanhealth.edu.au": {
+      "emails": {},
+      "status": "ok"
+    },
+    "cleartrip.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "clemta.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "clint.digital": {
+      "emails": {},
+      "status": "ok"
+    },
+    "closedloop.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "clozd.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "coastapp.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "coinmarketcap.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "coinstats.app": {
+      "emails": {},
+      "status": "ok"
+    },
+    "commented.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "commonscompany.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "companion.energy": {
+      "emails": {},
+      "status": "ok"
+    },
+    "companyenrich.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "conjura.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "consensus.app": {
+      "emails": {},
+      "status": "ok"
+    },
+    "construflow.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "contaja.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "contentful.com": {
+      "emails": {
+        "support@contentful.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://contentful.com/security"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "controlle.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "converge.it": {
+      "emails": {},
+      "status": "ok"
+    },
+    "conversionmediagroup.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "convex.dev": {
+      "emails": {
+        "security@convex.dev": {
+          "tier": "C-sec",
+          "sources": [
+            "https://convex.dev/security"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "conviva.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "coolset.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "coolshop.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "copilotkit.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "copperx.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "coris.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "cortea.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "cquencehealth.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "credix.finance": {
+      "emails": {},
+      "status": "ok"
+    },
+    "credplatform.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "crstl.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "crystalknows.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "cst.co.uk": {
+      "emails": {},
+      "status": "ok"
+    },
+    "cta.tech": {
+      "emails": {},
+      "status": "ok"
+    },
+    "cuballama.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "cuelinks.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "curemedia.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "cymulate.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "cypress.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "dana.id": {
+      "emails": {},
+      "status": "ok"
+    },
+    "danelfin.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "daniel-ip.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "dash.fi": {
+      "emails": {},
+      "status": "ok"
+    },
+    "databar.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "databox.com": {
+      "emails": {
+        "hi@databox.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://databox.com/about"
+          ]
+        },
+        "jobs@databox.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://databox.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "datadome.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "datahub.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "datamaran.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "datanomik.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "dataprovider.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "dataspike.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "dcm-inc.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "dealmachine.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "dealroom.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "deeploy.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "deepsource.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "demostack.com": {
+      "emails": {
+        "support@demostack.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://demostack.com/contact-us"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "descope.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "deskfirst.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "detrics.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "devally.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "didlogic.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "diffly.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "digitalsamba.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "dispatchit.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "dokaa.app": {
+      "emails": {},
+      "status": "ok"
+    },
+    "dotter.me": {
+      "emails": {},
+      "status": "ok"
+    },
+    "drakerep.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "drata.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "drugbank.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "dutchvalleyfoods.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "easydmarc.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "easyship.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "ecdb.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "eden.so": {
+      "emails": {},
+      "status": "ok"
+    },
+    "edgewaterresearch.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "ellty.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "emerge-tech.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "enlyft.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "enrich.so": {
+      "emails": {},
+      "status": "ok"
+    },
+    "entri.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "eon.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "epam.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "erlin.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "esim.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "espm.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "estarter.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "estoko.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "esw.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "etermax.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "eulerapp.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "everwall.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "evolve-partners.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "explorium.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "factset.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "facturadirecta.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "falconfeeds.io": {
+      "emails": {
+        "partners@falconfeeds.io": {
+          "tier": "C-other",
+          "sources": [
+            "https://falconfeeds.io/contact"
+          ]
+        },
+        "support@falconfeeds.io": {
+          "tier": "C-gen",
+          "sources": [
+            "https://falconfeeds.io/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "familux.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "fastweigh.com": {
+      "emails": {
+        "careers@fastweigh.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://fastweigh.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "fianu.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "fiber.ai": {
+      "emails": {
+        "adi@fiber.ai": {
+          "tier": "C-other",
+          "sources": [
+            "https://fiber.ai/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "fifthrow.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "figr.design": {
+      "emails": {},
+      "status": "ok"
+    },
+    "findymail.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "fintoc.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "firstlook.gg": {
+      "emails": {
+        "contact@firstlook.gg": {
+          "tier": "C-gen",
+          "sources": [
+            "https://firstlook.gg/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "flalingo.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "floorfound.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "floorspace.ca": {
+      "emails": {},
+      "status": "ok"
+    },
+    "flora.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "flowcredi.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "fluss.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "foodello.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "foresight.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "formant.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "formly.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "foundational.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "fourthwall.tv": {
+      "emails": {},
+      "status": "ok"
+    },
+    "frambemanning.se": {
+      "emails": {},
+      "status": "ok"
+    },
+    "freedom.world": {
+      "emails": {},
+      "status": "ok"
+    },
+    "freee.co.jp": {
+      "emails": {},
+      "status": "ok"
+    },
+    "fresha.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "friday.nl": {
+      "emails": {
+        "info@friday.nl": {
+          "tier": "C-gen",
+          "sources": [
+            "https://friday.nl/contact"
+          ]
+        },
+        "mart.hamhuis@friday.nl": {
+          "tier": "C-other",
+          "sources": [
+            "https://friday.nl/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "frontapp.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "fundify.com": {
+      "emails": {
+        "partners@fundify.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://fundify.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "fusionpact.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "futureprinciple.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "fynite.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "fyxer.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "gameball.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "gamma.app": {
+      "emails": {},
+      "status": "ok"
+    },
+    "gatsby.events": {
+      "emails": {},
+      "status": "ok"
+    },
+    "gcaa.gov.ae": {
+      "emails": {},
+      "status": "ok"
+    },
+    "gdenergyproducts.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "genei.es": {
+      "emails": {},
+      "status": "ok"
+    },
+    "generect.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "genloop.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "geopoll.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "getaleph.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "getaptly.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "getbalance.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "getloper.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "getmontecarlo.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "getredo.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "giftpoint.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "gighq.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "gigstack.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "gleap.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "glichealth.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "goalfy.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "goideally.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "goldwasserexchange.be": {
+      "emails": {},
+      "status": "ok"
+    },
+    "gomining.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "goodfin.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "gpbullhound.com": {
+      "emails": {
+        "hello.sf@gpbullhound.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://gpbullhound.com/about"
+          ]
+        },
+        "hello.nyc@gpbullhound.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://gpbullhound.com/about"
+          ]
+        },
+        "hello.london@gpbullhound.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://gpbullhound.com/about"
+          ]
+        },
+        "hello.manchester@gpbullhound.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://gpbullhound.com/about"
+          ]
+        },
+        "hello.stockholm@gpbullhound.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://gpbullhound.com/about"
+          ]
+        },
+        "hello.paris@gpbullhound.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://gpbullhound.com/about"
+          ]
+        },
+        "hello.berlin@gpbullhound.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://gpbullhound.com/about"
+          ]
+        },
+        "hello.frankfurt@gpbullhound.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://gpbullhound.com/about"
+          ]
+        },
+        "hello.madrid@gpbullhound.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://gpbullhound.com/about"
+          ]
+        },
+        "hello.malaga@gpbullhound.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://gpbullhound.com/about"
+          ]
+        },
+        "hello.kl@gpbullhound.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://gpbullhound.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "grafana.com": {
+      "emails": {
+        "info@grafana.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://grafana.com/contact",
+            "https://grafana.com/contact-us"
+          ]
+        },
+        "partners@grafana.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://grafana.com/contact",
+            "https://grafana.com/contact-us"
+          ]
+        },
+        "events@grafana.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://grafana.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "granola.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "gravl.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "gridium.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "grinfi.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "growhouse.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "grupoamericainterior.com.ar": {
+      "emails": {},
+      "status": "ok"
+    },
+    "grupoeon.com.ar": {
+      "emails": {},
+      "status": "ok"
+    },
+    "gtlaw.com.au": {
+      "emails": {},
+      "status": "ok"
+    },
+    "gudeco.de": {
+      "emails": {},
+      "status": "ok"
+    },
+    "gxl.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "haiku.fr": {
+      "emails": {},
+      "status": "ok"
+    },
+    "handelsblatt.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "hbflavor.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "heavybit.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "hectorai.live": {
+      "emails": {},
+      "status": "ok"
+    },
+    "heex.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "hellobonsai.com": {
+      "emails": {
+        "support@hellobonsai.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://hellobonsai.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "heroku.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "heron-intelligence.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "heyflow.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "himalayas.app": {
+      "emails": {},
+      "status": "ok"
+    },
+    "himodus.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "hirenimbus.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "homeric.ai": {
+      "emails": {
+        "info@homeric.ai": {
+          "tier": "C-gen",
+          "sources": [
+            "https://homeric.ai/contact-us"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "honor.education": {
+      "emails": {},
+      "status": "ok"
+    },
+    "hospitable.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "hostingb2b.com": {
+      "emails": {
+        "sales@hostingb2b.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://hostingb2b.com/contact-us",
+            "https://hostingb2b.com/security"
+          ]
+        },
+        "admin@hostingb2b.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://hostingb2b.com/contact-us",
+            "https://hostingb2b.com/security"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "hrsubsidies.nl": {
+      "emails": {},
+      "status": "ok"
+    },
+    "hubbl.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "hubpay.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "hunt.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "iansresearch.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "icebreaker.xyz": {
+      "emails": {},
+      "status": "ok"
+    },
+    "icmarkets.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "icustomer.ai": {
+      "emails": {
+        "hello@icustomer.ai": {
+          "tier": "C-gen",
+          "sources": [
+            "https://icustomer.ai/contact"
+          ]
+        },
+        "info@icustomer.ai": {
+          "tier": "C-gen",
+          "sources": [
+            "https://icustomer.ai/contact",
+            "https://icustomer.ai/about"
+          ]
+        },
+        "careers@icustomer.ai": {
+          "tier": "C-other",
+          "sources": [
+            "https://icustomer.ai/contact",
+            "https://icustomer.ai/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "idadns.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "idealo.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "ideogram.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "ignisplanning.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "ihrdc.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "illumex.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "ilogs.systems": {
+      "emails": {},
+      "status": "ok"
+    },
+    "imagine.art": {
+      "emails": {},
+      "status": "ok"
+    },
+    "imax.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "incomaker.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "incube8.sg": {
+      "emails": {},
+      "status": "ok"
+    },
+    "indelible.co.nz": {
+      "emails": {},
+      "status": "ok"
+    },
+    "indmoney.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "infillion.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "infloso.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "influx.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "insided.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "insiderone.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "insource.co.jp": {
+      "emails": {},
+      "status": "ok"
+    },
+    "inspectionsupport.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "instantdb.com": {
+      "emails": {
+        "founders@instantdb.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://instantdb.com/about"
+          ]
+        },
+        "hello@instantdb.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://instantdb.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "instantly.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "insurely.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "intacct.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "intelimetrica.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "interdiscount.ch": {
+      "emails": {},
+      "status": "ok"
+    },
+    "intuswindows.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "investdefy.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "ipolish.fashion": {
+      "emails": {},
+      "status": "ok"
+    },
+    "item.app": {
+      "emails": {},
+      "status": "ok"
+    },
+    "itgenius.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "itstoday.org": {
+      "emails": {},
+      "status": "ok"
+    },
+    "jam7.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "jambase.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "jarvi.tech": {
+      "emails": {},
+      "status": "ok"
+    },
+    "jobphoning.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "jollycommerce.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "joyn.one": {
+      "emails": {},
+      "status": "ok"
+    },
+    "judgmentlabs.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "july.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "jumpseller.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "junipergenomics.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "kadoa.com": {
+      "emails": {
+        "support@kadoa.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://kadoa.com/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "kapoq.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "karmelcapital.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "katanamrp.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "kayzen.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "keywordsai.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "keywordtool.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "kime.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "kiosked.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "kissterra.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "kitabh.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "kive.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "klarytee.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "kleer.se": {
+      "emails": {},
+      "status": "ok"
+    },
+    "klubi.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "knotch.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "korefocus.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "kubit.ai": {
+      "emails": {
+        "careers@kubit.ai": {
+          "tier": "C-other",
+          "sources": [
+            "https://kubit.ai/about"
+          ]
+        },
+        "support@kubit.ai": {
+          "tier": "C-gen",
+          "sources": [
+            "https://kubit.ai/about"
+          ]
+        },
+        "sales@kubit.ai": {
+          "tier": "C-gen",
+          "sources": [
+            "https://kubit.ai/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "laferla.com.mt": {
+      "emails": {},
+      "status": "ok"
+    },
+    "lambdatest.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "lansweeper.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "lasso.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "lasso.security": {
+      "emails": {},
+      "status": "ok"
+    },
+    "launchgood.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "layer.team": {
+      "emails": {
+        "jane@layer.team": {
+          "tier": "C-other",
+          "sources": [
+            "https://layer.team/contact"
+          ]
+        },
+        "help@layer.team": {
+          "tier": "C-gen",
+          "sources": [
+            "https://layer.team/security"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "leanlabs.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "leanmote.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "legroupenova.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "leonardo.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "lev.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "levelupgroup.nl": {
+      "emails": {},
+      "status": "ok"
+    },
+    "levo.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "lhdottie.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "lickd.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "lightbase.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "liminal.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "link37.org": {
+      "emails": {},
+      "status": "ok"
+    },
+    "linktr.ee": {
+      "emails": {},
+      "status": "ok"
+    },
+    "lions.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "liveplan.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "liverem.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "llamaindex.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "localfalcon.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "locates.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "logcomex.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "logic.inc": {
+      "emails": {},
+      "status": "ok"
+    },
+    "loopboard.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "lorikeetcx.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "lovepopcards.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "lulifama.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "lumonic.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "lusha.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "maestrobrasil.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "magicpatterns.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "magicpost.in": {
+      "emails": {},
+      "status": "ok"
+    },
+    "magnific.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mailersend.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mailmonitor.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "majans.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "make.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "manossoftware.com": {
+      "emails": {
+        "joe@manossoftware.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://manossoftware.com/contact"
+          ]
+        },
+        "info@manossoftware.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://manossoftware.com/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "marcura.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "marketproof.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "martecko.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "marvinrecruiter.com": {
+      "emails": {
+        "contact@marvinrecruiter.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://marvinrecruiter.com/security"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "matador.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "materialsmarket.com": {
+      "emails": {
+        "theteam@materialsmarket.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://materialsmarket.com/contact-us",
+            "https://materialsmarket.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "mdcdatacenters.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mdgsolutions.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mebot.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mechanism.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mediamath.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mee6.xyz": {
+      "emails": {},
+      "status": "ok"
+    },
+    "meetmable.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "meetminutes.in": {
+      "emails": {},
+      "status": "ok"
+    },
+    "meetsquad.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "meetup.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "meistertask.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mellow.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mem.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mentatech.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "merchtable.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mesmer.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "messari.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "micador.com.au": {
+      "emails": {},
+      "status": "ok"
+    },
+    "millistream.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mindmeister.com": {
+      "emails": {
+        "press@mindmeister.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://mindmeister.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "mintlify.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "miramis.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mkt1.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "modoenergy.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "monest.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "moonlit.ai": {
+      "emails": {
+        "nextround@moonlit.ai": {
+          "tier": "C-other",
+          "sources": [
+            "https://moonlit.ai/contact",
+            "https://moonlit.ai/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "moovel.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "morningstar.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mudstack.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "musicinfra.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "musixmatch.com": {
+      "emails": {
+        "press@musixmatch.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://musixmatch.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "mutinyhq.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mutual.app": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mux.com": {
+      "emails": {
+        "security@mux.com": {
+          "tier": "C-sec",
+          "sources": [
+            "https://mux.com/security"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "mydevices.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "myop.dev": {
+      "emails": {},
+      "status": "ok"
+    },
+    "mypureinsights.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "n3xt.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "napta.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "native.security": {
+      "emails": {},
+      "status": "ok"
+    },
+    "natura.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "navan.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "nebuly.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "needl.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "nekt.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "netrefer.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "neurosity.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "neutroon.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "nevados.solar": {
+      "emails": {},
+      "status": "ok"
+    },
+    "newbrandmedia.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "newsleopard.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "nirvanahq.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "noma.security": {
+      "emails": {},
+      "status": "ok"
+    },
+    "nostra.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "notebook.agency": {
+      "emails": {},
+      "status": "ok"
+    },
+    "notion.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "novopsych.com": {
+      "emails": {
+        "info@novopsych.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://novopsych.com/contact-us",
+            "https://novopsych.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "nue.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "nueveonce.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "nuwapen.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "nvoip.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "octavehq.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "octolane.com": {
+      "emails": {
+        "security@octolane.com": {
+          "tier": "C-sec",
+          "sources": [
+            "https://octolane.com/security"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "oktopost.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "oncrawl.com": {
+      "emails": {
+        "jobs@oncrawl.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://oncrawl.com/about"
+          ]
+        },
+        "nhello@oncrawl.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://oncrawl.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "onepage.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "onepay.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "onepeloton.com": {
+      "emails": {
+        "secure@onepeloton.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://onepeloton.com/security"
+          ]
+        },
+        "taxexempt@onepeloton.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://onepeloton.com/security"
+          ]
+        },
+        "support@onepeloton.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://onepeloton.com/security"
+          ]
+        },
+        "privacy@onepeloton.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://onepeloton.com/security"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "onlc.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "onlycat.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "onyxplatform.com": {
+      "emails": {
+        "info@onyxplatform.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://onyxplatform.com/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "oort.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "opquast.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "optimizely.com": {
+      "emails": {
+        "john.doe@optimizely.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://optimizely.com/contact",
+            "https://optimizely.com/contact-us"
+          ]
+        },
+        "securityeng@optimizely.com": {
+          "tier": "C-sec",
+          "sources": [
+            "https://optimizely.com/security"
+          ]
+        },
+        "u003esecurityeng@optimizely.com": {
+          "tier": "C-sec",
+          "sources": [
+            "https://optimizely.com/security"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "optionsamurai.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "orbb.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "orderful.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "orilearning.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "osaas.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "otocrm.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "ottit.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "overmatch.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "owlvc.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "pacelabs.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "packman.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "pai.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "papermill.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "pappers.fr": {
+      "emails": {},
+      "status": "ok"
+    },
+    "parcllabs.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "particl.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "passcreator.com": {
+      "emails": {
+        "hello@passcreator.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://passcreator.com/contact",
+            "https://passcreator.com/contact-us",
+            "https://passcreator.com/security",
+            "https://passcreator.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "pateo.com.cn": {
+      "emails": {},
+      "status": "ok"
+    },
+    "patiobatel.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "patitasco.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "pavefi.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "paymob.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "payouts.com": {
+      "emails": {
+        "careers@payouts.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://payouts.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "paytrail.com": {
+      "emails": {
+        "sales@paytrail.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://paytrail.com/contact"
+          ]
+        },
+        "partners@paytrail.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://paytrail.com/contact"
+          ]
+        },
+        "kumppanit@paytrail.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://paytrail.com/contact"
+          ]
+        },
+        "marketing@paytrail.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://paytrail.com/contact"
+          ]
+        },
+        "finance@paytrail.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://paytrail.com/contact"
+          ]
+        },
+        "online-exclusive@paytrail.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://paytrail.com/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "paywithlocus.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "perfai.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "pga.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "pinegap.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "piperai.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "pixa.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "plotline.so": {
+      "emails": {},
+      "status": "ok"
+    },
+    "plusai.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "pocketsmith.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "podio.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "pointfive.co": {
+      "emails": {
+        "info@pointfive.co": {
+          "tier": "C-gen",
+          "sources": [
+            "https://pointfive.co/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "portkey.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "powersupportpartners.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "powtoon.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "pragma.com.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "pramata.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "praxi.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "predicthq.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "pricehubble.com": {
+      "emails": {
+        "contact@pricehubble.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://pricehubble.com/contact"
+          ]
+        },
+        "elisa.clerici@pricehubble.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://pricehubble.com/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "pricetime.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "print.com": {
+      "emails": {
+        "hello@print.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://print.com/contact"
+          ]
+        },
+        "welkom@print.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://print.com/contact"
+          ]
+        },
+        "willkommen@print.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://print.com/contact"
+          ]
+        },
+        "info@print.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://print.com/contact"
+          ]
+        },
+        "be@print.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://print.com/contact"
+          ]
+        },
+        "contact@print.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://print.com/contact"
+          ]
+        },
+        "servus@print.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://print.com/contact"
+          ]
+        },
+        "hola@print.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://print.com/contact"
+          ]
+        },
+        "velkommen@print.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://print.com/contact"
+          ]
+        },
+        "crew@print.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://print.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "printmailsolutions.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "prisma.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "prizm-energy.com": {
+      "emails": {
+        "info@prizm-energy.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://prizm-energy.com/contact",
+            "https://prizm-energy.com/contact-us"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "product.ai": {
+      "emails": {
+        "contact@product.ai": {
+          "tier": "C-gen",
+          "sources": [
+            "https://product.ai/about"
+          ]
+        },
+        "press@product.ai": {
+          "tier": "C-gen",
+          "sources": [
+            "https://product.ai/about"
+          ]
+        },
+        "partners@product.ai": {
+          "tier": "C-other",
+          "sources": [
+            "https://product.ai/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "producteca.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "prohotel-edv.de": {
+      "emails": {},
+      "status": "ok"
+    },
+    "proluno.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "prontohq.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "prontopago.com.ar": {
+      "emails": {},
+      "status": "ok"
+    },
+    "propbar.co.uk": {
+      "emails": {},
+      "status": "ok"
+    },
+    "propeller.co.uk": {
+      "emails": {
+        "info@propeller.co.uk": {
+          "tier": "C-gen",
+          "sources": [
+            "https://propeller.co.uk/contact",
+            "https://propeller.co.uk/about"
+          ]
+        },
+        "u003einfo@propeller.co.uk": {
+          "tier": "C-gen",
+          "sources": [
+            "https://propeller.co.uk/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "propup.at": {
+      "emails": {},
+      "status": "ok"
+    },
+    "proresources.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "prospeo.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "protegrity.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "pulsegen.io": {
+      "emails": {
+        "contact@pulsegen.io": {
+          "tier": "C-gen",
+          "sources": [
+            "https://pulsegen.io/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "qoets.nl": {
+      "emails": {},
+      "status": "ok"
+    },
+    "quartr.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "quinn-ai.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "rach.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "raylu.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "raynatours.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "reachtwr.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "realfinity.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "realtimelca.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "rebike.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "recordedfuture.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "recurly.com": {
+      "emails": {
+        "hr@recurly.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://recurly.com/contact-us"
+          ]
+        },
+        "sales@recurly.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://recurly.com/contact-us"
+          ]
+        },
+        "emeasales@recurly.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://recurly.com/contact-us"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "reeporter.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "reg-genome.com": {
+      "emails": {
+        "info@reg-genome.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://reg-genome.com/contact"
+          ]
+        },
+        "product@reg-genome.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://reg-genome.com/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "relevanceai.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "relynk.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "reshapex.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "reversinglabs.com": {
+      "emails": {
+        "corporate@reversinglabs.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://reversinglabs.com/contact-us"
+          ]
+        },
+        "support@reversinglabs.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://reversinglabs.com/contact-us"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "revisiondojo.com": {
+      "emails": {
+        "hello@revisiondojo.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://revisiondojo.com/contact",
+            "https://revisiondojo.com/contact-us",
+            "https://revisiondojo.com/security",
+            "https://revisiondojo.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "revsend.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "revspire.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "rhinofcp.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "rhinohealth.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "risepeople.com": {
+      "emails": {
+        "media@risepeople.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://risepeople.com/contact"
+          ]
+        },
+        "info@risepeople.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://risepeople.com/contact",
+            "https://risepeople.com/security"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "rivio.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "roomme.id": {
+      "emails": {},
+      "status": "ok"
+    },
+    "rowads.studio": {
+      "emails": {},
+      "status": "ok"
+    },
+    "rudderstack.com": {
+      "emails": {
+        "support@rudderstack.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://rudderstack.com/contact",
+            "https://rudderstack.com/contact-us"
+          ]
+        },
+        "security@rudderstack.com": {
+          "tier": "C-sec",
+          "sources": [
+            "https://rudderstack.com/contact",
+            "https://rudderstack.com/contact-us"
+          ]
+        },
+        "privacy@rudderstack.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://rudderstack.com/contact",
+            "https://rudderstack.com/contact-us"
+          ]
+        },
+        "billing@rudderstack.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://rudderstack.com/contact",
+            "https://rudderstack.com/contact-us"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "sabre.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sacavalcante.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sales-mind.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "salesfinity.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "salesloft.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sanalsantral.com.tr": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sanka.com": {
+      "emails": {
+        "hey@sanka.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://sanka.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "satellitesonfire.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "savecall.de": {
+      "emails": {
+        "kontakt@savecall.de": {
+          "tier": "C-other",
+          "sources": [
+            "https://savecall.de/contact",
+            "https://savecall.de/security"
+          ]
+        },
+        "bookingsstcvertrieb@savecall.de": {
+          "tier": "C-other",
+          "sources": [
+            "https://savecall.de/contact",
+            "https://savecall.de/security"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "sawmills.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sayhellocollege.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "scaleflex.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "scanpower.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "scenario.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "schemantic.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "scienceofpeople.com": {
+      "emails": {
+        "support@scienceofpeople.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://scienceofpeople.com/contact",
+            "https://scienceofpeople.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "scispot.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "scorecard.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "scvsoft.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "seam.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "seamless.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "searchunify.com": {
+      "emails": {
+        "info@searchunify.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://searchunify.com/contact",
+            "https://searchunify.com/contact-us",
+            "https://searchunify.com/security"
+          ]
+        },
+        "sales@searchunify.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://searchunify.com/contact",
+            "https://searchunify.com/contact-us",
+            "https://searchunify.com/security"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "seerinteractive.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "seismic.com": {
+      "emails": {
+        "support@seismic.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://seismic.com/contact"
+          ]
+        },
+        "asktalent@seismic.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://seismic.com/contact"
+          ]
+        },
+        "u003esupport@seismic.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://seismic.com/contact"
+          ]
+        },
+        "u003easktalent@seismic.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://seismic.com/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "selffundhealth.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sellergeni.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sellerise.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "senja.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sensia.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sensolus.com": {
+      "emails": {
+        "info@sensolus.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://sensolus.com/contact",
+            "https://sensolus.com/contact-us",
+            "https://sensolus.com/security",
+            "https://sensolus.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "sentinelrisk.ie": {
+      "emails": {},
+      "status": "ok"
+    },
+    "seoenmexico.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "serpstat.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sesametime.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sessionboard.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "seven.io": {
+      "emails": {
+        "support@seven.io": {
+          "tier": "C-gen",
+          "sources": [
+            "https://seven.io/contact-us"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "sevengables.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "shade.inc": {
+      "emails": {},
+      "status": "ok"
+    },
+    "shaped.ai": {
+      "emails": {
+        "contact@shaped.ai": {
+          "tier": "C-gen",
+          "sources": [
+            "https://shaped.ai/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "shiftcare.com": {
+      "emails": {
+        "sales@shiftcare.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://shiftcare.com/contact",
+            "https://shiftcare.com/contact-us"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "shinhansec.com.vn": {
+      "emails": {},
+      "status": "ok"
+    },
+    "shinkansen.finance": {
+      "emails": {},
+      "status": "ok"
+    },
+    "shirtee.cloud": {
+      "emails": {},
+      "status": "ok"
+    },
+    "shoott.com": {
+      "emails": {
+        "info@shoott.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://shoott.com/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "siena.cx": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sierra-dc.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "signal-ai.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "silpo.ua": {
+      "emails": {},
+      "status": "ok"
+    },
+    "silveiro.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "simplycodes.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "siteline.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sixtyfour.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "skiltecentret.dk": {
+      "emails": {},
+      "status": "ok"
+    },
+    "skinnovation.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "slashid.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "slashpage.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "slipstreammusic.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sloan.org": {
+      "emails": {},
+      "status": "ok"
+    },
+    "smarte.pro": {
+      "emails": {},
+      "status": "ok"
+    },
+    "smarttalks.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "smarttask.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "smartthings.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "snapshot.box": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sns.id": {
+      "emails": {},
+      "status": "ok"
+    },
+    "socialpruf.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sonr.global": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sonraisecurity.com": {
+      "emails": {
+        "info@sonraisecurity.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://sonraisecurity.com/contact",
+            "https://sonraisecurity.com/contact-us"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "sosovalue.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "source.ag": {
+      "emails": {
+        "info@source.ag": {
+          "tier": "C-gen",
+          "sources": [
+            "https://source.ag/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "sourcecodecap.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "southparkcommons.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "soyio.id": {
+      "emails": {},
+      "status": "ok"
+    },
+    "spectral.hu": {
+      "emails": {},
+      "status": "ok"
+    },
+    "speeding-rocket.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "spot.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sprig.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "springbokproperties.co.uk": {
+      "emails": {
+        "press@springbokproperties.co.uk": {
+          "tier": "C-gen",
+          "sources": [
+            "https://springbokproperties.co.uk/contact-us"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "sprinto.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sprypt.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "spycraft.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "squidler.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "stablewood.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "stack.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "staer.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "stafftastic.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "stan.store": {
+      "emails": {},
+      "status": "ok"
+    },
+    "startaiming.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "starwell.space": {
+      "emails": {},
+      "status": "ok"
+    },
+    "starzero.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "stena.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "storehero.ai": {
+      "emails": {
+        "hello@storehero.ai": {
+          "tier": "C-gen",
+          "sources": [
+            "https://storehero.ai/contact",
+            "https://storehero.ai/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "storydoc.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "strandae.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "strobes.co": {
+      "emails": {
+        "hello@strobes.co": {
+          "tier": "C-gen",
+          "sources": [
+            "https://strobes.co/contact"
+          ]
+        },
+        "u003ehello@strobes.co": {
+          "tier": "C-gen",
+          "sources": [
+            "https://strobes.co/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "structured.app": {
+      "emails": {},
+      "status": "ok"
+    },
+    "subframe.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "subtotal.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "summ.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sunairio.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sunlandasphalt.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "supercycle.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "supernewsroom.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "superscale.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "supplybrain.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "supportlogic.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "surveyloop.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "surveymonkey.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "swaarm.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "swiggy.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "swoogo.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sybill.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "symmetrical.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "sync.so": {
+      "emails": {},
+      "status": "ok"
+    },
+    "syncari.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "synq.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "syrto.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "t54.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "taggify.net": {
+      "emails": {},
+      "status": "ok"
+    },
+    "taghub.net": {
+      "emails": {},
+      "status": "ok"
+    },
+    "takeprofit.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tako.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "talonic.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tamarind.bio": {
+      "emails": {
+        "info@tamarind.bio": {
+          "tier": "C-gen",
+          "sources": [
+            "https://tamarind.bio/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "tasman.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "taxdone.ch": {
+      "emails": {
+        "contact@taxdone.ch": {
+          "tier": "C-gen",
+          "sources": [
+            "https://taxdone.ch/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "tcgfactory.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "teachfloor.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tealhq.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "teamcentral.ai": {
+      "emails": {
+        "contact@teamcentral.ai": {
+          "tier": "C-gen",
+          "sources": [
+            "https://teamcentral.ai/contact",
+            "https://teamcentral.ai/contact-us"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "teamgram.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "teamos.is": {
+      "emails": {},
+      "status": "ok"
+    },
+    "teapot.sk": {
+      "emails": {},
+      "status": "ok"
+    },
+    "techmakers.it": {
+      "emails": {},
+      "status": "ok"
+    },
+    "techpromarketing.com": {
+      "emails": {
+        "bernie@techpromarketing.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://techpromarketing.com/contact"
+          ]
+        },
+        "mike@techpromarketing.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://techpromarketing.com/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "tecro.dev": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tekkare.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "termgrid.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "ternary.app": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tesote.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "thanks.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "thebridgecorp.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "thecontext.company": {
+      "emails": {},
+      "status": "ok"
+    },
+    "thecrmphd.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "thelayer.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "thimble.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "thinksurance.de": {
+      "emails": {},
+      "status": "ok"
+    },
+    "thrad.ai": {
+      "emails": {
+        "contact@thrad.ai": {
+          "tier": "C-gen",
+          "sources": [
+            "https://thrad.ai/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "thrive.xyz": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tigerofsweden.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "timecamp.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tipranks.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tiro.ooo": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tnpgroup.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tokenterminal.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "topchretien.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "trackingplan.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tracklution.com": {
+      "emails": {
+        "hello@tracklution.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://tracklution.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "tradeshift.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tradestation.com": {
+      "emails": {
+        "sales@tradestation.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://tradestation.com/contact-us"
+          ]
+        },
+        "international@tradestation.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://tradestation.com/contact-us"
+          ]
+        },
+        "institutionalsales@tradestation.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://tradestation.com/contact-us"
+          ]
+        },
+        "businessdevelopment@tradestation.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://tradestation.com/contact-us"
+          ]
+        },
+        "clientexperience@tradestation.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://tradestation.com/contact-us"
+          ]
+        },
+        "u003esales@tradestation.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://tradestation.com/contact-us"
+          ]
+        },
+        "u003einternational@tradestation.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://tradestation.com/contact-us"
+          ]
+        },
+        "u003ebusinessdevelopment@tradestation.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://tradestation.com/contact-us"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "travel-code.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "travelnest.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "treasury4.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "treety.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "trendata.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tribe.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tricera.energy": {
+      "emails": {
+        "info@tricera.energy": {
+          "tier": "C-gen",
+          "sources": [
+            "https://tricera.energy/contact",
+            "https://tricera.energy/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "trint.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tripletex.no": {
+      "emails": {},
+      "status": "ok"
+    },
+    "triplewhale.com": {
+      "emails": {
+        "maggie_h@triplewhale.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://triplewhale.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "trycook.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tryfuse.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tryhungry.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tryprofound.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tryspecter.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tuggerapp.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tuyo.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "tweakwise.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "twonas.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "twoshot.app": {
+      "emails": {},
+      "status": "ok"
+    },
+    "unblock.global": {
+      "emails": {},
+      "status": "ok"
+    },
+    "unipiazza.it": {
+      "emails": {},
+      "status": "ok"
+    },
+    "unitic.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "unknowncyber.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "unleash.so": {
+      "emails": {},
+      "status": "ok"
+    },
+    "unosecur.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "untappd.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "unusualwhales.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "upsolve.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "upwind.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "urbancompany.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "useanvil.com": {
+      "emails": {
+        "hello@useanvil.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://useanvil.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "usesynth.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "valid.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "vantage.sh": {
+      "emails": {
+        "security@vantage.sh": {
+          "tier": "C-sec",
+          "sources": [
+            "https://vantage.sh/security"
+          ]
+        },
+        "jobs@vantage.sh": {
+          "tier": "C-other",
+          "sources": [
+            "https://vantage.sh/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "varden.se": {
+      "emails": {},
+      "status": "ok"
+    },
+    "variance.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "velocity-x.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "vendon.net": {
+      "emails": {
+        "vendon@vendon.net": {
+          "tier": "C-other",
+          "sources": [
+            "https://vendon.net/contact-us"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "versi.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "verzel.com.br": {
+      "emails": {},
+      "status": "ok"
+    },
+    "vessel.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "veyda.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "veylan.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "vigilatevision.com": {
+      "emails": {
+        "web@vigilatevision.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://vigilatevision.com/contact",
+            "https://vigilatevision.com/contact-us",
+            "https://vigilatevision.com/security",
+            "https://vigilatevision.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "vimigo.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "violetlabs.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "viomba.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "virio.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "visarun.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "visiblie.com": {
+      "emails": {
+        "marketing@visiblie.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://visiblie.com/contact",
+            "https://visiblie.com/about"
+          ]
+        },
+        "support@visiblie.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://visiblie.com/contact",
+            "https://visiblie.com/about"
+          ]
+        },
+        "sales@visiblie.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://visiblie.com/contact",
+            "https://visiblie.com/about"
+          ]
+        },
+        "gilles@visiblie.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://visiblie.com/about"
+          ]
+        },
+        "domien@visiblie.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://visiblie.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "visitingmedia.com": {
+      "emails": {
+        "people@visitingmedia.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://visitingmedia.com/contact",
+            "https://visitingmedia.com/contact-us"
+          ]
+        },
+        "hello@visitingmedia.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://visitingmedia.com/contact"
+          ]
+        },
+        "support@visitingmedia.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://visitingmedia.com/contact-us"
+          ]
+        },
+        "sales@visitingmedia.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://visitingmedia.com/contact-us"
+          ]
+        },
+        "communication@visitingmedia.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://visitingmedia.com/contact-us"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "visitiq.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "visitly.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "vondera.app": {
+      "emails": {
+        "info@vondera.app": {
+          "tier": "C-gen",
+          "sources": [
+            "https://vondera.app/contact",
+            "https://vondera.app/about"
+          ]
+        },
+        "shreef@vondera.app": {
+          "tier": "C-other",
+          "sources": [
+            "https://vondera.app/contact",
+            "https://vondera.app/about"
+          ]
+        },
+        "store@vondera.app": {
+          "tier": "C-other",
+          "sources": [
+            "https://vondera.app/contact",
+            "https://vondera.app/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "vrnu.de": {
+      "emails": {},
+      "status": "ok"
+    },
+    "vvr-bank.de": {
+      "emails": {},
+      "status": "ok"
+    },
+    "wafflepos.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "waldo.fyi": {
+      "emails": {},
+      "status": "ok"
+    },
+    "wallector.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "warmlyyours.com": {
+      "emails": {
+        "social@warmlyyours.com": {
+          "tier": "C-sec",
+          "sources": [
+            "https://warmlyyours.com/contact"
+          ]
+        },
+        "info@warmlyyours.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://warmlyyours.com/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "wasabil.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "waterplan.com": {
+      "emails": {
+        "security@waterplan.com": {
+          "tier": "C-sec",
+          "sources": [
+            "https://waterplan.com/security"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "we-wealth.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "wecover.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "weni.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "whaller.com": {
+      "emails": {
+        "contact@whaller.com": {
+          "tier": "C-gen",
+          "sources": [
+            "https://whaller.com/contact",
+            "https://whaller.com/about"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "whisper.security": {
+      "emails": {},
+      "status": "ok"
+    },
+    "whistic.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "whitebridge.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "whitehole.es": {
+      "emails": {},
+      "status": "ok"
+    },
+    "whodunit.fr": {
+      "emails": {
+        "hello@whodunit.fr": {
+          "tier": "C-gen",
+          "sources": [
+            "https://whodunit.fr/contact"
+          ]
+        },
+        "support@whodunit.fr": {
+          "tier": "C-gen",
+          "sources": [
+            "https://whodunit.fr/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "wholesome.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "whop.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "wikifarmer.com": {
+      "emails": {
+        "library@wikifarmer.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://wikifarmer.com/contact"
+          ]
+        },
+        "commercial@wikifarmer.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://wikifarmer.com/contact"
+          ]
+        },
+        "career@wikifarmer.com": {
+          "tier": "C-other",
+          "sources": [
+            "https://wikifarmer.com/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "wisepops.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "wiv.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "workmagic.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "worldbox.net": {
+      "emails": {},
+      "status": "ok"
+    },
+    "wrld.tech": {
+      "emails": {
+        "contact@wrld.tech": {
+          "tier": "C-gen",
+          "sources": [
+            "https://wrld.tech/contact"
+          ]
+        },
+        "helpdesk@wrld.tech": {
+          "tier": "C-gen",
+          "sources": [
+            "https://wrld.tech/contact"
+          ]
+        }
+      },
+      "status": "ok"
+    },
+    "xp.tickets": {
+      "emails": {},
+      "status": "ok"
+    },
+    "xp.xyz": {
+      "emails": {},
+      "status": "ok"
+    },
+    "ycharts.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "yinzcam.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "yonderhq.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "zapper.xyz": {
+      "emails": {},
+      "status": "ok"
+    },
+    "zapsign.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "zed.co": {
+      "emails": {},
+      "status": "ok"
+    },
+    "zeliq.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "zenrows.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "zeroe.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "zesty.ai": {
+      "emails": {},
+      "status": "ok"
+    },
+    "zestyfinance.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "zigpoll.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "zillow.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "zocks.io": {
+      "emails": {},
+      "status": "ok"
+    },
+    "zoviz.com": {
+      "emails": {},
+      "status": "ok"
+    },
+    "ztex.co": {
+      "emails": {},
+      "status": "ok"
+    }
+  }
+}
