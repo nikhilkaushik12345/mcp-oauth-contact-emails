@@ -6,6 +6,7 @@ domain,email,tier,tier_label
 1up.ai,security@1up.ai,S2,Security
 1up.ai,abuse@1up.ai,S3,Abuse / trust / safety
 2cloudnine.com,abuse@2cloudnine.com,S3,Abuse / trust / safety
+30x.com,privacidad@30x.org,S4
 3doptix.com,abuse@3doptix.com,S3,Abuse / trust / safety
 3doptix.com,support@3doptix.com,S8,Support / help
 3doptix.com,devops@3doptix.com,S7,Admin / postmaster
@@ -272,6 +273,7 @@ artblocks.io,security@artblocks.io,S2,Security
 artblocks.io,abuse@artblocks.io,S3,Abuse / trust / safety
 artblocks.io,eng_auto_reports@artblocks.io,Sx-d,Other / mixed
 artemis.ai,info@artemis.ai,S9
+artemis.ai,team@artemis.xyz,Sx-a
 arternal.com,abuse@arternal.com,S3,Abuse / trust / safety
 articulate.com,security-disclosure@articulate.com,S0,Bug bounty / VDP
 asana.com,security@asana.com,S2,Security
@@ -308,6 +310,7 @@ atlasx.co,team@atlasx.co,S9,Generic info / contact
 atom.com,compliance@atom.com,S4
 atom.com,legal@atom.com,S5
 atomic.supply,info@atomic.supply,S9
+atomic.supply,hello@atomic.supply,S8
 atominvest.co,security@atominvest.co,S2,Security
 atominvest.co,abuse@atominvest.co,S3,Abuse / trust / safety
 atominvest.co,info@atominvest.co,S9,Generic info / contact
@@ -432,6 +435,7 @@ betterleap.com,support@betterleap.com,S8,Support / help
 betterleap.com,hello@betterleap.com,S9,Generic info / contact
 betterstack.com,security@betterstack.com,S2,Security
 betterstack.com,hello@betterstack.com,S9,Generic info / contact
+bfl.ai,support@blackforestlabs.ai,S8
 bidprime.com,bounce@bidprime.com,Sx-b,Single-word local
 bigdata.com,security@bigdata.com,S2,Security
 bigdata.com,abuse@bigdata.com,S3,Abuse / trust / safety
@@ -461,6 +465,7 @@ blend-ai.com,info@blend-ai.com,S9,Generic info / contact
 blockscholes.com,abuse@blockscholes.com,S3,Abuse / trust / safety
 blockscholes.com,info@blockscholes.com,S9,Generic info / contact
 blockscholes.com,bmiller@blockscholes.com,Sx-b,Single-word local
+blocksize.info,info@blocksize.capital,S9
 bloomberg.com,opensource@bloomberg.net,Sx-d
 bloomreach.com,securityreporting@bloomreach.com,S2,Security
 bluegamma.io,support@bluegamma.io,S8,Support / help
@@ -473,6 +478,7 @@ bluetriangle.com,info@bluetriangle.com,S9,Generic info / contact
 bnicapital.com,contact@bnicapital.com,S9,Generic info / contact
 bonafide.ai,abuse@bonafide.ai,S3,Abuse / trust / safety
 bonafide.ai,hello@bonafide.ai,S9,Generic info / contact
+bonnie.ai,hello@bonni.co,S8
 bonuz.market,security@bonuz.market,S2,Security
 bonuz.market,support@bonuz.market,S8,Support / help
 bonuz.market,hello@bonuz.market,S9,Generic info / contact
@@ -790,6 +796,7 @@ crowdin.com,support@crowdin.com,S8,Support / help
 crowdin.com,privacy@crowdin.com,S4,Privacy / DPO / GDPR
 crowdin.com,onboarding@crowdin.com,Sx-b,Single-word local
 crowdreply.io,support@crowdreply.io,S8,Support / help
+crstl.ai,help@crstl.so,S8
 crustdata.com,info@crustdata.com,S9,Generic info / contact
 cruva.com,support@cruva.com,S8,Support / help
 cruva.com,info@cruva.com,S9,Generic info / contact
@@ -969,6 +976,7 @@ dorsia.com,security@dorsia.com,S2,Security
 dorsia.com,abuse@dorsia.com,S3,Abuse / trust / safety
 dorsia.com,legal@dorsia.com,S5,Legal / compliance
 dotter.me,abuse@dotter.me,S3,Abuse / trust / safety
+drata.com,security@drata.com,S2
 dreamlit.ai,support@dreamlit.ai,S8,Support / help
 drome.com.br,abuse@drome.com.br,S3,Abuse / trust / safety
 drome.com.br,contato@drome.com.br,Sx-b,Single-word local
@@ -1017,6 +1025,8 @@ elkat.no,abuse@elkat.no,S3,Abuse / trust / safety
 elkat.no,post@elkat.no,Sx-b,Single-word local
 ellipsend.com,abuse@ellipsend.com,S3,Abuse / trust / safety
 ellipsend.com,hello@ellipsend.com,S9,Generic info / contact
+ellty.com,security@ellty.com,S2
+ellty.com,hello@ellty.com,S8
 elnora.ai,security@elnora.ai,S2,Security
 elnora.ai,contact@elnora.ai,S9,Generic info / contact
 embankment.com,security@embankment.com,S2,Security
@@ -1360,6 +1370,7 @@ goextrovert.com,abuse@goextrovert.com,S3,Abuse / trust / safety
 goextrovert.com,support@goextrovert.com,S8,Support / help
 goextrovert.com,privacy@goextrovert.com,S4,Privacy / DPO / GDPR
 goflink.com,it-security@goflink.com,S2,Security
+goideally.com,hello@ideally.com,S8
 goldfishads.com,abuse@goldfishads.com,S3,Abuse / trust / safety
 goldfishads.com,info@goldfishads.com,S9,Generic info / contact
 goldwasserexchange.be,security@goldwasserexchange.be,S2,Security
@@ -1545,6 +1556,7 @@ iamota.com,hello@iamota.com,S9,Generic info / contact
 iamota.com,privacy@iamota.com,S4,Privacy / DPO / GDPR
 iasaglobal.org,contactus@iasaglobal.org,S9,Generic info / contact
 iasaglobal.org,dpo@iasaglobal.org,S4,Privacy / DPO / GDPR
+icebreaker.xyz,privacy@icebreaker.xyz,S4
 icepanel.io,mail@icepanel.io,Sx-b,Single-word local
 icmarkets.com,dmarcreports@icmarkets.com,Sx-c,DMARC reporting
 icustomer.ai,abuse@icustomer.ai,S3,Abuse / trust / safety
@@ -1806,6 +1818,7 @@ leadfeeder.com,support@leadfeeder.com,S8,Support / help
 leadfeeder.com,info@leadfeeder.com,S9,Generic info / contact
 leadmagic.io,security@leadmagic.io,S2,Security
 leadmagic.io,support@leadmagic.io,S8,Support / help
+leanlabs.com,hello@lean-labs.com,S8
 leanmote.com,abuse@leanmote.com,S3,Abuse / trust / safety
 leanmote.com,alex@leanmote.com,Sx-b,Single-word local
 leanrs.com,info@leanrs.com,S9,Generic info / contact
@@ -2186,6 +2199,7 @@ navan.com,privacy@navan.com,S4
 nclarity.com,security@nclarity.com,S2,Security
 nclarity.com,abuse@nclarity.com,S3,Abuse / trust / safety
 nclarity.com,info@nclarity.com,S9,Generic info / contact
+nebuly.com,info@nebuly.com,S9
 needl.ai,abuse@needl.ai,S3,Abuse / trust / safety
 nekt.com,abuse@nekt.com,S3,Abuse / trust / safety
 netradyne.com,infosec@netradyne.com,S1,PSIRT / CERT / SOC
@@ -2358,6 +2372,7 @@ ownright.com,abuse@ownright.com,S3,Abuse / trust / safety
 ownright.com,support@ownright.com,S8,Support / help
 oxit.com,contact@oxit.com,S9,Generic info / contact
 pacelabs.com,security@pacelabs.com,S2,Security
+packman.ai,help@packman.ai,S8
 padlet.com,hello@padlet.com,S9,Generic info / contact
 pagerduty.com,ssl-tls-certificates-caa-iodef-report.r4785y6f@pdt-circular.pagerduty.com,S1,PSIRT / CERT / SOC
 pagerduty.com,support@pagerduty.com,S8,Support / help
