@@ -1391,3 +1391,4 @@ your@email.com,item.app,tier1-2-dns:dmarc_rua,,host-not-same-domain
 yuval@ilumex.ai,illumex.ai,tier1-2-dns:caa_iodef,,host-not-same-domain
 zaheer+dmarc@levels.fyi,levels.fyi,tier1-2-dns:dmarc_rua,,contains-dmarc-or-mailgun
 zone-admin@dyndns.com,brightedge.com,tier1-2-dns:soa_rname,,host-not-same-domain
+__sales@clickup.com,clickup.com,consensus-tier-B,https://clickup.com/security,encoded-or-invalid-email
