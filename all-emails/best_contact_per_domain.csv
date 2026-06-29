@@ -3,6 +3,7 @@ domain,email,tier,tier_label
 100hires.com,abuse@100hires.com,S3,Abuse / trust / safety
 1up.ai,security@1up.ai,S2,Security
 2cloudnine.com,abuse@2cloudnine.com,S3,Abuse / trust / safety
+30x.com,privacidad@30x.org,S4
 3doptix.com,abuse@3doptix.com,S3,Abuse / trust / safety
 3i.ai,questions@3i.ai,S9,Generic info / contact
 4degrees.ai,info@4degrees.ai,S9,Generic info / contact
@@ -123,7 +124,7 @@ armature.tech,founders@armature.tech,Sx-b,Single-word local
 aroya.io,support@aroya.io,S8,Support / help
 arta.ch,info@arta.ch,S9,Generic info / contact
 artblocks.io,security@artblocks.io,S2,Security
-artemis.ai,info@artemis.ai,S9
+artemis.ai,team@artemis.xyz,Sx-a
 arternal.com,abuse@arternal.com,S3,Abuse / trust / safety
 articulate.com,security-disclosure@articulate.com,S0,Bug bounty / VDP
 asana.com,security@asana.com,S2,Security
@@ -140,7 +141,7 @@ atlan.com,security@atlan.com,S2,Security
 atlaspeople.io,abuse@atlaspeople.io,S3,Abuse / trust / safety
 atlasx.co,security@atlasx.co,S2,Security
 atom.com,compliance@atom.com,S4
-atomic.supply,info@atomic.supply,S9
+atomic.supply,hello@atomic.supply,S8
 atominvest.co,security@atominvest.co,S2,Security
 atriumdata.ai,abuse@atriumdata.ai,S3,Abuse / trust / safety
 attio.com,security@attio.com,S2,Security
@@ -187,6 +188,7 @@ besample.app,hostmaster@besample.app,S7,Admin / postmaster
 betterbugs.io,security@betterbugs.io,S2,Security
 betterleap.com,support@betterleap.com,S8,Support / help
 betterstack.com,security@betterstack.com,S2,Security
+bfl.ai,support@blackforestlabs.ai,S8
 bidprime.com,bounce@bidprime.com,Sx-b,Single-word local
 bigdata.com,security@bigdata.com,S2,Security
 bigenius-x.com,cs@bigenius-x.com,S8,Support / help
@@ -203,6 +205,7 @@ bizstream.com,ops@bizstream.com,S7,Admin / postmaster
 blazesql.com,support@blazesql.com,S8,Support / help
 blend-ai.com,abuse@blend-ai.com,S3,Abuse / trust / safety
 blockscholes.com,abuse@blockscholes.com,S3,Abuse / trust / safety
+blocksize.info,info@blocksize.capital,S9
 bloomberg.com,opensource@bloomberg.net,Sx-d
 bloomreach.com,securityreporting@bloomreach.com,S2,Security
 bluegamma.io,support@bluegamma.io,S8,Support / help
@@ -210,6 +213,7 @@ bluente.com,abuse@bluente.com,S3,Abuse / trust / safety
 bluetriangle.com,security@bluetriangle.com,S2,Security
 bnicapital.com,contact@bnicapital.com,S9,Generic info / contact
 bonafide.ai,abuse@bonafide.ai,S3,Abuse / trust / safety
+bonnie.ai,hello@bonni.co,S8
 bonuz.market,security@bonuz.market,S2,Security
 boom.nl,security@boom.nl,S2,Security
 boompop.com,no-reply@boompop.com,Sx-a,Real-person name
@@ -356,6 +360,7 @@ crewos.io,abuse@crewos.io,S3,Abuse / trust / safety
 crossbeam.com,security@crossbeam.com,S2,Security
 crowdin.com,support@crowdin.com,S8,Support / help
 crowdreply.io,support@crowdreply.io,S8,Support / help
+crstl.ai,help@crstl.so,S8
 crustdata.com,info@crustdata.com,S9,Generic info / contact
 cruva.com,support@cruva.com,S8,Support / help
 cryptoquant.com,abuse@cryptoquant.com,S3,Abuse / trust / safety
@@ -437,6 +442,7 @@ doktorsitesi.com,abuse@doktorsitesi.com,S3,Abuse / trust / safety
 doola.com,security@doola.com,S2,Security
 dorsia.com,security@dorsia.com,S2,Security
 dotter.me,abuse@dotter.me,S3,Abuse / trust / safety
+drata.com,security@drata.com,S2
 dreamlit.ai,support@dreamlit.ai,S8,Support / help
 drome.com.br,abuse@drome.com.br,S3,Abuse / trust / safety
 dronedeploy.com,security@dronedeploy.com,S2,Security
@@ -463,6 +469,7 @@ eka.care,support@eka.care,S8,Support / help
 eliex.ai,vendas@eliex.ai,Sx-b,Single-word local
 elkat.no,abuse@elkat.no,S3,Abuse / trust / safety
 ellipsend.com,abuse@ellipsend.com,S3,Abuse / trust / safety
+ellty.com,security@ellty.com,S2
 elnora.ai,security@elnora.ai,S2,Security
 embankment.com,security@embankment.com,S2,Security
 emerge-tech.io,abuse@emerge-tech.io,S3,Abuse / trust / safety
@@ -642,6 +649,7 @@ goconsensus.com,security@goconsensus.com,S2,Security
 gocsm.com,info@gocsm.com,S9,Generic info / contact
 goextrovert.com,abuse@goextrovert.com,S3,Abuse / trust / safety
 goflink.com,it-security@goflink.com,S2,Security
+goideally.com,hello@ideally.com,S8
 goldfishads.com,abuse@goldfishads.com,S3,Abuse / trust / safety
 goldwasserexchange.be,security@goldwasserexchange.be,S2,Security
 gomining.com,abuse@gomining.com,S3,Abuse / trust / safety
@@ -728,6 +736,7 @@ hyperline.co,security@hyperline.co,S2,Security
 i-glocal.com,info@i-glocal.com,S9,Generic info / contact
 iamota.com,abuse@iamota.com,S3,Abuse / trust / safety
 iasaglobal.org,contactus@iasaglobal.org,S9,Generic info / contact
+icebreaker.xyz,privacy@icebreaker.xyz,S4
 icepanel.io,mail@icepanel.io,Sx-b,Single-word local
 icmarkets.com,dmarcreports@icmarkets.com,Sx-c,DMARC reporting
 icustomer.ai,abuse@icustomer.ai,S3,Abuse / trust / safety
@@ -866,6 +875,7 @@ lawvu.com,security@lawvu.com,S2,Security
 layer.team,help@layer.team,S8,Support / help
 leadfeeder.com,security@leadfeeder.com,S2,Security
 leadmagic.io,security@leadmagic.io,S2,Security
+leanlabs.com,hello@lean-labs.com,S8
 leanmote.com,abuse@leanmote.com,S3,Abuse / trust / safety
 leanrs.com,info@leanrs.com,S9,Generic info / contact
 legalmike.ai,security@legalmike.ai,S2,Security
@@ -1043,6 +1053,7 @@ nativo.com,security@nativo.com,S2,Security
 natura.io,security@natura.io,S2,Security
 navan.com,sre+cert@navan.com,S1,PSIRT / CERT / SOC
 nclarity.com,security@nclarity.com,S2,Security
+nebuly.com,info@nebuly.com,S9
 needl.ai,abuse@needl.ai,S3,Abuse / trust / safety
 nekt.com,abuse@nekt.com,S3,Abuse / trust / safety
 netradyne.com,infosec@netradyne.com,S1,PSIRT / CERT / SOC
@@ -1123,6 +1134,7 @@ owlvc.com,forensicreports@owlvc.com,Sx-d,Other / mixed
 ownright.com,abuse@ownright.com,S3,Abuse / trust / safety
 oxit.com,contact@oxit.com,S9,Generic info / contact
 pacelabs.com,security@pacelabs.com,S2,Security
+packman.ai,help@packman.ai,S8
 padlet.com,hello@padlet.com,S9,Generic info / contact
 pagerduty.com,security@pagerduty.com,S2
 pagos.ai,security@pagos.ai,S2,Security
