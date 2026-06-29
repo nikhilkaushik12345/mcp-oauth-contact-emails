@@ -1864,61 +1864,502 @@ tech+dmarc@keywordtool.io,keywordtool.io,tier1-2-dns:dmarc_rua,,dmarc-with-alter
 tech+dmarc@keywordtool.io,keywordtool.io,tier1-2-dns:dmarc_ruf,,dmarc-with-alternative-on-domain
 webmaster+dmarc@whaller.com,whaller.com,tier1-2-dns:dmarc_rua,,dmarc-with-alternative-on-domain
 zaheer+dmarc@levels.fyi,levels.fyi,tier1-2-dns:dmarc_rua,,dmarc-with-alternative-on-domain
-accounting.uk@osome.com,osome.com,consensus-tier-B,https://osome.com/uk/terms/,category-prune:Finance/billing
-accounting@knocommerce.com,knocommerce.com,consensus-tier-B,https://knocommerce.com/privacy-policy/,category-prune:Finance/billing
-accounts@bounceinsights.com,bounceinsights.com,consensus-tier-B,https://www.bounceinsights.com/contact,category-prune:Finance/billing
-accounts@dma-group.co.uk,dma-group.co.uk,consensus-tier-B,https://dma-group.co.uk/contact/,category-prune:Finance/billing
-accounts@humaans.io,humaans.io,consensus-tier-B,https://humaans.io/terms,category-prune:Finance/billing
-accounts@milemaker.com,milemaker.com,consensus-tier-B,https://www.milemaker.com/,category-prune:Finance/billing
-ap-openinvoice.support@ovintiv.com,ovintiv.com,consensus-tier-B,https://www.ovintiv.com/contact-us/,category-prune:Finance/billing
-asktalent@seismic.com,seismic.com,C-other,https://seismic.com/contact,category-prune:HR/careers
-billing.uk@keboola.com,keboola.com,consensus-tier-B,https://www.keboola.com/contact,category-prune:Finance/billing
-billing.us@keboola.com,keboola.com,consensus-tier-B,https://www.keboola.com/contact,category-prune:Finance/billing
-billing@algolia.com,algolia.com,consensus-tier-B,https://www.algolia.com/contact,category-prune:Finance/billing
-billing@customer.io,customer.io,consensus-tier-B,https://customer.io/contact,category-prune:Finance/billing
-billing@expo.dev,expo.dev,consensus-tier-B,https://expo.dev/terms,category-prune:Finance/billing
-billing@karbonhq.com,karbonhq.com,consensus-tier-B,https://karbonhq.com/contact-us,category-prune:Finance/billing
-billing@keboola.com,keboola.com,consensus-tier-B,https://www.keboola.com/contact,category-prune:Finance/billing
-billing@linear.app,linear.app,consensus-tier-B,https://linear.app/terms,category-prune:Finance/billing
-billing@quartile.com,quartile.com,consensus-tier-B,https://www.quartile.com/contact-us,category-prune:Finance/billing
-billing@rolli.ai,rolli.ai,consensus-tier-B,https://rolli.ai/terms,category-prune:Finance/billing
-billing@rudderstack.com,rudderstack.com,C-other,https://rudderstack.com/contact,category-prune:Finance/billing
-careers@austintechnology.com.au,austintechnology.com.au,consensus-tier-B,https://austintechnology.com.au/contact-us/,category-prune:HR/careers
-careers@coros.com,coros.com,consensus-tier-B,https://coros.com/contact,category-prune:HR/careers
-careers@hushh.ai,hushh.ai,consensus-tier-B,https://hushh.ai/contact,category-prune:HR/careers
-careers@icustomer.ai,icustomer.ai,C-other,https://icustomer.ai/contact,category-prune:HR/careers
-careers@kubit.ai,kubit.ai,C-other,https://kubit.ai/about,category-prune:HR/careers
-careers@payouts.com,payouts.com,C-other,https://payouts.com/about,category-prune:HR/careers
-careers@quotech.io,quotech.io,consensus-tier-B,https://quotech.io/,category-prune:HR/careers
-careers@sproutsocial.com,sproutsocial.com,consensus-tier-B,https://sproutsocial.com/legal/,category-prune:HR/careers
-events@grafana.com,grafana.com,C-other,https://grafana.com/about,category-prune:Newsletter/community/events
-feedback@maestrolabs.com,maestrolabs.com,consensus-tier-B,https://www.maestrolabs.com/terms,category-prune:Newsletter/community/events
-feedback@silabs.com,silabs.com,consensus-tier-B,https://www.silabs.com/,category-prune:Newsletter/community/events
-feedback@thetappingsolution.com,thetappingsolution.com,consensus-tier-B,https://legacy.thetappingsolution.com/contact/,category-prune:Newsletter/community/events
-finance.helpdesk@scientist.com,scientist.com,consensus-tier-B,https://www.scientist.com/contact,category-prune:Finance/billing
-finance@go1.com,go1.com,consensus-tier-B,https://www.go1.com/contact-us,category-prune:Finance/billing
-finance@paytrail.com,paytrail.com,C-other,https://paytrail.com/contact,category-prune:Finance/billing
-hiring@remote.com,remote.com,consensus-tier-B,https://remote.com/abuse,category-prune:HR/careers
-hr@affinity.co,affinity.co,consensus-tier-B,https://www.affinity.co/contact-us,category-prune:HR/careers
-hr@cryptorefills.com,cryptorefills.com,consensus-tier-B,https://www.cryptorefills.com/en/contact-us,category-prune:HR/careers
-hr@predactiv.com,predactiv.com,consensus-tier-B,https://predactiv.com/privacy-policy/,category-prune:HR/careers
-hr@recurly.com,recurly.com,C-other,https://recurly.com/contact-us,category-prune:HR/careers
-hr@sharethis.com,sharethis.com,consensus-tier-B,https://sharethis.com/contact/,category-prune:HR/careers
-investor.relations@ovintiv.com,ovintiv.com,consensus-tier-B,https://www.ovintiv.com/contact-us/,category-prune:Investor/IR
-investor@text.com,text.com,consensus-tier-B,https://www.text.com/,category-prune:Investor/IR
-ir@anomalycapital.com,anomalycapital.com,consensus-tier-B,https://www.anomalycapital.com/,category-prune:Investor/IR
-ir@arena.com.tr,arena.com.tr,consensus-tier-B,https://www.arena.com.tr/,category-prune:Investor/IR
-ir@b.capital,b.capital,consensus-tier-B,https://b.capital/,category-prune:Investor/IR
-ir@manatal.com,manatal.com,consensus-tier-B,https://www.manatal.com/contact-us,category-prune:Investor/IR
-jobs@clockworkrecruiting.com,clockworkrecruiting.com,consensus-tier-B,https://www.clockworkrecruiting.com/contact,category-prune:HR/careers
-jobs@darkmatter.is,darkmatter.is,consensus-tier-B,https://darkmatter.is/,category-prune:HR/careers
-jobs@databox.com,databox.com,C-other,https://databox.com/about,category-prune:HR/careers
-jobs@dronus.com,dronus.com,consensus-tier-B,https://dronus.com/contatti/,category-prune:HR/careers
-jobs@oncrawl.com,oncrawl.com,C-other,https://oncrawl.com/about,category-prune:HR/careers
-jobs@photoncommerce.com,photoncommerce.com,consensus-tier-B,https://www.photoncommerce.com/,category-prune:HR/careers
-jobs@vantage.sh,vantage.sh,C-other,https://vantage.sh/about,category-prune:HR/careers
-jobs@wewood.eu,wewood.eu,consensus-tier-B,https://www.wewood.eu/contact,category-prune:HR/careers
-jobs@zaslat.cz,zaslat.cz,consensus-tier-B,https://www.zaslat.cz:443/,category-prune:HR/careers
-people@visitingmedia.com,visitingmedia.com,C-other,https://visitingmedia.com/contact,category-prune:HR/careers
-recruit@aceworks.ai,aceworks.ai,consensus-tier-B,https://www.aceworks.ai/contact,category-prune:HR/careers
-recruiting@greenstreet.com,greenstreet.com,consensus-tier-B,https://www.greenstreet.com/contact/,category-prune:HR/careers
+accounting.uk@osome.com,osome.com,consensus-tier-B,https://osome.com/uk/terms/,category-prune:Real-person name
+admin.usland@ovintiv.com,ovintiv.com,consensus-tier-B,https://www.ovintiv.com/contact-us/,category-prune:Admin/ops/tech
+admin@adplist.org,adplist.org,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@agrexai.com,agrexai.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@antimetal.com,antimetal.com,consensus-tier-B,https://antimetal.com/privacy,category-prune:Admin/ops/tech
+admin@azion.com,azion.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+admin@backstory.ai,backstory.ai,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@browserless.io,browserless.io,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@cordova.com,cordova.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@dronus.com,dronus.com,consensus-tier-B,https://dronus.com/contatti/,category-prune:Admin/ops/tech
+admin@enrich.so,enrich.so,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@gdicwins.com,gdicwins.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@gdicwins.com,gdicwins.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+admin@hostingb2b.com,hostingb2b.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@hostingb2b.com,hostingb2b.com,C-gen,https://hostingb2b.com/contact-us,category-prune:Admin/ops/tech
+admin@i-glocal.com,i-glocal.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@i-glocal.com,i-glocal.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+admin@inboxkit.com,inboxkit.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@inboxkit.com,inboxkit.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+admin@ingest.ai,ingest.ai,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+admin@laferla.com.mt,laferla.com.mt,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@mem.ai,mem.ai,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+admin@miro.com,miro.com,tier1-2-dns:caa_iodef,,category-prune:Admin/ops/tech
+admin@people.ai,people.ai,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@pickfu.com,pickfu.com,consensus-tier-B,https://www.pickfu.com/security,category-prune:Admin/ops/tech
+admin@quartile.com,quartile.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@quartile.com,quartile.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+admin@query.ai,query.ai,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+admin@reevo.ai,reevo.ai,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@revsend.com,revsend.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@searchunify.com,searchunify.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@searchunify.com,searchunify.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+admin@segmentstream.com,segmentstream.com,consensus-tier-B,https://segmentstream.com/terms,category-prune:Admin/ops/tech
+admin@similar.ai,similar.ai,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+admin@stackby.com,stackby.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@tradestation.com,tradestation.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+admin@vallor.ai,vallor.ai,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+admin@vallor.ai,vallor.ai,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+admin@vallor.ai,vallor.ai,consensus-tier-B,https://vallor.ai/,category-prune:Admin/ops/tech
+admin@vidmob.com,vidmob.com,tier1-2-dns:caa_iodef,,category-prune:Admin/ops/tech
+admin@volta.ai,volta.ai,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+admin@zaslat.cz,zaslat.cz,security.txt,https://zaslat.cz/security.txt,category-prune:Admin/ops/tech
+admin@zaslat.cz,zaslat.cz,consensus-tier-B,https://www.zaslat.cz:443/security.txt,category-prune:Admin/ops/tech
+aleksey.danchenko@esputnik.com,esputnik.com,consensus-tier-B,https://esputnik.com/contact-us,category-prune:Real-person name
+api-marketing@remote.com,remote.com,consensus-tier-B,https://remote.com/abuse,category-prune:Marketing/PR/press/media
+api-onboarding@remote.com,remote.com,consensus-tier-B,https://remote.com/abuse,category-prune:Real-person name
+badrudduza.ahmed@nocfo.io,nocfo.io,consensus-tier-B,https://www.nocfo.io/fi/contact,category-prune:Real-person name
+bd@scientist.com,scientist.com,consensus-tier-B,https://www.scientist.com/contact,category-prune:Sales/business
+bohdan.kucheriavyi@zapal.tech,zapal.tech,consensus-tier-B,https://www.zapal.tech/,category-prune:Real-person name
+brittany.wolfe@lokalise.com,lokalise.com,consensus-tier-B,https://lokalise.com/,category-prune:Real-person name
+businessdevelopment@tradestation.com,tradestation.com,C-other,https://tradestation.com/contact-us,category-prune:Sales/business
+chris.joseph@yuzedata.com,yuzedata.com,consensus-tier-B,https://www.yuzedata.com/terms,category-prune:Real-person name
+chris.pickford@quotech.io,quotech.io,consensus-tier-B,https://quotech.io/,category-prune:Real-person name
+complaints-in@stripe.com,stripe.com,consensus-tier-B,https://stripe.com/privacy,category-prune:Real-person name
+complaints.mcx@upstox.com,upstox.com,consensus-tier-B,https://upstox.com/,category-prune:Real-person name
+compliance-uk@greenstreet.com,greenstreet.com,consensus-tier-B,https://www.greenstreet.com/about/privacy-policy/,category-prune:Real-person name
+contact-it@enshift.com,enshift.com,consensus-tier-B,https://www.enshift.com/,category-prune:Admin/ops/tech
+cyber.escalation@bajajbroking.in,bajajbroking.in,consensus-tier-B,https://www.bajajbroking.in/contact-us,category-prune:Real-person name
+daniel.loader@quotech.io,quotech.io,consensus-tier-B,https://quotech.io/,category-prune:Real-person name
+delta.nis@shops.bebakids.com,bebakids.com,consensus-tier-B,http://www.bebakids.com/,category-prune:Real-person name
+derek.li@coinmarketcap.com,coinmarketcap.com,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+derek.li@coinmarketcap.com,coinmarketcap.com,tier1-2-dns:dmarc_ruf,,category-prune:Real-person name
+dev@craft.io,craft.io,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+dev@craft.io,craft.io,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+dev@danelfin.com,danelfin.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+dev@hellodarwin.com,hellodarwin.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+developer@clozd.com,clozd.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+developer@clozd.com,clozd.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+developer@getloper.com,getloper.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+developers@akiflow.com,akiflow.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+developers@dobbyads.com,dobbyads.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+developers@patch.io,patch.io,consensus-tier-B,https://www.patch.io/terms,category-prune:Admin/ops/tech
+developers@yonderhq.com,yonderhq.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+dispute-notice@asana.com,asana.com,consensus-tier-B,https://asana.com/terms,category-prune:Real-person name
+dispute-resolution@nexcpg.com,nexcpg.com,consensus-tier-B,https://nexcpg.com/terms,category-prune:Real-person name
+dmarc-forense@lulifama.com,lulifama.com,tier1-2-dns:dmarc_ruf,,category-prune:Real-person name
+dmytro.droban@quotech.io,quotech.io,consensus-tier-B,https://quotech.io/,category-prune:Real-person name
+dns-admins@levo.ai,levo.ai,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+dylan.cowman@dotter.me,dotter.me,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+dylan.cowman@dotter.me,dotter.me,tier1-2-dns:dmarc_ruf,,category-prune:Real-person name
+elisa.clerici@pricehubble.com,pricehubble.com,C-other,https://pricehubble.com/contact,category-prune:Real-person name
+ella.nystrom@nocfo.io,nocfo.io,consensus-tier-B,https://www.nocfo.io/fi/contact,category-prune:Real-person name
+engineering@fonzi.ai,fonzi.ai,tier1-2-dns:caa_iodef,,category-prune:Admin/ops/tech
+engineering@kiosked.com,kiosked.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+engineering@kiosked.com,kiosked.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+engineering@supademo.com,supademo.com,consensus-tier-B,https://supademo.com/bug-bounty,category-prune:Admin/ops/tech
+enshift-at@enshift.com,enshift.com,consensus-tier-B,https://www.enshift.com/,category-prune:Real-person name
+ezequiel.lopes@quotech.io,quotech.io,consensus-tier-B,https://quotech.io/,category-prune:Real-person name
+filip.belakon@shakebugs.com,shakebugs.com,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+filip.belakon@shakebugs.com,shakebugs.com,tier1-2-dns:dmarc_ruf,,category-prune:Real-person name
+finance.helpdesk@scientist.com,scientist.com,consensus-tier-B,https://www.scientist.com/contact,category-prune:Real-person name
+first.lastname@zefram.com,zefram.com,consensus-tier-B,https://zefram.com/privacy,category-prune:Real-person name
+gauthier.henroz@chift.eu,chift.eu,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+general.inquiries@ovintiv.com,ovintiv.com,consensus-tier-B,https://www.ovintiv.com/contact-us/,category-prune:Real-person name
+get-started@workpath.com,workpath.com,consensus-tier-B,https://www.workpath.com/,category-prune:Real-person name
+heather.hayward@sopro.io,sopro.io,consensus-tier-B,https://sopro.io/company/contact-us/,category-prune:Real-person name
+heidi.jonas@sproutsocial.com,sproutsocial.com,consensus-tier-B,https://sproutsocial.com/legal/,category-prune:Real-person name
+hostmaster@callpercy.com,callpercy.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@datapolicy.co,datapolicy.co,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@digoo-it.com,digoo-it.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@flowrms.com,flowrms.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@gyramais.com.br,gyramais.com.br,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@i-glocal.com,i-glocal.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@knocommerce.com,knocommerce.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@magnific.com,magnific.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@mailkit.com,mailkit.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@merchtable.com,merchtable.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@ovintiv.com,ovintiv.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@pagerduty.com,pagerduty.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@sabre.com,sabre.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@scvsoft.com,scvsoft.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@sensolus.com,sensolus.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@seoenmexico.com,seoenmexico.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@soundcharts.com,soundcharts.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@staer.ai,staer.ai,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@sweetanalytics.com,sweetanalytics.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@travanto.de,travanto.de,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+hostmaster@userbrain.com,userbrain.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+investor.relations@ovintiv.com,ovintiv.com,consensus-tier-B,https://www.ovintiv.com/contact-us/,category-prune:Real-person name
+it-team@visitingmedia.com,visitingmedia.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+it@athenium.com,athenium.com,tier1-2-dns:caa_iodef,,category-prune:Admin/ops/tech
+it@coolshop.com,coolshop.com,tier1-2-dns:caa_iodef,,category-prune:Admin/ops/tech
+it@geotab.com,geotab.com,tier1-2-dns:caa_iodef,,category-prune:Admin/ops/tech
+it@mdcdatacenters.com,mdcdatacenters.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+it@mdcdatacenters.com,mdcdatacenters.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+it@scaleflex.com,scaleflex.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+it@scaleflex.com,scaleflex.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+it@topshelfdistillers.com,topshelfdistillers.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+it@tribe.ai,tribe.ai,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+it@tribe.ai,tribe.ai,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+it_admin@knight-solutions.com,knight-solutions.com,consensus-tier-B,https://knight-solutions.com/policies,category-prune:Admin/ops/tech
+jan.czarnocki@heygen.com,heygen.com,consensus-tier-B,https://www.heygen.com/privacy,category-prune:Real-person name
+jane.diaz@stripe.com,stripe.com,consensus-tier-B,https://stripe.com/,category-prune:Real-person name
+jethro.africa@detrack.com,detrack.com,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+jeyo.sargunam@measured.com,measured.com,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+jeyo.sargunam@measured.com,measured.com,tier1-2-dns:dmarc_ruf,,category-prune:Real-person name
+joao.felix@gigantic.pt,gigantic.pt,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+joao.felix@gigantic.pt,gigantic.pt,tier1-2-dns:dmarc_ruf,,category-prune:Real-person name
+joao.felix@gigantic.pt,gigantic.pt,consensus-tier-B,https://www.gigantic.pt/,category-prune:Real-person name
+john.doe@optimizely.com,optimizely.com,C-other,https://optimizely.com/contact,category-prune:Real-person name
+joonas.aaltonen@nocfo.io,nocfo.io,consensus-tier-B,https://www.nocfo.io/fi/contact,category-prune:Real-person name
+juho.enala@nocfo.io,nocfo.io,consensus-tier-B,https://www.nocfo.io/fi/contact,category-prune:Real-person name
+kristina.nadiryan@zapal.tech,zapal.tech,consensus-tier-B,https://www.zapal.tech/,category-prune:Real-person name
+kristina.rudoman@allunite.com,allunite.com,consensus-tier-B,https://allunite.com/contact-us/,category-prune:Real-person name
+lauri.euren@operating.app,operating.app,consensus-tier-B,https://www.operating.app/,category-prune:Real-person name
+lea.machado@arta.ch,arta.ch,consensus-tier-B,https://arta.ch/contact,category-prune:Real-person name
+lee.martin@quotech.io,quotech.io,consensus-tier-B,https://quotech.io/,category-prune:Real-person name
+mail-reports@shortcut.com,shortcut.com,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+mail.reports@binderr.com,binderr.com,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+mail.reports@didlogic.com,didlogic.com,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+mailauth-reports@predicthq.com,predicthq.com,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+marco.seoane@quotech.io,quotech.io,consensus-tier-B,https://quotech.io/,category-prune:Real-person name
+marketing-academy@placester.com,placester.com,consensus-tier-B,https://placester.com/terms,category-prune:Marketing/PR/press/media
+marketing@adthena.com,adthena.com,consensus-tier-B,https://www.adthena.com/company/contact-us/,category-prune:Marketing/PR/press/media
+marketing@affinity.co,affinity.co,consensus-tier-B,https://www.affinity.co/contact-us,category-prune:Marketing/PR/press/media
+marketing@basicops.com,basicops.com,consensus-tier-B,https://www.basicops.com/,category-prune:Marketing/PR/press/media
+marketing@calendly.com,calendly.com,consensus-tier-B,https://calendly.com/legal/customer-terms-conditions,category-prune:Marketing/PR/press/media
+marketing@commonroom.io,commonroom.io,consensus-tier-B,https://www.commonroom.io/demo/,category-prune:Marketing/PR/press/media
+marketing@formassembly.com,formassembly.com,consensus-tier-B,https://www.formassembly.com/,category-prune:Marketing/PR/press/media
+marketing@jobspikr.com,jobspikr.com,consensus-tier-B,https://www.jobspikr.com/contact-us/,category-prune:Marketing/PR/press/media
+marketing@pandadoc.com,pandadoc.com,consensus-tier-B,https://www.pandadoc.com/,category-prune:Marketing/PR/press/media
+marketing@paytrail.com,paytrail.com,C-other,https://paytrail.com/contact,category-prune:Marketing/PR/press/media
+marketing@predactiv.com,predactiv.com,consensus-tier-B,https://predactiv.com/terms-of-use/,category-prune:Marketing/PR/press/media
+marketing@prismic.io,prismic.io,consensus-tier-B,https://prismic.io/,category-prune:Marketing/PR/press/media
+marketing@scientist.com,scientist.com,consensus-tier-B,https://www.scientist.com/contact,category-prune:Marketing/PR/press/media
+marketing@seqera.io,seqera.io,consensus-tier-B,https://seqera.io/contact-us/,category-prune:Marketing/PR/press/media
+marketing@tldv.io,tldv.io,consensus-tier-B,https://tldv.io/privacy/,category-prune:Marketing/PR/press/media
+marketing@visiblie.com,visiblie.com,C-other,https://visiblie.com/contact,category-prune:Marketing/PR/press/media
+mart.hamhuis@friday.nl,friday.nl,C-other,https://friday.nl/contact,category-prune:Real-person name
+media.inquiries@go1.com,go1.com,consensus-tier-B,https://www.go1.com/contact-us,category-prune:Marketing/PR/press/media
+media.relations@ovintiv.com,ovintiv.com,consensus-tier-B,https://www.ovintiv.com/contact-us/,category-prune:Marketing/PR/press/media
+media@adthena.com,adthena.com,consensus-tier-B,https://www.adthena.com/terms-and-conditions/,category-prune:Marketing/PR/press/media
+media@alchemy.com,alchemy.com,consensus-tier-B,https://www.alchemy.com/,category-prune:Marketing/PR/press/media
+media@b.capital,b.capital,consensus-tier-B,https://b.capital/,category-prune:Marketing/PR/press/media
+media@backstory.ai,backstory.ai,consensus-tier-B,https://www.backstory.ai/about-us/contact-us,category-prune:Marketing/PR/press/media
+media@cryptorefills.com,cryptorefills.com,consensus-tier-B,https://www.cryptorefills.com/en/contact-us,category-prune:Marketing/PR/press/media
+media@greenstreet.com,greenstreet.com,consensus-tier-B,https://www.greenstreet.com/contact/,category-prune:Marketing/PR/press/media
+media@mogul.club,mogul.club,consensus-tier-B,https://www.mogul.club/,category-prune:Marketing/PR/press/media
+media@people.ai,people.ai,consensus-tier-B,https://www.backstory.ai/about-us/contact-us,category-prune:Marketing/PR/press/media
+media@risepeople.com,risepeople.com,C-gen,https://risepeople.com/contact,category-prune:Marketing/PR/press/media
+media@supermetrics.com,supermetrics.com,consensus-tier-B,https://supermetrics.com/contact,category-prune:Marketing/PR/press/media
+media@thetappingsolution.com,thetappingsolution.com,consensus-tier-B,https://legacy.thetappingsolution.com/contact/,category-prune:Marketing/PR/press/media
+mia.comic@lokalise.com,lokalise.com,consensus-tier-B,https://lokalise.com/,category-prune:Real-person name
+michael.solimano@getrecast.com,getrecast.com,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+musteri.hizmetleri@arena.com.tr,arena.com.tr,consensus-tier-B,https://www.arena.com.tr/,category-prune:Real-person name
+niall.grant@quotech.io,quotech.io,consensus-tier-B,https://quotech.io/,category-prune:Real-person name
+nitay.ey@3doptix.com,3doptix.com,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+nitay.ey@3doptix.com,3doptix.com,tier1-2-dns:dmarc_ruf,,category-prune:Real-person name
+noc@azion.com,azion.com,tier1-2-dns:caa_iodef,,category-prune:Admin/ops/tech
+noc@didlogic.com,didlogic.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+noc@silabs.com,silabs.com,tier1-2-dns:caa_iodef,,category-prune:Admin/ops/tech
+nodal-officer@razorpay.com,razorpay.com,consensus-tier-B,https://razorpay.com/terms/,category-prune:Real-person name
+nodal.officer@cuemath.com,cuemath.com,consensus-tier-B,https://www.cuemath.com/terms/,category-prune:Real-person name
+nue.admin@nue.io,nue.io,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+obo.usland@ovintiv.com,ovintiv.com,consensus-tier-B,https://www.ovintiv.com/contact-us/,category-prune:Real-person name
+online-exclusive@paytrail.com,paytrail.com,C-other,https://paytrail.com/contact,category-prune:Real-person name
+operations@teamgram.com,teamgram.com,tier1-2-dns:caa_iodef,,category-prune:Admin/ops/tech
+ops+dns@squareup.com,squareup.com,tier1-2-dns:soa_rname,,category-prune:Admin/ops/tech
+ops-notifications@swoogo.com,swoogo.com,tier1-2-dns:caa_iodef,,category-prune:Admin/ops/tech
+ops@ryestrategy.com,ryestrategy.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+ops@shortcut.com,shortcut.com,tier1-2-dns:caa_iodef,,category-prune:Admin/ops/tech
+ops@trustgrid.io,trustgrid.io,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+owner.usland@ovintiv.com,ovintiv.com,consensus-tier-B,https://www.ovintiv.com/contact-us/,category-prune:Real-person name
+partner@jurny.com,jurny.com,consensus-tier-B,https://www.jurny.com/contact,category-prune:Sales/business
+partner@masters.vc,masters.vc,consensus-tier-B,https://masters.vc/contact/,category-prune:Sales/business
+partner@zaslat.cz,zaslat.cz,consensus-tier-B,https://www.zaslat.cz:443/,category-prune:Sales/business
+partners@algolia.com,algolia.com,consensus-tier-B,https://www.algolia.com/contact,category-prune:Sales/business
+partners@archilogic.com,archilogic.com,consensus-tier-B,https://www.archilogic.com/contact-us,category-prune:Sales/business
+partners@campcation.com,campcation.com,C-other,https://campcation.com/contact,category-prune:Sales/business
+partners@cloudeagle.ai,cloudeagle.ai,consensus-tier-B,https://www.cloudeagle.ai/contact,category-prune:Sales/business
+partners@falconfeeds.io,falconfeeds.io,C-other,https://falconfeeds.io/contact,category-prune:Sales/business
+partners@fundify.com,fundify.com,C-other,https://fundify.com/about,category-prune:Sales/business
+partners@grafana.com,grafana.com,C-other,https://grafana.com/contact,category-prune:Sales/business
+partners@hushh.ai,hushh.ai,consensus-tier-B,https://hushh.ai/,category-prune:Sales/business
+partners@inki.tech,inki.tech,consensus-tier-B,https://inki.tech/,category-prune:Sales/business
+partners@klaviyo.com,klaviyo.com,consensus-tier-B,https://www.klaviyo.com/,category-prune:Sales/business
+partners@measured.com,measured.com,consensus-tier-B,https://www.measured.com/contact-us/,category-prune:Sales/business
+partners@onlyoffice.com,onlyoffice.com,consensus-tier-B,https://onlyoffice.com/,category-prune:Sales/business
+partners@paytrail.com,paytrail.com,C-other,https://paytrail.com/contact,category-prune:Sales/business
+partners@placester.com,placester.com,consensus-tier-B,https://placester.com/contact,category-prune:Sales/business
+partners@product.ai,product.ai,C-other,https://product.ai/about,category-prune:Sales/business
+partners@sumologic.com,sumologic.com,consensus-tier-B,https://www.sumologic.com/contact,category-prune:Sales/business
+partners@unest.co,unest.co,consensus-tier-B,https://unest.co/,category-prune:Sales/business
+partners@wodify.com,wodify.com,consensus-tier-B,https://www.wodify.com/contact-us,category-prune:Sales/business
+partnerships@adplist.org,adplist.org,consensus-tier-B,https://adplist.org/,category-prune:Sales/business
+partnerships@bonuz.market,bonuz.market,consensus-tier-B,https://bonuz.market/contact-us,category-prune:Sales/business
+partnerships@evernote.com,evernote.com,consensus-tier-B,https://evernote.com/contact,category-prune:Sales/business
+partnerships@karbonhq.com,karbonhq.com,consensus-tier-B,https://karbonhq.com/contact-us,category-prune:Sales/business
+partnerships@memberstack.com,memberstack.com,consensus-tier-B,https://www.memberstack.com/,category-prune:Sales/business
+partnerships@runwayml.com,runwayml.com,consensus-tier-B,https://runwayml.com/,category-prune:Sales/business
+paulo.assis@monest.com.br,monest.com.br,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+paulo.assis@monest.com.br,monest.com.br,tier1-2-dns:dmarc_ruf,,category-prune:Real-person name
+pe-inquiries@karbonhq.com,karbonhq.com,consensus-tier-B,https://karbonhq.com/contact-us,category-prune:Real-person name
+peder.vikstrom@frambemanning.se,frambemanning.se,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+peder.vikstrom@frambemanning.se,frambemanning.se,tier1-2-dns:dmarc_ruf,,category-prune:Real-person name
+permian.usland@ovintiv.com,ovintiv.com,consensus-tier-B,https://www.ovintiv.com/contact-us/,category-prune:Real-person name
+peter.zidek@bloomreach.com,bloomreach.com,consensus-tier-B,https://www.bloomreach.com/en,category-prune:Real-person name
+pierre-lous@alpic.ai,alpic.ai,C-other,https://alpic.ai/about,category-prune:Real-person name
+platform-integrity@community.com,community.com,consensus-tier-B,https://community.com/legal/terms,category-prune:Real-person name
+platform.tpi@onfrontiers.com,onfrontiers.com,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+postmaster-reporting@summ.com,summ.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster-reporting@summ.com,summ.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+postmaster.test@etermax.com,etermax.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster.test@etermax.com,etermax.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+postmaster@aris.in,aris.in,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@branch.co,branch.co,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@branch.co,branch.co,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+postmaster@ci-hub.com,ci-hub.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@contaja.com.br,contaja.com.br,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@copilotkit.ai,copilotkit.ai,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@coupler.io,coupler.io,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@coupler.io,coupler.io,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+postmaster@cypress.io,cypress.io,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@epam.com,epam.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@epam.com,epam.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+postmaster@goconsensus.com,goconsensus.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@gyramais.com.br,gyramais.com.br,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@gyramais.com.br,gyramais.com.br,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+postmaster@highspot.com,highspot.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@jepto.com,jepto.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@jepto.com,jepto.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+postmaster@kashable.com,kashable.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@kashable.com,kashable.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+postmaster@listenlabs.ai,listenlabs.ai,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@listenlabs.ai,listenlabs.ai,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+postmaster@loft47.com,loft47.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@lorikeetcx.ai,lorikeetcx.ai,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@manus.im,manus.im,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@marqii.com,marqii.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@marqii.com,marqii.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+postmaster@me-qr.com,me-qr.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@meikai.ai,meikai.ai,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@meikai.ai,meikai.ai,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+postmaster@mesmer.co,mesmer.co,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@minubo.com,minubo.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@product.ai,product.ai,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@prscnt.com,prscnt.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@prscnt.com,prscnt.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+postmaster@reclaim.ai,reclaim.ai,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@rolli.ai,rolli.ai,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@savecall.de,savecall.de,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@savecall.de,savecall.de,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+postmaster@seismic.com,seismic.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@seismic.com,seismic.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+postmaster@skilljar.com,skilljar.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@skilljar.com,skilljar.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+postmaster@snowfox.ai,snowfox.ai,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@spacegoats.io,spacegoats.io,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@sparkloop.app,sparkloop.app,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@spoonity.com,spoonity.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@swoogo.com,swoogo.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@sybill.ai,sybill.ai,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@sybill.ai,sybill.ai,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+postmaster@texau.com,texau.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@thoughtly.com,thoughtly.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@travanto.de,travanto.de,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+postmaster@userguiding.com,userguiding.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+pr@badgermapping.com,badgermapping.com,consensus-tier-B,https://www.badgermapping.com/contact-us,category-prune:Marketing/PR/press/media
+pr@clootrack.com,clootrack.com,consensus-tier-B,https://www.clootrack.com/contact-us,category-prune:Marketing/PR/press/media
+pr@cloudeagle.ai,cloudeagle.ai,consensus-tier-B,https://www.cloudeagle.ai/contact,category-prune:Marketing/PR/press/media
+pr@manatal.com,manatal.com,consensus-tier-B,https://www.manatal.com/contact-us,category-prune:Marketing/PR/press/media
+pr@msci.com,msci.com,consensus-tier-B,https://www.msci.com/,category-prune:Marketing/PR/press/media
+pr@newrelic.com,newrelic.com,consensus-tier-B,https://newrelic.com/about/contact-us,category-prune:Marketing/PR/press/media
+pr@predictiveindex.com,predictiveindex.com,consensus-tier-B,https://www.predictiveindex.com/company/contact-us/,category-prune:Marketing/PR/press/media
+pr@propush.me,propush.me,consensus-tier-B,https://propush.me/,category-prune:Marketing/PR/press/media
+pr@sharethis.com,sharethis.com,consensus-tier-B,https://sharethis.com/contact/,category-prune:Marketing/PR/press/media
+pr@sproutsocial.com,sproutsocial.com,consensus-tier-B,https://sproutsocial.com/contact-us/,category-prune:Marketing/PR/press/media
+press@affinity.co,affinity.co,consensus-tier-B,https://www.affinity.co/contact-us,category-prune:Marketing/PR/press/media
+press@atlaspeople.io,atlaspeople.io,consensus-tier-B,https://atlaspeople.io/contact,category-prune:Marketing/PR/press/media
+press@chargebee.com,chargebee.com,consensus-tier-B,https://www.chargebee.com:443/contact,category-prune:Marketing/PR/press/media
+press@corneliajames.com,corneliajames.com,consensus-tier-B,https://www.corneliajames.com/en-us/pages/contact,category-prune:Marketing/PR/press/media
+press@coros.com,coros.com,consensus-tier-B,https://coros.com/contact,category-prune:Marketing/PR/press/media
+press@customer.io,customer.io,consensus-tier-B,https://customer.io/contact,category-prune:Marketing/PR/press/media
+press@deepidv.com,deepidv.com,consensus-tier-B,https://www.deepidv.com/contact,category-prune:Marketing/PR/press/media
+press@dj.studio,dj.studio,consensus-tier-B,https://dj.studio/contact,category-prune:Marketing/PR/press/media
+press@evernote.com,evernote.com,consensus-tier-B,https://evernote.com/contact,category-prune:Marketing/PR/press/media
+press@exa.ai,exa.ai,consensus-tier-B,https://exa.ai/contact,category-prune:Marketing/PR/press/media
+press@firebird.ai,firebird.ai,consensus-tier-B,https://firebird.ai/,category-prune:Marketing/PR/press/media
+press@gocardless.com,gocardless.com,consensus-tier-B,https://gocardless.com/contact-us,category-prune:Marketing/PR/press/media
+press@growthkitchen.co,growthkitchen.co,consensus-tier-B,https://growthkitchen.co/contact-us-brands/,category-prune:Marketing/PR/press/media
+press@heygen.com,heygen.com,consensus-tier-B,https://www.heygen.com/contact-us,category-prune:Marketing/PR/press/media
+press@higgsfield.ai,higgsfield.ai,consensus-tier-B,https://higgsfield.ai/,category-prune:Marketing/PR/press/media
+press@idc.com,idc.com,consensus-tier-B,https://www.idc.com/,category-prune:Marketing/PR/press/media
+press@intercom.com,intercom.com,consensus-tier-B,https://www.intercom.com/,category-prune:Marketing/PR/press/media
+press@karbonhq.com,karbonhq.com,consensus-tier-B,https://karbonhq.com/contact-us,category-prune:Marketing/PR/press/media
+press@klaviyo.com,klaviyo.com,consensus-tier-B,https://www.klaviyo.com/,category-prune:Marketing/PR/press/media
+press@listenlabs.ai,listenlabs.ai,consensus-tier-B,https://listenlabs.ai/,category-prune:Marketing/PR/press/media
+press@measured.com,measured.com,consensus-tier-B,https://www.measured.com/contact-us/,category-prune:Marketing/PR/press/media
+press@mercury.com,mercury.com,consensus-tier-B,https://mercury.com/,category-prune:Marketing/PR/press/media
+press@millow.co,millow.co,consensus-tier-B,https://www.millow.co/contact-us,category-prune:Marketing/PR/press/media
+press@musixmatch.com,musixmatch.com,C-gen,https://musixmatch.com/about,category-prune:Marketing/PR/press/media
+press@netradyne.com,netradyne.com,consensus-tier-B,https://www.netradyne.com/company/contact,category-prune:Marketing/PR/press/media
+press@omnea.co,omnea.co,consensus-tier-B,https://www.omnea.co/contact-us,category-prune:Marketing/PR/press/media
+press@onlyoffice.com,onlyoffice.com,consensus-tier-B,https://onlyoffice.com/,category-prune:Marketing/PR/press/media
+press@product.ai,product.ai,C-gen,https://product.ai/about,category-prune:Marketing/PR/press/media
+press@public.com,public.com,consensus-tier-B,https://public.com/,category-prune:Marketing/PR/press/media
+press@rest.com,rest.com,consensus-tier-B,https://rest.com/,category-prune:Marketing/PR/press/media
+press@roihunter.com,roihunter.com,consensus-tier-B,https://www.roihunter.com/about-us,category-prune:Marketing/PR/press/media
+press@runwayml.com,runwayml.com,consensus-tier-B,https://runwayml.com/,category-prune:Marketing/PR/press/media
+press@shortcut.com,shortcut.com,consensus-tier-B,https://www.shortcut.com/contact,category-prune:Marketing/PR/press/media
+press@springbokproperties.co.uk,springbokproperties.co.uk,C-gen,https://springbokproperties.co.uk/contact-us,category-prune:Marketing/PR/press/media
+press@sumologic.com,sumologic.com,consensus-tier-B,https://www.sumologic.com/contact,category-prune:Marketing/PR/press/media
+press@text.com,text.com,consensus-tier-B,https://www.text.com/,category-prune:Marketing/PR/press/media
+press@trepp.com,trepp.com,consensus-tier-B,https://www.trepp.com/contact,category-prune:Marketing/PR/press/media
+press@wodify.com,wodify.com,consensus-tier-B,https://www.wodify.com/contact-us,category-prune:Marketing/PR/press/media
+press@ypulse.com,ypulse.com,consensus-tier-B,https://www.ypulse.com/contact/,category-prune:Marketing/PR/press/media
+rachel.wolff@lokalise.com,lokalise.com,consensus-tier-B,https://lokalise.com/,category-prune:Real-person name
+registos.wewood@wewood.eu,wewood.eu,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+rejected-emails@cymulate.com,cymulate.com,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+roaduse.requests@ovintiv.com,ovintiv.com,consensus-tier-B,https://www.ovintiv.com/contact-us/,category-prune:Real-person name
+s.young@thrustflight.com,thrustflight.com,consensus-tier-B,https://www.thrustflight.com/privacy-policy/,category-prune:Real-person name
+sales@abacum.ai,abacum.ai,C-gen,https://abacum.ai/contact-us,category-prune:Sales/business
+sales@abclegal.com,abclegal.com,consensus-tier-B,https://www.abclegal.com:443/privacy,category-prune:Sales/business
+sales@affinity.co,affinity.co,consensus-tier-B,https://www.affinity.co/contact-us,category-prune:Sales/business
+sales@ahaslides.com,ahaslides.com,consensus-tier-B,https://ahaslides.com/contact-us/,category-prune:Sales/business
+sales@ammp.io,ammp.io,consensus-tier-B,https://www.ammp.io/contact,category-prune:Sales/business
+sales@amplifier.com,amplifier.com,consensus-tier-B,https://amplifier.com/,category-prune:Sales/business
+sales@amplitude.com,amplitude.com,consensus-tier-B,https://amplitude.com/,category-prune:Sales/business
+sales@appcues.com,appcues.com,consensus-tier-B,https://www.appcues.com/,category-prune:Sales/business
+sales@archilogic.com,archilogic.com,consensus-tier-B,https://www.archilogic.com/contact-us,category-prune:Sales/business
+sales@articulate.com,articulate.com,consensus-tier-B,https://access.articulate.com/360/contact-us,category-prune:Sales/business
+sales@atlasx.co,atlasx.co,consensus-tier-B,https://atlasx.co/,category-prune:Sales/business
+sales@austintechnology.com.au,austintechnology.com.au,consensus-tier-B,https://austintechnology.com.au/,category-prune:Sales/business
+sales@backstory.ai,backstory.ai,consensus-tier-B,https://www.backstory.ai/about-us/contact-us,category-prune:Sales/business
+sales@beautech.aero,beautech.aero,consensus-tier-B,https://beautech.aero/,category-prune:Sales/business
+sales@bellwetherit.com,bellwetherit.com,C-gen,https://bellwetherit.com/contact,category-prune:Sales/business
+sales@betterleap.com,betterleap.com,consensus-tier-B,https://betterleap.com/,category-prune:Sales/business
+sales@bitquery.io,bitquery.io,consensus-tier-B,https://bitquery.io/,category-prune:Sales/business
+sales@bluente.com,bluente.com,consensus-tier-B,https://www.bluente.com/,category-prune:Sales/business
+sales@camsbiometrics.com,camsbiometrics.com,consensus-tier-B,https://camsbiometrics.com/,category-prune:Sales/business
+sales@ceramic.ai,ceramic.ai,consensus-tier-B,https://www.ceramic.ai/,category-prune:Sales/business
+sales@ci-hub.com,ci-hub.com,consensus-tier-B,https://ci-hub.com/contact,category-prune:Sales/business
+sales@cleo.com,cleo.com,consensus-tier-B,https://www.cleo.com/contact,category-prune:Sales/business
+sales@clickup.com,clickup.com,consensus-tier-B,https://clickup.com/security,category-prune:Sales/business
+sales@cloudeagle.ai,cloudeagle.ai,consensus-tier-B,https://www.cloudeagle.ai/contact,category-prune:Sales/business
+sales@connect-x.tech,connect-x.tech,consensus-tier-B,https://connect-x.tech/,category-prune:Sales/business
+sales@contextqa.com,contextqa.com,consensus-tier-B,https://contextqa.com/,category-prune:Sales/business
+sales@convesio.com,convesio.com,consensus-tier-B,https://convesio.com/contact-us,category-prune:Sales/business
+sales@coros.com,coros.com,consensus-tier-B,https://coros.com/contact,category-prune:Sales/business
+sales@deepidv.com,deepidv.com,consensus-tier-B,https://www.deepidv.com/,category-prune:Sales/business
+sales@detrack.com,detrack.com,consensus-tier-B,https://www.detrack.com/get-in-touch-with-us/,category-prune:Sales/business
+sales@dma-group.co.uk,dma-group.co.uk,consensus-tier-B,https://dma-group.co.uk/,category-prune:Sales/business
+sales@dronus.com,dronus.com,consensus-tier-B,https://dronus.com/contatti/,category-prune:Sales/business
+sales@e4k.co,e4k.co,consensus-tier-B,https://e4k.co/,category-prune:Sales/business
+sales@fitsamerica.com,fitsamerica.com,consensus-tier-B,https://www.fitsamerica.com/,category-prune:Sales/business
+sales@fleetx.io,fleetx.io,consensus-tier-B,https://www.fleetx.ai/,category-prune:Sales/business
+sales@flexmls.com,flexmls.com,consensus-tier-B,https://flexmls.com/contact/,category-prune:Sales/business
+sales@forter.com,forter.com,consensus-tier-B,https://www.forter.com/,category-prune:Sales/business
+sales@getboomerang.ai,getboomerang.ai,consensus-tier-B,https://getboomerang.ai/,category-prune:Sales/business
+sales@getresponse.com,getresponse.com,consensus-tier-B,https://www.getresponse.com/,category-prune:Sales/business
+sales@giatecscientific.com,giatecscientific.com,consensus-tier-B,https://www.giatecscientific.com/,category-prune:Sales/business
+sales@heymarvin.com,heymarvin.com,consensus-tier-B,https://heymarvin.com/contact,category-prune:Sales/business
+sales@hostingb2b.com,hostingb2b.com,C-gen,https://hostingb2b.com/contact-us,category-prune:Sales/business
+sales@humaans.io,humaans.io,consensus-tier-B,https://humaans.io/,category-prune:Sales/business
+sales@indicaonline.com,indicaonline.com,consensus-tier-B,https://indicaonline.com/,category-prune:Sales/business
+sales@jobspikr.com,jobspikr.com,consensus-tier-B,https://www.jobspikr.com/contact-us/,category-prune:Sales/business
+sales@jurny.com,jurny.com,consensus-tier-B,https://www.jurny.com/contact,category-prune:Sales/business
+sales@karbonhq.com,karbonhq.com,consensus-tier-B,https://karbonhq.com/,category-prune:Sales/business
+sales@klaviyo.com,klaviyo.com,consensus-tier-B,https://www.klaviyo.com/,category-prune:Sales/business
+sales@kruncher.ai,kruncher.ai,consensus-tier-B,https://kruncher.ai/,category-prune:Sales/business
+sales@kscope.io,kscope.io,consensus-tier-B,https://kscope.io/contact-us,category-prune:Sales/business
+sales@kubit.ai,kubit.ai,C-gen,https://kubit.ai/about,category-prune:Sales/business
+sales@lade.de,lade.de,consensus-tier-B,https://lade.de/,category-prune:Sales/business
+sales@lawtrades.com,lawtrades.com,consensus-tier-B,https://www.lawtrades.com/contact-us,category-prune:Sales/business
+sales@leadfeeder.com,leadfeeder.com,consensus-tier-B,https://www.leadfeeder.com/,category-prune:Sales/business
+sales@lindo.ai,lindo.ai,consensus-tier-B,https://lindo.ai/,category-prune:Sales/business
+sales@loadsmart.com,loadsmart.com,consensus-tier-B,https://loadsmart.com/contact/,category-prune:Sales/business
+sales@loft47.com,loft47.com,consensus-tier-B,https://loft47.com/,category-prune:Sales/business
+sales@lovable.dev,lovable.dev,consensus-tier-B,https://lovable.dev/legal,category-prune:Sales/business
+sales@lumar.io,lumar.io,consensus-tier-B,https://www.lumar.io/contact/,category-prune:Sales/business
+sales@mailkit.com,mailkit.com,consensus-tier-B,https://www.mailkit.com/,category-prune:Sales/business
+sales@manatal.com,manatal.com,consensus-tier-B,https://www.manatal.com/contact-us,category-prune:Sales/business
+sales@meisterlabs.com,meisterlabs.com,consensus-tier-B,https://www.meistertask.com/pages/imprint,category-prune:Sales/business
+sales@onlyoffice.com,onlyoffice.com,consensus-tier-B,https://onlyoffice.com/,category-prune:Sales/business
+sales@optimizedpayments.com,optimizedpayments.com,consensus-tier-B,https://optimizedpayments.com/,category-prune:Sales/business
+sales@pagerduty.com,pagerduty.com,consensus-tier-B,https://www.pagerduty.com/contact-us/,category-prune:Sales/business
+sales@paytrail.com,paytrail.com,C-gen,https://paytrail.com/contact,category-prune:Sales/business
+sales@pelcro.com,pelcro.com,consensus-tier-B,https://www.get.pelcro.com/,category-prune:Sales/business
+sales@people.ai,people.ai,consensus-tier-B,https://www.backstory.ai/about-us/contact-us,category-prune:Sales/business
+sales@pin.com,pin.com,consensus-tier-B,https://www.pin.com/,category-prune:Sales/business
+sales@predictiveindex.com,predictiveindex.com,consensus-tier-B,https://www.predictiveindex.com/company/contact-us/,category-prune:Sales/business
+sales@query.ai,query.ai,consensus-tier-B,https://www.query.ai/contact-sales/,category-prune:Sales/business
+sales@raindrop.ai,raindrop.ai,consensus-tier-B,https://www.raindrop.ai/,category-prune:Sales/business
+sales@recurly.com,recurly.com,C-gen,https://recurly.com/contact-us,category-prune:Sales/business
+sales@roboflow.com,roboflow.com,consensus-tier-B,https://roboflow.com/terms,category-prune:Sales/business
+sales@rolli.ai,rolli.ai,consensus-tier-B,https://rolli.ai/privacy,category-prune:Sales/business
+sales@rupeezy.in,rupeezy.in,consensus-tier-B,https://rupeezy.in/contact-us,category-prune:Sales/business
+sales@saidot.ai,saidot.ai,consensus-tier-B,https://www.saidot.ai/,category-prune:Sales/business
+sales@saleshandy.com,saleshandy.com,consensus-tier-B,https://saleshandy.com/contact,category-prune:Sales/business
+sales@searchunify.com,searchunify.com,C-gen,https://searchunify.com/contact,category-prune:Sales/business
+sales@shiftcare.com,shiftcare.com,C-gen,https://shiftcare.com/contact,category-prune:Sales/business
+sales@shortcut.com,shortcut.com,consensus-tier-B,https://www.shortcut.com/contact,category-prune:Sales/business
+sales@shotstack.io,shotstack.io,consensus-tier-B,https://shotstack.io/contact/,category-prune:Sales/business
+sales@sopro.io,sopro.io,consensus-tier-B,https://sopro.io/,category-prune:Sales/business
+sales@sphereinsight.com,sphereinsight.com,consensus-tier-B,https://www.sphereinsight.com/,category-prune:Sales/business
+sales@spoonity.com,spoonity.com,consensus-tier-B,https://www.spoonity.com/,category-prune:Sales/business
+sales@sumologic.com,sumologic.com,consensus-tier-B,https://www.sumologic.com/contact,category-prune:Sales/business
+sales@terminal49.com,terminal49.com,consensus-tier-B,https://terminal49.com/,category-prune:Sales/business
+sales@testery.io,testery.io,consensus-tier-B,https://testery.io/contact/,category-prune:Sales/business
+sales@text.com,text.com,consensus-tier-B,https://www.text.com/,category-prune:Sales/business
+sales@thoughtly.com,thoughtly.com,consensus-tier-B,https://thoughtly.com/contact,category-prune:Sales/business
+sales@timetackle.com,timetackle.com,consensus-tier-B,https://www.timetackle.com/contact/,category-prune:Sales/business
+sales@tradestation.com,tradestation.com,C-gen,https://tradestation.com/contact-us,category-prune:Sales/business
+sales@trepp.com,trepp.com,consensus-tier-B,https://www.trepp.com/contact,category-prune:Sales/business
+sales@unify-technologies.com,unify-technologies.com,consensus-tier-B,https://unify-technologies.com/,category-prune:Sales/business
+sales@userbrain.com,userbrain.com,consensus-tier-B,https://www.userbrain.com/en/contact/,category-prune:Sales/business
+sales@visiblie.com,visiblie.com,C-gen,https://visiblie.com/contact,category-prune:Sales/business
+sales@visitingmedia.com,visitingmedia.com,C-gen,https://visitingmedia.com/contact-us,category-prune:Sales/business
+sales@webucator.com,webucator.com,consensus-tier-B,https://www.webucator.com/,category-prune:Sales/business
+sales@wodify.com,wodify.com,consensus-tier-B,https://www.wodify.com/contact-us,category-prune:Sales/business
+sales@yespo.io,yespo.io,consensus-tier-B,https://yespo.io/,category-prune:Sales/business
+sales@zuma.ca,zuma.ca,consensus-tier-B,https://www.zuma.ca/,category-prune:Sales/business
+sarah.johnsdorf@sitebrunch.com,sitebrunch.com,consensus-tier-B,https://www.sitebrunch.com/,category-prune:Real-person name
+saurav.raj@fyxer.com,fyxer.com,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+soporteit.ml@unei.com,unei.com,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+soporteit.ml@unei.com,unei.com,tier1-2-dns:dmarc_ruf,,category-prune:Real-person name
+spam-digest@credix.finance,credix.finance,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+subprocessor.notifications@amplitude.com,amplitude.com,consensus-tier-B,https://amplitude.com/security-and-privacy,category-prune:Real-person name
+surface.land@ovintiv.com,ovintiv.com,consensus-tier-B,https://www.ovintiv.com/contact-us/,category-prune:Real-person name
+surface.usland@ovintiv.com,ovintiv.com,consensus-tier-B,https://www.ovintiv.com/contact-us/,category-prune:Real-person name
+sysadmin@levno.com,levno.com,tier1-2-dns:caa_iodef,,category-prune:Admin/ops/tech
+sysadmin@propeller.co.uk,propeller.co.uk,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+sysadmin@propeller.co.uk,propeller.co.uk,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+tatjana.manojlovska@sopro.io,sopro.io,consensus-tier-B,https://sopro.io/company/contact-us/,category-prune:Real-person name
+tech.escalation@bajajbroking.in,bajajbroking.in,consensus-tier-B,https://www.bajajbroking.in/contact-us,category-prune:Admin/ops/tech
+tech@allaboard.eu,allaboard.eu,security.txt,https://allaboard.eu/security.txt,category-prune:Admin/ops/tech
+tech@allaboard.eu,allaboard.eu,consensus-tier-B,https://allaboard.eu/security.txt,category-prune:Admin/ops/tech
+tech@beachbossinfluencers.com,beachbossinfluencers.com,C-other,https://beachbossinfluencers.com/contact-us,category-prune:Admin/ops/tech
+tech@novatalent.com,novatalent.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+tech@reap.global,reap.global,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+teemu.karuluoto@nocfo.io,nocfo.io,consensus-tier-B,https://www.nocfo.io/fi/contact,category-prune:Real-person name
+teemu.mankinen@nocfo.io,nocfo.io,consensus-tier-B,https://www.nocfo.io/fi/contact,category-prune:Real-person name
+terms-questions@asana.com,asana.com,consensus-tier-B,https://asana.com/terms,category-prune:Real-person name
+thirdparty.requests@ovintiv.com,ovintiv.com,consensus-tier-B,https://www.ovintiv.com/contact-us/,category-prune:Real-person name
+thomas.vyncke@companion.energy,companion.energy,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+tomas.varila@nocfo.io,nocfo.io,consensus-tier-B,https://www.nocfo.io/fi/contact,category-prune:Real-person name
+victor.mustala@inderes.com,inderes.com,consensus-tier-B,https://www.inderes.fi/privacy,category-prune:Real-person name
+victoria.heyward@sopro.io,sopro.io,consensus-tier-B,https://sopro.io/company/contact-us/,category-prune:Real-person name
+vili.raunola@nocfo.io,nocfo.io,consensus-tier-B,https://www.nocfo.io/fi/contact,category-prune:Real-person name
+vuln-disc@gocardless.com,gocardless.com,security.txt,https://gocardless.com/.well-known/security.txt,category-prune:Real-person name
+vuln-disc@gocardless.com,gocardless.com,consensus-tier-A,https://gocardless.com/.well-known/security.txt,category-prune:Real-person name
+vulnerability-disclosure@lovable.dev,lovable.dev,security.txt,https://lovable.dev/.well-known/security.txt,category-prune:Real-person name
+vulnerability-disclosure@lovable.dev,lovable.dev,consensus-tier-A,https://lovable.dev/.well-known/security.txt,category-prune:Real-person name
+vulnerability-disclosures@expo.dev,expo.dev,security.txt,https://expo.dev/.well-known/security.txt,category-prune:Real-person name
+vulnerability-disclosures@expo.dev,expo.dev,consensus-tier-A,https://expo.dev/.well-known/security.txt,category-prune:Real-person name
+webmaster@anomalycapital.com,anomalycapital.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+webmaster@anomalycapital.com,anomalycapital.com,tier1-2-dns:dmarc_ruf,,category-prune:Admin/ops/tech
+webmaster@avertro.com,avertro.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+webmaster@eztexting.com,eztexting.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+webmaster@passcreator.com,passcreator.com,tier1-2-dns:dmarc_rua,,category-prune:Admin/ops/tech
+webmaster@seven.io,seven.io,tier1-2-dns:caa_iodef,,category-prune:Admin/ops/tech
+werner.terblanche@99c.co.za,99c.co.za,consensus-tier-B,https://www.99c.agency/privacy-policy/,category-prune:Real-person name
+will.hunt@quotech.io,quotech.io,consensus-tier-B,https://quotech.io/,category-prune:Real-person name
+windsor.fernandes@genialcare.com.br,genialcare.com.br,consensus-tier-B,https://genialcare.com.br/,category-prune:Real-person name
+xavi.gratal@abundolive.se,abundolive.se,tier1-2-dns:dmarc_rua,,category-prune:Real-person name
+yuliya.shcharbak@arta.ch,arta.ch,consensus-tier-B,https://arta.ch/contact,category-prune:Real-person name
+yvette.marfil@allunite.com,allunite.com,consensus-tier-B,https://allunite.com/contact-us/,category-prune:Real-person name
+ze-notification@zentronlabs.com,zentronlabs.com,tier1-2-dns:dmarc_ruf,,category-prune:Real-person name
+zendesk-box@brevo.com,brevo.com,C-other,https://brevo.com/contact,category-prune:Real-person name
