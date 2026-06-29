@@ -1846,3 +1846,8 @@ zhrzoh57@fr.dmarcian.com,mapbox.com,tier1-2-dns:dmarc_ruf,,third-party-processor
 zo1wttad@ag.us.dmarcian.com,whimsical.com,tier1-2-dns:dmarc_rua,,third-party-processor-or-dns-provider
 zo1wttad@fr.dmarcian.com,whimsical.com,tier1-2-dns:dmarc_ruf,,third-party-processor-or-dns-provider
 zo7l3ms1@ag.us.dmarcian.com,ternary.app,tier1-2-dns:dmarc_rua,,third-party-processor-or-dns-provider
+dpo@cloudflare.com,cloudflare.com,consensus-tier-B,https://www.cloudflare.com/privacypolicy/,cloudflare
+legal@cloudflare.com,cloudflare.com,consensus-tier-B,https://www.cloudflare.com/cybersecurity/,cloudflare
+privacyquestions@cloudflare.com,cloudflare.com,consensus-tier-B,https://www.cloudflare.com/privacypolicy/,cloudflare
+sar@cloudflare.com,cloudflare.com,consensus-tier-B,https://www.cloudflare.com/privacypolicy/,cloudflare
+unsubscribe@cloudflare.com,cloudflare.com,consensus-tier-B,https://www.cloudflare.com/privacypolicy/,cloudflare
