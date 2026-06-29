@@ -3641,3 +3641,15 @@ security@mailersend.com
 info@mailersend.com
 responsible-disclosure@onepay.com
 security@recordedfuture.com
+security@flashbots.net
+security@pagerduty.com
+infosec@reclaim.ai
+vulnerabilityreporting@adp.com
+security@stripe.com
+security@krisp.ai
+security@razorpay.com
+vuln-disc@gocardless.com
+bugbountymanager@salesforce.com
+ppbugbounty@paypal.com
+vdp@salesloft.com
+security@recurly.com
