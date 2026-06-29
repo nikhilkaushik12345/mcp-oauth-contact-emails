@@ -3715,3 +3715,6 @@ support@tipranks.com
 support@variance.com
 support@visitiq.io
 support@whop.com
+security@getbalance.com
+help@getaptly.com
+help@gatsby.events
