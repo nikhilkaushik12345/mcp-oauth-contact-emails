@@ -7,6 +7,7 @@ domain,email,tier,tier_label
 3i.ai,questions@3i.ai,S9,Generic info / contact
 4degrees.ai,info@4degrees.ai,S9,Generic info / contact
 58pic.com,feedback@58pic.com,S6,Reports / feedback
+5centscdn.net,support@5centscdn.net,S8
 8m.eu,info@8m.eu,S9,Generic info / contact
 99c.co.za,abuse@99c.co.za,S3,Abuse / trust / safety
 aajil.sa,info@aajil.sa,S9
@@ -67,6 +68,7 @@ alex.com,support@alex.com,S8
 algoed.co,my_dmarc_report@algoed.co,Sx-c,DMARC reporting
 algolia.com,security@algolia.com,S2,Security
 allaboard.eu,privacy@allaboard.eu,S4,Privacy / DPO / GDPR
+allbridge.io,support@allbridge.io,S8
 allears.ai,abuse@allears.ai,S3,Abuse / trust / safety
 allegrow.co,info@allegrow.co,S9,Generic info / contact
 allianceabroad.com,africainfo@allianceabroad.com,S9,Generic info / contact
@@ -84,6 +86,7 @@ amass.tech,abuse@amass.tech,S3,Abuse / trust / safety
 ambarpartners.com,security@ambarpartners.com,S2,Security
 amityage.com,hello@amityage.com,S9,Generic info / contact
 ammp.io,security@ammp.io,S2,Security
+amove.io,contact@amove.io,S9
 amperity.com,security@amperity.com,S2
 amplifier.com,security@amplifier.com,S2,Security
 amplitude.com,security@amplitude.com,S2,Security
@@ -100,6 +103,7 @@ antler.co,abuse@antler.co,S3,Abuse / trust / safety
 apaleo.com,security@apaleo.com,S2,Security
 aparti.ai,security@aparti.ai,S2,Security
 aperture.london,abuse@aperture.london,S3,Abuse / trust / safety
+apicbase.com,support@apicbase.com,S8
 apify.com,security@apify.com,S2,Security
 apono.io,security@apono.io,S2,Security
 appcues.com,security@appcues.com,S2,Security
@@ -110,6 +114,7 @@ aqmen.ai,miguel@aqmen.ai,Sx-b,Single-word local
 arcade.software,support@arcade.software,S8,Support / help
 archera.ai,abuse@archera.ai,S3,Abuse / trust / safety
 archilogic.com,security@archilogic.com,S2,Security
+arcwise.app,contact@arcwise.app,S9
 are.na,security@are.na,S2,Security
 arena.com.tr,ir@arena.com.tr,Sx-b,Single-word local
 aries.com,security@aries.com,S2,Security
@@ -118,6 +123,7 @@ armature.tech,founders@armature.tech,Sx-b,Single-word local
 aroya.io,support@aroya.io,S8,Support / help
 arta.ch,info@arta.ch,S9,Generic info / contact
 artblocks.io,security@artblocks.io,S2,Security
+artemis.ai,info@artemis.ai,S9
 arternal.com,abuse@arternal.com,S3,Abuse / trust / safety
 articulate.com,security-disclosure@articulate.com,S0,Bug bounty / VDP
 asana.com,security@asana.com,S2,Security
@@ -134,6 +140,7 @@ atlan.com,security@atlan.com,S2,Security
 atlaspeople.io,abuse@atlaspeople.io,S3,Abuse / trust / safety
 atlasx.co,security@atlasx.co,S2,Security
 atom.com,compliance@atom.com,S4
+atomic.supply,info@atomic.supply,S9
 atominvest.co,security@atominvest.co,S2,Security
 atriumdata.ai,abuse@atriumdata.ai,S3,Abuse / trust / safety
 attio.com,security@attio.com,S2,Security
@@ -165,8 +172,10 @@ battery.com,compliance@battery.com,S5,Legal / compliance
 baxtel.com,dmarc@baxtel.com,Sx-c,DMARC reporting
 bazze.io,security@bazze.io,S2,Security
 bdex.com,dmarc-afrf@bdex.com,Sx-c,DMARC reporting
+bdg.io,info@bdg.io,S9
 bdtax.com.bd,abuse@bdtax.com.bd,S3,Abuse / trust / safety
 beachbossinfluencers.com,support@beachbossinfluencers.com,S8,Support / help
+beaufort12.com,support@beaufort12.com,S8
 beautech.aero,security@beautech.aero,S2,Security
 bebakids.com,bigfashion@shops.bebakids.com,S9,Generic info / contact
 beemdata.com,security@beemdata.com,S2,Security
@@ -184,6 +193,7 @@ bigenius-x.com,cs@bigenius-x.com,S8,Support / help
 biggeo.com,security@biggeo.com,S2,Security
 bigvu.tv,abuse@bigvu.tv,S3,Abuse / trust / safety
 billygrace.com,mailsecurity@billygrace.com,S2,Security
+binclusive.io,info@binclusive.io,S9
 binderr.com,security@binderr.com,S2,Security
 bitmovin.com,security@bitmovin.com,S2,Security
 bitquery.io,abuse@bitquery.io,S3,Abuse / trust / safety
@@ -210,6 +220,7 @@ branch.co,security@branch.co,S2,Security
 brandient.com,admin@brandient.com,S7,Admin / postmaster
 brandsmeetcreators.com,dmarc-alert@brandsmeetcreators.com,Sx-c,DMARC reporting
 breakthroughsales.io,security@breakthroughsales.io,S2,Security
+breezy.hr,info@breezy.hr,S9
 brevo.com,security@brevo.com,S2,Security
 bridgemarketplace.com,support@bridgemarketplace.com,S8,Support / help
 briecomterobert.fr,dpo@briecomterobert.fr,S4
@@ -236,10 +247,13 @@ campaignswell.com,abuse@campaignswell.com,S3,Abuse / trust / safety
 campcation.com,abuse@campcation.com,S3,Abuse / trust / safety
 camsbiometrics.com,support@camsbiometrics.com,S8,Support / help
 candid.org,security@candid.org,S2,Security
+canva.cn,info@canva.cn,S9
+capmission.ma,info@capmission.ma,S9
 capsule.video,security@capsule.video,S2,Security
 careflowiq.com,abuse@careflowiq.com,S3,Abuse / trust / safety
 carohq.com,security@carohq.com,S2,Security
 carriyo.com,abuse@carriyo.com,S3,Abuse / trust / safety
+cashcow.com,info@cashcow.com,S9
 cashflowfrog.com,abuse@cashflowfrog.com,S3,Abuse / trust / safety
 cashfree.com,security@cashfree.com,S2,Security
 caspio.com,sysmonitor@caspio.com,Sx-b,Single-word local
