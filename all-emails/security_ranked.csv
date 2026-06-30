@@ -9,25 +9,11 @@ domain,email,tier,tier_label
 30x.com,privacidad@30x.org,S4,Privacy / DPO / GDPR
 3doptix.com,abuse@3doptix.com,S3,Abuse / trust / safety
 3doptix.com,support@3doptix.com,S8,Support / help
-3doptix.com,devops@3doptix.com,S7,Admin / postmaster
 3i.ai,questions@3i.ai,S9,Generic info / contact
 4degrees.ai,info@4degrees.ai,S9,Generic info / contact
-4degrees.ai,founders@4degrees.ai,Sx-b,Single-word local
 58pic.com,feedback@58pic.com,S6,Reports / feedback
 5centscdn.net,support@5centscdn.net,S8,Support / help
 8m.eu,info@8m.eu,S9,Generic info / contact
-8m.eu,cerny@8m.eu,Sx-b,Single-word local
-8m.eu,duch@8m.eu,Sx-b,Single-word local
-8m.eu,duskova@8m.eu,Sx-b,Single-word local
-8m.eu,hlavacek@8m.eu,Sx-b,Single-word local
-8m.eu,hrstka@8m.eu,Sx-b,Single-word local
-8m.eu,koblovsky@8m.eu,Sx-b,Single-word local
-8m.eu,lukasek@8m.eu,Sx-b,Single-word local
-8m.eu,majda@8m.eu,Sx-b,Single-word local
-8m.eu,okuliar@8m.eu,Sx-b,Single-word local
-8m.eu,olah@8m.eu,Sx-b,Single-word local
-8m.eu,pechotova@8m.eu,Sx-b,Single-word local
-8m.eu,selep@8m.eu,Sx-b,Single-word local
 99c.co.za,abuse@99c.co.za,S3,Abuse / trust / safety
 99c.co.za,info@99c.co.za,S9,Generic info / contact
 aajil.sa,info@aajil.sa,S9,Generic info / contact
@@ -47,20 +33,16 @@ accessowl.com,security@accessowl.com,S2,Security
 accessowl.com,support@accessowl.com,S8,Support / help
 acclinate.com,support@acclinate.com,S8,Support / help
 acclinate.com,info@acclinate.com,S9,Generic info / contact
-acclinate.com,compliance@acclinate.com,S5,Legal / compliance
 aceworks.ai,abuse@aceworks.ai,S3,Abuse / trust / safety
 aceworks.ai,support@aceworks.ai,S8,Support / help
 aclarian.com,support@aclarian.com,S8,Support / help
 aclarian.com,info@aclarian.com,S9,Generic info / contact
-aclarian.com,alaflin@aclarian.com,Sx-b,Single-word local
-aclarian.com,roebuckadmin@aclarian.com,Sx-b,Single-word local
 adalo.com,security@adalo.com,S2,Security
 adalo.com,abuse@adalo.com,S3,Abuse / trust / safety
 adalo.com,support@adalo.com,S8,Support / help
 adaptic.no,mail@adaptic.no,Sx-b,Single-word local
 adlabs.app,abuse@adlabs.app,S3,Abuse / trust / safety
 admanage.ai,abuse@admanage.ai,S3,Abuse / trust / safety
-admanage.ai,raph@admanage.ai,Sx-b,Single-word local
 adologyai.com,hello@adologyai.com,S9,Generic info / contact
 adomik.com,security@adomik.com,S2,Security
 adomik.com,abuse@adomik.com,S3,Abuse / trust / safety
@@ -68,11 +50,9 @@ adopt.ai,security@adopt.ai,S2,Security
 adopt.ai,abuse@adopt.ai,S3,Abuse / trust / safety
 adopt.ai,info@adopt.ai,S9,Generic info / contact
 adopt.ai,privacy@adopt.ai,S4,Privacy / DPO / GDPR
-adp.com,hostmaster@adp.com,S7,Admin / postmaster
 adp.com,vulnerabilityreporting@adp.com,S0,Bug bounty / VDP
 adplenty.io,abuse@adplenty.io,S3,Abuse / trust / safety
 adplenty.io,contact@adplenty.io,S9,Generic info / contact
-adplenty.io,susan@adplenty.io,Sx-b,Single-word local
 adplist.org,abuse@adplist.org,S3,Abuse / trust / safety
 adplist.org,support@adplist.org,S8,Support / help
 adscale.com,support@adscale.com,S8,Support / help
@@ -83,14 +63,12 @@ adthena.com,info@adthena.com,S9,Generic info / contact
 adthena.com,ninfo@adthena.com,S9,Generic info / contact
 adthena.com,privacy@adthena.com,S4,Privacy / DPO / GDPR
 advally.com,abuse@advally.com,S3,Abuse / trust / safety
-advally.com,doug@advally.com,Sx-b,Single-word local
 adverteyes.ai,info@adverteyes.ai,S9,Generic info / contact
 adzen.ai,support@adzen.ai,S8,Support / help
 aeroventures.com,dmarc-reports@aeroventures.com,Sx-c,DMARC reporting
 affinity.co,support@affinity.co,S8,Support / help
 affinity.co,info@affinity.co,S9,Generic info / contact
 affinity.co,privacy@affinity.co,S4,Privacy / DPO / GDPR
-affinity.co,infra@affinity.co,Sx-b,Single-word local
 affise.com,support@affise.com,S8,Support / help
 agency.inc,abuse@agency.inc,S3,Abuse / trust / safety
 agency.inc,services@agency.inc,S8,Support / help
@@ -99,7 +77,6 @@ agenticflow.ai,support@agenticflow.ai,S8,Support / help
 agentmail.to,dmarc@agentmail.to,Sx-c,DMARC reporting
 agicap.com,bugbounty@agicap.com,S0,Bug bounty / VDP
 agrexai.com,abuse@agrexai.com,S3,Abuse / trust / safety
-agrexai.com,arush@agrexai.com,Sx-b,Single-word local
 agrisafe.agr.br,ola@agrisafe.agr.br,Sx-b,Single-word local
 ahaslides.com,abuse@ahaslides.com,S3,Abuse / trust / safety
 ahaslides.com,hi@ahaslides.com,S9,Generic info / contact
@@ -113,8 +90,6 @@ airframe.ai,abuse@airframe.ai,S3,Abuse / trust / safety
 airframe.ai,hello@airframe.ai,S9,Generic info / contact
 airpay.co.in,customercare@airpay.co.in,S8,Support / help
 airpay.co.in,customerservice@airpay.co.in,S8,Support / help
-airpay.co.in,cards@airpay.co.in,Sx-b,Single-word local
-airpay.co.in,dispute@airpay.co.in,Sx-b,Single-word local
 airsaas.io,security@airsaas.io,S2,Security
 airsaas.io,abuse@airsaas.io,S3,Abuse / trust / safety
 airtable.com,security@airtable.com,S2,Security
@@ -133,14 +108,11 @@ alchemy.com,support@alchemy.com,S8,Support / help
 alegra.com,abuse@alegra.com,S3,Abuse / trust / safety
 alegra.com,support@alegra.com,S8,Support / help
 alegra.com,info@alegra.com,S9,Generic info / contact
-alegra.com,soporte@alegra.com,Sx-b,Single-word local
 aleluya.com,abuse@aleluya.com,S3,Abuse / trust / safety
-aleluya.com,soporte@aleluya.com,Sx-b,Single-word local
 alex.com,support@alex.com,S8,Support / help
 algoed.co,my_dmarc_report@algoed.co,Sx-c,DMARC reporting
 algolia.com,security@algolia.com,S2,Security
 algolia.com,abuse@algolia.com,S3,Abuse / trust / safety
-algolia.com,legal@algolia.com,S5,Legal / compliance
 allaboard.eu,privacy@allaboard.eu,S4,Privacy / DPO / GDPR
 allbridge.io,support@allbridge.io,S8,Support / help
 allbridge.io,info@allbridge.io,S9,Generic info / contact
@@ -153,14 +125,6 @@ alloy.app,security@alloy.app,S2,Security
 alloy.app,abuse@alloy.app,S3,Abuse / trust / safety
 alloy.app,support@alloy.app,S8,Support / help
 allunite.com,info@allunite.com,S9,Generic info / contact
-allunite.com,aus@allunite.com,Sx-b,Single-word local
-allunite.com,bra@allunite.com,Sx-b,Single-word local
-allunite.com,den@allunite.com,Sx-b,Single-word local
-allunite.com,ita@allunite.com,Sx-b,Single-word local
-allunite.com,rafe@allunite.com,Sx-b,Single-word local
-allunite.com,sarai@allunite.com,Sx-b,Single-word local
-allunite.com,ukr@allunite.com,Sx-b,Single-word local
-allunite.com,usa@allunite.com,Sx-b,Single-word local
 alma.food,abuse@alma.food,S3,Abuse / trust / safety
 alphavantage.co,abuse@alphavantage.co,S3,Abuse / trust / safety
 alpic.ai,charles@alpic.ai,Sx-b,Single-word local
@@ -182,9 +146,6 @@ amass.tech,hello@amass.tech,S9,Generic info / contact
 ambarpartners.com,security@ambarpartners.com,S2,Security
 amityage.com,hello@amityage.com,S9,Generic info / contact
 amityage.com,info@amityage.com,S9,Generic info / contact
-amityage.com,educatiion@amityage.com,Sx-b,Single-word local
-amityage.com,education@amityage.com,Sx-b,Single-word local
-amityage.com,fs@amityage.com,Sx-b,Single-word local
 ammp.io,security@ammp.io,S2,Security
 ammp.io,hello@ammp.io,S9,Generic info / contact
 ammp.io,info@ammp.io,S9,Generic info / contact
@@ -198,13 +159,8 @@ amplitude.com,support@amplitude.com,S8,Support / help
 amplitude.com,scholarship@amplitude.com,S9,Generic info / contact
 amplitude.com,ccpa@amplitude.com,S4,Privacy / DPO / GDPR
 amplitude.com,privacy@amplitude.com,S4,Privacy / DPO / GDPR
-amplitude.com,legal@amplitude.com,S5,Legal / compliance
-amplitude.com,legalnotices@amplitude.com,S5,Legal / compliance
 amt.ai,abuse@amt.ai,S3,Abuse / trust / safety
 amt.ai,support@amt.ai,S8,Support / help
-amt.ai,lyra@amt.ai,Sx-b,Single-word local
-amt.ai,tisha@amt.ai,Sx-b,Single-word local
-amt.ai,tom@amt.ai,Sx-b,Single-word local
 and.com,abuse@and.com,S3,Abuse / trust / safety
 and.com,hello@and.com,S9,Generic info / contact
 andcapitalventures.com,chris@andcapitalventures.com,Sx-b,Single-word local
@@ -221,7 +177,6 @@ antimetal.com,security@antimetal.com,S2,Security
 antimetal.com,abuse@antimetal.com,S3,Abuse / trust / safety
 antimetal.com,support@antimetal.com,S8,Support / help
 antler.co,abuse@antler.co,S3,Abuse / trust / safety
-antler.co,rike@antler.co,Sx-b,Single-word local
 apaleo.com,security@apaleo.com,S2,Security
 aparti.ai,security@aparti.ai,S2,Security
 aparti.ai,abuse@aparti.ai,S3,Abuse / trust / safety
@@ -236,13 +191,10 @@ apono.io,abuse@apono.io,S3,Abuse / trust / safety
 apono.io,support@apono.io,S8,Support / help
 appcues.com,security@appcues.com,S2,Security
 appcues.com,support@appcues.com,S8,Support / help
-appcues.com,legal@appcues.com,S5,Legal / compliance
 appflow.ai,info@appflow.ai,S9,Generic info / contact
-appflow.ai,bryan@appflow.ai,Sx-b,Single-word local
 applypass.com,abuse@applypass.com,S3,Abuse / trust / safety
 applypass.com,support@applypass.com,S8,Support / help
 apter.com.br,dpo@apter.com.br,S4,Privacy / DPO / GDPR
-apter.com.br,contato@apter.com.br,Sx-b,Single-word local
 aqmen.ai,miguel@aqmen.ai,Sx-b,Single-word local
 arcade.software,support@arcade.software,S8,Support / help
 arcade.software,info@arcade.software,S9,Generic info / contact
@@ -252,14 +204,11 @@ archera.ai,info@archera.ai,S9,Generic info / contact
 archera.ai,nikhil@archera.ai,S9,Generic info / contact
 archilogic.com,security@archilogic.com,S2,Security
 archilogic.com,abuse@archilogic.com,S3,Abuse / trust / safety
-archilogic.com,places@archilogic.com,Sx-b,Single-word local
 arcwise.app,contact@arcwise.app,S9,Generic info / contact
 arcwise.app,info@arcwise.app,S9,Generic info / contact
 are.na,security@are.na,S2,Security
 are.na,abuse@are.na,S3,Abuse / trust / safety
 are.na,help@are.na,S8,Support / help
-are.na,cab@are.na,Sx-b,Single-word local
-are.na,everyone@are.na,Sx-b,Single-word local
 arena.com.tr,ir@arena.com.tr,Sx-b,Single-word local
 arena.com.tr,administrator@arena.com.tr,Sx-d,Other / mixed
 aries.com,security@aries.com,S2,Security
@@ -268,32 +217,23 @@ aris.in,abuse@aris.in,S3,Abuse / trust / safety
 armature.tech,founders@armature.tech,Sx-b,Single-word local
 aroya.io,support@aroya.io,S8,Support / help
 arta.ch,info@arta.ch,S9,Generic info / contact
-arta.ch,vente@arta.ch,Sx-b,Single-word local
 artblocks.io,security@artblocks.io,S2,Security
 artblocks.io,abuse@artblocks.io,S3,Abuse / trust / safety
-artblocks.io,eng_auto_reports@artblocks.io,Sx-d,Other / mixed
 artemis.ai,info@artemis.ai,S9,Generic info / contact
-artemis.ai,team@artemis.xyz,Sx-a,Real-person name
 arternal.com,abuse@arternal.com,S3,Abuse / trust / safety
 articulate.com,security-disclosure@articulate.com,S0,Bug bounty / VDP
 asana.com,security@asana.com,S2,Security
-asana.com,legal@asana.com,S5,Legal / compliance
-asana.com,dpa@asana.com,Sx-b,Single-word local
-asana.com,x@mail.asana.com,Sx-d,Other / mixed
 ascendancy.co,abuse@ascendancy.co,S3,Abuse / trust / safety
 ashbyhq.com,security@ashbyhq.com,S2,Security
 askable.com,viasecurity@askable.com,S2,Security
 askable.com,support@askable.com,S8,Support / help
 askable.com,privacy@askable.com,S4,Privacy / DPO / GDPR
-askable.com,legal@askable.com,S5,Legal / compliance
 askturing.ai,abuse@askturing.ai,S3,Abuse / trust / safety
-askturing.ai,quarantine@askturing.ai,Sx-b,Single-word local
 asmallstudio.com,abuse@asmallstudio.com,S3,Abuse / trust / safety
 assembly.com,security@assembly.com,S2,Security
 assembly.com,abuse@assembly.com,S3,Abuse / trust / safety
 asteroid.ai,abuse@asteroid.ai,S3,Abuse / trust / safety
 asteroid.ai,support@asteroid.ai,S8,Support / help
-asteroid.ai,founders@asteroid.ai,Sx-b,Single-word local
 astrologyapi.com,abuse@astrologyapi.com,S3,Abuse / trust / safety
 athenium.com,support@athenium.com,S8,Support / help
 athenium.com,info@athenium.com,S9,Generic info / contact
@@ -301,20 +241,16 @@ atlan.com,security@atlan.com,S2,Security
 atlaspeople.io,abuse@atlaspeople.io,S3,Abuse / trust / safety
 atlaspeople.io,support@atlaspeople.io,S8,Support / help
 atlaspeople.io,contact@atlaspeople.io,S9,Generic info / contact
-atlaspeople.io,legal@atlaspeople.io,S5,Legal / compliance
-atlaspeople.io,research@atlaspeople.io,Sx-b,Single-word local
 atlasx.co,security@atlasx.co,S2,Security
 atlasx.co,abuse@atlasx.co,S3,Abuse / trust / safety
 atlasx.co,support@atlasx.co,S8,Support / help
 atlasx.co,team@atlasx.co,S9,Generic info / contact
 atom.com,compliance@atom.com,S4,Privacy / DPO / GDPR
-atom.com,legal@atom.com,S5,Legal / compliance
-atomic.supply,info@atomic.supply,S9,Generic info / contact
 atomic.supply,hello@atomic.supply,S8,Support / help
+atomic.supply,info@atomic.supply,S9,Generic info / contact
 atominvest.co,security@atominvest.co,S2,Security
 atominvest.co,abuse@atominvest.co,S3,Abuse / trust / safety
 atominvest.co,info@atominvest.co,S9,Generic info / contact
-atominvest.co,emails@atominvest.co,Sx-b,Single-word local
 atriumdata.ai,abuse@atriumdata.ai,S3,Abuse / trust / safety
 attio.com,security@attio.com,S2,Security
 attio.com,abuse@attio.com,S3,Abuse / trust / safety
@@ -328,7 +264,6 @@ aurelian.com,contact@aurelian.com,S9,Generic info / contact
 austintechnology.com.au,support@austintechnology.com.au,S8,Support / help
 austintechnology.com.au,tcareers@austintechnology.com.au,S8,Support / help
 austintechnology.com.au,tsupport@austintechnology.com.au,S8,Support / help
-austintechnology.com.au,tsales@austintechnology.com.au,S10,Sales / marketing / press
 avertro.com,support@avertro.com,S8,Support / help
 avertro.com,info@avertro.com,S9,Generic info / contact
 avmap.it,support@avmap.it,S8,Support / help
@@ -346,9 +281,7 @@ axiom.co,abuse@axiom.co,S3,Abuse / trust / safety
 axiom.co,support@axiom.co,S8,Support / help
 azion.com,security@azion.com,S2,Security
 azion.com,abuse@azion.com,S3,Abuse / trust / safety
-azion.com,dmark@azion.com,Sx-b,Single-word local
 b.capital,info@b.capital,S9,Generic info / contact
-b.capital,ir@b.capital,Sx-b,Single-word local
 babbl-labs.com,security@babbl-labs.com,S2,Security
 babbl-labs.com,abuse@babbl-labs.com,S3,Abuse / trust / safety
 babyjourney.se,abuse@babyjourney.se,S3,Abuse / trust / safety
@@ -361,13 +294,9 @@ backyardbrains.com,abuse@backyardbrains.com,S3,Abuse / trust / safety
 backyardbrains.com,hello@backyardbrains.com,S9,Generic info / contact
 badgermapping.com,dpo@badgermapping.com,S4,Privacy / DPO / GDPR
 badideas.fund,abuse@badideas.fund,S3,Abuse / trust / safety
-badideas.fund,r@badideas.fund,Sx-d,Other / mixed
 bagel.ai,support@bagel.ai,S8,Support / help
 bajajbroking.in,customerservicehead@bajajbroking.in,S8,Support / help
 bajajbroking.in,connect@bajajbroking.in,S9,Generic info / contact
-bajajbroking.in,compliance_dp@bajajbroking.in,S5,Legal / compliance
-bajajbroking.in,compliance_sec@bajajbroking.in,S5,Legal / compliance
-bajajbroking.in,md@bajajbroking.in,Sx-b,Single-word local
 base39.com.br,dmarc-failures@base39.com.br,Sx-c,DMARC reporting
 base39.com.br,dmarc-reports@base39.com.br,Sx-c,DMARC reporting
 basicops.com,abuse@basicops.com,S3,Abuse / trust / safety
@@ -389,36 +318,6 @@ beaufort12.com,info@beaufort12.com,S9,Generic info / contact
 beautech.aero,security@beautech.aero,S2,Security
 bebakids.com,bigfashion@shops.bebakids.com,S9,Generic info / contact
 bebakids.com,bigfashionns@shops.bebakids.com,S9,Generic info / contact
-bebakids.com,premium@shops.bebakids.com,S10,Sales / marketing / press
-bebakids.com,no-reply@bebakids.com,Sx-a,Real-person name
-bebakids.com,ada@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,beo@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,big@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,bw@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,cacak@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,immo@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,indjija@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,knez@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,kraljevo@bebakids.com,Sx-b,Single-word local
-bebakids.com,merkator@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,obrenovac@bebakids.com,Sx-b,Single-word local
-bebakids.com,pozarevac@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,sabac@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,smederevo@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,sombor@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,stadion@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,ub@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,usce@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,uzice@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,valjevo@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,vrsac@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,webshop@bebakids.com,Sx-b,Single-word local
-bebakids.com,zemun@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,zlatibor@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,zmajjova@shops.bebakids.com,Sx-b,Single-word local
-bebakids.com,delta22@shops.bebakids.com,Sx-d,Other / mixed
-bebakids.com,delta23@shops.bebakids.com,Sx-d,Other / mixed
-bebakids.com,kragujevac2@shops.bebakids.com,Sx-d,Other / mixed
 beemdata.com,security@beemdata.com,S2,Security
 beemdata.com,abuse@beemdata.com,S3,Abuse / trust / safety
 beemdata.com,team@beemdata.com,S9,Generic info / contact
@@ -426,7 +325,6 @@ begolden.com.pl,biuro@begolden.com.pl,S9,Generic info / contact
 bei-us.com,grgrayban@bei-us.com,Sx-b,Single-word local
 bellwetherit.com,abuse@bellwetherit.com,S3,Abuse / trust / safety
 benchmarkminerals.com,office@benchmarkminerals.com,S9,Generic info / contact
-benchmarkminerals.com,solufunwa@benchmarkminerals.com,Sx-b,Single-word local
 besample.app,hostmaster@besample.app,S7,Admin / postmaster
 betterbugs.io,security@betterbugs.io,S2,Security
 betterbugs.io,abuse@betterbugs.io,S3,Abuse / trust / safety
@@ -444,7 +342,6 @@ biggeo.com,security@biggeo.com,S2,Security
 biggeo.com,abuse@biggeo.com,S3,Abuse / trust / safety
 bigvu.tv,abuse@bigvu.tv,S3,Abuse / trust / safety
 bigvu.tv,support@bigvu.tv,S8,Support / help
-bigvu.tv,no-reply@bigvu.tv,Sx-a,Real-person name
 billygrace.com,mailsecurity@billygrace.com,S2,Security
 billygrace.com,abuse@billygrace.com,S3,Abuse / trust / safety
 binclusive.io,info@binclusive.io,S9,Generic info / contact
@@ -459,17 +356,14 @@ bitrise.io,security@bitrise.io,S2,Security
 bizaway.com,dmarc@bizaway.com,Sx-c,DMARC reporting
 bizstream.com,ops@bizstream.com,S7,Admin / postmaster
 blazesql.com,support@blazesql.com,S8,Support / help
-blazesql.com,enterprise@blazesql.com,S10,Sales / marketing / press
 blend-ai.com,abuse@blend-ai.com,S3,Abuse / trust / safety
 blend-ai.com,info@blend-ai.com,S9,Generic info / contact
 blockscholes.com,abuse@blockscholes.com,S3,Abuse / trust / safety
 blockscholes.com,info@blockscholes.com,S9,Generic info / contact
-blockscholes.com,bmiller@blockscholes.com,Sx-b,Single-word local
 blocksize.info,info@blocksize.capital,S9,Generic info / contact
 bloomberg.com,opensource@bloomberg.net,Sx-d,Other / mixed
 bloomreach.com,securityreporting@bloomreach.com,S2,Security
 bluegamma.io,support@bluegamma.io,S8,Support / help
-bluegamma.io,johndoe@bluegamma.io,Sx-b,Single-word local
 bluente.com,abuse@bluente.com,S3,Abuse / trust / safety
 bluente.com,support@bluente.com,S8,Support / help
 bluetriangle.com,security@bluetriangle.com,S2,Security
@@ -513,14 +407,11 @@ buffer.com,security@buffer.com,S2,Security
 buffer.com,abuse@buffer.com,S3,Abuse / trust / safety
 buffer.com,hello@buffer.com,S9,Generic info / contact
 buffer.com,privacy@buffer.com,S4,Privacy / DPO / GDPR
-buffer.com,copyright@buffer.com,S5,Legal / compliance
-buffer.com,legal@buffer.com,S5,Legal / compliance
 buhochile.com,abuse@buhochile.com,S3,Abuse / trust / safety
 builderhead.com,sami.kivensalo@builderhead.com,Sx-a,Real-person name
 builders.studio,abuse@builders.studio,S3,Abuse / trust / safety
 builders.studio,hello@builders.studio,S9,Generic info / contact
 buildfire.com,support@buildfire.com,S8,Support / help
-buildfire.com,legal@buildfire.com,S5,Legal / compliance
 buildkite.com,security@buildkite.com,S2,Security
 buildkite.com,abuse@buildkite.com,S3,Abuse / trust / safety
 buildkite.com,trust@buildkite.com,S3,Abuse / trust / safety
@@ -533,21 +424,11 @@ cabsin.org.br,admin@cabsin.org.br,S7,Admin / postmaster
 caffeine.ai,security@caffeine.ai,S2,Security
 caisgroup.com,security@caisgroup.com,S2,Security
 caisgroup.com,privacypolicy@caisgroup.com,S4,Privacy / DPO / GDPR
-caisgroup.com,compliance@caisgroup.com,S5,Legal / compliance
-caisgroup.com,ezahariev@caisgroup.com,Sx-b,Single-word local
-caisgroup.com,skibble@caisgroup.com,Sx-b,Single-word local
-caisgroup.com,sserron@caisgroup.com,Sx-b,Single-word local
 cal.com,support@cal.com,S8,Support / help
 cal.com,privacy@cal.com,S4,Privacy / DPO / GDPR
-cal.com,dmca@cal.com,S5,Legal / compliance
-cal.com,legal+eu@cal.com,S5,Legal / compliance
-cal.com,legal@cal.com,S5,Legal / compliance
 calendly.com,security@calendly.com,S2,Security
 calendly.com,support@calendly.com,S8,Support / help
 calendly.com,privacy@calendly.com,S4,Privacy / DPO / GDPR
-calendly.com,legal@calendly.com,S5,Legal / compliance
-calendly.com,eurep@calendly.com,Sx-b,Single-word local
-calendly.com,ukrep@calendly.com,Sx-b,Single-word local
 callpercy.com,abuse@callpercy.com,S3,Abuse / trust / safety
 callpercy.com,info@callpercy.com,S9,Generic info / contact
 campaignswell.com,abuse@campaignswell.com,S3,Abuse / trust / safety
@@ -555,7 +436,6 @@ campaignswell.com,support@campaignswell.com,S8,Support / help
 campaignswell.com,info@campaignswell.com,S9,Generic info / contact
 campcation.com,abuse@campcation.com,S3,Abuse / trust / safety
 campcation.com,info@campcation.com,S9,Generic info / contact
-campcation.com,karl@campcation.com,Sx-b,Single-word local
 camsbiometrics.com,support@camsbiometrics.com,S8,Support / help
 candid.org,security@candid.org,S2,Security
 candid.org,helpdesk@candid.org,S8,Support / help
@@ -564,7 +444,6 @@ canva.cn,info@canva.cn,S9,Generic info / contact
 capmission.ma,info@capmission.ma,S9,Generic info / contact
 capsule.video,security@capsule.video,S2,Security
 capsule.video,abuse@capsule.video,S3,Abuse / trust / safety
-capsule.video,legal@capsule.video,S5,Legal / compliance
 careflowiq.com,abuse@careflowiq.com,S3,Abuse / trust / safety
 carohq.com,security@carohq.com,S2,Security
 carohq.com,abuse@carohq.com,S3,Abuse / trust / safety
@@ -578,12 +457,9 @@ cashflowfrog.com,contact@cashflowfrog.com,S9,Generic info / contact
 cashfree.com,security@cashfree.com,S2,Security
 cashfree.com,abuse@cashfree.com,S3,Abuse / trust / safety
 cashfree.com,care@cashfree.com,S8,Support / help
-cashfree.com,rahulsharma@cashfree.com,Sx-b,Single-word local
-cashfree.com,documentation@cashfree.com,Sx-d,Other / mixed
 caspio.com,sysmonitor@caspio.com,Sx-b,Single-word local
 catsy.com,support@catsy.com,S8,Support / help
 cbinsights.com,info@cbinsights.com,S9,Generic info / contact
-cbinsights.com,cancellations@cbinsights.com,Sx-d,Other / mixed
 ccare.org.au,info@ccare.org.au,S9,Generic info / contact
 ceramic.ai,abuse@ceramic.ai,S3,Abuse / trust / safety
 ceramic.ai,support@ceramic.ai,S8,Support / help
@@ -599,7 +475,6 @@ changdobels.se,taby@changdobels.se,Sx-b,Single-word local
 changdobels.se,vallentuna@changdobels.se,Sx-b,Single-word local
 channel99.com,security@channel99.com,S2,Security
 channel99.com,abuse@channel99.com,S3,Abuse / trust / safety
-channel99.com,mark@channel99.com,Sx-b,Single-word local
 channelkey.com,info@channelkey.com,S9,Generic info / contact
 chargebee.com,security@chargebee.com,S2,Security
 chargebee.com,abuse@chargebee.com,S3,Abuse / trust / safety
@@ -618,35 +493,26 @@ chift.eu,security@chift.eu,S2,Security
 chift.eu,abuse@chift.eu,S3,Abuse / trust / safety
 chisellabs.com,security@chisellabs.com,S2,Security
 chisellabs.com,abuse@chisellabs.com,S3,Abuse / trust / safety
-chisellabs.com,niraj@chisellabs.com,Sx-b,Single-word local
 chordian.ai,oliver.spring@chordian.ai,S10,Sales / marketing / press
 chowdeck.com,security@chowdeck.com,S2,Security
 chowdeck.com,abuse@chowdeck.com,S3,Abuse / trust / safety
 chowdeck.com,hello@chowdeck.com,S9,Generic info / contact
-chowdeck.com,legal@chowdeck.com,S5,Legal / compliance
 ci-hub.com,support@ci-hub.com,S8,Support / help
-ci-hub.com,mdf@ci-hub.com,Sx-b,Single-word local
-ci-hub.com,order@ci-hub.com,Sx-b,Single-word local
 cirra.ai,info@cirra.ai,S9,Generic info / contact
 cizgi.net,info@cizgi.net,S9,Generic info / contact
 clappia.com,security@clappia.com,S2,Security
 clappia.com,support@clappia.com,S8,Support / help
 clarify.io,hello@clarify.io,S9,Generic info / contact
-clarify.io,tor@clarify.io,Sx-b,Single-word local
-clarify.io,tore@clarify.io,Sx-b,Single-word local
 clarity.ai,solutions@clarity.ai,Sx-b,Single-word local
 classavo.com,support@classavo.com,S8,Support / help
 classavo.com,privacy@classavo.com,S4,Privacy / DPO / GDPR
-classavo.com,dmca@classavo.com,S5,Legal / compliance
 classdojo.com,security@classdojo.com,S2,Security
 classdojo.com,safety@classdojo.com,S3,Abuse / trust / safety
 classdojo.com,privacy@classdojo.com,S4,Privacy / DPO / GDPR
 clay.earth,security@clay.earth,S2,Security
 clazar.io,security@clazar.io,S2,Security
 clazar.io,abuse@clazar.io,S3,Abuse / trust / safety
-clazar.io,czar@clazar.io,Sx-b,Single-word local
 cleanhealth.edu.au,abuse@cleanhealth.edu.au,S3,Abuse / trust / safety
-cleanhealth.edu.au,harry@cleanhealth.edu.au,Sx-b,Single-word local
 clearer.io,contact@clearer.io,S9,Generic info / contact
 clemta.com,security@clemta.com,S2,Security
 clemta.com,abuse@clemta.com,S3,Abuse / trust / safety
@@ -669,11 +535,8 @@ clickrain.com,info@clickrain.com,S9,Generic info / contact
 clickup.com,security@clickup.com,S2,Security
 clickup.com,abuse@clickup.com,S3,Abuse / trust / safety
 clickup.com,support@clickup.com,S8,Support / help
-clickup.com,legal@clickup.com,S5,Legal / compliance
-clickup.com,platform@clickup.com,Sx-b,Single-word local
 climateactiondata.org,contact@climateactiondata.org,S9,Generic info / contact
 clinicadoleite.com.br,abuse@clinicadoleite.com.br,S3,Abuse / trust / safety
-clinicadoleite.com.br,gr@clinicadoleite.com.br,Sx-b,Single-word local
 clint.digital,abuse@clint.digital,S3,Abuse / trust / safety
 clockworkrecruiting.com,support@clockworkrecruiting.com,S8,Support / help
 clockworkrecruiting.com,info@clockworkrecruiting.com,S9,Generic info / contact
@@ -706,17 +569,14 @@ coinstats.app,abuse@coinstats.app,S3,Abuse / trust / safety
 coliving.com,support@coliving.com,S8,Support / help
 coliving.com,info@coliving.com,S9,Generic info / contact
 collegepulse.com,abuse@collegepulse.com,S3,Abuse / trust / safety
-collegepulse.com,mwall@collegepulse.com,Sx-b,Single-word local
 commented.io,support@commented.io,S8,Support / help
 commonroom.io,security@commonroom.io,S2,Security
-commonroom.io,uncommon@commonroom.io,Sx-b,Single-word local
 commonroom.io,support@commonroom.io,S8,Support / help
 commonscompany.com,abuse@commonscompany.com,S3,Abuse / trust / safety
 community.com,security@community.com,S2,Security
 community.com,abuse@community.com,S3,Abuse / trust / safety
 community.com,accountservices@community.com,S8,Support / help
 community.com,help@community.com,S8,Support / help
-community.com,copyright@community.com,S5,Legal / compliance
 companion.energy,security@companion.energy,S2,Security
 companyenrich.com,support@companyenrich.com,S8,Support / help
 compliancely.com,support@compliancely.com,S8,Support / help
@@ -726,10 +586,8 @@ conjura.com,security@conjura.com,S2,Security
 conjura.com,abuse@conjura.com,S3,Abuse / trust / safety
 connect-x.tech,security@connect-x.tech,S2,Security
 connect-x.tech,abuse@connect-x.tech,S3,Abuse / trust / safety
-connect-x.tech,m@connect-x.tech,Sx-d,Other / mixed
 consensus.app,security@consensus.app,S2,Security
 consensus.app,abuse@consensus.app,S3,Abuse / trust / safety
-consensus.app,christian@consensus.app,Sx-b,Single-word local
 construflow.com.br,abuse@construflow.com.br,S3,Abuse / trust / safety
 contable.app,abuse@contable.app,S3,Abuse / trust / safety
 contable.app,hola@contable.app,S9,Generic info / contact
@@ -739,7 +597,6 @@ contentful.com,support@contentful.com,S8,Support / help
 contentstudio.io,abuse@contentstudio.io,S3,Abuse / trust / safety
 contentstudio.io,support@contentstudio.io,S8,Support / help
 contextqa.com,abuse@contextqa.com,S3,Abuse / trust / safety
-contextqa.com,deep@contextqa.com,Sx-b,Single-word local
 controlle.com,dmarc@controlle.com,Sx-c,DMARC reporting
 converge.it,dmarc-reports@converge.it,Sx-c,DMARC reporting
 conversionmediagroup.com,abuse@conversionmediagroup.com,S3,Abuse / trust / safety
@@ -766,8 +623,6 @@ corneliajames.com,contact@corneliajames.com,S9,Generic info / contact
 coros.com,security@coros.com,S2,Security
 coros.com,support@coros.com,S8,Support / help
 coros.com,info@coros.com,S9,Generic info / contact
-coros.com,copyright@coros.com,S5,Legal / compliance
-coros.com,coach@coros.com,Sx-b,Single-word local
 cortea.ai,abuse@cortea.ai,S3,Abuse / trust / safety
 coupler.io,abuse@coupler.io,S3,Abuse / trust / safety
 coupler.io,contact@coupler.io,S9,Generic info / contact
@@ -788,30 +643,23 @@ crewos.io,abuse@crewos.io,S3,Abuse / trust / safety
 crewos.io,info@crewos.io,S9,Generic info / contact
 crossbeam.com,security@crossbeam.com,S2,Security
 crossbeam.com,abuse@crossbeam.com,S3,Abuse / trust / safety
-crossbeam.com,privacy@crossbeam.com,S4,Privacy / DPO / GDPR
-crossbeam.com,legal@crossbeam.com,S5,Legal / compliance
-crossbeam.com,eyebeams@crossbeam.com,Sx-b,Single-word local
 crossbeam.com,support@crossbeam.com,S8,Support / help
+crossbeam.com,privacy@crossbeam.com,S4,Privacy / DPO / GDPR
 crowdin.com,support@crowdin.com,S8,Support / help
 crowdin.com,privacy@crowdin.com,S4,Privacy / DPO / GDPR
-crowdin.com,onboarding@crowdin.com,Sx-b,Single-word local
 crowdreply.io,support@crowdreply.io,S8,Support / help
 crstl.ai,help@crstl.so,S8,Support / help
 crustdata.com,info@crustdata.com,S9,Generic info / contact
 cruva.com,support@cruva.com,S8,Support / help
 cruva.com,info@cruva.com,S9,Generic info / contact
 cruva.com,privacy@cruva.com,S4,Privacy / DPO / GDPR
-cruva.com,reports@cruva.com,S6,Reports / feedback
 cryptoquant.com,abuse@cryptoquant.com,S3,Abuse / trust / safety
 cryptoquant.com,help@cryptoquant.com,S8,Support / help
 cryptorefills.com,abuse@cryptorefills.com,S3,Abuse / trust / safety
 cryptorefills.com,info@cryptorefills.com,S9,Generic info / contact
 crystalknows.com,security@crystalknows.com,S2,Security
 crystalknows.com,abuse@crystalknows.com,S3,Abuse / trust / safety
-crystalknows.com,bkim@crystalknows.com,Sx-b,Single-word local
 csllcnow.com,abuse@csllcnow.com,S3,Abuse / trust / safety
-csllcnow.com,bwilliams@csllcnow.com,Sx-b,Single-word local
-csllcnow.com,tridenour@csllcnow.com,Sx-b,Single-word local
 cta.tech,security@cta.tech,S2,Security
 cubesoftware.com,security@cubesoftware.com,S2,Security
 cubesoftware.com,abuse@cubesoftware.com,S3,Abuse / trust / safety
@@ -823,7 +671,6 @@ cuelinks.com,abuse@cuelinks.com,S3,Abuse / trust / safety
 cuemath.com,abuse@cuemath.com,S3,Abuse / trust / safety
 cuemath.com,customercare@cuemath.com,S8,Support / help
 cuemath.com,privacy@cuemath.com,S4,Privacy / DPO / GDPR
-cuemath.com,grievance@cuemath.com,Sx-b,Single-word local
 cufinder.io,info@cufinder.io,S9,Generic info / contact
 cumbuca.com,security@cumbuca.com,S2,Security
 curate.co,support@curate.co,S8,Support / help
@@ -831,8 +678,6 @@ curemedia.com,security@curemedia.com,S2,Security
 curri.com,security@curri.com,S2,Security
 curri.com,abuse@curri.com,S3,Abuse / trust / safety
 curri.com,help@curri.com,S8,Support / help
-curri.com,legal@curri.com,S5,Legal / compliance
-curri.com,drivers@curri.com,Sx-b,Single-word local
 cushingterrell.com,info@cushingterrell.com,S9,Generic info / contact
 customer.io,legal@customer.io,S5,Legal / compliance
 customer.io,ctf@customer.io,Sx-b,Single-word local
@@ -842,12 +687,9 @@ customerscore.io,support@customerscore.io,S8,Support / help
 customily.com,abuse@customily.com,S3,Abuse / trust / safety
 customily.com,support@customily.com,S8,Support / help
 customily.com,hello@customily.com,S9,Generic info / contact
-customily.com,dmca@customily.com,S5,Legal / compliance
 cuure.com,abuse@cuure.com,S3,Abuse / trust / safety
 cuure.com,support@cuure.com,S8,Support / help
 cuure.com,info@cuure.com,S9,Generic info / contact
-cuure.com,dylan@cuure.com,Sx-b,Single-word local
-cuure.com,email@cuure.com,Sx-b,Single-word local
 cxplanner.com,support@cxplanner.com,S8,Support / help
 cyberday.ai,security@cyberday.ai,S2,Security
 cyberday.ai,abuse@cyberday.ai,S3,Abuse / trust / safety
@@ -857,10 +699,8 @@ cypress.io,security@cypress.io,S2,Security
 daloopa.com,security@daloopa.com,S2,Security
 daloopa.com,hello@daloopa.com,S9,Generic info / contact
 dana.id,abuse@dana.id,S3,Abuse / trust / safety
-dana.id,administrator@dana.id,Sx-d,Other / mixed
 danelfin.com,abuse@danelfin.com,S3,Abuse / trust / safety
 daniel-ip.com,abuse@daniel-ip.com,S3,Abuse / trust / safety
-daniel-ip.com,infra@daniel-ip.com,Sx-b,Single-word local
 darkmatter.is,abuse@darkmatter.is,S3,Abuse / trust / safety
 dartai.com,security@dartai.com,S2,Security
 dartai.com,support@dartai.com,S8,Support / help
@@ -871,7 +711,6 @@ dashbo.io,abuse@dashbo.io,S3,Abuse / trust / safety
 dashbo.io,hola@dashbo.io,S9,Generic info / contact
 data-axle.com,abuse@data-axle.com,S3,Abuse / trust / safety
 data-axle.com,privacyteam@data-axle.com,S9,Generic info / contact
-data-axle.com,contentfeedback@data-axle.com,Sx-d,Other / mixed
 databar.ai,abuse@databar.ai,S3,Abuse / trust / safety
 databar.ai,info@databar.ai,S9,Generic info / contact
 databox.com,hi@databox.com,S9,Generic info / contact
@@ -884,12 +723,9 @@ datahub.com,abuse@datahub.com,S3,Abuse / trust / safety
 datamaran.com,abuse@datamaran.com,S3,Abuse / trust / safety
 datanomik.com,abuse@datanomik.com,S3,Abuse / trust / safety
 datapolicy.co,abuse@datapolicy.co,S3,Abuse / trust / safety
-datapolicy.co,ti@datapolicy.co,Sx-b,Single-word local
 dataprovider.com,security@dataprovider.com,S2,Security
-dataprovider.com,branbergen@dataprovider.com,Sx-b,Single-word local
 datarails.com,security@datarails.com,S2,Security
 datarails.com,abuse@datarails.com,S3,Abuse / trust / safety
-datarails.com,legal@datarails.com,S5,Legal / compliance
 dataspike.io,security@dataspike.io,S2,Security
 dataspike.io,abuse@dataspike.io,S3,Abuse / trust / safety
 datocms.com,security@datocms.com,S2,Security
@@ -908,22 +744,8 @@ deeploy.ai,security@deeploy.ai,S2,Security
 deeploy.ai,abuse@deeploy.ai,S3,Abuse / trust / safety
 demola.net,info@demola.net,S9,Generic info / contact
 demola.net,gdpr@demola.net,S4,Privacy / DPO / GDPR
-demola.net,antti@demola.net,Sx-b,Single-word local
-demola.net,felipe@demola.net,Sx-b,Single-word local
-demola.net,heikku@demola.net,Sx-b,Single-word local
-demola.net,janne@demola.net,Sx-b,Single-word local
-demola.net,jere@demola.net,Sx-b,Single-word local
-demola.net,joonas@demola.net,Sx-b,Single-word local
-demola.net,laszlo@demola.net,Sx-b,Single-word local
-demola.net,lucas@demola.net,Sx-b,Single-word local
-demola.net,mirza@demola.net,Sx-b,Single-word local
-demola.net,pavel@demola.net,Sx-b,Single-word local
-demola.net,petra@demola.net,Sx-b,Single-word local
-demola.net,simo@demola.net,Sx-b,Single-word local
-demola.net,ville@demola.net,Sx-b,Single-word local
 demostack.com,security@demostack.com,S2,Security
 demostack.com,support@demostack.com,S8,Support / help
-descope.com,devops+dmarc@descope.com,Sx-c,DMARC reporting
 descope.com,security@descope.com,S2,Security
 descope.com,support@descope.com,S8,Support / help
 deskfirst.com,data@deskfirst.com,Sx-b,Single-word local
@@ -948,11 +770,9 @@ dispatchit.com,security@dispatchit.com,S2,Security
 dispatchit.com,abuse@dispatchit.com,S3,Abuse / trust / safety
 dj.studio,help@dj.studio,S8,Support / help
 dj.studio,support@dj.studio,S8,Support / help
-dj.studio,fleur@dj.studio,Sx-b,Single-word local
 dma-group.co.uk,customerservice@dma-group.co.uk,S8,Support / help
 dma-group.co.uk,info@dma-group.co.uk,S9,Generic info / contact
 dma-group.co.uk,dataprotection@dma-group.co.uk,S4,Privacy / DPO / GDPR
-dma-group.co.uk,bio@dma-group.co.uk,Sx-b,Single-word local
 dobbyads.com,abuse@dobbyads.com,S3,Abuse / trust / safety
 dobbyads.com,contact@dobbyads.com,S9,Generic info / contact
 docsautomator.co,abuse@docsautomator.co,S3,Abuse / trust / safety
@@ -962,9 +782,6 @@ dodopayments.com,support@dodopayments.com,S8,Support / help
 doit.com,abuse@doit.com,S3,Abuse / trust / safety
 doit.com,hello@doit.com,S9,Generic info / contact
 doit.com,privacy@doit.com,S4,Privacy / DPO / GDPR
-doit.com,legal@doit.com,S5,Legal / compliance
-doit.com,nlegal@doit.com,S5,Legal / compliance
-doit.com,dnscaa@doit.com,Sx-b,Single-word local
 doktormartin.sk,info@doktormartin.sk,S9,Generic info / contact
 doktorsitesi.com,abuse@doktorsitesi.com,S3,Abuse / trust / safety
 doktorsitesi.com,info@doktorsitesi.com,S9,Generic info / contact
@@ -974,34 +791,27 @@ doola.com,help@doola.com,S8,Support / help
 doola.com,hello@doola.com,S9,Generic info / contact
 dorsia.com,security@dorsia.com,S2,Security
 dorsia.com,abuse@dorsia.com,S3,Abuse / trust / safety
-dorsia.com,legal@dorsia.com,S5,Legal / compliance
 dotter.me,abuse@dotter.me,S3,Abuse / trust / safety
 drata.com,security@drata.com,S2,Security
 dreamlit.ai,support@dreamlit.ai,S8,Support / help
 drome.com.br,abuse@drome.com.br,S3,Abuse / trust / safety
-drome.com.br,contato@drome.com.br,Sx-b,Single-word local
-drome.com.br,investidores@drome.com.br,Sx-b,Single-word local
 dronedeploy.com,security@dronedeploy.com,S2,Security
 dronus.com,help@dronus.com,S8,Support / help
 dronus.com,info@dronus.com,S9,Generic info / contact
 dropcontact.com,security@dropcontact.com,S2,Security
 drugbank.com,abuse@drugbank.com,S3,Abuse / trust / safety
 duda.co,privacy@duda.co,S4,Privacy / DPO / GDPR
-duda.co,legal@duda.co,S5,Legal / compliance
 dukascopy.com,security@dukascopy.com,S2,Security
 dutchvalleyfoods.com,abuse@dutchvalleyfoods.com,S3,Abuse / trust / safety
 e-cruce.com,abuse@e-cruce.com,S3,Abuse / trust / safety
 e-cruce.com,info@e-cruce.com,S9,Generic info / contact
-e-cruce.com,busquedas@e-cruce.com,Sx-b,Single-word local
 e-gineering.com,info@e-gineering.com,S9,Generic info / contact
 e4k.co,support@e4k.co,S8,Support / help
 e4k.co,websupport@e4k.co,S8,Support / help
 e4k.co,dpo@e4k.co,S4,Privacy / DPO / GDPR
-e4k.co,rajabali@e4k.co,Sx-b,Single-word local
 easesolutions.com,info@easesolutions.com,S9,Generic info / contact
 easycomp.ai,abuse@easycomp.ai,S3,Abuse / trust / safety
 easycomp.ai,contact@easycomp.ai,S9,Generic info / contact
-easycomp.ai,jose@easycomp.ai,Sx-b,Single-word local
 easyleadz.com,abuse@easyleadz.com,S3,Abuse / trust / safety
 easyleadz.com,support@easyleadz.com,S8,Support / help
 easyship.com,security@easyship.com,S2,Security
@@ -1009,7 +819,6 @@ easyship.com,abuse@easyship.com,S3,Abuse / trust / safety
 ecair.eco,abuse@ecair.eco,S3,Abuse / trust / safety
 ecair.eco,contact@ecair.eco,S9,Generic info / contact
 ecdb.com,abuse@ecdb.com,S3,Abuse / trust / safety
-ecdb.com,noreply@ecdb.com,Sx-b,Single-word local
 eden.so,security@eden.so,S2,Security
 eden.so,abuse@eden.so,S3,Abuse / trust / safety
 edgetier.com,abuse@edgetier.com,S3,Abuse / trust / safety
@@ -1019,10 +828,8 @@ edito-pdf.com,support@edito-pdf.com,S8,Support / help
 effectix.com,info@effectix.com,S9,Generic info / contact
 eka.care,support@eka.care,S8,Support / help
 eka.care,contact@eka.care,S9,Generic info / contact
-eka.care,devops@eka.care,S7,Admin / postmaster
 eliex.ai,vendas@eliex.ai,Sx-b,Single-word local
 elkat.no,abuse@elkat.no,S3,Abuse / trust / safety
-elkat.no,post@elkat.no,Sx-b,Single-word local
 ellipsend.com,abuse@ellipsend.com,S3,Abuse / trust / safety
 ellipsend.com,hello@ellipsend.com,S9,Generic info / contact
 ellty.com,security@ellty.com,S2,Security
@@ -1037,12 +844,10 @@ enapter.com,abuse@enapter.com,S3,Abuse / trust / safety
 enapter.com,dpo@enapter.com,S4,Privacy / DPO / GDPR
 encoda.com,support@encoda.com,S8,Support / help
 encoda.com,info@encoda.com,S9,Generic info / contact
-encoda.com,msadmin@encoda.com,Sx-b,Single-word local
 encompassonsite.com,privacy@encompassonsite.com,S4,Privacy / DPO / GDPR
 enercity.de,info@enercity.de,S9,Generic info / contact
 energyaspects.com,contact@energyaspects.com,S9,Generic info / contact
 energyaspects.com,info@energyaspects.com,S9,Generic info / contact
-energyaspects.com,success@energyaspects.com,Sx-b,Single-word local
 engrate.io,abuse@engrate.io,S3,Abuse / trust / safety
 engrate.io,support@engrate.io,S8,Support / help
 engrate.io,hello@engrate.io,S9,Generic info / contact
@@ -1055,9 +860,6 @@ enshift.com,abuse@enshift.com,S3,Abuse / trust / safety
 enshift.com,contact-de@enshift.com,S9,Generic info / contact
 enshift.com,contact-fr@enshift.com,S9,Generic info / contact
 enshift.com,hello@enshift.com,S9,Generic info / contact
-enshift.com,balazs@enshift.com,Sx-b,Single-word local
-enshift.com,roey@enshift.com,Sx-b,Single-word local
-enshift.com,you@enshift.com,Sx-b,Single-word local
 entri.com,security@entri.com,S2,Security
 envoy.com,security@envoy.com,S2,Security
 envoy.com,abuse@envoy.com,S3,Abuse / trust / safety
@@ -1075,7 +877,6 @@ epsilon3.io,abuse@epsilon3.io,S3,Abuse / trust / safety
 epsilon3.io,support@epsilon3.io,S8,Support / help
 eramba.org,support@eramba.org,S8,Support / help
 erlin.ai,abuse@erlin.ai,S3,Abuse / trust / safety
-erlin.ai,data@erlin.ai,Sx-b,Single-word local
 escape.tech,support@escape.tech,S8,Support / help
 escape.tech,privacy@escape.tech,S4,Privacy / DPO / GDPR
 esim.com.br,bpo@esim.com.br,Sx-b,Single-word local
@@ -1085,7 +886,6 @@ esputnik.com,security@esputnik.com,S2,Security
 esputnik.com,abuse@esputnik.com,S3,Abuse / trust / safety
 esputnik.com,support@esputnik.com,S8,Support / help
 esputnik.com,info@esputnik.com,S9,Generic info / contact
-esputnik.com,fbl@esputnik.com,Sx-b,Single-word local
 estarter.co,abuse@estarter.co,S3,Abuse / trust / safety
 esw.com,dmarc_reports@esw.com,Sx-c,DMARC reporting
 etermax.com,security@etermax.com,S2,Security
@@ -1095,20 +895,13 @@ eunice.ai,security@eunice.ai,S2,Security
 eunice.ai,abuse@eunice.ai,S3,Abuse / trust / safety
 eunice.ai,support@eunice.ai,S8,Support / help
 eunice.ai,inquiries@eunice.ai,S9,Generic info / contact
-eunice.ai,elena@eunice.ai,Sx-b,Single-word local
 evcomechanical.com,inquiry@evcomechanical.com,S9,Generic info / contact
 eventship.com,security@eventship.com,S2,Security
 everestlabs.ai,hello@everestlabs.ai,S9,Generic info / contact
 evernote.com,security@evernote.com,S2,Security
 evernote.com,abuse@evernote.com,S3,Abuse / trust / safety
 evernote.com,optout@evernote.com,S4,Privacy / DPO / GDPR
-evernote.com,compliance@evernote.com,S5,Legal / compliance
-evernote.com,legalnotice@evernote.com,S5,Legal / compliance
 evertrace.ai,security@evertrace.ai,S2,Security
-evertrace.ai,hm@evertrace.ai,Sx-b,Single-word local
-evertrace.ai,jgh@evertrace.ai,Sx-b,Single-word local
-evertrace.ai,jo@evertrace.ai,Sx-b,Single-word local
-evertrace.ai,sb@evertrace.ai,Sx-b,Single-word local
 everwall.com,admin@everwall.com,S7,Admin / postmaster
 everymanjack.com,security@everymanjack.com,S2,Security
 everymanjack.com,abuse@everymanjack.com,S3,Abuse / trust / safety
@@ -1131,12 +924,10 @@ factset.com,psirt@factset.com,S1,PSIRT / CERT / SOC
 fairly.com,security@fairly.com,S2,Security
 fairly.com,abuse@fairly.com,S3,Abuse / trust / safety
 fairly.com,support@fairly.com,S8,Support / help
-fairly.com,getstarted@fairly.com,Sx-b,Single-word local
 fal.ai,security@fal.ai,S2,Security
+fal.ai,safety@fal.ai,S2,Security
 fal.ai,abuse@fal.ai,S3,Abuse / trust / safety
 fal.ai,support@fal.ai,S8,Support / help
-fal.ai,safety@fal.ai,S2,Security
-fal.ai,legal@fal.ai,S5,Legal / compliance
 falconfeeds.io,support@falconfeeds.io,S8,Support / help
 familux.com,dataprivacy@familux.com,S4,Privacy / DPO / GDPR
 fanalists.com,info@fanalists.com,S9,Generic info / contact
@@ -1171,31 +962,25 @@ firebird.ai,support@firebird.ai,S8,Support / help
 firebird.ai,hello@firebird.ai,S9,Generic info / contact
 firebird.ai,privacy@firebird.ai,S4,Privacy / DPO / GDPR
 fireflies.ai,support@fireflies.ai,S8,Support / help
-fireflies.ai,fred@fireflies.ai,Sx-b,Single-word local
 firstlight.farm,thestore@firstlight.farm,Sx-b,Single-word local
 firstlook.gg,contact@firstlook.gg,S9,Generic info / contact
 fitsamerica.com,abuse@fitsamerica.com,S3,Abuse / trust / safety
 fitsamerica.com,support@fitsamerica.com,S8,Support / help
 flalingo.com,help@flalingo.com,S8,Support / help
 flalingo.com,info@flalingo.com,S9,Generic info / contact
-flashbots.net,jobs@flashbots.net,Sx-b,Single-word local
 flashbots.net,security@flashbots.net,S2,Security
 flashvote.com,support@flashvote.com,S8,Support / help
 flashvote.com,hello@flashvote.com,S9,Generic info / contact
 flashvote.com,privacy@flashvote.com,S4,Privacy / DPO / GDPR
-flashvote.com,legal@flashvote.com,S5,Legal / compliance
-flashvote.com,reports@flashvote.com,S6,Reports / feedback
 fleetx.io,abuse@fleetx.io,S3,Abuse / trust / safety
 flexmls.com,security@flexmls.com,S2,Security
 flexmls.com,abuse@flexmls.com,S3,Abuse / trust / safety
 flexmls.com,idxsupport@flexmls.com,S8,Support / help
 flexmls.com,support@flexmls.com,S8,Support / help
-flexmls.com,idxsales@flexmls.com,S10,Sales / marketing / press
 flipsnack.com,abuse@flipsnack.com,S3,Abuse / trust / safety
 flipsnack.com,contact@flipsnack.com,S9,Generic info / contact
 flodesk.com,security@flodesk.com,S2,Security
 flodesk.com,abuse@flodesk.com,S3,Abuse / trust / safety
-flodesk.com,benjamin@flodesk.com,Sx-b,Single-word local
 floorspace.ca,postmaster@floorspace.ca,S7,Admin / postmaster
 flora.ai,abuse@flora.ai,S3,Abuse / trust / safety
 flotiq.com,support@flotiq.com,S8,Support / help
@@ -1205,14 +990,12 @@ flowcode.com,privacy@flowcode.com,S4,Privacy / DPO / GDPR
 flowcredi.com.br,abuse@flowcredi.com.br,S3,Abuse / trust / safety
 flowrms.com,legal@flowrms.com,S5,Legal / compliance
 fluss.io,abuse@fluss.io,S3,Abuse / trust / safety
-fluss.io,tom@fluss.io,Sx-b,Single-word local
 flylance.com,info@flylance.com,S9,Generic info / contact
 fomo.ai,abuse@fomo.ai,S3,Abuse / trust / safety
 fomo.ai,hi@fomo.ai,S9,Generic info / contact
 fomo.ai,info@fomo.ai,S9,Generic info / contact
 fonzi.ai,abuse@fonzi.ai,S3,Abuse / trust / safety
 fonzi.ai,hello@fonzi.ai,S9,Generic info / contact
-fonzi.ai,humans@fonzi.ai,Sx-b,Single-word local
 foresight.ai,security@foresight.ai,S2,Security
 forinvest.com,destek@forinvest.com,Sx-b,Single-word local
 formant.io,security@formant.io,S2,Security
@@ -1239,12 +1022,10 @@ freshbus.com,abuse@freshbus.com,S3,Abuse / trust / safety
 freshbus.com,care@freshbus.com,S8,Support / help
 freshpoint.cz,zakaznici@freshpoint.cz,Sx-b,Single-word local
 frictionlessit.net,info@frictionlessit.net,S9,Generic info / contact
-frictionlessit.net,emailreports@frictionlessit.net,Sx-b,Single-word local
 friday.nl,abuse@friday.nl,S3,Abuse / trust / safety
 friday.nl,info@friday.nl,S9,Generic info / contact
 frontguys.fr,security@frontguys.fr,S2,Security
 frontguys.fr,contact@frontguys.fr,S9,Generic info / contact
-frontguys.fr,marc@frontguys.fr,Sx-b,Single-word local
 frsport.com,sales@frsport.com,S10,Sales / marketing / press
 fulfyld.com,hey@fulfyld.com,S9,Generic info / contact
 fullenrich.com,support@fullenrich.com,S8,Support / help
@@ -1258,7 +1039,6 @@ futuresearch.ai,hello@futuresearch.ai,S9,Generic info / contact
 futuresearch.ai,privacy@futuresearch.ai,S4,Privacy / DPO / GDPR
 futuresnoops.com,abuse@futuresnoops.com,S3,Abuse / trust / safety
 futuresnoops.com,hello@futuresnoops.com,S9,Generic info / contact
-futuresnoops.com,junk@futuresnoops.com,Sx-b,Single-word local
 fyma.ai,abuse@fyma.ai,S3,Abuse / trust / safety
 fyma.ai,info@fyma.ai,S9,Generic info / contact
 fynite.ai,abuse@fynite.ai,S3,Abuse / trust / safety
@@ -1275,10 +1055,8 @@ gcit.com.au,support@gcit.com.au,S8,Support / help
 gdicwins.com,info@gdicwins.com,S9,Generic info / contact
 geekbot.com,security@geekbot.com,S2,Security
 geekbot.com,hey@geekbot.com,S9,Generic info / contact
-geekbot.com,legal@geekbot.com,S5,Legal / compliance
-gem.com,support@gem.com,S8,Support / help
-gem.com,legal@gem.com,S5,Legal / compliance
 gem.com,security@gem.com,S2,Security
+gem.com,support@gem.com,S8,Support / help
 genei.es,dmarc.rua@genei.es,Sx-c,DMARC reporting
 genei.es,dmarc.ruf@genei.es,Sx-c,DMARC reporting
 general.legal,abuse@general.legal,S3,Abuse / trust / safety
@@ -1288,7 +1066,6 @@ genialcare.com.br,abuse@genialcare.com.br,S3,Abuse / trust / safety
 genially.com,security@genially.com,S2,Security
 genially.com,abuse@genially.com,S3,Abuse / trust / safety
 genially.com,support@genially.com,S8,Support / help
-genially.com,legal@genially.com,S5,Legal / compliance
 genloop.ai,abuse@genloop.ai,S3,Abuse / trust / safety
 geopard.tech,abuse@geopard.tech,S3,Abuse / trust / safety
 geopard.tech,support@geopard.tech,S8,Support / help
@@ -1308,7 +1085,6 @@ getdex.com,abuse@getdex.com,S3,Abuse / trust / safety
 getdex.com,contact@getdex.com,S9,Generic info / contact
 getken.ai,abuse@getken.ai,S3,Abuse / trust / safety
 getken.ai,contact@getken.ai,S9,Generic info / contact
-getken.ai,cristian@getken.ai,Sx-b,Single-word local
 getloper.com,abuse@getloper.com,S3,Abuse / trust / safety
 getmontecarlo.com,abuse@getmontecarlo.com,S3,Abuse / trust / safety
 getpalm.com,security@getpalm.com,S2,Security
@@ -1326,18 +1102,9 @@ getsales.io,support@getsales.io,S8,Support / help
 getsift.ai,security@getsift.ai,S2,Security
 getsift.ai,abuse@getsift.ai,S3,Abuse / trust / safety
 getsift.ai,support@getsift.ai,S8,Support / help
-getsift.ai,legal@getsift.ai,S5,Legal / compliance
 getspeedpoint.com,privacy@getspeedpoint.com,S4,Privacy / DPO / GDPR
-getspeedpoint.com,legal@getspeedpoint.com,S5,Legal / compliance
-getspeedpoint.com,customersuccess@getspeedpoint.com,Sx-d,Other / mixed
 getsponsy.com,hi@getsponsy.com,S9,Generic info / contact
-getsponsy.com,miguel@getsponsy.com,Sx-b,Single-word local
 giatecscientific.com,support@giatecscientific.com,S8,Support / help
-giatecscientific.com,asiapacific@giatecscientific.com,Sx-b,Single-word local
-giatecscientific.com,europe@giatecscientific.com,Sx-b,Single-word local
-giatecscientific.com,latinamerica@giatecscientific.com,Sx-b,Single-word local
-giatecscientific.com,middleeast@giatecscientific.com,Sx-b,Single-word local
-giatecscientific.com,unitedkingdom@giatecscientific.com,Sx-d,Other / mixed
 giftpoint.io,abuse@giftpoint.io,S3,Abuse / trust / safety
 gigantic.pt,abuse@gigantic.pt,S3,Abuse / trust / safety
 gigstack.io,abuse@gigstack.io,S3,Abuse / trust / safety
@@ -1345,12 +1112,10 @@ gigworx.com,help@gigworx.com,S8,Support / help
 gigworx.com,slcsouth@gigworx.com,S8,Support / help
 gigworx.com,support@gigworx.com,S8,Support / help
 gigworx.com,info@gigworx.com,S9,Generic info / contact
-gigworx.com,sbe@gigworx.com,Sx-b,Single-word local
 gleap.io,security@gleap.io,S2,Security
 gleap.io,abuse@gleap.io,S3,Abuse / trust / safety
 glede.app,abuse@glede.app,S3,Abuse / trust / safety
 glede.app,support@glede.app,S8,Support / help
-glede.app,erik@glede.app,Sx-b,Single-word local
 glichealth.com,dmarc-reports@glichealth.com,Sx-c,DMARC reporting
 globaldatabase.com,office@globaldatabase.com,S9,Generic info / contact
 globalmacit.com,sales@globalmacit.com,S10,Sales / marketing / press
@@ -1358,13 +1123,11 @@ glowtify.com,abuse@glowtify.com,S3,Abuse / trust / safety
 glowtify.com,hey@glowtify.com,S9,Generic info / contact
 go1.com,security@go1.com,S2,Security
 goalfy.com.br,abuse@goalfy.com.br,S3,Abuse / trust / safety
-gocardless.com,help@gocardless.com,S8,Support / help
 gocardless.com,vuln-disc@gocardless.com,S0,Bug bounty / VDP
+gocardless.com,help@gocardless.com,S8,Support / help
 goconsensus.com,security@goconsensus.com,S2,Security
 goconsensus.com,abuse@goconsensus.com,S3,Abuse / trust / safety
 goconsensus.com,privacy@goconsensus.com,S4,Privacy / DPO / GDPR
-goconsensus.com,legal@goconsensus.com,S5,Legal / compliance
-goconsensus.com,clientsuccess@goconsensus.com,Sx-d,Other / mixed
 gocsm.com,info@gocsm.com,S9,Generic info / contact
 goextrovert.com,abuse@goextrovert.com,S3,Abuse / trust / safety
 goextrovert.com,support@goextrovert.com,S8,Support / help
@@ -1375,7 +1138,6 @@ goldfishads.com,abuse@goldfishads.com,S3,Abuse / trust / safety
 goldfishads.com,info@goldfishads.com,S9,Generic info / contact
 goldwasserexchange.be,security@goldwasserexchange.be,S2,Security
 gomining.com,abuse@gomining.com,S3,Abuse / trust / safety
-gomining.com,noreply@gomining.com,Sx-b,Single-word local
 gong.io,sales@gong.io,S10,Sales / marketing / press
 goodfin.com,dmarc-reports@goodfin.com,Sx-c,DMARC reporting
 goodwatercap.com,info@goodwatercap.com,S9,Generic info / contact
@@ -1401,8 +1163,6 @@ gpbullhound.com,hello.paris@gpbullhound.com,S9,Generic info / contact
 gpbullhound.com,hello.sf@gpbullhound.com,S9,Generic info / contact
 gpbullhound.com,hello.stockholm@gpbullhound.com,S9,Generic info / contact
 grafana.com,info@grafana.com,S9,Generic info / contact
-grafana.com,events@grafana.com,Sx-b,Single-word local
-grafana.com,grc@grafana.com,Sx-b,Single-word local
 grapelaw.com,info@grapelaw.com,S9,Generic info / contact
 grasp.gg,dpo@grasp.gg,S4,Privacy / DPO / GDPR
 grasp.gg,privacy@grasp.gg,S4,Privacy / DPO / GDPR
@@ -1415,10 +1175,8 @@ greenhawk.co.nz,kiaora@greenhawk.co.nz,Sx-b,Single-word local
 greenhawk.co.nz,mailadmin@greenhawk.co.nz,Sx-b,Single-word local
 greenstreet.com,security@greenstreet.com,S2,Security
 greenstreet.com,clientsupport@greenstreet.com,S8,Support / help
-greenstreet.com,compliance@greenstreet.com,S5,Legal / compliance
 gridium.com,dmarcreports@gridium.com,Sx-c,DMARC reporting
 groupesignalisation.ca,abuse@groupesignalisation.ca,S3,Abuse / trust / safety
-groupesignalisation.ca,estimation@groupesignalisation.ca,Sx-b,Single-word local
 grove.co,support@grove.co,S8,Support / help
 growhouse.co,abuse@growhouse.co,S3,Abuse / trust / safety
 growthfactor.ai,security@growthfactor.ai,S2,Security
@@ -1430,12 +1188,8 @@ growthkitchen.co,info@growthkitchen.co,S9,Generic info / contact
 grupoamericainterior.com.ar,abuse@grupoamericainterior.com.ar,S3,Abuse / trust / safety
 grupoeon.com.ar,soporte@grupoeon.com.ar,Sx-b,Single-word local
 grupovelas.com.br,abuse@grupovelas.com.br,S3,Abuse / trust / safety
-grupovelas.com.br,comercial@grupovelas.com.br,Sx-b,Single-word local
-grupovelas.com.br,ernandes@grupovelas.com.br,Sx-b,Single-word local
 gxl.ai,abuse@gxl.ai,S3,Abuse / trust / safety
-gxl.ai,so_interlaced@gxl.ai,Sx-a,Real-person name
 gyramais.com.br,abuse@gyramais.com.br,S3,Abuse / trust / safety
-gyramais.com.br,contato@gyramais.com.br,Sx-b,Single-word local
 hackle.io,security@hackle.io,S2,Security
 hackle.io,abuse@hackle.io,S3,Abuse / trust / safety
 hackle.io,support@hackle.io,S8,Support / help
@@ -1453,7 +1207,6 @@ handy.la,hola@handy.la,S9,Generic info / contact
 happycog.com,hello@happycog.com,S9,Generic info / contact
 harness.io,security@harness.io,S2,Security
 harness.io,privacy@harness.io,S4,Privacy / DPO / GDPR
-harness.io,legalnotices@harness.io,S5,Legal / compliance
 hbflavor.com,dmarc@hbflavor.com,Sx-c,DMARC reporting
 headlight.co,security@headlight.co,S2,Security
 headlight.co,abuse@headlight.co,S3,Abuse / trust / safety
@@ -1464,16 +1217,14 @@ hectorai.live,abuse@hectorai.live,S3,Abuse / trust / safety
 hellobonsai.com,abuse@hellobonsai.com,S3,Abuse / trust / safety
 hellobonsai.com,support@hellobonsai.com,S8,Support / help
 hellodarwin.com,info@hellodarwin.com,S9,Generic info / contact
-hellodarwin.com,clients@hellodarwin.com,Sx-b,Single-word local
 helmer.app,abuse@helmer.app,S3,Abuse / trust / safety
 helmer.app,contact@helmer.app,S9,Generic info / contact
+heroku.com,bugbountymanager@salesforce.com,S0,Bug bounty / VDP
 heroku.com,security@heroku.com,S2,Security
 heroku.com,abuse@heroku.com,S3,Abuse / trust / safety
-heroku.com,bugbountymanager@salesforce.com,S0,Bug bounty / VDP
 hex.inc,abuse@hex.inc,S3,Abuse / trust / safety
 hex.inc,hey@hex.inc,S9,Generic info / contact
 heybloome.com,abuse@heybloome.com,S3,Abuse / trust / safety
-heybloome.com,citas@heybloome.com,Sx-b,Single-word local
 heyflow.com,security@heyflow.com,S2,Security
 heyflow.com,abuse@heyflow.com,S3,Abuse / trust / safety
 heygen.com,security@heygen.com,S2,Security
@@ -1482,13 +1233,11 @@ heygen.com,contact@heygen.com,S9,Generic info / contact
 heygen.com,privacy@heygen.com,S4,Privacy / DPO / GDPR
 heymantle.com,security@heymantle.com,S2,Security
 heymantle.com,abuse@heymantle.com,S3,Abuse / trust / safety
-heymantle.com,legal@heymantle.com,S5,Legal / compliance
 heymarvin.com,security@heymarvin.com,S2,Security
 heymarvin.com,abuse@heymarvin.com,S3,Abuse / trust / safety
 heymarvin.com,support@heymarvin.com,S8,Support / help
 heymarvin.com,hi@heymarvin.com,S9,Generic info / contact
 heymarvin.com,privacy@heymarvin.com,S4,Privacy / DPO / GDPR
-heymarvin.com,adit@heymarvin.com,Sx-b,Single-word local
 hfsresearch.com,support@hfsresearch.com,S8,Support / help
 higgsfield.ai,security@higgsfield.ai,S2,Security
 higgsfield.ai,support@higgsfield.ai,S8,Support / help
@@ -1496,12 +1245,10 @@ highspot.com,security@highspot.com,S2,Security
 highspot.com,abuse@highspot.com,S3,Abuse / trust / safety
 highspot.com,help@highspot.com,S8,Support / help
 highspot.com,privacy@highspot.com,S4,Privacy / DPO / GDPR
-highspot.com,legal@highspot.com,S5,Legal / compliance
 himalayas.app,abuse@himalayas.app,S3,Abuse / trust / safety
 himalayas.app,hi@himalayas.app,S9,Generic info / contact
 himodus.com,security@himodus.com,S2,Security
 himodus.com,abuse@himodus.com,S3,Abuse / trust / safety
-himodus.com,connor@himodus.com,Sx-b,Single-word local
 hirenimbus.com,abuse@hirenimbus.com,S3,Abuse / trust / safety
 hivecpq.com,abuse@hivecpq.com,S3,Abuse / trust / safety
 hivecpq.com,hello@hivecpq.com,S9,Generic info / contact
@@ -1513,7 +1260,6 @@ homeric.ai,info@homeric.ai,S9,Generic info / contact
 honor.education,dmarc-reports@honor.education,Sx-c,DMARC reporting
 hortitec.es,abuse@hortitec.es,S3,Abuse / trust / safety
 hortitec.es,info@hortitec.es,S9,Generic info / contact
-hortitec.es,apv@hortitec.es,Sx-b,Single-word local
 hospitable.com,security@hospitable.com,S2,Security
 hospitable.com,abuse@hospitable.com,S3,Abuse / trust / safety
 hostingb2b.com,abuse@hostingb2b.com,S3,Abuse / trust / safety
@@ -1562,12 +1308,10 @@ icmarkets.com,dmarcreports@icmarkets.com,Sx-c,DMARC reporting
 icustomer.ai,abuse@icustomer.ai,S3,Abuse / trust / safety
 icustomer.ai,hello@icustomer.ai,S9,Generic info / contact
 icustomer.ai,info@icustomer.ai,S9,Generic info / contact
-icustomer.ai,jiten@icustomer.ai,Sx-b,Single-word local
 idc.com,security@idc.com,S2,Security
 idc.com,abuse@idc.com,S3,Abuse / trust / safety
 idc.com,idc_support@idc.com,S8,Support / help
 idc.com,jp_support@idc.com,S8,Support / help
-idc.com,permissions@idc.com,Sx-b,Single-word local
 idealo.com,abuse@idealo.com,S3,Abuse / trust / safety
 ideogram.ai,security@ideogram.ai,S2,Security
 ideogram.ai,abuse@ideogram.ai,S3,Abuse / trust / safety
@@ -1586,7 +1330,6 @@ inboxkit.com,abuse@inboxkit.com,S3,Abuse / trust / safety
 inboxkit.com,support@inboxkit.com,S8,Support / help
 incident.io,security@incident.io,S2,Security
 incident.io,support@incident.io,S8,Support / help
-incident.io,legal@incident.io,S5,Legal / compliance
 incomaker.com,support@incomaker.com,S8,Support / help
 incorpro.ie,abuse@incorpro.ie,S3,Abuse / trust / safety
 incorpro.ie,info@incorpro.ie,S9,Generic info / contact
@@ -1605,20 +1348,15 @@ infillion.com,abuse@infillion.com,S3,Abuse / trust / safety
 inflection.io,security@inflection.io,S2,Security
 inflection.io,abuse@inflection.io,S3,Abuse / trust / safety
 inflection.io,support@inflection.io,S8,Support / help
-inflection.io,report@inflection.io,S6,Reports / feedback
 influee.co,abuse@influee.co,S3,Abuse / trust / safety
 influee.co,hello@influee.co,S9,Generic info / contact
-influee.co,legal@influee.co,S5,Legal / compliance
 influx.com,security@influx.com,S2,Security
 influx.com,abuse@influx.com,S3,Abuse / trust / safety
 infrasure.ai,abuse@infrasure.ai,S3,Abuse / trust / safety
 infrasure.ai,info@infrasure.ai,S9,Generic info / contact
 ingenious.build,security@ingenious.build,S2,Security
 ingenious.build,abuse@ingenious.build,S3,Abuse / trust / safety
-ingenious.build,legal@ingenious.build,S5,Legal / compliance
-ingenious.build,devops@ingenious.build,S7,Admin / postmaster
 ingest.ai,abuse@ingest.ai,S3,Abuse / trust / safety
-ingest.ai,daniel@ingest.ai,Sx-b,Single-word local
 inistate.com,inistatedemosession@inistate.com,Sx-d,Other / mixed
 inki.tech,security@inki.tech,S2,Security
 inki.tech,service@inki.tech,S8,Support / help
@@ -1634,7 +1372,6 @@ insource.co.jp,dmarc-report@insource.co.jp,Sx-c,DMARC reporting
 inspectionsupport.com,abuse@inspectionsupport.com,S3,Abuse / trust / safety
 instabridge.com,support@instabridge.com,S8,Support / help
 instantdb.com,hello@instantdb.com,S9,Generic info / contact
-instantdb.com,founders@instantdb.com,Sx-b,Single-word local
 instantly.ai,abuse@instantly.ai,S3,Abuse / trust / safety
 instrumentl.com,security@instrumentl.com,S2,Security
 instrumentl.com,hello@instrumentl.com,S9,Generic info / contact
@@ -1654,7 +1391,6 @@ investdefy.com,abuse@investdefy.com,S3,Abuse / trust / safety
 investnext.com,security@investnext.com,S2,Security
 investnext.com,abuse@investnext.com,S3,Abuse / trust / safety
 investnext.com,support@investnext.com,S8,Support / help
-investnext.com,legal@investnext.com,S5,Legal / compliance
 ipolish.fashion,dmarcreports@ipolish.fashion,Sx-c,DMARC reporting
 iproxy.online,ceo@iproxy.online,Sx-b,Single-word local
 itgenius.com,abuse@itgenius.com,S3,Abuse / trust / safety
@@ -1674,22 +1410,18 @@ jasper.ai,security@jasper.ai,S2,Security
 jasper.ai,abuse@jasper.ai,S3,Abuse / trust / safety
 jasper.ai,hey@jasper.ai,S9,Generic info / contact
 jasper.ai,privacy@jasper.ai,S4,Privacy / DPO / GDPR
-jasper.ai,legal@jasper.ai,S5,Legal / compliance
 jepto.com,abuse@jepto.com,S3,Abuse / trust / safety
 jepto.com,help@jepto.com,S8,Support / help
 jibble.io,support@jibble.io,S8,Support / help
-jibble.io,owner@jibble.io,Sx-b,Single-word local
 jobphoning.com,abuse@jobphoning.com,S3,Abuse / trust / safety
 jobspikr.com,abuse@jobspikr.com,S3,Abuse / trust / safety
 joinotto.com,hello@joinotto.com,S9,Generic info / contact
 joinswsh.com,security@joinswsh.com,S2,Security
 joinswsh.com,abuse@joinswsh.com,S3,Abuse / trust / safety
-joinswsh.com,policy@joinswsh.com,Sx-b,Single-word local
 jointimecloud.com,abuse@jointimecloud.com,S3,Abuse / trust / safety
 jointimecloud.com,info@jointimecloud.com,S9,Generic info / contact
 jotform.com,support@jotform.com,S8,Support / help
 jotform.com,privacy@jotform.com,S4,Privacy / DPO / GDPR
-jotform.com,legal@jotform.com,S5,Legal / compliance
 joyn.one,abuse@joyn.one,S3,Abuse / trust / safety
 jplug.io,hello@jplug.io,S9,Generic info / contact
 judgmentlabs.ai,abuse@judgmentlabs.ai,S3,Abuse / trust / safety
@@ -1698,18 +1430,15 @@ jumpseller.com,security@jumpseller.com,S2,Security
 jumpseller.com,support@jumpseller.com,S8,Support / help
 jurny.com,abuse@jurny.com,S3,Abuse / trust / safety
 jurny.com,support@jurny.com,S8,Support / help
-jurny.com,jurny@jurny.com,Sx-b,Single-word local
 kadoa.com,support@kadoa.com,S8,Support / help
 kadoa.com,hello@kadoa.com,S9,Generic info / contact
 kameobikes.com,info@kameobikes.com,S9,Generic info / contact
 kameobikes.com,info_bxl@kameobikes.com,S9,Generic info / contact
 kapoq.com,abuse@kapoq.com,S3,Abuse / trust / safety
-kapoq.com,itadmin@kapoq.com,Sx-b,Single-word local
 kapptivate.com,abuse@kapptivate.com,S3,Abuse / trust / safety
 kapptivate.com,hello@kapptivate.com,S9,Generic info / contact
 karbonhq.com,security@karbonhq.com,S2,Security
 karbonhq.com,support@karbonhq.com,S8,Support / help
-karbonhq.com,concierge@karbonhq.com,Sx-b,Single-word local
 kashable.com,security@kashable.com,S2,Security
 kashable.com,support@kashable.com,S8,Support / help
 katanamrp.com,security@katanamrp.com,S2,Security
@@ -1718,18 +1447,14 @@ katara.ai,abuse@katara.ai,S3,Abuse / trust / safety
 katara.ai,hello@katara.ai,S9,Generic info / contact
 kayzen.io,abuse@kayzen.io,S3,Abuse / trust / safety
 keboola.com,security@keboola.com,S2,Security
-keboola.com,legal@keboola.com,S5,Legal / compliance
-keboola.com,talkto@keboola.com,Sx-b,Single-word local
 keeping.com,abuse@keeping.com,S3,Abuse / trust / safety
 keeping.com,support@keeping.com,S8,Support / help
-keeping.com,vincent@keeping.com,Sx-b,Single-word local
 kernel.ai,abuse@kernel.ai,S3,Abuse / trust / safety
 kernel.ai,info@kernel.ai,S9,Generic info / contact
 kertos.io,hello@kertos.io,S9,Generic info / contact
 kertos.io,info@kertos.io,S9,Generic info / contact
 kevel.com,security@kevel.com,S2,Security
 kevel.com,abuse@kevel.com,S3,Abuse / trust / safety
-kevel.com,evascov@kevel.com,Sx-b,Single-word local
 keywordtool.io,abuse@keywordtool.io,S3,Abuse / trust / safety
 kiingo.com,websitecontact@kiingo.com,S9,Generic info / contact
 kime.ai,team@kime.ai,S9,Generic info / contact
@@ -1750,17 +1475,14 @@ klaviyo.com,abuse@klaviyo.com,S3,Abuse / trust / safety
 klaviyo.com,reportphishing@klaviyo.com,S3,Abuse / trust / safety
 klaviyo.com,trust@klaviyo.com,S3,Abuse / trust / safety
 klaviyo.com,privacy@klaviyo.com,S4,Privacy / DPO / GDPR
-klaviyo.com,legal@klaviyo.com,S5,Legal / compliance
 kleer.se,support@kleer.se,S8,Support / help
 klubi.com.br,security@klubi.com.br,S2,Security
 klubi.com.br,abuse@klubi.com.br,S3,Abuse / trust / safety
-klubi.com.br,seguranca@klubi.com.br,Sx-b,Single-word local
 knapsack.cloud,security@knapsack.cloud,S2,Security
 knapsack.cloud,abuse@knapsack.cloud,S3,Abuse / trust / safety
 knapsack.cloud,hello@knapsack.cloud,S9,Generic info / contact
 knight-solutions.com,internalsecurity@knight-solutions.com,S2,Security
 knight-solutions.com,securityalerts@knight-solutions.com,S2,Security
-knight-solutions.com,procore@knight-solutions.com,S10,Sales / marketing / press
 knock.app,support@knock.app,S8,Support / help
 knocommerce.com,security@knocommerce.com,S2,Security
 knocommerce.com,abuse@knocommerce.com,S3,Abuse / trust / safety
@@ -1779,9 +1501,8 @@ kourawealth.co.nz,info@kourawealth.co.nz,S9,Generic info / contact
 kpicreatives.com,hello@kpicreatives.com,S9,Generic info / contact
 kredfeed.com,abuse@kredfeed.com,S3,Abuse / trust / safety
 kredfeed.com,contacto@kredfeed.com,S9,Generic info / contact
-kredfeed.com,soporte@kredfeed.com,Sx-b,Single-word local
-krisp.ai,info@krisp.ai,S9,Generic info / contact
 krisp.ai,security@krisp.ai,S2,Security
+krisp.ai,info@krisp.ai,S9,Generic info / contact
 kruncher.ai,info@kruncher.ai,S9,Generic info / contact
 kruncher.ai,privacy@kruncher.ai,S4,Privacy / DPO / GDPR
 kscope.io,info@kscope.io,S9,Generic info / contact
@@ -1796,8 +1517,6 @@ lade.de,post@lade.de,Sx-b,Single-word local
 laferla.com.mt,abuse@laferla.com.mt,S3,Abuse / trust / safety
 lambdatest.com,security@lambdatest.com,S2,Security
 lambdatest.com,abuse@lambdatest.com,S3,Abuse / trust / safety
-lambdatest.com,quarantine@lambdatest.com,Sx-b,Single-word local
-lambdatest.com,quarantine1@lambdatest.com,Sx-d,Other / mixed
 landapp.com.br,comercial@landapp.com.br,Sx-b,Single-word local
 landstack.co.uk,security@landstack.co.uk,S2,Security
 landstack.co.uk,abuse@landstack.co.uk,S3,Abuse / trust / safety
@@ -1812,7 +1531,6 @@ lawtrades.com,help@lawtrades.com,S8,Support / help
 lawvu.com,security@lawvu.com,S2,Security
 lawvu.com,info@lawvu.com,S9,Generic info / contact
 layer.team,help@layer.team,S8,Support / help
-layer.team,jane@layer.team,Sx-b,Single-word local
 leadfeeder.com,security@leadfeeder.com,S2,Security
 leadfeeder.com,support@leadfeeder.com,S8,Support / help
 leadfeeder.com,info@leadfeeder.com,S9,Generic info / contact
@@ -1820,7 +1538,6 @@ leadmagic.io,security@leadmagic.io,S2,Security
 leadmagic.io,support@leadmagic.io,S8,Support / help
 leanlabs.com,hello@lean-labs.com,S8,Support / help
 leanmote.com,abuse@leanmote.com,S3,Abuse / trust / safety
-leanmote.com,alex@leanmote.com,Sx-b,Single-word local
 leanrs.com,info@leanrs.com,S9,Generic info / contact
 legalmike.ai,security@legalmike.ai,S2,Security
 legalmike.ai,abuse@legalmike.ai,S3,Abuse / trust / safety
@@ -1832,7 +1549,6 @@ leonardo.ai,abuse@leonardo.ai,S3,Abuse / trust / safety
 letsweel.com,help@letsweel.com,S8,Support / help
 letterdrop.com,support@letterdrop.com,S8,Support / help
 letterdrop.com,parthi@letterdrop.com,S9,Generic info / contact
-letterdrop.com,vinod@letterdrop.com,Sx-b,Single-word local
 lev.com,review@lev.com,Sx-b,Single-word local
 levels.fyi,abuse@levels.fyi,S3,Abuse / trust / safety
 levels.fyi,hello@levels.fyi,S9,Generic info / contact
@@ -1841,7 +1557,6 @@ levelupgroup.nl,abuse@levelupgroup.nl,S3,Abuse / trust / safety
 leverest.net,security@leverest.net,S2,Security
 leverest.net,abuse@leverest.net,S3,Abuse / trust / safety
 leverest.net,info@leverest.net,S9,Generic info / contact
-leverest.net,obroszat@leverest.net,Sx-b,Single-word local
 levno.com,info@levno.com,S9,Generic info / contact
 levo.ai,abuse@levo.ai,S3,Abuse / trust / safety
 lhdottie.com,security@lhdottie.com,S2,Security
@@ -1853,14 +1568,10 @@ lightmetrics.co,contact@lightmetrics.co,S9,Generic info / contact
 lightmetrics.co,info@lightmetrics.co,S9,Generic info / contact
 lilt.com,security@lilt.com,S2,Security
 lilt.com,abuse@lilt.com,S3,Abuse / trust / safety
-lilt.com,compliance@lilt.com,S5,Legal / compliance
-lilt.com,legal@lilt.com,S5,Legal / compliance
 limacharlie.io,security@limacharlie.io,S2,Security
 limacharlie.io,abuse@limacharlie.io,S3,Abuse / trust / safety
-limacharlie.io,legal@limacharlie.io,S5,Legal / compliance
 limbomusic.com,abuse@limbomusic.com,S3,Abuse / trust / safety
 limbomusic.com,info@limbomusic.com,S9,Generic info / contact
-limbomusic.com,fer@limbomusic.com,Sx-b,Single-word local
 limelife.com,wecare@limelife.com,S8,Support / help
 liminal.co,abuse@liminal.co,S3,Abuse / trust / safety
 lindo.ai,support@lindo.ai,S8,Support / help
@@ -1878,7 +1589,6 @@ listenlabs.ai,security@listenlabs.ai,S2,Security
 listenlabs.ai,abuse@listenlabs.ai,S3,Abuse / trust / safety
 listenlabs.ai,support@listenlabs.ai,S8,Support / help
 listenlabs.ai,privacy@listenlabs.ai,S4,Privacy / DPO / GDPR
-listenlabs.ai,florian@listenlabs.ai,Sx-b,Single-word local
 littlebird.ai,security@littlebird.ai,S2,Security
 littlebird.ai,abuse@littlebird.ai,S3,Abuse / trust / safety
 littlebird.ai,support@littlebird.ai,S8,Support / help
@@ -1886,7 +1596,6 @@ liveplan.com,abuse@liveplan.com,S3,Abuse / trust / safety
 liverem.com,abuse@liverem.com,S3,Abuse / trust / safety
 liverem.com,hello@liverem.com,S9,Generic info / contact
 liveseo.com.br,abuse@liveseo.com.br,S3,Abuse / trust / safety
-liveseo.com.br,comercial@liveseo.com.br,Sx-b,Single-word local
 llamaindex.ai,security@llamaindex.ai,S2,Security
 llamaindex.ai,abuse@llamaindex.ai,S3,Abuse / trust / safety
 llexeter.co.uk,webmaster@llexeter.co.uk,S7,Admin / postmaster
@@ -1912,8 +1621,6 @@ lokalise.com,abuse@lokalise.com,S3,Abuse / trust / safety
 lokalise.com,support@lokalise.com,S8,Support / help
 lokalise.com,hello@lokalise.com,S9,Generic info / contact
 lokalise.com,privacy@lokalise.com,S4,Privacy / DPO / GDPR
-lokalise.com,legal@lokalise.com,S5,Legal / compliance
-lokalise.com,gita@lokalise.com,Sx-b,Single-word local
 lookback.io,support@lookback.io,S8,Support / help
 lookback.io,dpo@lookback.io,S4,Privacy / DPO / GDPR
 loopai.com,support@loopai.com,S8,Support / help
@@ -1937,26 +1644,15 @@ luminovo.com,sales@luminovo.com,S10,Sales / marketing / press
 luminpdf.com,security@luminpdf.com,S2,Security
 luminpdf.com,abuse@luminpdf.com,S3,Abuse / trust / safety
 luminpdf.com,support@luminpdf.com,S8,Support / help
-luminpdf.com,quynhpn@luminpdf.com,Sx-b,Single-word local
-luminpdf.com,tramntq@luminpdf.com,Sx-b,Single-word local
-luminpdf.com,huyenntm+0002@luminpdf.com,Sx-d,Other / mixed
-luminpdf.com,huyenntm+0003@luminpdf.com,Sx-d,Other / mixed
-luminpdf.com,huyenntm+0004@luminpdf.com,Sx-d,Other / mixed
 lumonic.com,kevin@lumonic.com,Sx-b,Single-word local
 lusha.com,legal@lusha.com,S5,Legal / compliance
 mabl.com,inquiry@mabl.com,S9,Generic info / contact
-mabl.com,eurequest@mabl.com,Sx-b,Single-word local
 madelevator.com,customerservice@madelevator.com,S8,Support / help
 madelevator.com,support@madelevator.com,S8,Support / help
-madelevator.com,mos@madelevator.com,Sx-b,Single-word local
-madelevator.com,parts@madelevator.com,Sx-b,Single-word local
-madelevator.com,vms@madelevator.com,Sx-b,Single-word local
 maestrolabs.com,security@maestrolabs.com,S2,Security
 maestrolabs.com,support.uk@maestrolabs.com,S8,Support / help
 maestrolabs.com,support@maestrolabs.com,S8,Support / help
 maestrolabs.com,teams@maestrolabs.com,S9,Generic info / contact
-maestrolabs.com,feedback@maestrolabs.com,S6,Reports / feedback
-maestrolabs.com,sebastian@maestrolabs.com,Sx-b,Single-word local
 magicpatterns.com,security@magicpatterns.com,S2,Security
 magicpatterns.com,support@magicpatterns.com,S8,Support / help
 magicpost.in,naile.titah@magicpost.in,Sx-a,Real-person name
@@ -1973,17 +1669,11 @@ manatal.com,security@manatal.com,S2,Security
 manatal.com,abuse@manatal.com,S3,Abuse / trust / safety
 manatal.com,support@manatal.com,S8,Support / help
 manatal.com,contact@manatal.com,S9,Generic info / contact
-manatal.com,legal@manatal.com,S5,Legal / compliance
-manatal.com,affiliates@manatal.com,Sx-b,Single-word local
-manatal.com,ir@manatal.com,Sx-b,Single-word local
 maniv.com,abuse@maniv.com,S3,Abuse / trust / safety
-maniv.com,jake@maniv.com,Sx-b,Single-word local
 manossoftware.com,info@manossoftware.com,S9,Generic info / contact
-manossoftware.com,joe@manossoftware.com,Sx-b,Single-word local
 manufact.com,security@manufact.com,S2,Security
 manufact.com,abuse@manufact.com,S3,Abuse / trust / safety
 manufact.com,support@manufact.com,S8,Support / help
-manufact.com,founders@manufact.com,Sx-b,Single-word local
 manus.im,contact@manus.im,S9,Generic info / contact
 mapbox.com,security@mapbox.com,S2,Security
 mapbox.com,abuse@mapbox.com,S3,Abuse / trust / safety
@@ -2007,7 +1697,6 @@ matik.io,security@matik.io,S2,Security
 matik.io,abuse@matik.io,S3,Abuse / trust / safety
 matik.io,contact@matik.io,S9,Generic info / contact
 matik.io,hello@matik.io,S9,Generic info / contact
-matik.io,zak@matik.io,Sx-b,Single-word local
 maxhealth.tech,hello@maxhealth.tech,S9,Generic info / contact
 maya-pci.com,contact@maya-pci.com,S9,Generic info / contact
 mdcdatacenters.com,abuse@mdcdatacenters.com,S3,Abuse / trust / safety
@@ -2019,7 +1708,6 @@ meandu.com,press@meandu.com,S10,Sales / marketing / press
 measured.com,security@measured.com,S2,Security
 measured.com,abuse@measured.com,S3,Abuse / trust / safety
 measured.com,info@measured.com,S9,Generic info / contact
-measured.com,andy@measured.com,Sx-b,Single-word local
 mebot.ai,abuse@mebot.ai,S3,Abuse / trust / safety
 medasystems.com,support@medasystems.com,S8,Support / help
 medasystems.com,info@medasystems.com,S9,Generic info / contact
@@ -2029,12 +1717,10 @@ mediamath.com,security@mediamath.com,S2,Security
 mediamath.com,abuse@mediamath.com,S3,Abuse / trust / safety
 mee6.xyz,security@mee6.xyz,S2,Security
 mee6.xyz,abuse@mee6.xyz,S3,Abuse / trust / safety
-mee6.xyz,noreply@mee6.xyz,Sx-b,Single-word local
 meetgeek.ai,security@meetgeek.ai,S2,Security
 meetgeek.ai,abuse@meetgeek.ai,S3,Abuse / trust / safety
 meetgeek.ai,support@meetgeek.ai,S8,Support / help
 meetgeek.ai,hello@meetgeek.ai,S9,Generic info / contact
-meetgeek.ai,app@meetgeek.ai,Sx-b,Single-word local
 meetjamie.ai,security@meetjamie.ai,S2,Security
 meetjamie.ai,abuse@meetjamie.ai,S3,Abuse / trust / safety
 meetjamie.ai,support@meetjamie.ai,S8,Support / help
@@ -2048,7 +1734,6 @@ meetup.com,abuse@meetup.com,S3,Abuse / trust / safety
 megaport.com,vulnerability.disclosure@megaport.com,S0,Bug bounty / VDP
 meikai.ai,abuse@meikai.ai,S3,Abuse / trust / safety
 meikai.ai,hello@meikai.ai,S9,Generic info / contact
-meikai.ai,legal@meikai.ai,S5,Legal / compliance
 meisterlabs.com,security@meisterlabs.com,S2,Security
 meisterlabs.com,support@meisterlabs.com,S8,Support / help
 meisterlabs.com,dpo@meisterlabs.com,S4,Privacy / DPO / GDPR
@@ -2065,7 +1750,6 @@ mentionlab.io,legal@mentionlab.io,S5,Legal / compliance
 mentionlab.io,pierre@mentionlab.io,Sx-b,Single-word local
 mentionlytics.com,abuse@mentionlytics.com,S3,Abuse / trust / safety
 mentionlytics.com,helpdesk@mentionlytics.com,S8,Support / help
-mentionlytics.com,administrator@mentionlytics.com,Sx-d,Other / mixed
 meow.com,security@meow.com,S2,Security
 meow.com,abuse@meow.com,S3,Abuse / trust / safety
 meow.com,support@meow.com,S8,Support / help
@@ -2079,17 +1763,14 @@ mesmer.co,abuse@mesmer.co,S3,Abuse / trust / safety
 messari.io,abuse@messari.io,S3,Abuse / trust / safety
 meteomatics.com,security@meteomatics.com,S2,Security
 meteomatics.com,abuse@meteomatics.com,S3,Abuse / trust / safety
-meteomatics.com,shop@meteomatics.com,Sx-b,Single-word local
 micador.com.au,security@micador.com.au,S2,Security
 middesk.com,security@middesk.com,S2,Security
 middesk.com,abuse@middesk.com,S3,Abuse / trust / safety
 middesk.com,support@middesk.com,S8,Support / help
 milemaker.com,security@milemaker.com,S2,Security
-milemaker.com,mmsales@milemaker.com,S10,Sales / marketing / press
 millistream.com,tech@millistream.com,Sx-b,Single-word local
 millow.co,enquiries@millow.co,S9,Generic info / contact
 millow.co,hello@millow.co,S9,Generic info / contact
-millow.co,invest@millow.co,Sx-b,Single-word local
 mindmeister.com,press@mindmeister.com,S10,Sales / marketing / press
 minicoursegenerator.com,support@minicoursegenerator.com,S8,Support / help
 minicrm.hu,help@minicrm.hu,S8,Support / help
@@ -2098,13 +1779,9 @@ mintlify.com,dmarc-reports@mintlify.com,Sx-c,DMARC reporting
 minubo.com,abuse@minubo.com,S3,Abuse / trust / safety
 minubo.com,contact@minubo.com,S9,Generic info / contact
 minubo.com,mathias@minubo.com,S9,Generic info / contact
-minubo.com,andreas@minubo.com,Sx-b,Single-word local
-minubo.com,lennard@minubo.com,Sx-b,Single-word local
 miramis.co,abuse@miramis.co,S3,Abuse / trust / safety
-miramis.co,reports@miramis.co,S6,Reports / feedback
 miro.com,security@miro.com,S2,Security
 miro.com,abuse@miro.com,S3,Abuse / trust / safety
-miro.com,legal@miro.com,S5,Legal / compliance
 mitsiomotu.com,info@mitsiomotu.com,S9,Generic info / contact
 mittwald.de,security@mittwald.de,S2,Security
 mittwald.de,abuse@mittwald.de,S3,Abuse / trust / safety
@@ -2114,47 +1791,34 @@ mixmax.com,support@mixmax.com,S8,Support / help
 mixmax.com,privacy@mixmax.com,S4,Privacy / DPO / GDPR
 mixpanel.com,bugbounty@mixpanel.com,S0,Bug bounty / VDP
 mixpanel.com,security@mixpanel.com,S2,Security
-mixpanel.com,compliance@mixpanel.com,S5,Legal / compliance
-mixpanel.com,legal@mixpanel.com,S5,Legal / compliance
 mobile-text-alerts.com,sales@mobile-text-alerts.com,S10,Sales / marketing / press
 modoenergy.com,security@modoenergy.com,S2,Security
 modoenergy.com,abuse@modoenergy.com,S3,Abuse / trust / safety
-modoenergy.com,dmytro@modoenergy.com,Sx-b,Single-word local
-modoenergy.com,tim@modoenergy.com,Sx-b,Single-word local
 mogul.club,support@mogul.club,S8,Support / help
 momentumamp.com,abuse@momentumamp.com,S3,Abuse / trust / safety
 momentumamp.com,help@momentumamp.com,S8,Support / help
 monest.com.br,security@monest.com.br,S2,Security
 monest.com.br,abuse@monest.com.br,S3,Abuse / trust / safety
-monest.com.br,cyber@monest.com.br,Sx-b,Single-word local
 montai.com,postmaster@montai.com,S7,Admin / postmaster
 montai.com,press@montai.com,S10,Sales / marketing / press
 moodys.com,security@moodys.com,S2,Security
 moodys.com,clientservices@moodys.com,S8,Support / help
 moonlit.ai,abuse@moonlit.ai,S3,Abuse / trust / safety
-moonlit.ai,nextround@moonlit.ai,Sx-b,Single-word local
 moovel.com,security@moovel.com,S2,Security
 moovel.com,abuse@moovel.com,S3,Abuse / trust / safety
 morganastudios.com,info@morganastudios.com,S9,Generic info / contact
-morganastudios.com,hernan@morganastudios.com,Sx-b,Single-word local
 morgans.com.au,security@morgans.com.au,S2,Security
 morgans.com.au,abuse@morgans.com.au,S3,Abuse / trust / safety
-morgans.com.au,brisbane@morgans.com.au,Sx-b,Single-word local
 morningscore.io,abuse@morningscore.io,S3,Abuse / trust / safety
 morningscore.io,info@morningscore.io,S9,Generic info / contact
-morningscore.io,mail@morningscore.io,Sx-b,Single-word local
 morningstar.com,security@morningstar.com,S2,Security
 morningstar.com,abuse@morningstar.com,S3,Abuse / trust / safety
-morningstar.com,domainadmin@morningstar.com,Sx-b,Single-word local
 motra.com,abuse@motra.com,S3,Abuse / trust / safety
 motra.com,hello@motra.com,S9,Generic info / contact
 msci.com,security@msci.com,S2,Security
 msci.com,abuse@msci.com,S3,Abuse / trust / safety
 msci.com,event_inquiry@msci.com,S9,Generic info / contact
-msci.com,internetadmin@msci.com,Sx-d,Other / mixed
 mscience.com,info@mscience.com,S9,Generic info / contact
-mscience.com,legalnotices@mscience.com,S5,Legal / compliance
-mscience.com,insights@mscience.com,Sx-b,Single-word local
 mudstack.com,abuse@mudstack.com,S3,Abuse / trust / safety
 musicinfra.com,abuse@musicinfra.com,S3,Abuse / trust / safety
 musixmatch.com,security@musixmatch.com,S2,Security
@@ -2167,7 +1831,6 @@ mydevices.com,security@mydevices.com,S2,Security
 mydevices.com,abuse@mydevices.com,S3,Abuse / trust / safety
 mymeet.ai,abuse@mymeet.ai,S3,Abuse / trust / safety
 mymeet.ai,hello@mymeet.ai,S9,Generic info / contact
-mymeet.ai,ivan@mymeet.ai,Sx-b,Single-word local
 myn.co.uk,support@myn.co.uk,S8,Support / help
 myop.dev,abuse@myop.dev,S3,Abuse / trust / safety
 mypureinsights.com,dmarc-reports@mypureinsights.com,Sx-c,DMARC reporting
@@ -2179,7 +1842,6 @@ namauu.com,security@namauu.com,S2,Security
 namauu.com,contact@namauu.com,S9,Generic info / contact
 nanonets.com,info@nanonets.com,S9,Generic info / contact
 nanonets.com,dpo@nanonets.com,S4,Privacy / DPO / GDPR
-nanonets.com,legal@nanonets.com,S5,Legal / compliance
 napta.io,security@napta.io,S2,Security
 napta.io,abuse@napta.io,S3,Abuse / trust / safety
 narrative.io,security@narrative.io,S2,Security
@@ -2188,9 +1850,6 @@ native.security,abuse@native.security,S3,Abuse / trust / safety
 nativo.com,security@nativo.com,S2,Security
 nativo.com,abuse@nativo.com,S3,Abuse / trust / safety
 nativo.com,privacy@nativo.com,S4,Privacy / DPO / GDPR
-nativo.com,advertising@nativo.com,S10,Sales / marketing / press
-nativo.com,eurep@nativo.com,Sx-b,Single-word local
-nativo.com,publishers@nativo.com,Sx-b,Single-word local
 natura.io,security@natura.io,S2,Security
 natura.io,abuse@natura.io,S3,Abuse / trust / safety
 navan.com,sre+cert@navan.com,S1,PSIRT / CERT / SOC
@@ -2206,7 +1865,6 @@ netradyne.com,infosec@netradyne.com,S1,PSIRT / CERT / SOC
 netradyne.com,soc@netradyne.com,S1,PSIRT / CERT / SOC
 netradyne.com,partnersupport@netradyne.com,S8,Support / help
 netradyne.com,support@netradyne.com,S8,Support / help
-netradyne.com,driveri@netradyne.com,Sx-b,Single-word local
 netrefer.com,infraeng@netrefer.com,Sx-b,Single-word local
 neurosity.co,support@neurosity.co,S8,Support / help
 neutroon.com,abuse@neutroon.com,S3,Abuse / trust / safety
@@ -2215,23 +1873,18 @@ nevados.solar,privacy@nevados.solar,S4,Privacy / DPO / GDPR
 nevent.ai,support@nevent.ai,S8,Support / help
 nevent.ai,info@nevent.ai,S9,Generic info / contact
 newrelic.com,privacy@newrelic.com,S4,Privacy / DPO / GDPR
-newrelic.com,personaldatarequests@newrelic.com,Sx-d,Other / mixed
 newsleopard.com,abuse@newsleopard.com,S3,Abuse / trust / safety
-newsleopard.com,rd@newsleopard.com,Sx-b,Single-word local
 newstex.com,support@newstex.com,S8,Support / help
 nex.ai,security@nex.ai,S2,Security
 nex.ai,abuse@nex.ai,S3,Abuse / trust / safety
 nex.ai,contact@nex.ai,S9,Generic info / contact
-nex.ai,compliance@nex.ai,S5,Legal / compliance
 nexcpg.com,abuse@nexcpg.com,S3,Abuse / trust / safety
-nexcpg.com,dispute@nexcpg.com,Sx-b,Single-word local
 nextdocs.io,abuse@nextdocs.io,S3,Abuse / trust / safety
 nextdocs.io,hello@nextdocs.io,S9,Generic info / contact
 nexyo.io,info@nexyo.io,S9,Generic info / contact
 nirvanahq.com,legal@nirvanahq.com,S5,Legal / compliance
 nocfo.io,abuse@nocfo.io,S3,Abuse / trust / safety
 nocfo.io,info@nocfo.io,S9,Generic info / contact
-nocfo.io,md.al-naim@nocfo.io,Sx-d,Other / mixed
 noma.security,security@noma.security,S2,Security
 noma.security,abuse@noma.security,S3,Abuse / trust / safety
 nostra.ai,security@nostra.ai,S2,Security
@@ -2240,11 +1893,9 @@ notion.com,support@notionhq.com,S8,Support / help
 novatalent.com,security@novatalent.com,S2,Security
 novatalent.com,abuse@novatalent.com,S3,Abuse / trust / safety
 novatalent.com,info@novatalent.com,S9,Generic info / contact
-novatalent.com,italy@novatalent.com,Sx-b,Single-word local
 novatech.com.ar,contacto@novatech.com.ar,S9,Generic info / contact
 noviams.com,security@noviams.com,S2,Security
 noviams.com,info@noviams.com,S9,Generic info / contact
-noviams.com,demarc_reports@noviams.com,Sx-a,Real-person name
 novoplan.com.au,security@novoplan.com.au,S2,Security
 novoplan.com.au,info@novoplan.com.au,S9,Generic info / contact
 novopsych.com,info@novopsych.com,S9,Generic info / contact
@@ -2264,7 +1915,6 @@ octavehq.com,dmarc-reports@octavehq.com,Sx-c,DMARC reporting
 octolane.com,security@octolane.com,S2,Security
 octolane.com,abuse@octolane.com,S3,Abuse / trust / safety
 octoparse.com,support@octoparse.com,S8,Support / help
-octoparse.com,lijiaxuan@octoparse.com,Sx-b,Single-word local
 octorate.com,tech@octorate.com,Sx-b,Single-word local
 octorate.com,f.scuppa@octorate.com,Sx-d,Other / mixed
 oktopost.com,security@oktopost.com,S2,Security
@@ -2278,7 +1928,6 @@ omnidim.io,security@omnidim.io,S2,Security
 omnidim.io,support@omnidim.io,S8,Support / help
 omnivio.io,abuse@omnivio.io,S3,Abuse / trust / safety
 omnivio.io,contact@omnivio.io,S9,Generic info / contact
-omnivio.io,controltower@omnivio.io,Sx-b,Single-word local
 oncrawl.com,security@oncrawl.com,S2,Security
 oncrawl.com,abuse@oncrawl.com,S3,Abuse / trust / safety
 oncrawl.com,nhello@oncrawl.com,S9,Generic info / contact
@@ -2288,8 +1937,6 @@ onepage.io,abuse@onepage.io,S3,Abuse / trust / safety
 onepay.com,responsible-disclosure@onepay.com,S0,Bug bounty / VDP
 onepeloton.com,support@onepeloton.com,S8,Support / help
 onepeloton.com,privacy@onepeloton.com,S4,Privacy / DPO / GDPR
-onepeloton.com,secure@onepeloton.com,Sx-b,Single-word local
-onepeloton.com,taxexempt@onepeloton.com,Sx-b,Single-word local
 onfrontiers.com,abuse@onfrontiers.com,S3,Abuse / trust / safety
 onfrontiers.com,hello@onfrontiers.com,S9,Generic info / contact
 onlook.com,abuse@onlook.com,S3,Abuse / trust / safety
@@ -2298,7 +1945,6 @@ onlycat.com,abuse@onlycat.com,S3,Abuse / trust / safety
 onlyoffice.com,security@onlyoffice.com,S2,Security
 onlyoffice.com,support@onlyoffice.com,S8,Support / help
 onlyoffice.com,info@onlyoffice.com,S9,Generic info / contact
-onlyoffice.com,reply@onlyoffice.com,Sx-b,Single-word local
 ontra.ai,security@ontra.ai,S2,Security
 ontra.ai,abuse@ontra.ai,S3,Abuse / trust / safety
 ontra.ai,info@ontra.ai,S9,Generic info / contact
@@ -2307,16 +1953,13 @@ ontraport.com,abuse@ontraport.com,S3,Abuse / trust / safety
 ontraport.com,abusedesk@ontraport.com,S3,Abuse / trust / safety
 ontraport.com,support@ontraport.com,S8,Support / help
 ontraport.com,gdpr@ontraport.com,S4,Privacy / DPO / GDPR
-ontraport.com,legal@ontraport.com,S5,Legal / compliance
 onyxplatform.com,security@onyxplatform.com,S2,Security
 onyxplatform.com,info@onyxplatform.com,S9,Generic info / contact
-onyxplatform.com,nhoward@onyxplatform.com,Sx-b,Single-word local
 oort.io,accounts+dmarc-agg@oort.io,Sx-c,DMARC reporting
 oort.io,accounts+dmarc-forensic@oort.io,Sx-c,DMARC reporting
 openbridge.com,abuse@openbridge.com,S3,Abuse / trust / safety
 openbridge.com,support@openbridge.com,S8,Support / help
 openfunnel.dev,abuse@openfunnel.dev,S3,Abuse / trust / safety
-openfunnel.dev,founders@openfunnel.dev,Sx-b,Single-word local
 operating.app,security@operating.app,S2,Security
 operating.app,abuse@operating.app,S3,Abuse / trust / safety
 operating.app,privacy@operating.app,S4,Privacy / DPO / GDPR
@@ -2335,36 +1978,23 @@ osome.com,security@osome.com,S2,Security
 osome.com,abuse@osome.com,S3,Abuse / trust / safety
 osome.com,hi@osome.com,S9,Generic info / contact
 osome.com,dpo@osome.com,S4,Privacy / DPO / GDPR
-osome.com,uk@osome.com,Sx-b,Single-word local
 otelai.com,hello@otelai.com,S9,Generic info / contact
 otocrm.com.br,abuse@otocrm.com.br,S3,Abuse / trust / safety
-otocrm.com.br,leonardo@otocrm.com.br,Sx-b,Single-word local
 otter.ai,security@otter.ai,S2,Security
 otter.ai,abuse@otter.ai,S3,Abuse / trust / safety
 otter.ai,support@otter.ai,S8,Support / help
 otter.ai,privacy@otter.ai,S4,Privacy / DPO / GDPR
-otter.ai,copyright@otter.ai,S5,Legal / compliance
-otter.ai,legal@otter.ai,S5,Legal / compliance
 ottimate.com,abuse@ottimate.com,S3,Abuse / trust / safety
 ottimate.com,hello@ottimate.com,S9,Generic info / contact
 ottit.com,abuse@ottit.com,S3,Abuse / trust / safety
-ottit.com,saman@ottit.com,Sx-b,Single-word local
 outlit.ai,security@outlit.ai,S2,Security
 outlit.ai,support@outlit.ai,S8,Support / help
 outlit.ai,hello@outlit.ai,S9,Generic info / contact
 outlit.ai,privacy@outlit.ai,S4,Privacy / DPO / GDPR
-outlit.ai,leo@outlit.ai,Sx-b,Single-word local
 overfuel.com,security@overfuel.com,S2,Security
 overfuel.com,abuse@overfuel.com,S3,Abuse / trust / safety
 overfuel.com,support@overfuel.com,S8,Support / help
-overfuel.com,legal@overfuel.com,S5,Legal / compliance
 ovintiv.com,offsetfracs@ovintiv.com,S8,Support / help
-ovintiv.com,marketingca@ovintiv.com,S10,Sales / marketing / press
-ovintiv.com,marketingus@ovintiv.com,S10,Sales / marketing / press
-ovintiv.com,landmail@ovintiv.com,Sx-b,Single-word local
-ovintiv.com,legacymines@ovintiv.com,Sx-b,Single-word local
-ovintiv.com,courtesymatters@ovintiv.com,Sx-d,Other / mixed
-ovintiv.com,sustainability@ovintiv.com,Sx-d,Other / mixed
 ovrsea.com,abuse@ovrsea.com,S3,Abuse / trust / safety
 ovrsea.com,contact@ovrsea.com,S9,Generic info / contact
 owlvc.com,forensicreports@owlvc.com,Sx-d,Other / mixed
@@ -2375,9 +2005,9 @@ pacelabs.com,security@pacelabs.com,S2,Security
 packman.ai,help@packman.ai,S8,Support / help
 padlet.com,hello@padlet.com,S9,Generic info / contact
 pagerduty.com,ssl-tls-certificates-caa-iodef-report.r4785y6f@pdt-circular.pagerduty.com,S1,PSIRT / CERT / SOC
+pagerduty.com,security@pagerduty.com,S2,Security
 pagerduty.com,support@pagerduty.com,S8,Support / help
 pagerduty.com,privacy@pagerduty.com,S4,Privacy / DPO / GDPR
-pagerduty.com,security@pagerduty.com,S2,Security
 pagos.ai,security@pagos.ai,S2,Security
 pagos.ai,abuse@pagos.ai,S3,Abuse / trust / safety
 pandadoc.com,security@pandadoc.com,S2,Security
@@ -2389,8 +2019,6 @@ parkable.com,security@parkable.com,S2,Security
 parkable.com,abuse@parkable.com,S3,Abuse / trust / safety
 parqet.com,abuse@parqet.com,S3,Abuse / trust / safety
 parqet.com,support@parqet.com,S8,Support / help
-parqet.com,daten@parqet.com,Sx-b,Single-word local
-parqet.com,sumit@parqet.com,Sx-b,Single-word local
 particl.com,dmarc@particl.com,Sx-c,DMARC reporting
 passcreator.com,hello@passcreator.com,S9,Generic info / contact
 patch.io,security@patch.io,S2,Security
@@ -2398,7 +2026,6 @@ patch.io,abuse@patch.io,S3,Abuse / trust / safety
 patch.io,info@patch.io,S9,Generic info / contact
 patch.io,infot@patch.io,S9,Generic info / contact
 patch.io,privacy@patch.io,S4,Privacy / DPO / GDPR
-patch.io,into@patch.io,Sx-b,Single-word local
 patentfield.com,contact@patentfield.com,S9,Generic info / contact
 patentmaker.eu,security@patentmaker.eu,S2,Security
 patentmaker.eu,info@patentmaker.eu,S9,Generic info / contact
@@ -2414,9 +2041,9 @@ pavefi.com,security@pavefi.com,S2,Security
 pavefi.com,abuse@pavefi.com,S3,Abuse / trust / safety
 paymob.com,dmarc@paymob.com,Sx-c,DMARC reporting
 payouts.com,abuse@payouts.com,S3,Abuse / trust / safety
+paypal.com,ppbugbounty@paypal.com,S0,Bug bounty / VDP
 paypal.com,phishing@paypal.com,S3,Abuse / trust / safety
 paypal.com,skrprivacy@paypal.com,S4,Privacy / DPO / GDPR
-paypal.com,ppbugbounty@paypal.com,S0,Bug bounty / VDP
 paytrail.com,kumppanit@paytrail.com,Sx-b,Single-word local
 paywall.one,abuse@paywall.one,S3,Abuse / trust / safety
 paywall.one,help@paywall.one,S8,Support / help
@@ -2427,20 +2054,17 @@ peakmetrics.com,security@peakmetrics.com,S2,Security
 peakmetrics.com,abuse@peakmetrics.com,S3,Abuse / trust / safety
 peakmetrics.com,support@peakmetrics.com,S8,Support / help
 peakmetrics.com,privacy@peakmetrics.com,S4,Privacy / DPO / GDPR
-peakmetrics.com,legal@peakmetrics.com,S5,Legal / compliance
 pearl.com,bizdev@pearl.com,Sx-b,Single-word local
 pearldiver.io,support@pearldiver.io,S8,Support / help
 pearldiver.io,hello@pearldiver.io,S9,Generic info / contact
 pelcro.com,security@pelcro.com,S2,Security
 pelcro.com,abuse@pelcro.com,S3,Abuse / trust / safety
 pelcro.com,support@pelcro.com,S8,Support / help
-pelcro.com,legal@pelcro.com,S5,Legal / compliance
 people.ai,security@people.ai,S2,Security
 people.ai,support@people.ai,S8,Support / help
 people.ai,privacy@people.ai,S4,Privacy / DPO / GDPR
 peq.ai,abuse@peq.ai,S3,Abuse / trust / safety
 peq.ai,info@peq.ai,S9,Generic info / contact
-peq.ai,google@peq.ai,Sx-b,Single-word local
 perdoo.com,security@perdoo.com,S2,Security
 perdoo.com,abuse@perdoo.com,S3,Abuse / trust / safety
 perdoo.com,support@perdoo.com,S8,Support / help
@@ -2460,7 +2084,6 @@ pinegap.ai,privacy@pinegap.ai,S4,Privacy / DPO / GDPR
 pipe17.com,security@pipe17.com,S2,Security
 pipe17.com,contact@pipe17.com,S9,Generic info / contact
 pipe17.com,info@pipe17.com,S9,Generic info / contact
-pipe17.com,notices@pipe17.com,Sx-b,Single-word local
 piperai.com,security@piperai.com,S2,Security
 piperai.com,abuse@piperai.com,S3,Abuse / trust / safety
 pixa.com,support@pixa.com,S8,Support / help
@@ -2474,8 +2097,6 @@ plaud.ai,support@plaud.ai,S8,Support / help
 plaud.ai,privacyjp@plaud.ai,S4,Privacy / DPO / GDPR
 plotline.so,security@plotline.so,S2,Security
 plotline.so,abuse@plotline.so,S3,Abuse / trust / safety
-plotline.so,adarsh@plotline.so,Sx-b,Single-word local
-plotline.so,erik@plotline.so,Sx-b,Single-word local
 pocketsmith.com,postmaster@pocketsmith.com,S7,Admin / postmaster
 podio.com,security@podio.com,S2,Security
 podio.com,abuse@podio.com,S3,Abuse / trust / safety
@@ -2492,9 +2113,7 @@ pop.in,help@pop.in,S8,Support / help
 pop.in,hello@pop.in,S9,Generic info / contact
 pop.in,privacy@pop.in,S4,Privacy / DPO / GDPR
 portao3.com.br,abuse@portao3.com.br,S3,Abuse / trust / safety
-portao3.com.br,ouvidoria@portao3.com.br,Sx-b,Single-word local
 portkey.ai,abuse@portkey.ai,S3,Abuse / trust / safety
-portkey.ai,mailmaster@portkey.ai,Sx-b,Single-word local
 postman.com,security@postman.com,S2,Security
 postman.com,info-jp@postman.com,S9,Generic info / contact
 postman.com,info@postman.com,S9,Generic info / contact
@@ -2505,25 +2124,19 @@ powersupportpartners.com,dmarc-reports@powersupportpartners.com,Sx-c,DMARC repor
 powtoon.com,support@powtoon.com,S8,Support / help
 pragma.com.co,security@pragma.com.co,S2,Security
 pragma.com.co,abuse@pragma.com.co,S3,Abuse / trust / safety
-pragma.com.co,administrador@pragma.com.co,Sx-d,Other / mixed
 praiz.io,dpo@praiz.io,S4,Privacy / DPO / GDPR
 pramata.com,abuse@pramata.com,S3,Abuse / trust / safety
-pramata.com,demarc-failure-reports@pramata.com,Sx-d,Other / mixed
 praxi.io,abuse@praxi.io,S3,Abuse / trust / safety
-praxi.io,jameskinda@praxi.io,Sx-b,Single-word local
 predactiv.com,security@predactiv.com,S2,Security
 predactiv.com,abuse@predactiv.com,S3,Abuse / trust / safety
 predactiv.com,dpo@predactiv.com,S4,Privacy / DPO / GDPR
 predactiv.com,privacy@predactiv.com,S4,Privacy / DPO / GDPR
-predactiv.com,epresentative@predactiv.com,S10,Sales / marketing / press
-predactiv.com,mailtorepresentative@predactiv.com,S10,Sales / marketing / press
 predicthq.com,security@predicthq.com,S2,Security
 predicthq.com,abuse@predicthq.com,S3,Abuse / trust / safety
 predictiveindex.com,privacy@predictiveindex.com,S4,Privacy / DPO / GDPR
 prepared.app,info@prepared.app,S9,Generic info / contact
 preppr.ai,abuse@preppr.ai,S3,Abuse / trust / safety
 preppr.ai,connect@preppr.ai,S9,Generic info / contact
-preppr.ai,dr@preppr.ai,Sx-b,Single-word local
 prescriberpoint.com,support@prescriberpoint.com,S8,Support / help
 prescriberpoint.com,privacy@prescriberpoint.com,S4,Privacy / DPO / GDPR
 presien.com,info@presien.com,S9,Generic info / contact
@@ -2541,12 +2154,6 @@ print.com,contact@print.com,S9,Generic info / contact
 print.com,hello@print.com,S9,Generic info / contact
 print.com,hola@print.com,S9,Generic info / contact
 print.com,info@print.com,S9,Generic info / contact
-print.com,be@print.com,Sx-b,Single-word local
-print.com,crew@print.com,Sx-b,Single-word local
-print.com,servus@print.com,Sx-b,Single-word local
-print.com,velkommen@print.com,Sx-b,Single-word local
-print.com,welkom@print.com,Sx-b,Single-word local
-print.com,willkommen@print.com,Sx-b,Single-word local
 prisma.io,security@prisma.io,S2,Security
 prismatic.io,security@prismatic.io,S2,Security
 prismic.io,security@prismic.io,S2,Security
@@ -2557,7 +2164,6 @@ prixuserp.com,contacto@prixuserp.com,S9,Generic info / contact
 prizm-energy.com,info@prizm-energy.com,S9,Generic info / contact
 product.ai,contact@product.ai,S9,Generic info / contact
 productive.io,contact@productive.io,S9,Generic info / contact
-productive.io,legal@productive.io,S5,Legal / compliance
 prohotel-edv.de,do-not-reply@prohotel-edv.de,Sx-d,Other / mixed
 projectcor.com,abuse@projectcor.com,S3,Abuse / trust / safety
 projectcor.com,help@projectcor.com,S8,Support / help
@@ -2573,7 +2179,6 @@ prompt.security,contact@prompt.security,S9,Generic info / contact
 prontohq.com,abuse@prontohq.com,S3,Abuse / trust / safety
 prontohq.com,hey@prontohq.com,S9,Generic info / contact
 prontopago.com.ar,abuse@prontopago.com.ar,S3,Abuse / trust / safety
-prontopago.com.ar,rclausen@prontopago.com.ar,Sx-b,Single-word local
 propeller.co.uk,security@propeller.co.uk,S2,Security
 propeller.co.uk,abuse@propeller.co.uk,S3,Abuse / trust / safety
 propeller.co.uk,info@propeller.co.uk,S9,Generic info / contact
@@ -2583,7 +2188,6 @@ proposify.com,privacy@proposify.com,S4,Privacy / DPO / GDPR
 propper.ai,security@propper.ai,S2,Security
 propper.ai,support@propper.ai,S8,Support / help
 propup.at,abuse@propup.at,S3,Abuse / trust / safety
-propup.at,do-not-reply@propup.at,Sx-d,Other / mixed
 propush.me,abuse@propush.me,S3,Abuse / trust / safety
 propush.me,support@propush.me,S8,Support / help
 propush.me,dpo@propush.me,S4,Privacy / DPO / GDPR
@@ -2592,16 +2196,12 @@ prosaic.works,hello@prosaic.works,S9,Generic info / contact
 prospeo.io,security@prospeo.io,S2,Security
 prospeo.io,abuse@prospeo.io,S3,Abuse / trust / safety
 prscnt.com,abuse@prscnt.com,S3,Abuse / trust / safety
-prscnt.com,chris@prscnt.com,Sx-b,Single-word local
 prxyco.com,support@prxyco.com,S8,Support / help
 public.com,security@public.com,S2,Security
 public.com,support@public.com,S8,Support / help
 pubnub.com,privacy@pubnub.com,S4,Privacy / DPO / GDPR
-pubnub.com,itemldb@pubnub.com,Sx-b,Single-word local
 pucara.io,security@pucara.io,S2,Security
 pucara.io,info@pucara.io,S9,Generic info / contact
-pucara.io,legal@pucara.io,S5,Legal / compliance
-pucara.io,usa@pucara.io,Sx-b,Single-word local
 pulsegen.io,abuse@pulsegen.io,S3,Abuse / trust / safety
 pulsegen.io,contact@pulsegen.io,S9,Generic info / contact
 pulseintelligence.com,abuse@pulseintelligence.com,S3,Abuse / trust / safety
@@ -2610,7 +2210,6 @@ pursuit.amsterdam,abuse@pursuit.amsterdam,S3,Abuse / trust / safety
 pursuit.amsterdam,info@pursuit.amsterdam,S9,Generic info / contact
 pursuit.amsterdam,team@pursuit.amsterdam,S9,Generic info / contact
 pxdata.ai,abuse@pxdata.ai,S3,Abuse / trust / safety
-pxdata.ai,contato@pxdata.ai,Sx-b,Single-word local
 qlerify.com,security@qlerify.com,S2,Security
 qlerify.com,abuse@qlerify.com,S3,Abuse / trust / safety
 qlerify.com,support@qlerify.com,S8,Support / help
@@ -2637,17 +2236,13 @@ quid.com,info@quid.com,S9,Generic info / contact
 quinn-ai.com,abuse@quinn-ai.com,S3,Abuse / trust / safety
 quiverquant.com,abuse@quiverquant.com,S3,Abuse / trust / safety
 quiverquant.com,info@quiverquant.com,S9,Generic info / contact
-quiverquant.com,james@quiverquant.com,Sx-b,Single-word local
 quivly.ai,security@quivly.ai,S2,Security
 quivly.ai,abuse@quivly.ai,S3,Abuse / trust / safety
 quivly.ai,hello@quivly.ai,S9,Generic info / contact
 quivly.ai,privacy@quivly.ai,S4,Privacy / DPO / GDPR
 quotech.io,info@quotech.io,S9,Generic info / contact
-quotech.io,compliance@quotech.io,S5,Legal / compliance
-quotech.io,guillaume@quotech.io,Sx-b,Single-word local
 quradata.com,abuse@quradata.com,S3,Abuse / trust / safety
 quradata.com,team@quradata.com,S9,Generic info / contact
-quradata.com,kevin@quradata.com,Sx-b,Single-word local
 rach.io,abuse@rach.io,S3,Abuse / trust / safety
 raindrop.ai,security@raindrop.ai,S2,Security
 raindrop.ai,abuse@raindrop.ai,S3,Abuse / trust / safety
@@ -2662,30 +2257,27 @@ rapidflare.ai,abuse@rapidflare.ai,S3,Abuse / trust / safety
 rapidflare.ai,support@rapidflare.ai,S8,Support / help
 rapidflare.ai,hello@rapidflare.ai,S9,Generic info / contact
 rapido.co.nz,support@rapido.co.nz,S8,Support / help
-rapido.co.nz,adam@rapido.co.nz,Sx-b,Single-word local
 raylu.ai,abuse@raylu.ai,S3,Abuse / trust / safety
 rayyan.ai,support@rayyan.ai,S8,Support / help
 rayyan.ai,info@rayyan.ai,S9,Generic info / contact
 razorpay.com,disclosures@razorpay.com,S0,Bug bounty / VDP
 razorpay.com,security_private@razorpay.com,S2,Security
-razorpay.com,dpo@razorpay.com,S4,Privacy / DPO / GDPR
-razorpay.com,compliance@razorpay.com,S5,Legal / compliance
 razorpay.com,security@razorpay.com,S2,Security
+razorpay.com,dpo@razorpay.com,S4,Privacy / DPO / GDPR
 realtimelca.com,support@realtimelca.com,S8,Support / help
 reap.global,support@reap.global,S8,Support / help
 rebike.com,webmaster@rebike.com,S7,Admin / postmaster
 receiptor.ai,abuse@receiptor.ai,S3,Abuse / trust / safety
 receiptor.ai,info@receiptor.ai,S9,Generic info / contact
+reclaim.ai,infosec@reclaim.ai,S1,PSIRT / CERT / SOC
 reclaim.ai,hello@reclaim.ai,S9,Generic info / contact
 reclaim.ai,privacy@reclaim.ai,S4,Privacy / DPO / GDPR
-reclaim.ai,infosec@reclaim.ai,S1,PSIRT / CERT / SOC
 recordedfuture.com,security@recordedfuture.com,S2,Security
 recruitu.com,abuse@recruitu.com,S3,Abuse / trust / safety
 recruitu.com,support@recruitu.com,S8,Support / help
-recurly.com,emeasales@recurly.com,S10,Sales / marketing / press
 recurly.com,security-support@recurly.com,S1,PSIRT / CERT / SOC
-recurly.com,support@recurly.com,S8,Support / help
 recurly.com,security@recurly.com,S2,Security
+recurly.com,support@recurly.com,S8,Support / help
 redbuttonedu.cz,info@redbuttonedu.cz,S9,Generic info / contact
 reeporter.ai,dmarc-reports@reeporter.ai,Sx-c,DMARC reporting
 reevo.ai,security@reevo.ai,S2,Security
@@ -2693,18 +2285,14 @@ reevo.ai,abuse@reevo.ai,S3,Abuse / trust / safety
 reevo.ai,support@reevo.ai,S8,Support / help
 referralcandy.com,security@referralcandy.com,S2,Security
 referralcandy.com,support@referralcandy.com,S8,Support / help
-referralcandy.com,compliance@referralcandy.com,S5,Legal / compliance
 reg-genome.com,security@reg-genome.com,S2,Security
 reg-genome.com,info@reg-genome.com,S9,Generic info / contact
-reg-genome.com,product@reg-genome.com,S10,Sales / marketing / press
 relay.app,security@relay.app,S2,Security
 relay.app,support+website@relay.app,S8,Support / help
 relay.app,support@relay.app,S8,Support / help
-relay.app,notices@relay.app,Sx-b,Single-word local
 relevanceai.com,security@relevanceai.com,S2,Security
 relevanceai.com,abuse@relevanceai.com,S3,Abuse / trust / safety
 relpro.com,info@relpro.com,S9,Generic info / contact
-relpro.com,rrajmangal@relpro.com,Sx-b,Single-word local
 relynk.io,abuse@relynk.io,S3,Abuse / trust / safety
 remote.com,security@remote.com,S2,Security
 remote.com,api-support@remote.com,S8,Support / help
@@ -2713,11 +2301,9 @@ remote.com,sre-team@remote.com,S9,Generic info / contact
 reo.dev,support@reo.dev,S8,Support / help
 reo.dev,contact@reo.dev,S9,Generic info / contact
 reo.dev,dataprivacy@reo.dev,S4,Privacy / DPO / GDPR
-reo.dev,legal@reo.dev,S5,Legal / compliance
 replicate.com,security@replicate.com,S2,Security
 replicate.com,abuse@replicate.com,S3,Abuse / trust / safety
 replicate.com,privacy@replicate.com,S4,Privacy / DPO / GDPR
-replicate.com,legal@replicate.com,S5,Legal / compliance
 reshapex.com,security@reshapex.com,S2,Security
 reshapex.com,abuse@reshapex.com,S3,Abuse / trust / safety
 respan.ai,security@respan.ai,S2,Security
@@ -2726,7 +2312,6 @@ respan.ai,support@respan.ai,S8,Support / help
 respan.ai,team@respan.ai,S9,Generic info / contact
 rest.com,abuse@rest.com,S3,Abuse / trust / safety
 rest.com,hello@rest.com,S9,Generic info / contact
-rest.com,wholesale@rest.com,Sx-b,Single-word local
 restream.io,security@restream.io,S2,Security
 restream.io,abuse@restream.io,S3,Abuse / trust / safety
 restream.io,support@restream.io,S8,Support / help
@@ -2738,7 +2323,6 @@ reteno.com,privacy@reteno.com,S4,Privacy / DPO / GDPR
 reversinglabs.com,security@reversinglabs.com,S2,Security
 reversinglabs.com,abuse@reversinglabs.com,S3,Abuse / trust / safety
 reversinglabs.com,support@reversinglabs.com,S8,Support / help
-reversinglabs.com,corporate@reversinglabs.com,Sx-b,Single-word local
 revisiondojo.com,security@revisiondojo.com,S2,Security
 revisiondojo.com,abuse@revisiondojo.com,S3,Abuse / trust / safety
 revisiondojo.com,hello@revisiondojo.com,S9,Generic info / contact
@@ -2753,27 +2337,23 @@ richpanel.com,security@richpanel.com,S2,Security
 richpanel.com,abuse@richpanel.com,S3,Abuse / trust / safety
 richpanel.com,dpo@richpanel.com,S4,Privacy / DPO / GDPR
 richpanel.com,privacy@richpanel.com,S4,Privacy / DPO / GDPR
-richpanel.com,devops@richpanel.com,S7,Admin / postmaster
 ringotel.com,support@ringotel.com,S8,Support / help
 risepeople.com,security@risepeople.com,S2,Security
 risepeople.com,abuse@risepeople.com,S3,Abuse / trust / safety
 risepeople.com,info@risepeople.com,S9,Generic info / contact
 rivio.com.br,abuse@rivio.com.br,S3,Abuse / trust / safety
+roboflow.com,security@roboflow.com,S2,Security
 roboflow.com,help@roboflow.com,S8,Support / help
 roboflow.com,support@roboflow.com,S8,Support / help
-roboflow.com,legal@roboflow.com,S5,Legal / compliance
-roboflow.com,security@roboflow.com,S2,Security
 rocketlane.com,security@rocketlane.com,S2,Security
 rocketlane.com,abuse@rocketlane.com,S3,Abuse / trust / safety
 rocketlane.com,care@rocketlane.com,S8,Support / help
-rocketlane.com,bimi@rocketlane.com,Sx-b,Single-word local
 rockhopper.co,abuse@rockhopper.co,S3,Abuse / trust / safety
 rockhopper.co,support@rockhopper.co,S8,Support / help
 roihunter.com,info@roihunter.com,S9,Generic info / contact
 rolli.ai,security@rolli.ai,S2,Security
 rolli.ai,hello@rolli.ai,S9,Generic info / contact
 rolli.ai,privacy@rolli.ai,S4,Privacy / DPO / GDPR
-rolli.ai,legal@rolli.ai,S5,Legal / compliance
 roomme.id,dmarc@roomme.id,Sx-c,DMARC reporting
 rootly.com,security@rootly.com,S2,Security
 roundhr.com,abuse@roundhr.com,S3,Abuse / trust / safety
@@ -2784,24 +2364,13 @@ rowads.studio,abuse@rowads.studio,S3,Abuse / trust / safety
 rowzero.com,security@rowzero.com,S2,Security
 rowzero.com,abuse@rowzero.com,S3,Abuse / trust / safety
 rubix.nz,teamcomputing@rubix.nz,S9,Generic info / contact
-rubix.nz,auckland@rubix.nz,Sx-b,Single-word local
-rubix.nz,christchurch@rubix.nz,Sx-b,Single-word local
-rubix.nz,hamilton@rubix.nz,Sx-b,Single-word local
-rubix.nz,kerikeri@rubix.nz,Sx-b,Single-word local
-rubix.nz,northland@rubix.nz,Sx-b,Single-word local
-rubix.nz,queenstown@rubix.nz,Sx-b,Single-word local
-rubix.nz,tauranga@rubix.nz,Sx-b,Single-word local
-rubix.nz,wanaka@rubix.nz,Sx-b,Single-word local
-rubix.nz,wellington@rubix.nz,Sx-b,Single-word local
 rudderstack.com,security@rudderstack.com,S2,Security
 rudderstack.com,abuse@rudderstack.com,S3,Abuse / trust / safety
 rudderstack.com,support@rudderstack.com,S8,Support / help
 rudderstack.com,privacy@rudderstack.com,S4,Privacy / DPO / GDPR
-rudderstack.com,infra@rudderstack.com,Sx-b,Single-word local
 runrehearsals.com,security@runrehearsals.com,S2,Security
 runrehearsals.com,abuse@runrehearsals.com,S3,Abuse / trust / safety
 runrehearsals.com,hello@runrehearsals.com,S9,Generic info / contact
-runrehearsals.com,legal@runrehearsals.com,S5,Legal / compliance
 runway.team,security@runway.team,S2,Security
 runway.team,support@runway.team,S8,Support / help
 runway.team,hello@runway.team,S9,Generic info / contact
@@ -2809,9 +2378,6 @@ runwayml.com,security@runwayml.com,S2,Security
 runwayml.com,abuse@runwayml.com,S3,Abuse / trust / safety
 rupeezy.in,support@rupeezy.in,S8,Support / help
 rupeezy.in,contact@rupeezy.in,S9,Generic info / contact
-rupeezy.in,grievance@rupeezy.in,Sx-b,Single-word local
-rupeezy.in,gyanesh@rupeezy.in,Sx-b,Single-word local
-rupeezy.in,stoptrade@rupeezy.in,Sx-b,Single-word local
 rushdb.com,hi@rushdb.com,S9,Generic info / contact
 rye.com,security@rye.com,S2,Security
 ryestrategy.com,abuse@ryestrategy.com,S3,Abuse / trust / safety
@@ -2820,7 +2386,6 @@ sabre.com,security@sabre.com,S2,Security
 sabre.com,administrative.contact@sabre.com,S9,Generic info / contact
 sacavalcante.com.br,dmarc@sacavalcante.com.br,Sx-c,DMARC reporting
 sadagaat-usa.org,abuse@sadagaat-usa.org,S3,Abuse / trust / safety
-sadagaat-usa.org,sadagaat@sadagaat-usa.org,Sx-b,Single-word local
 safetyculture.com,security@safetyculture.com,S2,Security
 safetyculture.com,support@safetyculture.com,S8,Support / help
 safetyculture.com,privacy@safetyculture.com,S4,Privacy / DPO / GDPR
@@ -2828,19 +2393,15 @@ saidot.ai,security@saidot.ai,S2,Security
 saidot.ai,customersupport@saidot.ai,S8,Support / help
 saidot.ai,hello@saidot.ai,S9,Generic info / contact
 saidot.ai,info@saidot.ai,S9,Generic info / contact
-saidot.ai,legal@saidot.ai,S5,Legal / compliance
 sales-mind.ai,privacy@sales-mind.ai,S4,Privacy / DPO / GDPR
 saleshandy.com,security@saleshandy.com,S2,Security
 saleshandy.com,abuse@saleshandy.com,S3,Abuse / trust / safety
 saleshandy.com,help@saleshandy.com,S8,Support / help
 saleshandy.com,privacy@saleshandy.com,S4,Privacy / DPO / GDPR
-saleshandy.com,contribute@saleshandy.com,Sx-b,Single-word local
-saleshandy.com,dpa@saleshandy.com,Sx-b,Single-word local
 saleslayer.com,security@saleslayer.com,S2,Security
 saleslayer.com,securityalerts@saleslayer.com,S2,Security
 saleslayer.com,abuse@saleslayer.com,S3,Abuse / trust / safety
 saleslayer.com,info@saleslayer.com,S9,Generic info / contact
-salesloft.com,compliance+dmarc@salesloft.com,S5,Legal / compliance
 salesloft.com,vdp@salesloft.com,S0,Bug bounty / VDP
 salesmanago.com,security-team@salesmanago.com,S2,Security
 samaya.ai,abuse@samaya.ai,S3,Abuse / trust / safety
@@ -2850,7 +2411,6 @@ sanity.io,dpo@sanity.io,S4,Privacy / DPO / GDPR
 sanka.com,hey@sanka.com,S9,Generic info / contact
 satellitesonfire.com,abuse@satellitesonfire.com,S3,Abuse / trust / safety
 savecall.de,kontakt@savecall.de,S9,Generic info / contact
-savecall.de,bookingsstcvertrieb@savecall.de,Sx-d,Other / mixed
 sawmills.ai,security@sawmills.ai,S2,Security
 sawmills.ai,abuse@sawmills.ai,S3,Abuse / trust / safety
 saxum.com,info@saxum.com,S9,Generic info / contact
@@ -2873,7 +2433,6 @@ scienceexchange.com,privacy@scienceexchange.com,S4,Privacy / DPO / GDPR
 scienceofpeople.com,abuse@scienceofpeople.com,S3,Abuse / trust / safety
 scienceofpeople.com,support@scienceofpeople.com,S8,Support / help
 scientist.com,support@scientist.com,S8,Support / help
-scientist.com,suppliers@scientist.com,Sx-b,Single-word local
 scispot.io,security@scispot.io,S2,Security
 scispot.io,abuse@scispot.io,S3,Abuse / trust / safety
 scorecard.io,security@scorecard.io,S2,Security
@@ -2885,12 +2444,10 @@ scriptsave.com,customercare@scriptsave.com,S8,Support / help
 scriptsave.com,privacy@scriptsave.com,S4,Privacy / DPO / GDPR
 scvsoft.com,abuse@scvsoft.com,S3,Abuse / trust / safety
 seam.co,security@seam.co,S2,Security
-seam.co,legal@seam.co,S5,Legal / compliance
 seamless.ai,security@seamlessai.com,S2,Security
 searchatlas.com,security@searchatlas.com,S2,Security
 searchatlas.com,support@searchatlas.com,S8,Support / help
 searchatlas.com,privacy@searchatlas.com,S4,Privacy / DPO / GDPR
-searchatlas.com,legal@searchatlas.com,S5,Legal / compliance
 searchinfluence.com,info@searchinfluence.com,S9,Generic info / contact
 searchinfluence.com,info@www.searchinfluence.com,S9,Generic info / contact
 searchunify.com,info@searchunify.com,S9,Generic info / contact
@@ -2899,7 +2456,6 @@ sectionai.com,abuse@sectionai.com,S3,Abuse / trust / safety
 sectionai.com,info@sectionai.com,S9,Generic info / contact
 securin.io,abuse@securin.io,S3,Abuse / trust / safety
 securin.io,info@securin.io,S9,Generic info / contact
-securin.io,itadmin@securin.io,Sx-b,Single-word local
 seerinteractive.com,dmarc@seerinteractive.com,Sx-c,DMARC reporting
 segmentstream.com,security@segmentstream.com,S2,Security
 segmentstream.com,abuse@segmentstream.com,S3,Abuse / trust / safety
@@ -2912,7 +2468,6 @@ sellerx.com,info@sellerx.com,S9,Generic info / contact
 sellthru.me,abuse@sellthru.me,S3,Abuse / trust / safety
 sellthru.me,info@sellthru.me,S9,Generic info / contact
 seltz.ai,support@seltz.ai,S8,Support / help
-seltz.ai,email@seltz.ai,Sx-b,Single-word local
 semactic.com,celine.naveau@semactic.com,Sx-a,Real-person name
 sendpulse.com,support@sendpulse.com,S8,Support / help
 sendsquared.com,hello@sendsquared.com,S9,Generic info / contact
@@ -2928,7 +2483,6 @@ seon.io,info@seon.io,S9,Generic info / contact
 seqera.io,security@seqera.io,S2,Security
 serpstat.com,k.hordiienko@serpstat.com,Sx-d,Other / mixed
 sesametime.com,soporte@sesametime.com,S8,Support / help
-sesametime.com,legal@sesametime.com,S5,Legal / compliance
 sessionboard.com,support@sessionboard.com,S8,Support / help
 seven.io,support@seven.io,S8,Support / help
 seyna.eu,security@seyna.eu,S2,Security
@@ -2946,8 +2500,6 @@ shapes.co,support@shapes.co,S8,Support / help
 sharethis.com,support@sharethis.com,S8,Support / help
 sharethis.com,dpo@sharethis.com,S4,Privacy / DPO / GDPR
 sharethis.com,privacy@sharethis.com,S4,Privacy / DPO / GDPR
-sharethis.com,representative@sharethis.com,S10,Sales / marketing / press
-sharethis.com,access@sharethis.com,Sx-b,Single-word local
 shiftcare.com,security@shiftcare.com,S2,Security
 shiftcare.com,abuse@shiftcare.com,S3,Abuse / trust / safety
 shinhansec.com.vn,hostmaster@shinhansec.com.vn,S7,Admin / postmaster
@@ -2956,13 +2508,11 @@ shinkansen.finance,abuse@shinkansen.finance,S3,Abuse / trust / safety
 shipsaving.com,abuse@shipsaving.com,S3,Abuse / trust / safety
 shipsaving.com,support@shipsaving.com,S8,Support / help
 shipsaving.com,info@shipsaving.com,S9,Generic info / contact
-shipsaving.com,claims@shipsaving.com,Sx-b,Single-word local
 shirtee.cloud,bugs@shirtee.cloud,S0,Bug bounty / VDP
 shoott.com,info@shoott.com,S9,Generic info / contact
 shoptrade.co,abuse@shoptrade.co,S3,Abuse / trust / safety
 shoptrade.co,hello@shoptrade.co,S9,Generic info / contact
 shorta.com,abuse@shorta.com,S3,Abuse / trust / safety
-shorta.com,legal@shorta.com,S5,Legal / compliance
 shortcut.com,security@shortcut.com,S2,Security
 shortcut.com,abuse@shortcut.com,S3,Abuse / trust / safety
 shortcut.com,support@shortcut.com,S8,Support / help
@@ -2971,7 +2521,6 @@ shortcut.com,privacy@shortcut.com,S4,Privacy / DPO / GDPR
 shotstack.io,support@shotstack.io,S8,Support / help
 siena.cx,security@siena.cx,S2,Security
 siena.cx,abuse@siena.cx,S3,Abuse / trust / safety
-siena.cx,lisa@siena.cx,Sx-b,Single-word local
 sigma.software,info@sigma.software,S9,Generic info / contact
 signal-ai.com,security@signal-ai.com,S2,Security
 signal-ai.com,abuse@signal-ai.com,S3,Abuse / trust / safety
@@ -2981,34 +2530,27 @@ similar.ai,abuse@similar.ai,S3,Abuse / trust / safety
 similar.ai,hello@similar.ai,S9,Generic info / contact
 similar.ai,privacy@similar.ai,S4,Privacy / DPO / GDPR
 similarweb.com,support@similarweb.com,S8,Support / help
-similarweb.com,copyright@similarweb.com,S5,Legal / compliance
-similarweb.com,legal@similarweb.com,S5,Legal / compliance
 simplero.com,abuse@simplero.com,S3,Abuse / trust / safety
 simplero.com,support@simplero.com,S8,Support / help
 singular.net,security@singular.net,S2,Security
 singular.net,abuse@singular.net,S3,Abuse / trust / safety
 singular.net,privacy@singular.net,S4,Privacy / DPO / GDPR
-singular.net,eran@singular.net,Sx-b,Single-word local
 sitebrunch.com,croissant@sitebrunch.com,S9,Generic info / contact
 sitebrunch.com,kontakt@sitebrunch.com,S9,Generic info / contact
 siteline.ai,abuse@siteline.ai,S3,Abuse / trust / safety
 sitewise.com,security@sitewise.com,S2,Security
 sitewise.com,info@sitewise.com,S9,Generic info / contact
 sixtyfour.ai,abuse@sixtyfour.ai,S3,Abuse / trust / safety
-sixtyfour.ai,chrisprice@sixtyfour.ai,S10,Sales / marketing / press
 skillberg.app,abuse@skillberg.app,S3,Abuse / trust / safety
 skillberg.app,contact@skillberg.app,S9,Generic info / contact
 skillground.com,abuse@skillground.com,S3,Abuse / trust / safety
 skillground.com,hello@skillground.com,S9,Generic info / contact
 skilljar.com,security@skilljar.com,S2,Security
 skilljar.com,abuse@skilljar.com,S3,Abuse / trust / safety
-skilljar.com,legal@skilljar.com,S5,Legal / compliance
-skilljar.com,sec_reporting@skilljar.com,Sx-a,Real-person name
 slashpage.com,abuse@slashpage.com,S3,Abuse / trust / safety
 slateteams.com,abuse@slateteams.com,S3,Abuse / trust / safety
 slateteams.com,support@slateteams.com,S8,Support / help
 slateteams.com,hello@slateteams.com,S9,Generic info / contact
-slateteams.com,will@slateteams.com,Sx-b,Single-word local
 sleekplan.com,support@sleekplan.com,S8,Support / help
 slidespeak.co,abuse@slidespeak.co,S3,Abuse / trust / safety
 slidespeak.co,privacy@slidespeak.co,S4,Privacy / DPO / GDPR
@@ -3035,7 +2577,6 @@ socialpilot.co,privacy@socialpilot.co,S4,Privacy / DPO / GDPR
 socialpruf.com,abuse@socialpruf.com,S3,Abuse / trust / safety
 socialtip.io,abuse@socialtip.io,S3,Abuse / trust / safety
 socialtip.io,hello@socialtip.io,S9,Generic info / contact
-socialtip.io,brands@socialtip.io,Sx-b,Single-word local
 socket.dev,security@socket.dev,S2,Security
 soclecollections.com,abuse@soclecollections.com,S3,Abuse / trust / safety
 soclecollections.com,contact@soclecollections.com,S9,Generic info / contact
@@ -3045,11 +2586,6 @@ sonraisecurity.com,abuse@sonraisecurity.com,S3,Abuse / trust / safety
 sonraisecurity.com,info@sonraisecurity.com,S9,Generic info / contact
 sopro.io,abuse@sopro.io,S3,Abuse / trust / safety
 sopro.io,dpo@sopro.io,S4,Privacy / DPO / GDPR
-sopro.io,monika@sopro.io,Sx-b,Single-word local
-sopro.io,monikap@sopro.io,Sx-b,Single-word local
-sopro.io,rob@sopro.io,Sx-b,Single-word local
-sopro.io,ryan@sopro.io,Sx-b,Single-word local
-sopro.io,steve@sopro.io,Sx-b,Single-word local
 sosovalue.com,security@sosovalue.com,S2,Security
 soundcharts.com,abuse@soundcharts.com,S3,Abuse / trust / safety
 soundcharts.com,contact@soundcharts.com,S9,Generic info / contact
@@ -3064,7 +2600,6 @@ spaik.io,info@spaik.io,S9,Generic info / contact
 spaik.io,thijs@spaik.io,S9,Generic info / contact
 sparkloop.app,abuse@sparkloop.app,S3,Abuse / trust / safety
 sparkloop.app,support@sparkloop.app,S8,Support / help
-sparkloop.app,legal@sparkloop.app,S5,Legal / compliance
 sparktoro.com,security@sparktoro.com,S2,Security
 sparktoro.com,abuse@sparktoro.com,S3,Abuse / trust / safety
 sparktoro.com,support@sparktoro.com,S8,Support / help
@@ -3084,7 +2619,6 @@ sphereinsight.com,support@sphereinsight.com,S8,Support / help
 sphereinsight.com,hi@sphereinsight.com,S9,Generic info / contact
 spike.digital,abuse@spike.digital,S3,Abuse / trust / safety
 spike.digital,hello@spike.digital,S9,Generic info / contact
-spike.digital,rob@spike.digital,Sx-b,Single-word local
 spinach.ai,security@spinach.ai,S2,Security
 spinach.ai,support@spinach.ai,S8,Support / help
 spinify.com,security@spinify.com,S2,Security
@@ -3094,7 +2628,6 @@ spinify.com,info@spinify.com,S9,Generic info / contact
 spoonity.com,support@spoonity.com,S8,Support / help
 spot.ai,abuse@spot.ai,S3,Abuse / trust / safety
 spott.io,info@spott.io,S9,Generic info / contact
-spott.io,legal@spott.io,S5,Legal / compliance
 spredo.io,gm@spredo.io,Sx-b,Single-word local
 sprig.com,dmarc@sprig.com,Sx-c,DMARC reporting
 springbokproperties.co.uk,abuse@springbokproperties.co.uk,S3,Abuse / trust / safety
@@ -3111,11 +2644,6 @@ sproutsocial.com,info@sproutsocial.com,S9,Generic info / contact
 sproutsocial.com,successteam@sproutsocial.com,S9,Generic info / contact
 sproutsocial.com,dpo@sproutsocial.com,S4,Privacy / DPO / GDPR
 sproutsocial.com,privacy@sproutsocial.com,S4,Privacy / DPO / GDPR
-sproutsocial.com,channelcompliance@sproutsocial.com,S5,Legal / compliance
-sproutsocial.com,legal@sproutsocial.com,S5,Legal / compliance
-sproutsocial.com,affiliates@sproutsocial.com,Sx-b,Single-word local
-sproutsocial.com,logo@sproutsocial.com,Sx-b,Single-word local
-sproutsocial.com,referrals@sproutsocial.com,Sx-b,Single-word local
 spycraft.co,abuse@spycraft.co,S3,Abuse / trust / safety
 spyne.app,privacy@spyne.app,S4,Privacy / DPO / GDPR
 squareup.com,herbert@squareup.com,Sx-b,Single-word local
@@ -3125,9 +2653,6 @@ stablewood.com,abuse@stablewood.com,S3,Abuse / trust / safety
 stackadapt.com,security@stackadapt.com,S2,Security
 stackadapt.com,abuse@stackadapt.com,S3,Abuse / trust / safety
 stackadapt.com,privacy@stackadapt.com,S4,Privacy / DPO / GDPR
-stackadapt.com,legal@stackadapt.com,S5,Legal / compliance
-stackadapt.com,data@stackadapt.com,Sx-b,Single-word local
-stackadapt.com,ssl@stackadapt.com,Sx-b,Single-word local
 stackby.com,security@stackby.com,S2,Security
 stackby.com,abuse@stackby.com,S3,Abuse / trust / safety
 stackby.com,support@stackby.com,S8,Support / help
@@ -3136,19 +2661,14 @@ stacklist.com,help@stacklist.com,S8,Support / help
 staer.ai,abuse@staer.ai,S3,Abuse / trust / safety
 standardmetrics.io,security@standardmetrics.io,S2,Security
 standardmetrics.io,abuse@standardmetrics.io,S3,Abuse / trust / safety
-standardmetrics.io,dmca@standardmetrics.io,S5,Legal / compliance
-standardmetrics.io,legal@standardmetrics.io,S5,Legal / compliance
 startaiming.com,dmarc@startaiming.com,Sx-c,DMARC reporting
 startdeliver.com,hello@startdeliver.com,S9,Generic info / contact
 stealthmole.com,sales@stealthmole.com,S10,Sales / marketing / press
 steep.app,security@steep.app,S2,Security
 steep.app,abuse@steep.app,S3,Abuse / trust / safety
 steep.app,hello@steep.app,S9,Generic info / contact
-steep.app,legal@steep.app,S5,Legal / compliance
 stena.com,abuse@stena.com,S3,Abuse / trust / safety
 stitchflow.io,contact@stitchflow.io,S9,Generic info / contact
-stitchflow.io,legal@stitchflow.io,S5,Legal / compliance
-stitchflow.io,subprocessors@stitchflow.io,S10,Sales / marketing / press
 storeganise.com,security@storeganise.com,S2,Security
 storeganise.com,abuse@storeganise.com,S3,Abuse / trust / safety
 storeganise.com,support@storeganise.com,S8,Support / help
@@ -3156,20 +2676,16 @@ storeganise.com,hello@storeganise.com,S9,Generic info / contact
 storehero.ai,abuse@storehero.ai,S3,Abuse / trust / safety
 storehero.ai,hello@storehero.ai,S9,Generic info / contact
 stormrecruit.com,info@stormrecruit.com,S9,Generic info / contact
-stormrecruit.com,jyurk@stormrecruit.com,Sx-b,Single-word local
 storydoc.com,security@storydoc.com,S2,Security
 storydoc.com,abuse@storydoc.com,S3,Abuse / trust / safety
-storydoc.com,danielm@storydoc.com,Sx-b,Single-word local
 straddle.com,support@straddle.com,S8,Support / help
 streamkap.com,security@streamkap.com,S2,Security
 streamkap.com,support@streamkap.com,S8,Support / help
 streamkap.com,privacy@streamkap.com,S4,Privacy / DPO / GDPR
-streamkap.com,ricky@streamkap.com,Sx-b,Single-word local
+stripe.com,security@stripe.com,S2,Security
 stripe.com,dpo@stripe.com,S4,Privacy / DPO / GDPR
 stripe.com,privacy@stripe.com,S4,Privacy / DPO / GDPR
-stripe.com,security@stripe.com,S2,Security
 strobes.co,hello@strobes.co,S9,Generic info / contact
-strobes.co,no-reply@strobes.co,Sx-a,Real-person name
 structured.app,support@structured.app,S8,Support / help
 studystash.com,security@studystash.com,S2,Security
 studystash.com,abuse@studystash.com,S3,Abuse / trust / safety
@@ -3196,8 +2712,6 @@ supergood.ai,privacy@supergood.ai,S4,Privacy / DPO / GDPR
 superme.ai,security@superme.ai,S2,Security
 superme.ai,abuse@superme.ai,S3,Abuse / trust / safety
 superme.ai,contact@superme.ai,S9,Generic info / contact
-superme.ai,anton@superme.ai,Sx-b,Single-word local
-superme.ai,notices@superme.ai,Sx-b,Single-word local
 supermetrics.com,security@supermetrics.com,S2,Security
 supernewsroom.ai,abuse@supernewsroom.ai,S3,Abuse / trust / safety
 supernova.ai,security@supernova.ai,S2,Security
@@ -3213,13 +2727,11 @@ supersend.io,support@supersend.io,S8,Support / help
 supertruth.ai,security@supertruth.ai,S2,Security
 supertruth.ai,abuse@supertruth.ai,S3,Abuse / trust / safety
 supertruth.ai,contact@supertruth.ai,S9,Generic info / contact
-supertruth.ai,jisla@supertruth.ai,Sx-b,Single-word local
 superwall.com,team@superwall.com,S9,Generic info / contact
 supplybrain.ai,dmarc@supplybrain.ai,Sx-c,DMARC reporting
 supportlogic.io,security@supportlogic.io,S2,Security
 supportlogic.io,abuse@supportlogic.io,S3,Abuse / trust / safety
 surveymonkey.com,abuse@surveymonkey.com,S3,Abuse / trust / safety
-surveymonkey.com,mailadmin@surveymonkey.com,Sx-b,Single-word local
 swaarm.com,privacy@swaarm.com,S4,Privacy / DPO / GDPR
 sweetanalytics.com,abuse@sweetanalytics.com,S3,Abuse / trust / safety
 sweetanalytics.com,hello@sweetanalytics.com,S9,Generic info / contact
@@ -3234,21 +2746,16 @@ symmetrical.ai,security@symmetrical.ai,S2,Security
 symmetrical.ai,abuse@symmetrical.ai,S3,Abuse / trust / safety
 sync.so,security@sync.so,S2,Security
 sync.so,abuse@sync.so,S3,Abuse / trust / safety
-sync.so,reports@sync.so,S6,Reports / feedback
-sync.so,forensic@sync.so,Sx-b,Single-word local
 syncari.com,security@syncari.com,S2,Security
 syncari.com,abuse@syncari.com,S3,Abuse / trust / safety
 synply.io,support@synply.io,S8,Support / help
-synply.io,brent@synply.io,Sx-b,Single-word local
 synq.io,security@synq.io,S2,Security
 synq.io,abuse@synq.io,S3,Abuse / trust / safety
 t54.ai,abuse@t54.ai,S3,Abuse / trust / safety
 tactiq.io,security@tactiq.io,S2,Security
 tactiq.io,abuse@tactiq.io,S3,Abuse / trust / safety
 tactiq.io,privacy@tactiq.io,S4,Privacy / DPO / GDPR
-tactiq.io,alex@tactiq.io,Sx-b,Single-word local
 taggify.net,abuse@taggify.net,S3,Abuse / trust / safety
-taggify.net,jchamizo@taggify.net,Sx-b,Single-word local
 taghub.net,abuse@taghub.net,S3,Abuse / trust / safety
 taikai.network,abuse@taikai.network,S3,Abuse / trust / safety
 taikai.network,hello@taikai.network,S9,Generic info / contact
@@ -3261,9 +2768,7 @@ talonic.com,dmarc@talonic.com,Sx-c,DMARC reporting
 talproindia.com,security@talproindia.com,S2,Security
 talproindia.com,abuse@talproindia.com,S3,Abuse / trust / safety
 talproindia.com,hello@talproindia.com,S9,Generic info / contact
-talproindia.com,legal@talproindia.com,S5,Legal / compliance
 tamarind.bio,info@tamarind.bio,S9,Generic info / contact
-tamarind.bio,sherry@tamarind.bio,Sx-b,Single-word local
 tandom.ai,hello@tandom.ai,S9,Generic info / contact
 targetboard.ai,security@targetboard.ai,S2,Security
 targetboard.ai,abuse@targetboard.ai,S3,Abuse / trust / safety
@@ -3274,9 +2779,7 @@ tavily.com,security@tavily.com,S2,Security
 tavily.com,support@tavily.com,S8,Support / help
 tax1099.com,support@tax1099.com,S8,Support / help
 taxdone.ch,contact@taxdone.ch,S9,Generic info / contact
-taxdone.ch,report@taxdone.ch,S6,Reports / feedback
 taxrise.com,info@taxrise.com,S9,Generic info / contact
-taxrise.com,clients@taxrise.com,Sx-b,Single-word local
 teachfloor.com,dmarc@teachfloor.com,Sx-c,DMARC reporting
 tealhq.com,security@tealhq.com,S2,Security
 tealhq.com,abuse@tealhq.com,S3,Abuse / trust / safety
@@ -3288,8 +2791,6 @@ techpromarketing.com,mike@techpromarketing.com,Sx-b,Single-word local
 techstars.com,help@techstars.com,S8,Support / help
 techstars.com,privacy@techstars.com,S4,Privacy / DPO / GDPR
 techtree.dev,hello@techtree.dev,S9,Generic info / contact
-techtree.dev,data@techtree.dev,Sx-b,Single-word local
-techtree.dev,laurence@techtree.dev,Sx-b,Single-word local
 tecro.dev,abuse@tecro.dev,S3,Abuse / trust / safety
 tekst.com,security@tekst.com,S2,Security
 tekst.com,abuse@tekst.com,S3,Abuse / trust / safety
@@ -3301,7 +2802,6 @@ tenderly.co,abuse@tenderly.co,S3,Abuse / trust / safety
 tenderly.co,support@tenderly.co,S8,Support / help
 termgrid.com,nagarjuna.reddy@termgrid.com,Sx-a,Real-person name
 terminal49.com,abuse@terminal49.com,S3,Abuse / trust / safety
-terminal49.com,corp@terminal49.com,Sx-b,Single-word local
 tesote.com,security@tesote.com,S2,Security
 tesote.com,abuse@tesote.com,S3,Abuse / trust / safety
 tesote.com,info@tesote.com,S9,Generic info / contact
@@ -3314,11 +2814,8 @@ texau.com,abuse@texau.com,S3,Abuse / trust / safety
 texau.com,trust@texau.com,S3,Abuse / trust / safety
 texau.com,privacy@texau.com,S4,Privacy / DPO / GDPR
 text.com,support@text.com,S8,Support / help
-text.com,investor@text.com,Sx-b,Single-word local
 textexpander.com,security@textexpander.com,S2,Security
 textexpander.com,privacy@textexpander.com,S4,Privacy / DPO / GDPR
-textexpander.com,copyright@textexpander.com,S5,Legal / compliance
-textexpander.com,legal@textexpander.com,S5,Legal / compliance
 thanks.co,abuse@thanks.co,S3,Abuse / trust / safety
 thanks.co,nicholas@thanks.co,S9,Generic info / contact
 thebridgecorp.com,abuse@thebridgecorp.com,S3,Abuse / trust / safety
@@ -3327,9 +2824,7 @@ thecontext.company,abuse@thecontext.company,S3,Abuse / trust / safety
 thecrmphd.com,abuse@thecrmphd.com,S3,Abuse / trust / safety
 thetappingsolution.com,contact@thetappingsolution.com,S9,Generic info / contact
 thetappingsolution.com,gdpr@thetappingsolution.com,S4,Privacy / DPO / GDPR
-thetappingsolution.com,feedback@thetappingsolution.com,S6,Reports / feedback
 thetoweldepot.com,abuse@thetoweldepot.com,S3,Abuse / trust / safety
-thetoweldepot.com,warehouse@thetoweldepot.com,Sx-b,Single-word local
 thewhitebox.io,abuse@thewhitebox.io,S3,Abuse / trust / safety
 thewhitebox.io,office@thewhitebox.io,S9,Generic info / contact
 thinksurance.de,support@thinksurance.de,S8,Support / help
@@ -3351,7 +2846,6 @@ tickadoo.com,abuse@tickadoo.com,S3,Abuse / trust / safety
 tickadoo.com,support@tickadoo.com,S8,Support / help
 tickadoo.com,dpo@tickadoo.com,S4,Privacy / DPO / GDPR
 tickadoo.com,privacy@tickadoo.com,S4,Privacy / DPO / GDPR
-tickadoo.com,legal@tickadoo.com,S5,Legal / compliance
 ticktick.com,abuse@ticktick.com,S3,Abuse / trust / safety
 ticktick.com,support@ticktick.com,S8,Support / help
 tigerofsweden.com,compliance@tigerofsweden.com,S4,Privacy / DPO / GDPR
@@ -3369,7 +2863,6 @@ timesheet.io,privacy@timesheet.io,S4,Privacy / DPO / GDPR
 timetackle.com,support@timetackle.com,S8,Support / help
 timetackle.com,questions@timetackle.com,S9,Generic info / contact
 timoneilassociates.com,office@timoneilassociates.com,S9,Generic info / contact
-timoneilassociates.com,bb@timoneilassociates.com,Sx-b,Single-word local
 tipranks.com,support@tipranks.com,S8,Support / help
 tldv.io,security@tldv.io,S2,Security
 tldv.io,abuse@tldv.io,S3,Abuse / trust / safety
@@ -3405,14 +2898,12 @@ transparently.ai,info@transparently.ai,S9,Generic info / contact
 travanto.de,info@travanto.de,S9,Generic info / contact
 travanto.de,datenschutz@travanto.de,S4,Privacy / DPO / GDPR
 travel-code.com,abuse@travel-code.com,S3,Abuse / trust / safety
-travel-code.com,alina@travel-code.com,Sx-b,Single-word local
 travelnest.com,security@travelnest.com,S2,Security
 travelnest.com,abuse@travelnest.com,S3,Abuse / trust / safety
 treety.co,abuse@treety.co,S3,Abuse / trust / safety
 trenchsecurity.ai,security@trenchsecurity.ai,S2,Security
 trenchsecurity.ai,abuse@trenchsecurity.ai,S3,Abuse / trust / safety
 trenchsecurity.ai,ask@trenchsecurity.ai,S9,Generic info / contact
-trenchsecurity.ai,tsft@trenchsecurity.ai,Sx-b,Single-word local
 trendata.io,abuse@trendata.io,S3,Abuse / trust / safety
 trent.ai,security@trent.ai,S2,Security
 trent.ai,customer-support@trent.ai,S8,Support / help
@@ -3427,30 +2918,22 @@ tricera.energy,info@tricera.energy,S9,Generic info / contact
 trint.com,security@trint.com,S2,Security
 trint.com,abuse@trint.com,S3,Abuse / trust / safety
 triplewhale.com,abuse@triplewhale.com,S3,Abuse / trust / safety
-triplewhale.com,maggie_h@triplewhale.com,Sx-d,Other / mixed
 truckstop.com,security@truckstop.com,S2,Security
 truckstop.com,abuse@truckstop.com,S3,Abuse / trust / safety
 truckstop.com,rmishelp@truckstop.com,S8,Support / help
 truckstop.com,support@truckstop.com,S8,Support / help
-truckstop.com,appserv@truckstop.com,Sx-b,Single-word local
-truckstop.com,emailsecgroup@truckstop.com,Sx-d,Other / mixed
 trunk.io,security@trunk.io,S2,Security
-trunk.io,policy@trunk.io,Sx-b,Single-word local
 trustgrid.io,security@trustgrid.io,S2,Security
 trustgrid.io,abuse@trustgrid.io,S3,Abuse / trust / safety
-trustgrid.io,lance@www.trustgrid.io,Sx-b,Single-word local
 tryfuse.ai,abuse@tryfuse.ai,S3,Abuse / trust / safety
 tryhungry.com,abuse@tryhungry.com,S3,Abuse / trust / safety
 tryprofound.com,security@tryprofound.com,S2,Security
 tryscott.ai,security@tryscott.ai,S2,Security
 tryscott.ai,support@tryscott.ai,S8,Support / help
 tryscott.ai,privacy@tryscott.ai,S4,Privacy / DPO / GDPR
-tryscott.ai,dmca@tryscott.ai,S5,Legal / compliance
-tryscott.ai,founders@tryscott.ai,Sx-b,Single-word local
 tryspecter.com,dmarc@tryspecter.com,Sx-c,DMARC reporting
 tuggerapp.com,dmarc@tuggerapp.com,Sx-c,DMARC reporting
 twominutereports.com,support@twominutereports.com,S8,Support / help
-twominutereports.com,vinoth@twominutereports.com,Sx-b,Single-word local
 twonas.com,abuse@twonas.com,S3,Abuse / trust / safety
 unblock.global,dmarc-reports@unblock.global,Sx-c,DMARC reporting
 uncover.co,join@uncover.co,S9,Generic info / contact
@@ -3458,15 +2941,12 @@ unei.com,hola@unei.com,S9,Generic info / contact
 unest.co,abuse@unest.co,S3,Abuse / trust / safety
 unest.co,support@unest.co,S8,Support / help
 unest.co,info@unest.co,S9,Generic info / contact
-unest.co,affiliates@unest.co,Sx-b,Single-word local
 unifiqueinvest.com.br,dpo@unifiqueinvest.com.br,S4,Privacy / DPO / GDPR
-unifiqueinvest.com.br,contato@unifiqueinvest.com.br,Sx-b,Single-word local
 unify-technologies.com,security@unify-technologies.com,S2,Security
 unify-technologies.com,support@unify-technologies.com,S8,Support / help
 uniqode.com,abuse@uniqode.com,S3,Abuse / trust / safety
 uniqode.com,hello@uniqode.com,S9,Generic info / contact
 uniqode.com,privacy@uniqode.com,S4,Privacy / DPO / GDPR
-uniqode.com,legal@uniqode.com,S5,Legal / compliance
 unitic.co,abuse@unitic.co,S3,Abuse / trust / safety
 unknowncyber.com,support@unknowncyber.com,S8,Support / help
 unleash.so,security@unleash.so,S2,Security
@@ -3480,8 +2960,6 @@ upgraide.ai,privacy@upgraide.ai,S4,Privacy / DPO / GDPR
 upsales.com,info@upsales.com,S9,Generic info / contact
 upsolve.ai,dmarcreports@upsolve.ai,Sx-c,DMARC reporting
 upstox.com,support@upstox.com,S8,Support / help
-upstox.com,compliance@upstox.com,S5,Legal / compliance
-upstox.com,complaints@upstox.com,Sx-b,Single-word local
 upsun.com,security@upsun.com,S2,Security
 uptimerobot.com,abuse@uptimerobot.com,S3,Abuse / trust / safety
 uptimerobot.com,support@uptimerobot.com,S8,Support / help
@@ -3493,10 +2971,8 @@ usbooths.com,tech@usbooths.com,Sx-b,Single-word local
 useanvil.com,abuse@useanvil.com,S3,Abuse / trust / safety
 useanvil.com,hello@useanvil.com,S9,Generic info / contact
 usebear.ai,abuse@usebear.ai,S3,Abuse / trust / safety
-usebear.ai,janak@usebear.ai,Sx-b,Single-word local
 userback.io,abuse@userback.io,S3,Abuse / trust / safety
 userback.io,contact@userback.io,S9,Generic info / contact
-userback.io,lee@userback.io,Sx-b,Single-word local
 userbrain.com,support@userbrain.com,S8,Support / help
 userguiding.com,security@userguiding.com,S2,Security
 userguiding.com,abuse@userguiding.com,S3,Abuse / trust / safety
@@ -3510,12 +2986,10 @@ valid.co,diegoiturralde@valid.co,S9,Generic info / contact
 vallor.ai,abuse@vallor.ai,S3,Abuse / trust / safety
 valuein.biz,support@valuein.biz,S8,Support / help
 valuein.biz,hello@valuein.biz,S9,Generic info / contact
-valuein.biz,legal@valuein.biz,S5,Legal / compliance
 vanna.ai,abuse@vanna.ai,S3,Abuse / trust / safety
 vanna.ai,support@vanna.ai,S8,Support / help
 vanta.com,security@vanta.com,S2,Security
 vanta.com,privacy@vanta.com,S4,Privacy / DPO / GDPR
-vanta.com,legal@vanta.com,S5,Legal / compliance
 vantage.sh,security@vantage.sh,S2,Security
 vantage.sh,abuse@vantage.sh,S3,Abuse / trust / safety
 varden.se,abuse@varden.se,S3,Abuse / trust / safety
@@ -3525,13 +2999,10 @@ vblh.de,info@vblh.de,S9,Generic info / contact
 vector.co,security@vector.co,S2,Security
 vector.co,abuse@vector.co,S3,Abuse / trust / safety
 vector.co,support@vector.co,S8,Support / help
-vector.co,nick@vector.co,Sx-b,Single-word local
 veeam.com,security@veeam.com,S2,Security
 vela.partners,engage@vela.partners,Sx-b,Single-word local
 velocity-x.co,dmarc@velocity-x.co,Sx-c,DMARC reporting
 vendon.net,abuse@vendon.net,S3,Abuse / trust / safety
-vendon.net,ids@vendon.net,Sx-b,Single-word local
-vendon.net,vendon@vendon.net,Sx-b,Single-word local
 versi.com.br,abuse@versi.com.br,S3,Abuse / trust / safety
 verzel.com.br,ti@verzel.com.br,Sx-b,Single-word local
 vessel.co,security@vessel.co,S2,Security
@@ -3543,12 +3014,7 @@ veylan.com,security@veylan.com,S2,Security
 veylan.com,abuse@veylan.com,S3,Abuse / trust / safety
 viasocket.com,support@viasocket.com,S8,Support / help
 viasocket.com,deadpool@viasocket.com,S4,Privacy / DPO / GDPR
-viasocket.com,priyvardhan@viasocket.com,S10,Sales / marketing / press
-viasocket.com,goku@viasocket.com,Sx-b,Single-word local
-viasocket.com,karma@viasocket.com,Sx-b,Single-word local
-viasocket.com,plugs@viasocket.com,Sx-b,Single-word local
 vico.io,abuse@vico.io,S3,Abuse / trust / safety
-vico.io,inquire@vico.io,Sx-b,Single-word local
 vidapp.com,success@vidapp.com,Sx-b,Single-word local
 vidiq.com,security@vidiq.com,S2,Security
 vidiq.com,abuse@vidiq.com,S3,Abuse / trust / safety
@@ -3557,9 +3023,7 @@ vidmob.com,security@vidmob.com,S2,Security
 vidmob.com,abuse@vidmob.com,S3,Abuse / trust / safety
 vidmob.com,support@vidmob.com,S8,Support / help
 vidmob.com,arbitrationoptout@vidmob.com,S4,Privacy / DPO / GDPR
-vidmob.com,legal@vidmob.com,S5,Legal / compliance
 vigilatevision.com,abuse@vigilatevision.com,S3,Abuse / trust / safety
-vigilatevision.com,web@vigilatevision.com,Sx-b,Single-word local
 vimigo.io,postmaster@vimigo.io,S7,Admin / postmaster
 violetlabs.com,abuse@violetlabs.com,S3,Abuse / trust / safety
 viomba.com,security@viomba.com,S2,Security
@@ -3571,14 +3035,10 @@ visarun.ai,abuse@visarun.ai,S3,Abuse / trust / safety
 viscosoft.com,abuse@viscosoft.com,S3,Abuse / trust / safety
 viscosoft.com,support@viscosoft.com,S8,Support / help
 visiblie.com,support@visiblie.com,S8,Support / help
-visiblie.com,domien@visiblie.com,Sx-b,Single-word local
-visiblie.com,gilles@visiblie.com,Sx-b,Single-word local
-visiblie.com,raju@visiblie.com,Sx-b,Single-word local
 visitingmedia.com,security@visitingmedia.com,S2,Security
 visitingmedia.com,abuse@visitingmedia.com,S3,Abuse / trust / safety
 visitingmedia.com,support@visitingmedia.com,S8,Support / help
 visitingmedia.com,hello@visitingmedia.com,S9,Generic info / contact
-visitingmedia.com,communication@visitingmedia.com,Sx-d,Other / mixed
 visitiq.io,support@visitiq.io,S8,Support / help
 visitly.io,security@visitly.io,S2,Security
 visitly.io,abuse@visitly.io,S3,Abuse / trust / safety
@@ -3591,15 +3051,12 @@ volta.ai,abuse@volta.ai,S3,Abuse / trust / safety
 volta.ai,support@volta.ai,S8,Support / help
 vondera.app,abuse@vondera.app,S3,Abuse / trust / safety
 vondera.app,info@vondera.app,S9,Generic info / contact
-vondera.app,shreef@vondera.app,Sx-b,Single-word local
-vondera.app,store@vondera.app,Sx-b,Single-word local
 vori.com,abuse@vori.com,S3,Abuse / trust / safety
 vori.com,privacy@vori.com,S4,Privacy / DPO / GDPR
 wafflepos.com,abuse@wafflepos.com,S3,Abuse / trust / safety
 waldo.fyi,security@waldo.fyi,S2,Security
 waldo.fyi,abuse@waldo.fyi,S3,Abuse / trust / safety
 walead.ai,abuse@walead.ai,S3,Abuse / trust / safety
-walead.ai,wamarir@walead.ai,Sx-b,Single-word local
 warmlyyours.com,social@warmlyyours.com,S1,PSIRT / CERT / SOC
 warmlyyours.com,info@warmlyyours.com,S9,Generic info / contact
 wasabil.com,soporte@wasabil.com,S9,Generic info / contact
@@ -3617,22 +3074,16 @@ weblisters.com,support@weblisters.com,S8,Support / help
 webucator.com,isunkes@webucator.com,Sx-b,Single-word local
 wecover.co,abuse@wecover.co,S3,Abuse / trust / safety
 weni.ai,abuse@weni.ai,S3,Abuse / trust / safety
-weni.ai,seguranca@weni.ai,Sx-b,Single-word local
 wewood.eu,info@wewood.eu,S9,Generic info / contact
-wewood.eu,lisboa@wewood.eu,Sx-b,Single-word local
-wewood.eu,communication@wewood.eu,Sx-d,Other / mixed
 whaller.com,security@whaller.com,S2,Security
 whaller.com,abuse@whaller.com,S3,Abuse / trust / safety
 whaller.com,contact@whaller.com,S9,Generic info / contact
 wheelocity.com,abuse@wheelocity.com,S3,Abuse / trust / safety
-wheelocity.com,share@wheelocity.com,Sx-b,Single-word local
 wheeltheworld.com,abuse@wheeltheworld.com,S3,Abuse / trust / safety
-wheeltheworld.com,emma@wheeltheworld.com,Sx-b,Single-word local
 whimsical.com,security@whimsical.com,S2,Security
 whimsical.com,abuse@whimsical.com,S3,Abuse / trust / safety
 whimsical.com,help@whimsical.com,S8,Support / help
 whimsical.com,privacy@whimsical.com,S4,Privacy / DPO / GDPR
-whimsical.com,copyright@whimsical.com,S5,Legal / compliance
 whisper.security,security@whisper.security,S2,Security
 whistic.com,security@whistic.com,S2,Security
 whistic.com,abuse@whistic.com,S3,Abuse / trust / safety
@@ -3643,10 +3094,7 @@ wholesome.co,help@wholesome.co,S8,Support / help
 whop.com,support@whop.com,S8,Support / help
 wikifarmer.com,abuse@wikifarmer.com,S3,Abuse / trust / safety
 wikifarmer.com,career@wikifarmer.com,S8,Support / help
-wikifarmer.com,commercial@wikifarmer.com,Sx-b,Single-word local
-wikifarmer.com,library@wikifarmer.com,Sx-b,Single-word local
 windsor.ai,hello@windsor.ai,S9,Generic info / contact
-windsor.ai,jakub@windsor.ai,Sx-b,Single-word local
 wisepops.com,security@wisepops.com,S2,Security
 wisepops.com,abuse@wisepops.com,S3,Abuse / trust / safety
 withlanai.com,security@withlanai.com,S2,Security
@@ -3660,16 +3108,12 @@ wiza.co,hello@wiza.co,S9,Generic info / contact
 wodify.com,security@wodify.com,S2,Security
 wodify.com,abuse@wodify.com,S3,Abuse / trust / safety
 wodify.com,support@wodify.com,S8,Support / help
-wodify.com,legal@wodify.com,S5,Legal / compliance
-wodify.com,infrastructure@wodify.com,Sx-d,Other / mixed
 wokelo.ai,support@wokelo.ai,S8,Support / help
-wokelo.ai,no-reply@wokelo.ai,Sx-a,Real-person name
 wonderway.io,security@wonderway.io,S2,Security
 wonderway.io,abuse@wonderway.io,S3,Abuse / trust / safety
 wonderway.io,info@wonderway.io,S9,Generic info / contact
 woowup.com,security@woowup.com,S2,Security
 woowup.com,abuse@woowup.com,S3,Abuse / trust / safety
-woowup.com,ayuda@woowup.com,Sx-b,Single-word local
 wordlift.io,marketing@wordlift.io,S10,Sales / marketing / press
 workflowmax.com,security@workflowmax.com,S2,Security
 workflowmax.com,support@workflowmax.com,S8,Support / help
@@ -3696,34 +3140,24 @@ ycharts.com,abuse@ycharts.com,S3,Abuse / trust / safety
 yespo.io,abuse@yespo.io,S3,Abuse / trust / safety
 yespo.io,info@yespo.io,S9,Generic info / contact
 yinzcam.com,rgandhi@yinzcam.com,S9,Generic info / contact
-yinzcam.com,nathan@yinzcam.com,Sx-b,Single-word local
 yonderhq.com,abuse@yonderhq.com,S3,Abuse / trust / safety
 yourcounterpart.com,security@yourcounterpart.com,S2,Security
 yourcounterpart.com,abuse@yourcounterpart.com,S3,Abuse / trust / safety
 yourcounterpart.com,support@yourcounterpart.com,S8,Support / help
-yourcounterpart.com,compliance@yourcounterpart.com,S5,Legal / compliance
 ypulse.com,abuse@ypulse.com,S3,Abuse / trust / safety
-ypulse.com,legal@ypulse.com,S5,Legal / compliance
-ypulse.com,maryleigh@ypulse.com,Sx-b,Single-word local
-ypulse.com,michael@ypulse.com,Sx-b,Single-word local
-ypulse.com,oliver@ypulse.com,Sx-b,Single-word local
 yuzedata.com,security@yuzedata.com,S2,Security
 zapal.tech,abuse@zapal.tech,S3,Abuse / trust / safety
 zapal.tech,hello@zapal.tech,S9,Generic info / contact
 zapper.xyz,abuse@zapper.xyz,S3,Abuse / trust / safety
 zaprinta.com,abuse@zaprinta.com,S3,Abuse / trust / safety
-zaprinta.com,commercial@zaprinta.com,Sx-b,Single-word local
 zapsign.co,abuse@zapsign.co,S3,Abuse / trust / safety
-zapsign.co,ola@zapsign.co,Sx-b,Single-word local
 zapsign.com.br,security@zapsign.com.br,S2,Security
 zapsign.com.br,abuse@zapsign.com.br,S3,Abuse / trust / safety
 zapsign.com.br,support@zapsign.com.br,S8,Support / help
 zaslat.cz,info@zaslat.cz,S9,Generic info / contact
-zaslat.cz,reklamace@zaslat.cz,Sx-b,Single-word local
 zautre.com,abuse@zautre.com,S3,Abuse / trust / safety
 zautre.com,office@zautre.com,S9,Generic info / contact
 zautre.com,privacy@zautre.com,S4,Privacy / DPO / GDPR
-zautre.com,dimitar@zautre.com,Sx-b,Single-word local
 zed.co,security@zed.co,S2,Security
 zed.co,abuse@zed.co,S3,Abuse / trust / safety
 zefram.com,abuse@zefram.com,S3,Abuse / trust / safety
@@ -3732,25 +3166,20 @@ zenrows.com,security@zenrows.com,S2,Security
 zenrows.com,abuse@zenrows.com,S3,Abuse / trust / safety
 zentronlabs.com,abuse@zentronlabs.com,S3,Abuse / trust / safety
 zentronlabs.com,info@zentronlabs.com,S9,Generic info / contact
-zentronlabs.com,itadmin@zentronlabs.com,Sx-b,Single-word local
 zeroe.io,privacy@zeroe.io,S4,Privacy / DPO / GDPR
 zerohiring.com,abuse@zerohiring.com,S3,Abuse / trust / safety
 zerohiring.com,hello@zerohiring.com,S9,Generic info / contact
-zerohiring.com,legal@zerohiring.com,S5,Legal / compliance
 zesty.ai,security@zesty.ai,S2,Security
 zesty.ai,abuse@zesty.ai,S3,Abuse / trust / safety
 zigpoll.com,support@zigpoll.com,S8,Support / help
 zillow.com,security@zillow.com,S2,Security
 zillow.com,abuse@zillow.com,S3,Abuse / trust / safety
-zillow.com,domains@zillow.com,Sx-b,Single-word local
 zite.com,security@zite.com,S2,Security
 zite.com,abuse@zite.com,S3,Abuse / trust / safety
 zite.com,support@zite.com,S8,Support / help
 zite.com,privacy@zite.com,S4,Privacy / DPO / GDPR
 zocks.io,abuse@zocks.io,S3,Abuse / trust / safety
-zocks.io,rua@zocks.io,Sx-b,Single-word local
 zoominfo.com,security@zoominfo.com,S2,Security
-zoominfo.com,dmca@zoominfo.com,S5,Legal / compliance
 zoviz.com,security@zoviz.com,S2,Security
 zoviz.com,abuse@zoviz.com,S3,Abuse / trust / safety
 ztex.co,security@ztex.co,S2,Security
