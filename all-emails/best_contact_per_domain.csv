@@ -124,7 +124,7 @@ armature.tech,founders@armature.tech,Sx-b,Single-word local
 aroya.io,support@aroya.io,S8,Support / help
 arta.ch,info@arta.ch,S9,Generic info / contact
 artblocks.io,security@artblocks.io,S2,Security
-artemis.ai,team@artemis.xyz,Sx-a,Real-person name
+artemis.ai,info@artemis.ai,S9,Generic info / contact
 arternal.com,abuse@arternal.com,S3,Abuse / trust / safety
 articulate.com,security-disclosure@articulate.com,S0,Bug bounty / VDP
 asana.com,security@asana.com,S2,Security
@@ -378,7 +378,7 @@ curate.co,support@curate.co,S8,Support / help
 curemedia.com,security@curemedia.com,S2,Security
 curri.com,security@curri.com,S2,Security
 cushingterrell.com,info@cushingterrell.com,S9,Generic info / contact
-customer.io,ctf@customer.io,S0,Bug bounty / VDP
+customer.io,legal@customer.io,S5,Legal / compliance
 customerscore.io,abuse@customerscore.io,S3,Abuse / trust / safety
 customily.com,abuse@customily.com,S3,Abuse / trust / safety
 cuure.com,abuse@cuure.com,S3,Abuse / trust / safety
@@ -417,7 +417,7 @@ deepidv.com,abuse@deepidv.com,S3,Abuse / trust / safety
 deeploy.ai,security@deeploy.ai,S2,Security
 demola.net,info@demola.net,S9,Generic info / contact
 demostack.com,security@demostack.com,S2,Security
-descope.com,devops+dmarc@descope.com,Sx-c,DMARC reporting
+descope.com,security@descope.com,S2,Security
 deskfirst.com,data@deskfirst.com,Sx-b,Single-word local
 detrack.com,security@detrack.com,S2,Security
 detrics.io,abuse@detrics.io,S3,Abuse / trust / safety
@@ -519,7 +519,7 @@ facilio.com,security@facilio.com,S2,Security
 factori.ai,partners@factori.ai,S10,Sales / marketing / press
 factset.com,psirt@factset.com,S1,PSIRT / CERT / SOC
 fairly.com,security@fairly.com,S2,Security
-fal.ai,security@fal.ai,S2,Security
+fal.ai,safety@fal.ai,S2,Security
 falconfeeds.io,support@falconfeeds.io,S8,Support / help
 familux.com,dataprivacy@familux.com,S4,Privacy / DPO / GDPR
 fanalists.com,info@fanalists.com,S9,Generic info / contact
@@ -603,7 +603,7 @@ gcaa.gov.ae,cyber@gcaa.gov.ae,S2,Security
 gcit.com.au,support@gcit.com.au,S8,Support / help
 gdicwins.com,info@gdicwins.com,S9,Generic info / contact
 geekbot.com,security@geekbot.com,S2,Security
-gem.com,support@gem.com,S8,Support / help
+gem.com,security@gem.com,S2,Security
 genei.es,dmarc.rua@genei.es,Sx-c,DMARC reporting
 general.legal,abuse@general.legal,S3,Abuse / trust / safety
 generect.com,info@generect.com,S9,Generic info / contact
@@ -1136,7 +1136,7 @@ oxit.com,contact@oxit.com,S9,Generic info / contact
 pacelabs.com,security@pacelabs.com,S2,Security
 packman.ai,help@packman.ai,S8,Support / help
 padlet.com,hello@padlet.com,S9,Generic info / contact
-pagerduty.com,security@pagerduty.com,S2,Security
+pagerduty.com,ssl-tls-certificates-caa-iodef-report.r4785y6f@pdt-circular.pagerduty.com,S1,PSIRT / CERT / SOC
 pagos.ai,security@pagos.ai,S2,Security
 pandadoc.com,security@pandadoc.com,S2,Security
 papermill.io,dmarc-reports@papermill.io,Sx-c,DMARC reporting
@@ -1272,7 +1272,7 @@ rapidflare.ai,abuse@rapidflare.ai,S3,Abuse / trust / safety
 rapido.co.nz,support@rapido.co.nz,S8,Support / help
 raylu.ai,abuse@raylu.ai,S3,Abuse / trust / safety
 rayyan.ai,support@rayyan.ai,S8,Support / help
-razorpay.com,security@razorpay.com,S2,Security
+razorpay.com,disclosures@razorpay.com,S0,Bug bounty / VDP
 realtimelca.com,support@realtimelca.com,S8,Support / help
 reap.global,support@reap.global,S8,Support / help
 rebike.com,webmaster@rebike.com,S7,Admin / postmaster
@@ -1280,7 +1280,7 @@ receiptor.ai,abuse@receiptor.ai,S3,Abuse / trust / safety
 reclaim.ai,infosec@reclaim.ai,S1,PSIRT / CERT / SOC
 recordedfuture.com,security@recordedfuture.com,S2,Security
 recruitu.com,abuse@recruitu.com,S3,Abuse / trust / safety
-recurly.com,security@recurly.com,S2,Security
+recurly.com,security-support@recurly.com,S1,PSIRT / CERT / SOC
 redbuttonedu.cz,info@redbuttonedu.cz,S9,Generic info / contact
 reeporter.ai,dmarc-reports@reeporter.ai,Sx-c,DMARC reporting
 reevo.ai,security@reevo.ai,S2,Security
@@ -1310,7 +1310,7 @@ richpanel.com,security@richpanel.com,S2,Security
 ringotel.com,support@ringotel.com,S8,Support / help
 risepeople.com,security@risepeople.com,S2,Security
 rivio.com.br,abuse@rivio.com.br,S3,Abuse / trust / safety
-roboflow.com,help@roboflow.com,S8,Support / help
+roboflow.com,security@roboflow.com,S2,Security
 rocketlane.com,security@rocketlane.com,S2,Security
 rockhopper.co,abuse@rockhopper.co,S3,Abuse / trust / safety
 roihunter.com,info@roihunter.com,S9,Generic info / contact
@@ -1715,7 +1715,7 @@ wafflepos.com,abuse@wafflepos.com,S3,Abuse / trust / safety
 waldo.fyi,security@waldo.fyi,S2,Security
 walead.ai,abuse@walead.ai,S3,Abuse / trust / safety
 warmlyyours.com,social@warmlyyours.com,S1,PSIRT / CERT / SOC
-wasabil.com,soporte@wasabil.com,S9,Generic info / contact
+wasabil.com,hola@wasabil.com,S9,Generic info / contact
 watchr.ai,contact@watchr.ai,S9,Generic info / contact
 waterplan.com,security@waterplan.com,S2,Security
 we-wealth.com,dmarc_report@we-wealth.com,Sx-c,DMARC reporting
